@@ -1,0 +1,263 @@
+{
+  "properties": {
+    "path": "operators/man_made/mast",
+    "skipCollection": true,
+    "exclude": {"generic": ["^mast"]}
+  },
+  "items": [
+    {
+      "displayName": "Airwave",
+      "id": "airwave-556014",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "man_made": "mast",
+        "operator": "Airwave",
+        "operator:wikidata": "Q4699058",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Arqiva",
+      "id": "arqiva-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["arquiva", "ntl"],
+      "tags": {
+        "man_made": "mast",
+        "operator": "Arqiva",
+        "operator:wikidata": "Q4795774",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "BPD Light Tower",
+      "id": "baltimorepolicedepartment-4e6285",
+      "locationSet": {
+        "include": ["baltimore.geojson"]
+      },
+      "tags": {
+        "man_made": "mast",
+        "operator": "Baltimore Police Department",
+        "operator:short": "BPD",
+        "operator:wikidata": "Q2881660",
+        "tower:construction": "freestanding",
+        "tower:type": "lighting"
+      }
+    },
+    {
+      "displayName": "CTIL",
+      "id": "cornerstonetelecommunicationsinfrastructurelimited-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["cornerstone"],
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Cornerstone Telecommunications Infrastructure Limited",
+        "operator:short": "CTIL",
+        "operator:wikidata": "Q60993796",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "EE",
+      "id": "ee-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "everything everywhere",
+        "orange",
+        "t-mobile"
+      ],
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "EE",
+        "operator:wikidata": "Q5322942",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "MBNL",
+      "id": "mobilebroadbandnetworklimited-556014",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Mobile Broadband Network Limited",
+        "operator:short": "MBNL",
+        "operator:wikidata": "Q116251739",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "MTN",
+      "id": "mtn-a5a5e8",
+      "locationSet": {
+        "include": [
+          "af",
+          "bj",
+          "bw",
+          "cg",
+          "ci",
+          "cm",
+          "gn",
+          "gw",
+          "ir",
+          "lr",
+          "ni",
+          "rw",
+          "sd",
+          "ss",
+          "sy",
+          "ug",
+          "ye",
+          "za",
+          "zm"
+        ]
+      },
+      "matchNames": ["agence mtn"],
+      "tags": {
+        "man_made": "mast",
+        "operator": "MTN",
+        "operator:wikidata": "Q1813361",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "National Air Traffic Services",
+      "id": "nationalairtrafficservices-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["nats"],
+      "tags": {
+        "man_made": "mast",
+        "operator": "National Air Traffic Services",
+        "operator:wikidata": "Q3307163"
+      }
+    },
+    {
+      "displayName": "Network Rail",
+      "id": "networkrail-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "network rail infrastructure limited"
+      ],
+      "tags": {
+        "man_made": "mast",
+        "operator": "Network Rail",
+        "operator:wikidata": "Q1501071",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "O2",
+      "id": "o2-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "02",
+        "cellnet",
+        "o₂",
+        "telefónica"
+      ],
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "O2",
+        "operator:wikidata": "Q7072245",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Orange",
+      "id": "orange-6ada36",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Sentech",
+      "id": "sentech-602a68",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "man_made": "mast",
+        "operator": "Sentech",
+        "operator:wikidata": "Q7451187",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Telekom",
+      "id": "telekom-488966",
+      "locationSet": {
+        "include": ["de", "hu", "ro", "si", "sk"]
+      },
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Telekom",
+        "operator:wikidata": "Q9396",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Telkom",
+      "id": "telkom-602a68",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "man_made": "mast",
+        "operator": "Telkom",
+        "operator:wikidata": "Q1818970",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Three",
+      "id": "three-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["3", "hutchinson 3g"],
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Three",
+        "operator:wikidata": "Q19840922",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Vodacom",
+      "id": "vodacom-02eecb",
+      "locationSet": {
+        "include": [
+          "cd",
+          "et",
+          "ke",
+          "ls",
+          "mz",
+          "tz",
+          "za"
+        ]
+      },
+      "tags": {
+        "man_made": "mast",
+        "operator": "Vodacom",
+        "operator:wikidata": "Q1856518",
+        "tower:type": "communication"
+      }
+    },
+    {
+      "displayName": "Vodafone",
+      "id": "vodafone-556014",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["vodaphone"],
+      "tags": {
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Vodafone",
+        "operator:wikidata": "Q122141",
+        "tower:type": "communication"
+      }
+    }
+  ]
+}

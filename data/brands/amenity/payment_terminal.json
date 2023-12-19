@@ -1,0 +1,547 @@
+{
+  "properties": {
+    "path": "brands/amenity/payment_terminal",
+    "exclude": {"generic": ["^payment terminal$"]}
+  },
+  "items": [
+    {
+      "displayName": "BMV Connect",
+      "id": "bmvconnect-7d199e",
+      "locationSet": {
+        "include": ["us-in.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "BMV Connect",
+        "brand:wikidata": "Q115413393",
+        "name": "BMV Connect",
+        "operator": "Indiana Beareau of Motor Vehicles",
+        "operator:wikidata": "Q115413422"
+      }
+    },
+    {
+      "displayName": "BottleDrop",
+      "id": "bottledrop-530181",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "note": "For partner retailers that don't offer the 20% incentive",
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "BottleDrop",
+        "brand:wikidata": "Q107673127",
+        "name": "BottleDrop"
+      }
+    },
+    {
+      "displayName": "BottleDrop Plus",
+      "id": "bottledropplus-530181",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "note": "For partner retailers that offer the 20% incentiv",
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "BottleDrop",
+        "brand:wikidata": "Q107673127",
+        "name": "BottleDrop Plus"
+      }
+    },
+    {
+      "displayName": "Cashterminal",
+      "id": "cashterminal-f7157a",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Cashterminal",
+        "brand:wikidata": "Q115668697",
+        "name": "Cashterminal"
+      }
+    },
+    {
+      "displayName": "City24",
+      "id": "city24-73846e",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["ibox"],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "City24",
+        "brand:wikidata": "Q121073989",
+        "name": "City24"
+      }
+    },
+    {
+      "displayName": "Coinstar",
+      "id": "coinstar-8dd7cb",
+      "locationSet": {
+        "include": [
+          "ca",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "ie",
+          "it",
+          "jp",
+          "us"
+        ]
+      },
+      "matchTags": [
+        "amenity/atm",
+        "amenity/vending_machine"
+      ],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Coinstar",
+        "brand:wikidata": "Q5141641",
+        "name": "Coinstar"
+      }
+    },
+    {
+      "displayName": "Colorado MV Express",
+      "id": "coloradomvexpress-68f4fc",
+      "locationSet": {
+        "include": ["us-co.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Colorado MV Express",
+        "brand:wikidata": "Q110265726",
+        "name": "Colorado MV Express",
+        "operator": "Colorado Division of Motor Vehicles",
+        "operator:wikidata": "Q115412989"
+      }
+    },
+    {
+      "displayName": "DMV Now",
+      "id": "dmvnow-c1357b",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "DMV Now",
+        "brand:wikidata": "Q109370939",
+        "name": "DMV Now",
+        "operator": "California Department of Motor Vehicles",
+        "operator:wikidata": "Q5020431"
+      }
+    },
+    {
+      "displayName": "Easy Pay Armenia",
+      "id": "easypay-15d44b",
+      "locationSet": {"include": ["am"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Իզի Փեյ",
+        "brand:en": "Easy Pay",
+        "brand:hy": "Իզի Փեյ",
+        "brand:ru": "Изи Пей",
+        "brand:wikidata": "Q117840019",
+        "name": "Իզի Փեյ",
+        "name:en": "Easy Pay",
+        "name:hy": "Իզի Փեյ",
+        "name:ru": "Изи Пей"
+      }
+    },
+    {
+      "displayName": "EasyPay (Україна)",
+      "id": "easypay-73846e",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "EasyPay",
+        "brand:wikidata": "Q4037884",
+        "name": "EasyPay"
+      }
+    },
+    {
+      "displayName": "EZ-TAB",
+      "id": "eztab-4d36cf",
+      "locationSet": {
+        "include": ["us-wi.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "EZ-TAB",
+        "brand:wikidata": "Q110265731",
+        "name": "EZ-TAB",
+        "operator": "Wisconsin Division of Motor Vehicles",
+        "operator:wikidata": "Q115413096"
+      }
+    },
+    {
+      "displayName": "Fast Shift",
+      "id": "fastshift-15d44b",
+      "locationSet": {"include": ["am"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Ֆասթ Շիֆթ",
+        "brand:en": "Fast Shift",
+        "brand:hy": "Ֆասթ Շիֆթ",
+        "brand:ru": "Фаст Шифт",
+        "brand:wikidata": "Q118289125",
+        "name": "Ֆասթ Շիֆթ",
+        "name:en": "Fast Shift",
+        "name:hy": "Ֆասթ Շիֆթ",
+        "name:ru": "Фаст Шифт"
+      }
+    },
+    {
+      "displayName": "Florida MV Express",
+      "id": "floridamvexpress-d0eb4d",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Florida MV Express",
+        "brand:wikidata": "Q110265714",
+        "name": "Florida MV Express",
+        "operator": "Florida Department of Highway Safety and Motor Vehicles",
+        "operator:short": "FLHSMV",
+        "operator:wikidata": "Q5461320"
+      }
+    },
+    {
+      "displayName": "Georgia MV Express",
+      "id": "georgiamvexpress-9253ed",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Georgia MV Express",
+        "brand:wikidata": "Q115413364",
+        "name": "Georgia MV Express",
+        "operator": "Georgia Department of Revenue",
+        "operator:wikidata": "Q5547457"
+      }
+    },
+    {
+      "displayName": "Hawaii DMV Now",
+      "id": "hawaiidmvnow-54c279",
+      "locationSet": {"include": ["us-hi"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Hawaii DMV Now",
+        "brand:wikidata": "Q110265704",
+        "name": "Hawaii DMV Now"
+      }
+    },
+    {
+      "displayName": "Idram",
+      "id": "idram-15d44b",
+      "locationSet": {"include": ["am"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Իդրամ",
+        "brand:en": "Idram",
+        "brand:hy": "Իդրամ",
+        "brand:ru": "Идрам",
+        "brand:wikidata": "Q13052991",
+        "name": "Իդրամ",
+        "name:en": "Idram",
+        "name:hy": "Իդրամ",
+        "name:ru": "Идрам"
+      }
+    },
+    {
+      "displayName": "krasplat",
+      "id": "krasplat-e1a7cd",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "krasplat",
+        "name": "krasplat"
+      }
+    },
+    {
+      "displayName": "Michigan Self-Service Station",
+      "id": "michiganselfservicestation-586b38",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Michigan Self-Service Station",
+        "brand:wikidata": "Q110265731",
+        "name": "Michigan Self-Service Station",
+        "operator": "Michigan Secretary of State",
+        "operator:wikidata": "Q16147324"
+      }
+    },
+    {
+      "displayName": "Nevada DMV Now",
+      "id": "nevadadmvnow-c49a2f",
+      "locationSet": {
+        "include": ["us-nv.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Nevada DMV Now",
+        "brand:wikidata": "Q110265699",
+        "name": "Nevada DMV Now",
+        "operator": "Nevada Department of Motor Vehicles",
+        "operator:wikidata": "Q16920922"
+      }
+    },
+    {
+      "displayName": "New Mexico MVD Direct",
+      "id": "newmexicomvddirect-832682",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "New Mexico MVD Direct",
+        "brand:wikidata": "Q115413442",
+        "name": "New Mexico MVD Direct",
+        "operator": "New Mexico Motor Vehicle Division",
+        "operator:wikidata": "Q16982577"
+      }
+    },
+    {
+      "displayName": "New York State DMV Now",
+      "id": "newyorkstatedmvnow-c66e41",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "New York State DMV Now",
+        "brand:wikidata": "Q115413364",
+        "name": "New York State DMV Now",
+        "operator": "New York State Department of Motor Vehicles",
+        "operator:wikidata": "Q17109616"
+      }
+    },
+    {
+      "displayName": "North Dakota MV Express",
+      "id": "northdakotamvexpress-9253ed",
+      "locationSet": {
+        "include": ["us-ga.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "North Dakota MV Express",
+        "brand:wikidata": "Q115417027",
+        "name": "North Dakota MV Express",
+        "operator": "North Dakota Department of Transportation",
+        "operator:short": "NDDOT",
+        "operator:wikidata": "Q5569030"
+      }
+    },
+    {
+      "displayName": "Ohio BMV Express",
+      "id": "ohiobmvexpress-0e03d5",
+      "locationSet": {
+        "include": ["us-oh.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Ohio BMV Express",
+        "brand:wikidata": "Q115417055",
+        "name": "Ohio BMV Express",
+        "operator": "Ohio Beareau of Motor Vehicles",
+        "operator:wikidata": "Q74329867"
+      }
+    },
+    {
+      "displayName": "OTP Bank (Україна)",
+      "id": "otpbank-73846e",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["otp", "отп"],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "OTP Bank",
+        "brand:en": "OTP Bank",
+        "brand:uk": "ОТП Банк",
+        "brand:wikidata": "Q16688676",
+        "name": "OTP Bank",
+        "name:en": "OTP Bank",
+        "name:uk": "ОТП Банк"
+      }
+    },
+    {
+      "displayName": "Qiwi",
+      "id": "qiwi-e1a7cd",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Qiwi",
+        "brand:wikidata": "Q4047736",
+        "name": "Qiwi"
+      }
+    },
+    {
+      "displayName": "South Dakota DMV Now",
+      "id": "southdakotadmvnow-662cce",
+      "locationSet": {
+        "include": ["us-sd.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "South Dakota DMV Now",
+        "brand:wikidata": "Q115417103",
+        "name": "South Dakota DMV Now",
+        "operator": "South Dakota Motor Vehicle Division"
+      }
+    },
+    {
+      "displayName": "Telcell Armenia",
+      "id": "telcell-15d44b",
+      "locationSet": {"include": ["am"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "ԹելՍել",
+        "brand:en": "Telcell",
+        "brand:hy": "ԹելՍել",
+        "brand:ru": "Телселл",
+        "brand:wikidata": "Q117840236",
+        "name": "ԹելՍել",
+        "name:en": "Telcell",
+        "name:hy": "ԹելՍել",
+        "name:ru": "Телселл"
+      }
+    },
+    {
+      "displayName": "Ukrsibbank",
+      "id": "ukrsibbank-73846e",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["bnp paribas"],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Ukrsibbank",
+        "brand:en": "Ukrsibbank",
+        "brand:uk": "УкрСиббанк",
+        "brand:wikidata": "Q1976290",
+        "name": "Ukrsibbank",
+        "name:en": "Ukrsibbank",
+        "name:uk": "УкрСиббанк"
+      }
+    },
+    {
+      "displayName": "West Virginia DMV Now",
+      "id": "westvirginiadmvnow-80179e",
+      "locationSet": {
+        "include": ["us-wv.geojson"]
+      },
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "West Virginia DMV Now",
+        "brand:wikidata": "Q115417103",
+        "name": "West Virginia DMV Now",
+        "operator": "West Virginia Division Motor Vehicles",
+        "operator:wikidata": "Q115417228"
+      }
+    },
+    {
+      "displayName": "Ак Барс Банк",
+      "id": "6f78aa-e97c8f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Ак Барс Банк",
+        "name": "Ак Барс Банк"
+      }
+    },
+    {
+      "displayName": "Ощадбанк",
+      "id": "oschadbank-73846e",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "state savings bank of ukraine"
+      ],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Ощадбанк",
+        "brand:en": "Oschadbank",
+        "brand:uk": "Ощадбанк",
+        "brand:wikidata": "Q4340839",
+        "name": "Ощадбанк",
+        "name:en": "Oschadbank",
+        "name:uk": "Ощадбанк"
+      }
+    },
+    {
+      "displayName": "ПриватБанк",
+      "id": "privatbank-73846e",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "privat",
+        "приват",
+        "термінал приватбанк",
+        "термінал приватбанку"
+      ],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "ПриватБанк",
+        "brand:en": "PrivatBank",
+        "brand:uk": "ПриватБанк",
+        "brand:wikidata": "Q1515015",
+        "name": "ПриватБанк",
+        "name:en": "PrivatBank",
+        "name:uk": "ПриватБанк"
+      }
+    },
+    {
+      "displayName": "ПУМБ",
+      "id": "firstukrainianinternationalbank-73846e",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "fuib",
+        "pumb",
+        "перший український міжнародний банк"
+      ],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "ПУМБ",
+        "brand:en": "First Ukrainian International Bank",
+        "brand:uk": "ПУМБ",
+        "brand:wikidata": "Q4341156",
+        "name": "ПУМБ",
+        "name:en": "First Ukrainian International Bank",
+        "name:uk": "ПУМБ"
+      }
+    },
+    {
+      "displayName": "Сбербанк",
+      "id": "fdcab6-e97c8f",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["сбер"],
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Сбербанк",
+        "brand:wikidata": "Q205012",
+        "name": "Сбербанк"
+      }
+    },
+    {
+      "displayName": "Таскомбанк",
+      "id": "tascombank-73846e",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Таскомбанк",
+        "brand:en": "Tascombank",
+        "brand:uk": "Таскомбанк",
+        "brand:wikidata": "Q28669246",
+        "name": "Таскомбанк",
+        "name:en": "Tascombank",
+        "name:uk": "Таскомбанк"
+      }
+    },
+    {
+      "displayName": "Элекснет",
+      "id": "de4add-e1a7cd",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "payment_terminal",
+        "brand": "Элекснет",
+        "brand:wikidata": "Q4530795",
+        "name": "Элекснет"
+      }
+    }
+  ]
+}

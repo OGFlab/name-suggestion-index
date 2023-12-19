@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "path": "brands/shop/printer_ink",
+    "exclude": {"generic": ["^printer ink$"]}
+  },
+  "items": [
+    {
+      "displayName": "Cartridge World",
+      "id": "cartridgeworld-0b7bd3",
+      "locationSet": {"include": ["001"]},
+      "matchTags": ["shop/computer"],
+      "tags": {
+        "brand": "Cartridge World",
+        "brand:wikidata": "Q5047439",
+        "name": "Cartridge World",
+        "shop": "printer_ink"
+      }
+    }
+  ]
+}

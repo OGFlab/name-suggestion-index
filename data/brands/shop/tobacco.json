@@ -1,0 +1,76 @@
+{
+  "properties": {
+    "path": "brands/shop/tobacco",
+    "exclude": {
+      "generic": [
+        "^(estanco|tabaccher[ií]a|tobacco)$",
+        "^heated tobacco$",
+        "^smoke shop$",
+        "^taba[ck](os|chi)?( trafi[kc])?$",
+        "^trafik$",
+        "^табак$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Nemzeti Dohánybolt",
+      "id": "nemzetidohanybolt-9778cc",
+      "locationSet": {"include": ["hu"]},
+      "matchNames": ["dohánybolt"],
+      "matchTags": ["shop/kiosk"],
+      "tags": {
+        "brand": "Nemzeti Dohánybolt",
+        "brand:wikidata": "Q20639040",
+        "name": "Nemzeti Dohánybolt",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "displayName": "T-ZONE",
+      "id": "tzone-fbb387",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "matchTags": ["shop/cannabis"],
+      "tags": {
+        "brand": "T-ZONE",
+        "brand:wikidata": "Q115111848",
+        "name": "T-ZONE",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "displayName": "Wolsdorff",
+      "id": "wolsdorff-7d79b1",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "wolsdorf",
+        "wolsdorff tobacco"
+      ],
+      "matchTags": [
+        "shop/kiosk",
+        "shop/newsagent"
+      ],
+      "tags": {
+        "brand": "Wolsdorff",
+        "brand:wikidata": "Q108131193",
+        "name": "Wolsdorff",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "displayName": "Табакерка",
+      "id": "afdbb8-13b814",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["tabakerka"],
+      "matchTags": ["shop/newsagent"],
+      "tags": {
+        "brand": "Табакерка",
+        "brand:wikidata": "Q121727302",
+        "name": "Табакерка",
+        "shop": "tobacco"
+      }
+    }
+  ]
+}

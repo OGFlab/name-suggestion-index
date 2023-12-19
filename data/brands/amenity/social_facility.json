@@ -1,0 +1,694 @@
+{
+  "properties": {
+    "path": "brands/amenity/social_facility",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^(有料老人|老人|日)?ホーム$",
+        "^betreutes wohnen$",
+        "^social facility$",
+        "^детский дом$",
+        "^дом престарелых$",
+        "^социальный участковый$"
+      ],
+      "named": [
+        "^dom pomocy społecznej$",
+        "^maison de retraite$",
+        "^safe haven$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Arbeiter-Samariter-Bund",
+      "id": "arbeitersamariterbund-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["asb"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Arbeiter-Samariter-Bund",
+        "brand:wikidata": "Q627071",
+        "name": "Arbeiter-Samariter-Bund"
+      }
+    },
+    {
+      "displayName": "Arbeiterwohlfahrt",
+      "id": "arbeiterwohlfahrt-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "arbeiterwohlfahrt kreisverband wesel e.v.",
+        "awo"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Arbeiterwohlfahrt",
+        "brand:wikidata": "Q627256",
+        "name": "Arbeiterwohlfahrt"
+      }
+    },
+    {
+      "displayName": "Bahnhofsmission",
+      "id": "bahnhofsmission-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bahnhofsmission",
+        "brand:wikidata": "Q801713",
+        "name": "Bahnhofsmission",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless;underprivileged"
+      }
+    },
+    {
+      "displayName": "Bahnhofsozialdienst",
+      "id": "bahnhofsozialdienst-257965",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bahnhofsozialdienst",
+        "brand:wikidata": "Q801713",
+        "name": "Bahnhofsozialdienst",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless;underprivileged"
+      }
+    },
+    {
+      "displayName": "Bayerisches Rotes Kreuz",
+      "id": "bayerischesroteskreuz-718a33",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "matchNames": ["brk"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bayerisches Rotes Kreuz",
+        "brand:wikidata": "Q812433",
+        "name": "Bayerisches Rotes Kreuz"
+      }
+    },
+    {
+      "displayName": "Bethel",
+      "id": "bethel-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "v. bodelschwinghsche stiftungen bethel",
+        "v. bodelschwinghschen stiftungen bethel",
+        "von bodelschwinghsche stiftungen bethel",
+        "von bodelschwinghschen stiftungen bethel"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Bethel",
+        "brand:wikidata": "Q547995",
+        "name": "Bethel"
+      }
+    },
+    {
+      "displayName": "Big Brothers Big Sisters Lone Star",
+      "id": "bigbrothersbigsisterslonestar-233ba4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Big Brothers Big Sisters Lone Star",
+        "brand:wikidata": "Q54678731",
+        "name": "Big Brothers Big Sisters Lone Star"
+      }
+    },
+    {
+      "displayName": "Boys & Girls Club",
+      "id": "boysandgirlsclub-233ba4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "boys & girls club of america"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Boys & Girls Club",
+        "brand:wikidata": "Q2923055",
+        "name": "Boys & Girls Club",
+        "social_facility": "outreach",
+        "social_facility:for": "child"
+      }
+    },
+    {
+      "displayName": "Canadian Red Cross",
+      "id": "canadianredcross-cf1346",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": [
+        "canadian red cross society",
+        "croix rouge",
+        "la société canadienne de la croix rouge",
+        "red cross"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Canadian Red Cross",
+        "brand:en": "Canadian Red Cross",
+        "brand:fr": "Croix-Rouge canadienne",
+        "brand:short": "CRC",
+        "brand:wikidata": "Q5030521",
+        "operator": "Canadian Red Cross",
+        "operator:en": "Canadian Red Cross",
+        "operator:fr": "Croix-Rouge canadienne",
+        "operator:short": "CRC",
+        "operator:wikidata": "Q5030521"
+      }
+    },
+    {
+      "displayName": "Caritas",
+      "id": "caritas-c8e87f",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": [
+          "at",
+          "ch",
+          "de",
+          "hk",
+          "mo",
+          "sk",
+          "ua"
+        ]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q533143",
+        "name": "Caritas"
+      }
+    },
+    {
+      "displayName": "Caritas (Deutschland)",
+      "id": "caritas-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "caritas eifel",
+        "caritasverband",
+        "caritasverband für das kreisdekanat euskirchen e.v."
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q29508174"
+      }
+    },
+    {
+      "displayName": "Caritas (Österreich)",
+      "id": "caritas-257965",
+      "locationSet": {"include": ["at"]},
+      "matchNames": [
+        "caritas diözese graz-seckau",
+        "caritas st.pölten"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q1036350"
+      }
+    },
+    {
+      "displayName": "Caritas (Schweiz)",
+      "id": "caritas-7e98f6",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q1036336"
+      }
+    },
+    {
+      "displayName": "Caritas (Slovensko)",
+      "id": "caritas-07e566",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q1036340"
+      }
+    },
+    {
+      "displayName": "Centre Communal d'Action Sociale",
+      "id": "centrecommunaldactionsociale-8d024d",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Centre Communal d'Action Sociale",
+        "brand:wikidata": "Q2944984",
+        "name": "Centre Communal d'Action Sociale"
+      }
+    },
+    {
+      "displayName": "Citizens Advice",
+      "id": "citizensadvice-71aff3",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["citizens advice bureau"],
+      "matchTags": [
+        "amenity/advice",
+        "amenity/information",
+        "office/charity",
+        "office/citizens_advice",
+        "office/government",
+        "office/lawyer",
+        "office/ngo"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Citizens Advice",
+        "brand:wikidata": "Q5122657",
+        "social_facility": "outreach"
+      }
+    },
+    {
+      "displayName": "Croix-Rouge de Belgique",
+      "id": "croixrougedebelgique-8298e5",
+      "locationSet": {"include": ["be"]},
+      "matchNames": [
+        "croix rouge",
+        "croix rouge belge"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Croix-Rouge de Belgique",
+        "brand:short": "CRB",
+        "brand:wikidata": "Q2537361",
+        "operator": "Croix-Rouge de Belgique",
+        "operator:wikidata": "Q2537361"
+      }
+    },
+    {
+      "displayName": "Croix-Rouge Française",
+      "id": "croixrougefrancaise-8d024d",
+      "locationSet": {"include": ["fr"]},
+      "matchNames": ["croix rouge"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Croix-Rouge Française",
+        "brand:wikidata": "Q3003244",
+        "operator": "Croix-Rouge Française",
+        "operator:short": "CRF",
+        "operator:wikidata": "Q3003244"
+      }
+    },
+    {
+      "displayName": "Croix-Rouge luxembourgeoise",
+      "id": "croixrougeluxembourgeoise-090a38",
+      "locationSet": {"include": ["lu"]},
+      "matchNames": [
+        "croix rouge",
+        "rotes kreuz"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Croix-Rouge luxembourgeoise",
+        "brand:de": "Luxemburgisches Rotes Kreuz",
+        "brand:fr": "Croix-Rouge luxembourgeoise",
+        "brand:lb": "Lëtzebuergesche Roude Kräiz",
+        "brand:wikidata": "Q13102234",
+        "operator": "Croix-Rouge luxembourgeoise",
+        "operator:de": "Luxemburgisches Rotes Kreuz",
+        "operator:fr": "Croix-Rouge luxembourgeoise",
+        "operator:lb": "Lëtzebuergesche Roude Kräiz",
+        "operator:wikidata": "Q13102234"
+      }
+    },
+    {
+      "displayName": "Deutscher Kinderschutzbund",
+      "id": "deutscherkinderschutzbund-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["kinderschutzbund"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Deutscher Kinderschutzbund",
+        "brand:short": "DKSB",
+        "brand:wikidata": "Q1205011"
+      }
+    },
+    {
+      "displayName": "Deutsches Rotes Kreuz",
+      "id": "deutschesroteskreuz-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["drk", "rotes kreuz"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Deutsches Rotes Kreuz",
+        "brand:wikidata": "Q694104",
+        "name": "Deutsches Rotes Kreuz"
+      }
+    },
+    {
+      "displayName": "Diakonie",
+      "id": "diakonie-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "diakonie deutschland",
+        "diakonie ruhr",
+        "diakoniewerk",
+        "diakonisches werk"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Diakonie",
+        "brand:wikidata": "Q126501"
+      }
+    },
+    {
+      "displayName": "Ehpad du CH",
+      "id": "ehpadduch-8d024d",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Ehpad du CH",
+        "name": "Ehpad du CH"
+      }
+    },
+    {
+      "displayName": "Johanniter",
+      "id": "johanniter-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "die johanniter",
+        "johanniter gmbh"
+      ],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Johanniter",
+        "brand:wikidata": "Q28131582"
+      }
+    },
+    {
+      "displayName": "Johanniter-Unfall-Hilfe",
+      "id": "johanniterunfallhilfe-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["juh"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Johanniter-Unfall-Hilfe",
+        "brand:wikidata": "Q14751117"
+      }
+    },
+    {
+      "displayName": "Lebenshilfe",
+      "id": "lebenshilfe-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["lebenshilfe essen e.v."],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Lebenshilfe",
+        "brand:wikidata": "Q20533"
+      }
+    },
+    {
+      "displayName": "Malteser Hilfsdienst",
+      "id": "malteserhilfsdienst-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["malteser", "mhd"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Malteser Hilfsdienst",
+        "brand:wikidata": "Q1318397"
+      }
+    },
+    {
+      "displayName": "Miejski Ośrodek Pomocy Społecznej",
+      "id": "miejskiosrodekpomocyspolecznej-e183e3",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Miejski Ośrodek Pomocy Społecznej",
+        "name": "Miejski Ośrodek Pomocy Społecznej"
+      }
+    },
+    {
+      "displayName": "Mini cité",
+      "id": "minicite-7d1d77",
+      "locationSet": {"include": ["cm"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Mini cité",
+        "name": "Mini cité"
+      }
+    },
+    {
+      "displayName": "Office of the Senior Citizen Affairs",
+      "id": "officeoftheseniorcitizenaffairs-0c22a1",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Office of the Senior Citizen Affairs",
+        "name": "Office of the Senior Citizen Affairs"
+      }
+    },
+    {
+      "displayName": "ONCE",
+      "id": "once-bb7a05",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "ONCE",
+        "brand:wikidata": "Q1750397",
+        "name": "ONCE",
+        "official_name": "Organización Nacional de Ciegos Españoles",
+        "social_facility": "outreach",
+        "social_facility:for": "blind"
+      }
+    },
+    {
+      "displayName": "SOMPOケア",
+      "id": "sompocare-58dbc8",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "SOMPOケア",
+        "brand:en": "Sompo Care",
+        "brand:ja": "SOMPOケア",
+        "brand:wikidata": "Q11343758",
+        "name": "SOMPOケア",
+        "name:en": "Sompo Care",
+        "name:ja": "SOMPOケア",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior"
+      }
+    },
+    {
+      "displayName": "Stationswerk",
+      "id": "stationswerk-4d2292",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Stationswerk",
+        "brand:wikidata": "Q801713",
+        "name": "Stationswerk",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless;underprivileged"
+      }
+    },
+    {
+      "displayName": "Tafel",
+      "id": "tafel-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "die tafeln",
+        "tafel deutschland",
+        "tafeln"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Tafel",
+        "brand:wikidata": "Q89909230",
+        "name": "Tafel",
+        "social_facility": "food_bank"
+      }
+    },
+    {
+      "displayName": "Vet Center",
+      "id": "vetcenter-233ba4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "VA",
+        "brand:wikidata": "Q6580225",
+        "healthcare": "counselling",
+        "healthcare:counselling": "psychiatry",
+        "healthcare:for": "veteran",
+        "name": "Vet Center",
+        "social_facility": "healthcare;outreach",
+        "social_facility:for": "veteran"
+      }
+    },
+    {
+      "displayName": "Violence Against Women and Children Desk",
+      "id": "violenceagainstwomenandchildrendesk-0c22a1",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Violence Against Women and Children Desk",
+        "name": "Violence Against Women and Children Desk"
+      }
+    },
+    {
+      "displayName": "Violence Against Women and Children Office",
+      "id": "violenceagainstwomenandchildrenoffice-0c22a1",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Violence Against Women and Children Office",
+        "name": "Violence Against Women and Children Office"
+      }
+    },
+    {
+      "displayName": "Volkssolidarität",
+      "id": "volkssolidaritat-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Volkssolidarität",
+        "brand:wikidata": "Q2532186",
+        "name": "Volkssolidarität"
+      }
+    },
+    {
+      "displayName": "Weißer Ring",
+      "id": "weisserring-da0ff2",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["weisser ring e.v."],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Weißer Ring",
+        "brand:wikidata": "Q2557081",
+        "name": "Weißer Ring"
+      }
+    },
+    {
+      "displayName": "Карітас",
+      "id": "caritas-0fc399",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "caritas ukraine",
+        "карітас україни"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Карітас",
+        "brand:en": "Caritas",
+        "brand:uk": "Карітас",
+        "brand:wikidata": "Q12108931",
+        "name": "Карітас"
+      }
+    },
+    {
+      "displayName": "Карітас-Спес",
+      "id": "caritasspes-0fc399",
+      "locationSet": {"include": ["ua"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Карітас-Спес",
+        "brand:en": "Caritas-Spes",
+        "brand:uk": "Карітас-Спес",
+        "brand:wikidata": "Q12108929",
+        "name": "Карітас-Спес"
+      }
+    },
+    {
+      "displayName": "Товариство Червоного Хреста України",
+      "id": "ukrainianredcrosssociety-0fc399",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "red cross",
+        "ukrainian red cross",
+        "urcs",
+        "товариство червоного хреста",
+        "червоний хрест"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Товариство Червоного Хреста України",
+        "brand:en": "Ukrainian Red Cross Society",
+        "brand:short": "ТЧХУ",
+        "brand:short:en": "URCS",
+        "brand:short:uk": "ТЧХУ",
+        "brand:uk": "Товариство Червоного Хреста України",
+        "brand:wikidata": "Q9364596",
+        "name": "Товариство Червоного Хреста України"
+      }
+    },
+    {
+      "displayName": "ツクイ",
+      "id": "tsukui-58dbc8",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "ツクイ",
+        "brand:en": "Tsukui",
+        "brand:ja": "ツクイ",
+        "brand:wikidata": "Q11318724",
+        "name": "ツクイ",
+        "name:en": "Tsukui",
+        "name:ja": "ツクイ",
+        "social_facility": "day_care",
+        "social_facility:for": "senior"
+      }
+    },
+    {
+      "displayName": "リハプライド",
+      "id": "rehapride-58dbc8",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "リハプライド",
+        "brand:en": "RehaPride",
+        "brand:ja": "リハプライド",
+        "brand:wikidata": "Q96186859",
+        "name": "リハプライド",
+        "name:en": "RehaPride",
+        "name:ja": "リハプライド",
+        "social_facility": "healthcare",
+        "social_facility:for": "senior"
+      }
+    },
+    {
+      "displayName": "レコードブック",
+      "id": "recordbook-58dbc8",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "レコードブック",
+        "brand:en": "Record Book",
+        "brand:ja": "レコードブック",
+        "brand:wikidata": "Q91915310",
+        "name": "レコードブック",
+        "name:en": "Record Book",
+        "name:ja": "レコードブック",
+        "social_facility": "day_care",
+        "social_facility:for": "senior"
+      }
+    },
+    {
+      "displayName": "明愛會 Caritas",
+      "id": "caritas-c6051e",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "明愛會 Caritas",
+        "brand:en": "Caritas",
+        "brand:wikidata": "Q533143",
+        "brand:zh": "明愛會",
+        "name": "明愛會 Caritas",
+        "name:en": "Caritas",
+        "name:zh": "明愛會"
+      }
+    }
+  ]
+}

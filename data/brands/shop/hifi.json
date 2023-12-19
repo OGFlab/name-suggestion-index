@@ -1,0 +1,96 @@
+{
+  "properties": {
+    "path": "brands/shop/hifi",
+    "exclude": {"generic": ["^hifi$"]}
+  },
+  "items": [
+    {
+      "displayName": "Bang & Olufsen",
+      "id": "bangandolufsen-7a2989",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Bang & Olufsen",
+        "brand:wikidata": "Q790020",
+        "name": "Bang & Olufsen",
+        "shop": "hifi"
+      }
+    },
+    {
+      "displayName": "Bose",
+      "id": "bose-7a2989",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Bose",
+        "brand:wikidata": "Q328568",
+        "name": "Bose",
+        "shop": "hifi"
+      }
+    },
+    {
+      "displayName": "Devialet",
+      "id": "devialet-7a2989",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Devialet",
+        "brand:wikidata": "Q3025419",
+        "name": "Devialet",
+        "shop": "hifi"
+      }
+    },
+    {
+      "displayName": "Fastrak",
+      "id": "fastrak-779be0",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Fastrak",
+        "brand:wikidata": "Q120799603",
+        "name": "Fastrak",
+        "shop": "hifi"
+      }
+    },
+    {
+      "displayName": "Harman Kardon",
+      "id": "harmankardon-7a2989",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Harman Kardon",
+        "brand:wikidata": "Q1476454",
+        "name": "Harman Kardon",
+        "shop": "hifi"
+      }
+    },
+    {
+      "displayName": "JBL",
+      "id": "jbl-7a2989",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "JBL",
+        "brand:wikidata": "Q1153754",
+        "name": "JBL",
+        "shop": "hifi"
+      }
+    },
+    {
+      "displayName": "Richer Sounds",
+      "id": "richersounds-76bfaa",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Richer Sounds",
+        "brand:wikidata": "Q7330409",
+        "name": "Richer Sounds",
+        "shop": "hifi"
+      }
+    },
+    {
+      "displayName": "Teufel",
+      "id": "teufel-bbb902",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "Teufel",
+        "brand:wikidata": "Q1351741",
+        "name": "Teufel",
+        "shop": "hifi"
+      }
+    }
+  ]
+}

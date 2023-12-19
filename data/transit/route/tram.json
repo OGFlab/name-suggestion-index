@@ -1,0 +1,1397 @@
+{
+  "properties": {
+    "path": "transit/route/tram",
+    "exclude": {
+      "generic": ["^tram$"],
+      "named": [
+        "^(city|international|local|mtb|municipal|national|rail|regional|urban)$",
+        "^ru:municipal$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ATAC",
+      "id": "atac-e9e131",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "network": "ATAC",
+        "network:wikidata": "Q530087",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Augsburger Verkehrs- und Tarifverbund",
+      "id": "augsburgerverkehrsundtarifverbund-6c92fa",
+      "locationSet": {
+        "include": [[10.76, 48.41, 55]]
+      },
+      "tags": {
+        "network": "Augsburger Verkehrs- und Tarifverbund",
+        "network:short": "AVV",
+        "network:wikidata": "Q760574",
+        "operator": "Augsburger Verkehrsgesellschaft",
+        "operator:short": "AVG",
+        "operator:wikidata": "Q760573",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Bernmobil",
+      "id": "bernmobil-30adce",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "network": "Bernmobil",
+        "network:wikidata": "Q681700",
+        "operator": "Städtische Verkehrsbetriebe Bern",
+        "operator:short": "SVB",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Bydgoszcz",
+      "id": "bydgoszcz-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "Bydgoszcz",
+        "network:wikidata": "Q16618278",
+        "operator": "MZK Bydgoszcz",
+        "operator:wikidata": "Q11780317",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Carris",
+      "id": "carris-d4b068",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "network": "Carris",
+        "network:wikidata": "Q1045108",
+        "operator": "Carris",
+        "operator:wikidata": "Q1045108",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Casa Tramway",
+      "id": "casatramway-24315e",
+      "locationSet": {"include": ["ma"]},
+      "tags": {
+        "network": "Casa Tramway",
+        "network:wikidata": "Q1522904",
+        "operator": "RATP Dev",
+        "operator:wikidata": "Q16040901",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Connector",
+      "id": "connector-373a9e",
+      "locationSet": {
+        "include": [[-84.41, 39.26, 65]]
+      },
+      "matchNames": [
+        "cincinnati bell connector",
+        "cincinnati streetcar"
+      ],
+      "tags": {
+        "network": "Connector",
+        "network:wikidata": "Q3537097",
+        "operator": "Transdev",
+        "operator:wikidata": "Q442637",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "CTP Iași",
+      "id": "ctpiasi-200f98",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "network": "CTP Iași",
+        "network:wikidata": "Q7275888",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "CTS",
+      "id": "cts-39c744",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "network": "CTS",
+        "network:wikidata": "Q2990068",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "DLAn",
+      "id": "dlan-c3736a",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "network": "DLAn",
+        "operator": "De Lijn",
+        "operator:wikidata": "Q614819",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "DLOV",
+      "id": "dlov-c3736a",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "network": "DLOV",
+        "operator": "De Lijn",
+        "operator:wikidata": "Q614819",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Euskotren Tranbia",
+      "id": "euskotrentranbia-eef83a",
+      "locationSet": {"include": ["es", "fr"]},
+      "tags": {
+        "network": "Euskotren Tranbia",
+        "network:wikidata": "Q123955",
+        "operator": "Eusko Trenbideak – Ferrocarriles Vascos",
+        "operator:es": "Ferrocarriles Vascos",
+        "operator:eu": "Eusko Trenbideak",
+        "operator:wikidata": "Q3061020",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Formula",
+      "id": "formula-e9e131",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "network": "Formula",
+        "network:wikidata": "Q1143131",
+        "operator": "Gruppo Torinese Trasporti",
+        "operator:short": "GTT",
+        "operator:wikidata": "Q3756307",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Großraum-Verkehr Hannover",
+      "id": "grossraumverkehrhannover-27f78b",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "network": "Großraum-Verkehr Hannover",
+        "network:short": "GVH",
+        "network:wikidata": "Q1549516",
+        "operator": "Überlandwerke und Straßenbahnen Hannover",
+        "operator:short": "ÜSTRA",
+        "operator:wikidata": "Q265625",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "GSP Beograd",
+      "id": "58b493-d975f9",
+      "locationSet": {"include": ["rs"]},
+      "matchNames": ["gsp beograd"],
+      "tags": {
+        "network": "БГ Превоз",
+        "operator": "ГСП Београд",
+        "operator:wikidata": "Q8227578",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "HSL",
+      "id": "hsl-0d0eb5",
+      "locationSet": {"include": ["fi"]},
+      "matchNames": [
+        "helsingforsregionens trafik",
+        "hrt"
+      ],
+      "tags": {
+        "network": "HSL",
+        "network:wikidata": "Q473211",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "IBXL",
+      "id": "ibxl-c3736a",
+      "locationSet": {"include": ["be"]},
+      "tags": {"network": "IBXL", "route": "tram"}
+    },
+    {
+      "displayName": "IDS JMK",
+      "id": "idsjmk-2f0afc",
+      "locationSet": {"include": ["cz"]},
+      "matchNames": ["cz:ids jmk"],
+      "tags": {
+        "network": "IDS JMK",
+        "network:wikidata": "Q12020731",
+        "operator": "DPMB",
+        "operator:wikidata": "Q3700534",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "IDSOK",
+      "id": "idsok-2f0afc",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "network": "IDSOK",
+        "network:wikidata": "Q12021688",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "IVB",
+      "id": "ivb-af7fcf",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "network": "IVB",
+        "network:wikidata": "Q1664245",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Karlsruher Verkehrsverbund",
+      "id": "karlsruherverkehrsverbund-8aa8f6",
+      "locationSet": {
+        "include": [
+          "de-bw.geojson",
+          "de-rp.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Karlsruher Verkehrsverbund",
+        "network:short": "KVV",
+        "network:wikidata": "Q1733986",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Kenosha Area Transit",
+      "id": "kenoshaareatransit-4b3525",
+      "locationSet": {
+        "include": ["us-wi.geojson"]
+      },
+      "tags": {
+        "network": "Kenosha Area Transit",
+        "network:short": "KAT",
+        "network:wikidata": "Q6391318",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Komunikacja Miejska w Krakowie",
+      "id": "komunikacjamiejskawkrakowie-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "Komunikacja Miejska w Krakowie",
+        "network:wikidata": "Q1784404",
+        "operator": "MPK Kraków",
+        "operator:wikidata": "Q11780297",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Libero",
+      "id": "libero-30adce",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "network": "Libero",
+        "network:wikidata": "Q2394193",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "LTZ Łódź",
+      "id": "ltzlodz-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "LTZ Łódź",
+        "network:wikidata": "Q1149987",
+        "operator": "MPK Łódź",
+        "operator:wikidata": "Q11780295",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Luas",
+      "id": "luas-5d9a26",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "network": "Luas",
+        "network:wikidata": "Q612560",
+        "operator": "Transdev Ireland",
+        "operator:wikidata": "Q442637",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Manchester Metrolink",
+      "id": "manchestermetrolink-37075c",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "network": "Manchester Metrolink",
+        "network:wikidata": "Q18548",
+        "operator": "Transport for Greater Manchester",
+        "operator:wikidata": "Q7834921",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "MBTA (Massachusetts)",
+      "id": "mbta-98eeec",
+      "locationSet": {
+        "include": [[-71, 42, 100]]
+      },
+      "matchNames": [
+        "massachusetts bay transportation authority"
+      ],
+      "tags": {
+        "network": "MBTA",
+        "network:wikidata": "Q171985",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "MetroTenerife",
+      "id": "metrotenerife-609718",
+      "locationSet": {"include": ["ic"]},
+      "tags": {
+        "network": "MetroTenerife",
+        "network:wikidata": "Q185464",
+        "operator": "MetroTenerife",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "metrovalencia",
+      "id": "metrovalencia-1ff616",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "network": "metrovalencia",
+        "network:wikidata": "Q511171",
+        "operator": "Ferrocarrils de la Generalitat Valenciana",
+        "operator:wikidata": "Q750832",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "MHD Bratislava",
+      "id": "mhdbratislava-d52db4",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "network": "MHD Bratislava",
+        "network:wikidata": "Q7258005",
+        "operator": "DPB",
+        "operator:wikidata": "Q685601",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "MHD Košice",
+      "id": "mhdkosice-d52db4",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "network": "MHD Košice",
+        "network:wikidata": "Q104904552",
+        "operator": "DPMK",
+        "operator:wikidata": "Q2265496",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Mitteldeutscher Verkehrsverbund",
+      "id": "mitteldeutscherverkehrsverbund-8c71a5",
+      "locationSet": {
+        "include": [
+          "de-sn.geojson",
+          "de-st.geojson",
+          "de-th.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Mitteldeutscher Verkehrsverbund",
+        "network:short": "MDV",
+        "network:wikidata": "Q1742463",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Münchner Verkehrs- und Tarifverbund",
+      "id": "munchnerverkehrsundtarifverbund-52e12a",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "network": "Münchner Verkehrs- und Tarifverbund",
+        "network:guid": "DE-BY-MVV",
+        "network:short": "MVV",
+        "network:wikidata": "Q259000",
+        "operator": "Münchner Verkehrsgesellschaft",
+        "operator:short": "MVG",
+        "operator:wikidata": "Q456402",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Muni Historic Cablecar",
+      "id": "muni-2d686f",
+      "locationSet": {
+        "include": [[-122.49, 37.8, 15]]
+      },
+      "tags": {
+        "network": "Muni",
+        "network:wikidata": "Q1140138",
+        "operator": "San Francisco Municipal Transportation Agency",
+        "operator:short": "SFMTA",
+        "operator:wikidata": "Q7414072",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "NVV",
+      "id": "nvv-d7e496",
+      "locationSet": {
+        "include": ["de-he.geojson"]
+      },
+      "tags": {
+        "network": "NVV",
+        "network:wikidata": "Q1998056",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "ODIS",
+      "id": "odis-2f0afc",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "network": "ODIS",
+        "network:wikidata": "Q1741955",
+        "operator": "Dopravní podnik Ostrava",
+        "operator:short": "DPO",
+        "operator:wikidata": "Q11323689",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "OÖVV",
+      "id": "oovv-af7fcf",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "network": "OÖVV",
+        "network:wikidata": "Q2011605",
+        "operator": "Linz Linien GmbH",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "PID",
+      "id": "pid-2f0afc",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "network": "PID",
+        "network:wikidata": "Q2108171",
+        "operator": "Dopravní podnik hlavního města Prahy",
+        "operator:short": "DPP",
+        "operator:wikidata": "Q381100",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Portland Streetcar",
+      "id": "portlandstreetcar-ab5729",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "network": "Portland Streetcar",
+        "network:wikidata": "Q1753708",
+        "operator": "TriMet",
+        "operator:wikidata": "Q1766623",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "PTV - Metropolitan Trams",
+      "id": "ptvmetropolitantrams-f14ffe",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "network": "PTV - Metropolitan Trams",
+        "network:wikidata": "Q7257648",
+        "operator": "Keolis Downer",
+        "operator:wikidata": "Q6328065",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Rail Haaglanden",
+      "id": "railhaaglanden-50b0a0",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Rail Haaglanden",
+        "network:wikidata": "Q108718111",
+        "operator": "HTM",
+        "operator:wikidata": "Q132168",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Rail Rotterdam",
+      "id": "railrotterdam-50b0a0",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Rail Rotterdam",
+        "network:wikidata": "Q108718112",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "RATP (Paris)",
+      "id": "ratp-3c4b3d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "network": "RATP",
+        "network:wikidata": "Q1142114",
+        "operator:wikidata": "Q643290",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Regio Utrecht",
+      "id": "regioutrecht-50b0a0",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Regio Utrecht",
+        "network:wikidata": "Q108742251",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Regio-Verkehrsverbund Freiburg",
+      "id": "regioverkehrsverbundfreiburg-66d455",
+      "locationSet": {
+        "include": ["de-bw.geojson"]
+      },
+      "tags": {
+        "network": "Regio-Verkehrsverbund Freiburg",
+        "network:short": "RVF",
+        "network:wikidata": "Q972037",
+        "operator": "Freiburger Verkehrs AG",
+        "operator:short": "VAG",
+        "operator:wikidata": "Q881285",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Rhein-Main-Verkehrsverbund",
+      "id": "rheinmainverkehrsverbund-b77e92",
+      "locationSet": {
+        "include": [
+          "de-he.geojson",
+          "de-rp.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Rhein-Main-Verkehrsverbund",
+        "network:short": "RMV",
+        "network:wikidata": "Q314042",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Ruter",
+      "id": "ruter-a74636",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "network": "Ruter",
+        "network:wikidata": "Q750292",
+        "operator": "Sporveien Trikken",
+        "operator:wikidata": "Q287668",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "S.T.P.T.",
+      "id": "stpt-200f98",
+      "locationSet": {"include": ["ro"]},
+      "matchNames": [
+        "societatea de transport public timișoara",
+        "societatea de transport public timișoara s.a."
+      ],
+      "tags": {
+        "network": "S.T.P.T.",
+        "network:wikidata": "Q929687",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "SEPTA",
+      "id": "septa-59a881",
+      "locationSet": {
+        "include": [[-75.3, 40.1, 50]]
+      },
+      "matchNames": [
+        "southeastern pennsylvania transportation authority"
+      ],
+      "tags": {
+        "network": "SEPTA",
+        "network:wikidata": "Q2037863",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Stadsvervoer Amsterdam",
+      "id": "stadsvervoeramsterdam-50b0a0",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Stadsvervoer Amsterdam",
+        "network:wikidata": "Q108742702",
+        "operator": "GVB",
+        "operator:wikidata": "Q1808041",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "STB (Societatea de Transport București)",
+      "id": "societateadetransportbucuresti-200f98",
+      "locationSet": {"include": ["ro"]},
+      "matchNames": [
+        "ratb",
+        "stb (societatea de transport bucurești)"
+      ],
+      "tags": {
+        "network": "Societatea de Transport București",
+        "network:short": "STB",
+        "network:wikidata": "Q2280353",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "STIBM",
+      "id": "stibm-e9e131",
+      "locationSet": {"include": ["it"]},
+      "matchNames": ["sitam"],
+      "tags": {
+        "network": "STIBM",
+        "network:wikidata": "Q65125405",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Szeged",
+      "id": "szeged-2e1405",
+      "locationSet": {"include": ["hu"]},
+      "tags": {
+        "network": "Szeged",
+        "operator": "Szegedi Közlekedési Társaság",
+        "operator:short": "SZKT",
+        "operator:wikidata": "Q1295391",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "TAN",
+      "id": "tan-39c744",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "network": "TAN",
+        "network:wikidata": "Q17519150",
+        "operator": "SEMITAN",
+        "operator:wikidata": "Q3487840",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "TBM",
+      "id": "tbm-39c744",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "network": "TBM",
+        "network:wikidata": "Q377695",
+        "operator": "Keolis Bordeaux Métropole",
+        "operator:wikidata": "Q16039741",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "TCL",
+      "id": "tcl-39c744",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "network": "TCL",
+        "network:wikidata": "Q8700",
+        "operator": "Keolis Lyon",
+        "operator:wikidata": "Q61456136",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Tisséo",
+      "id": "tisseo-3c4b3d",
+      "locationSet": {"include": ["fx"]},
+      "matchNames": ["fr_tisseo"],
+      "tags": {
+        "network": "Tisséo",
+        "network:wikidata": "Q3529461",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "TNW",
+      "id": "tnw-4cb40a",
+      "locationSet": {
+        "include": ["ch", "de", "fr"]
+      },
+      "tags": {
+        "network": "TNW",
+        "network:wikidata": "Q1479394",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "TRAM Metropolità d'Alcant",
+      "id": "trammetropolitadalacant-da38ab",
+      "locationSet": {
+        "include": [
+          [-0.129, 38.53, 25],
+          [-0.4881, 38.3436, 25],
+          [0.0812, 38.7742, 20]
+        ]
+      },
+      "matchNames": [
+        "tram",
+        "tram alicante",
+        "tram metropolitano de alicante"
+      ],
+      "note": "This entry is in Alcant, Benidorm and Gata de Gorgos",
+      "tags": {
+        "network": "TRAM Metropolità d'Alacant",
+        "network:wikidata": "Q2063567",
+        "operator": "Ferrocarrils de la Generalitat Valenciana",
+        "operator:wikidata": "Q750832",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Tramway d'Île de France",
+      "id": "tramwaydiledefrance-3c4b3d",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "network": "Tramway d'Île de France",
+        "network:wikidata": "Q1142114",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "tramway rabat-salé",
+      "id": "strs-24315e",
+      "locationSet": {"include": ["ma"]},
+      "tags": {
+        "network": "STRS",
+        "network:wikidata": "Q948685",
+        "operator": "Transdev",
+        "operator:wikidata": "Q442637",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Tranvía de Zaragoza",
+      "id": "tranviadezaragoza-1ff616",
+      "locationSet": {"include": ["es"]},
+      "matchNames": ["zaragoza tram"],
+      "tags": {
+        "network": "Tranvía de Zaragoza",
+        "network:guid": "ES-AR-Z-Tranvia",
+        "network:wikidata": "Q1584986",
+        "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Trieste Trasporti",
+      "id": "triestetrasporti-e9e131",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "network": "Trieste Trasporti",
+        "network:wikidata": "Q3539115",
+        "operator": "TPL FVG",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "TTC (Toronto)",
+      "id": "ttc-e2de80",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "network": "TTC",
+        "network:wikidata": "Q249404",
+        "operator": "Toronto Transit Commission",
+        "operator:short": "TTC",
+        "operator:wikidata": "Q17978",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Unireso",
+      "id": "unireso-011d8a",
+      "locationSet": {"include": ["ch", "fr"]},
+      "tags": {
+        "network": "Unireso",
+        "network:wikidata": "Q1312883",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Västtrafik",
+      "id": "vasttrafik-2462bf",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "network": "Västtrafik",
+        "network:wikidata": "Q928178",
+        "operator": "Göteborgs Spårvägar",
+        "operator:wikidata": "Q10512910",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VBN",
+      "id": "vbn-83b49b",
+      "locationSet": {
+        "include": [
+          "de-hb.geojson",
+          "de-ni.geojson"
+        ]
+      },
+      "tags": {
+        "network": "VBN",
+        "network:wikidata": "Q1306245",
+        "operator": "Bremer Straßenbahn AG",
+        "operator:short": "BSAG",
+        "operator:wikidata": "Q6716847",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Berlin-Brandenburg",
+      "id": "verkehrsverbundberlinbrandenburg-2be87e",
+      "locationSet": {
+        "include": [
+          "de-bb.geojson",
+          "de-be.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Großraum Nürnberg",
+      "id": "verkehrsverbundgrossraumnurnberg-52e12a",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Großraum Nürnberg",
+        "network:short": "VGN",
+        "network:wikidata": "Q2516463",
+        "operator": "Verkehrs-Aktiengesellschaft Nürnberg",
+        "operator:short": "VAG",
+        "operator:wikidata": "Q1557682",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Mainfranken",
+      "id": "verkehrsverbundmainfranken-52e12a",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "matchNames": [
+        "verkehrsunternehmens-verbund mainfranken"
+      ],
+      "tags": {
+        "network": "Verkehrsverbund Mainfranken",
+        "network:short": "VVM",
+        "network:wikidata": "Q2516466",
+        "operator": "Würzburger Straßenbahn GmbH",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Mittelsachsen",
+      "id": "verkehrsverbundmittelsachsen-789f3b",
+      "locationSet": {
+        "include": ["de-sn.geojson"]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Mittelsachsen",
+        "network:short": "VMS",
+        "network:wikidata": "Q1145755",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Mittelthüringen",
+      "id": "verkehrsverbundmittelthuringen-af66f5",
+      "locationSet": {
+        "include": ["de-th.geojson"]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Mittelthüringen",
+        "network:guid": "DE-TH-VMT",
+        "network:short": "VMT",
+        "network:wikidata": "Q2516468",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Oberelbe",
+      "id": "verkehrsverbundoberelbe-789f3b",
+      "locationSet": {
+        "include": ["de-sn.geojson"]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Oberelbe",
+        "network:short": "VVO",
+        "network:wikidata": "Q1426445",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Region Braunschweig",
+      "id": "verkehrsverbundregionbraunschweig-27f78b",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Region Braunschweig",
+        "network:short": "VRB",
+        "network:wikidata": "Q2514431",
+        "operator": "Braunschweiger Verkehrs-GmbH",
+        "operator:short": "BSVG",
+        "operator:wikidata": "Q901999",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Steiermark",
+      "id": "verkehrsverbundsteiermark-af7fcf",
+      "locationSet": {"include": ["at"]},
+      "matchNames": [
+        "steirischer verkehrsverbund",
+        "verbund linie"
+      ],
+      "tags": {
+        "network": "Verkehrsverbund Steiermark",
+        "network:short": "VVSt",
+        "network:wikidata": "Q2341954",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Tirol",
+      "id": "verkehrsverbundtirol-af7fcf",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "network": "Verkehrsverbund Tirol",
+        "network:short": "VVT",
+        "network:wikidata": "Q1668732",
+        "operator": "Innsbrucker Verkehrsbetriebe und Stubaitalbahn",
+        "operator:short": "IVB",
+        "operator:wikidata": "Q1664245",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VOR",
+      "id": "vor-af7fcf",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "network": "VOR",
+        "network:wikidata": "Q2516485",
+        "operator": "Wiener Linien",
+        "operator:short": "WL",
+        "operator:wikidata": "Q668849",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VRN",
+      "id": "vrn-035e59",
+      "locationSet": {
+        "include": [
+          "de-bw.geojson",
+          "de-he.geojson",
+          "de-rp.geojson"
+        ]
+      },
+      "tags": {
+        "network": "VRN",
+        "network:wikidata": "Q1553051",
+        "operator": "Rhein-Neckar-Verkehr",
+        "operator:short": "RNV",
+        "operator:wikidata": "Q1650863",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VRR",
+      "id": "vrr-63e7a7",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": [
+        "verkehrsverbund rhein-ruhr"
+      ],
+      "tags": {
+        "network": "VRR",
+        "network:wikidata": "Q448199",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VRS",
+      "id": "vrs-63e7a7",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "network": "VRS",
+        "network:wikidata": "Q896041",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VVO",
+      "id": "vvo-789f3b",
+      "locationSet": {
+        "include": ["de-sn.geojson"]
+      },
+      "tags": {
+        "network": "VVO",
+        "network:wikidata": "Q1426445",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VVV",
+      "id": "verkehrsverbundvogtland-789f3b",
+      "locationSet": {
+        "include": ["de-sn.geojson"]
+      },
+      "matchNames": [
+        "vvv verkehrsverbund vogtland"
+      ],
+      "tags": {
+        "network": "Verkehrsverbund Vogtland",
+        "network:guid": "DE-SN-VVV",
+        "network:short": "VVV",
+        "network:wikidata": "Q2516490",
+        "operator": "Plauener Straßenbahn GmbH",
+        "operator:short": "PSB",
+        "operator:wikidata": "Q1635879",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "VVW",
+      "id": "vvw-a3952f",
+      "locationSet": {
+        "include": ["de-mv.geojson"]
+      },
+      "tags": {
+        "network": "VVW",
+        "network:wikidata": "Q2516492",
+        "operator": "Rostocker Straßenbahn AG",
+        "operator:short": "RSAG",
+        "operator:wikidata": "Q6718062",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "WBTC",
+      "id": "wbtc-2d0dc7",
+      "locationSet": {"include": ["in"]},
+      "matchNames": [
+        "calcutta tramways company",
+        "ctc"
+      ],
+      "tags": {
+        "network": "WBTC",
+        "network:wikidata": "Q7984450",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "WGK Urzędu Miasta Torunia",
+      "id": "wgkurzedumiastatorunia-b5e451",
+      "locationSet": {
+        "include": [[18.6, 53, 110]]
+      },
+      "tags": {
+        "network": "WGK Urzędu Miasta Torunia",
+        "network:wikidata": "Q121863259",
+        "operator": "MZK Toruń",
+        "operator:wikidata": "Q11780271",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Wrocław",
+      "id": "wroclaw-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "Wrocław",
+        "network:wikidata": "Q1531939",
+        "operator": "MPK Wrocław",
+        "operator:wikidata": "Q11780311",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Yarra Trams",
+      "id": "yarratrams-f14ffe",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "network": "Yarra Trams",
+        "network:wikidata": "Q16927551",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Zarząd Transportu Metropolitalnego",
+      "id": "zarzadtransportumetropolitalnego-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "Zarząd Transportu Metropolitalnego",
+        "network:wikidata": "Q48862619",
+        "operator": "Tramwaje Śląskie",
+        "operator:wikidata": "Q9361097",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "ZDiTM Szczecin",
+      "id": "zditmszczecin-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "ZDiTM Szczecin",
+        "network:wikidata": "Q62534866",
+        "operator": "Tramwaje Szczecińskie",
+        "operator:wikidata": "Q14331058",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "ZET",
+      "id": "zet-3031a2",
+      "locationSet": {"include": ["hr"]},
+      "tags": {
+        "network": "ZET",
+        "network:wikidata": "Q136060",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "ZTM Gdańsk",
+      "id": "ztmgdansk-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "ZTM Gdańsk",
+        "network:wikidata": "Q9387123",
+        "operator": "Gdańskie Autobusy i Tramwaje",
+        "operator:wikidata": "Q9386219",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "ZTM Poznań",
+      "id": "ztmpoznan-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "ZTM Poznań",
+        "network:wikidata": "Q9387124",
+        "operator": "MPK Poznań",
+        "operator:wikidata": "Q53430",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "ZTM Warszawa",
+      "id": "ztmwarszawa-ba1938",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "network": "ZTM Warszawa",
+        "network:wikidata": "Q8066998",
+        "operator": "Tramwaje Warszawskie",
+        "operator:wikidata": "Q9360809",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "ZVV",
+      "id": "zvv-30adce",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "БГ Превоз",
+      "id": "gspbelgrade-d975f9",
+      "locationSet": {"include": ["rs"]},
+      "tags": {
+        "network": "БГ Превоз",
+        "operator": "ГСП Београд",
+        "operator:en": "GSP Belgrade",
+        "operator:sr": "ГСП Београд",
+        "operator:wikidata": "Q8227578",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Вінницька мережа громадського транспорту",
+      "id": "vinnytsiatransportcompany-8ac616",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "кп \"вінницька транспортна компанія\""
+      ],
+      "tags": {
+        "network": "Вінницька мережа громадського транспорту",
+        "operator": "Вінницька транспортна компанія",
+        "operator:en": "Vinnytsia Transport Company",
+        "operator:short": "ВТК",
+        "operator:short:en": "VTC",
+        "operator:short:uk": "ВТК",
+        "operator:uk": "Вінницька транспортна компанія",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Городской общественный транспорт Екатеринбурга",
+      "id": "d86b94-f97856",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "network": "Городской общественный транспорт Екатеринбурга",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Городской транспорт Перми",
+      "id": "2af9f1-f97856",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "network": "Городской транспорт Перми",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Київський трамвай",
+      "id": "kyivpastrans-8ac616",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["кп київпастранс"],
+      "tags": {
+        "network": "Київський трамвай",
+        "network:wikidata": "Q1623863",
+        "operator": "Київпастранс",
+        "operator:en": "Kyivpastrans",
+        "operator:uk": "Київпастранс",
+        "operator:wikidata": "Q12110155",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Коломна",
+      "id": "606b07-f97856",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "network": "Коломна",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Комитет по Транспорту Санкт-Петербурга",
+      "id": "saintpetersburgtransportcommittee-f97856",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "network": "Комитет по Транспорту Санкт-Петербурга",
+        "network:en": "Saint-Petersburg Transport Committee",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Миколаївський трамвай",
+      "id": "c529a3-8ac616",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "network": "Миколаївський трамвай",
+        "network:wikidata": "Q2442921",
+        "operator": "Миколаївелектротранс",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Міський громадський транспорт Маріуполя",
+      "id": "28b69f-8ac616",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "network": "Міський громадський транспорт Маріуполя",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Московский транспорт",
+      "id": "ebea10-f97856",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "network": "Московский транспорт",
+        "operator": "Мосгортранс",
+        "operator:wikidata": "Q1949245",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Софийски градски транпорт",
+      "id": "2055e9-89bdb2",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "network": "Софийски градски транпорт",
+        "network:wikidata": "Q2119886",
+        "operator": "Столичен електротранспорт ЕАД",
+        "operator:wikidata": "Q112263409",
+        "route": "tram"
+      }
+    },
+    {
+      "displayName": "Тула",
+      "id": "32211e-f97856",
+      "locationSet": {"include": ["ru"]},
+      "tags": {"network": "Тула", "route": "tram"}
+    },
+    {
+      "displayName": "香港電車 Hong Kong Tramways",
+      "id": "hongkongtramways-7d5011",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "network": "香港電車 Hong Kong Tramways",
+        "network:en": "Hong Kong Tramways",
+        "network:wikidata": "Q385245",
+        "network:zh": "香港電車",
+        "network:zh-Hans": "香港电车",
+        "network:zh-Hant": "香港電車",
+        "operator": "RATP Dev Transdev Asia",
+        "operator:wikidata": "Q30642347",
+        "route": "tram"
+      }
+    }
+  ]
+}

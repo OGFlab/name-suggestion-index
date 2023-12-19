@@ -1,0 +1,184 @@
+{
+  "properties": {
+    "path": "brands/shop/tool_hire",
+    "exclude": {"generic": ["^tool hire$"]}
+  },
+  "items": [
+    {
+      "displayName": "Boels",
+      "id": "boels-d0c09f",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "cz",
+          "de",
+          "gb",
+          "it",
+          "lu",
+          "nl",
+          "pl",
+          "sk"
+        ]
+      },
+      "matchNames": ["boels rental"],
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/8264",
+      "tags": {
+        "brand": "Boels",
+        "brand:wikidata": "Q19901961",
+        "name": "Boels",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Brandon Hire Station",
+      "id": "brandonhirestation-92549b",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["brandon tool hire"],
+      "tags": {
+        "brand": "Brandon Hire Station",
+        "brand:wikidata": "Q111578673",
+        "name": "Brandon Hire Station",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Casa do Construtor",
+      "id": "casadoconstrutor-a76fcc",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Casa do Construtor",
+        "brand:wikidata": "Q118672258",
+        "name": "Casa do Construtor",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Hirebase",
+      "id": "hirebase-92549b",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Hirebase",
+        "brand:wikidata": "Q100297859",
+        "name": "Hirebase",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "HSS Hire",
+      "id": "hsshire-a3cdb3",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchNames": ["hss hire shop"],
+      "tags": {
+        "brand": "HSS Hire",
+        "brand:wikidata": "Q5636000",
+        "name": "HSS Hire",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Kiloutou",
+      "id": "kiloutou-d6c674",
+      "locationSet": {
+        "include": ["de", "es", "fr", "it", "pl"]
+      },
+      "tags": {
+        "brand": "Kiloutou",
+        "brand:wikidata": "Q3196672",
+        "name": "Kiloutou",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Library of Things",
+      "id": "libraryofthings-c10465",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "brand": "Library of Things",
+        "brand:wikidata": "Q111034265",
+        "name": "Library of Things",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Loxam",
+      "id": "loxam-33fef8",
+      "locationSet": {
+        "include": [
+          "ae",
+          "be",
+          "bh",
+          "br",
+          "ch",
+          "co",
+          "cz",
+          "de",
+          "dk",
+          "ee",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "ie",
+          "it",
+          "kw",
+          "lt",
+          "lu",
+          "lv",
+          "ma",
+          "nl",
+          "no",
+          "om",
+          "pl",
+          "pt",
+          "qa",
+          "sa",
+          "se",
+          "sk"
+        ]
+      },
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/8264",
+      "tags": {
+        "brand": "Loxam",
+        "brand:wikidata": "Q3264407",
+        "name": "Loxam",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Rentas",
+      "id": "rentas-6e38b5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Rentas",
+        "brand:wikidata": "Q108602539",
+        "name": "Rentas",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Speedy Hire Centre",
+      "id": "speedyhirecentre-92549b",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["speedy hire centres"],
+      "tags": {
+        "brand": "Speedy",
+        "brand:wikidata": "Q7575722",
+        "name": "Speedy Hire Centre",
+        "shop": "tool_hire"
+      }
+    },
+    {
+      "displayName": "Talisman Hire",
+      "id": "talismanhire-474479",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Talisman Hire",
+        "brand:wikidata": "Q120885726",
+        "name": "Talisman Hire",
+        "shop": "tool_hire"
+      }
+    }
+  ]
+}

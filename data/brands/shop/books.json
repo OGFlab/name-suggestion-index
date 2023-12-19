@@ -1,0 +1,1695 @@
+{
+  "properties": {
+    "path": "brands/shop/books",
+    "exclude": {
+      "generic": [
+        "^(books|księgarnia|libro)$",
+        "^librer[ií]a$",
+        "^книги$"
+      ],
+      "named": ["^lot 1$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Akademibokhandeln",
+      "id": "akademibokhandeln-9645e8",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Akademibokhandeln",
+        "brand:wikidata": "Q10403918",
+        "name": "Akademibokhandeln",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Akateeminen Kirjakauppa",
+      "id": "akateeminenkirjakauppa-0c91f3",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "brand": "Akateeminen Kirjakauppa",
+        "brand:wikidata": "Q10403942",
+        "name": "Akateeminen Kirjakauppa",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "AKO",
+      "id": "ako-1267b5",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "AKO",
+        "brand:wikidata": "Q2159963",
+        "name": "AKO",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Alpha Buchhandlung",
+      "id": "alphabuchhandlung-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Alpha Buchhandlung",
+        "brand:wikidata": "Q294493",
+        "name": "Alpha Buchhandlung",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Amazon Books",
+      "id": "amazonbooks-1bd7b6",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Amazon Books",
+        "brand:wikidata": "Q22906322",
+        "name": "Amazon Books",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Ark bokhandel",
+      "id": "ark-ed60d1",
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Ark bokhandel",
+        "brand:wikidata": "Q11958706",
+        "name": "Ark",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Bargain Books",
+      "id": "bargainbooks-8d3b5b",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Bargain Books",
+        "brand:wikidata": "Q116741024",
+        "name": "Bargain Books",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Barnes & Noble",
+      "id": "barnesandnoble-1bd7b6",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Barnes & Noble College",
+      "id": "barnesandnoblecollege-1bd7b6",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "barnes & noble university stores"
+      ],
+      "tags": {
+        "brand": "Barnes & Noble College",
+        "brand:wikidata": "Q4861508",
+        "name": "Barnes & Noble College",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Bertrand",
+      "id": "bertrand-817210",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "brand": "Bertrand",
+        "brand:wikidata": "Q1866547",
+        "name": "Bertrand",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Boekenvoordeel",
+      "id": "boekenvoordeel-1267b5",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Boekenvoordeel",
+        "brand:wikidata": "Q3345649",
+        "name": "Boekenvoordeel",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Bog & ide",
+      "id": "bogandide-d03d88",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "brand": "Bog & idé",
+        "brand:wikidata": "Q12303981",
+        "name": "Bog & idé",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Bonito",
+      "id": "bonito-0c5adb",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Bonito",
+        "brand:wikidata": "Q113308389",
+        "name": "Bonito",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Books-A-Million",
+      "id": "booksamillion-1bd7b6",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Books-A-Million",
+        "brand:wikidata": "Q4943266",
+        "name": "Books-A-Million",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Bruna",
+      "id": "bruna-1267b5",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Bruna",
+        "brand:wikidata": "Q3317555",
+        "name": "Bruna",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Bücher Pustet",
+      "id": "bucherpustet-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["pustet"],
+      "tags": {
+        "brand": "Bücher Pustet",
+        "brand:wikidata": "Q1461605",
+        "name": "Bücher Pustet",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Buchhandlung Walther König",
+      "id": "buchhandlungwaltherkonig-bb573d",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "de",
+          "fr",
+          "gb-eng",
+          "it",
+          "nl"
+        ]
+      },
+      "matchNames": [
+        "buchhandlung könig",
+        "könig",
+        "walther könig"
+      ],
+      "tags": {
+        "brand": "Buchhandlung Walther König",
+        "brand:wikidata": "Q998441",
+        "name": "Buchhandlung Walther König",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Cărturești",
+      "id": "carturesti-2e1569",
+      "locationSet": {"include": ["md", "ro"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Cărturești",
+        "brand:wikidata": "Q12726202",
+        "name": "Cărturești",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Casa del Libro",
+      "id": "casadellibro-03d7b8",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "brand": "Casa del Libro",
+        "brand:wikidata": "Q5755514",
+        "name": "Casa del Libro",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Chapters",
+      "id": "chapters-285257",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Chapters",
+        "brand:wikidata": "Q5073540",
+        "name": "Chapters",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Christian Science Reading Room",
+      "id": "christiansciencereadingroom-1bd7b6",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "name": "Christian Science Reading Room",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Coles",
+      "id": "coles-c95919",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q5144641",
+        "name": "Coles",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Crossword Bookstores",
+      "id": "crosswordbookstores-be6694",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Crossword Bookstores",
+        "brand:wikidata": "Q5188909",
+        "name": "Crossword Bookstores",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Cultura",
+      "id": "cultura-f3b31c",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Cultura",
+        "brand:wikidata": "Q3007154",
+        "name": "Cultura",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "D&R",
+      "id": "dandr-c24b88",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "D&R",
+        "brand:wikidata": "Q27431235",
+        "name": "D&R",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Daunt Books",
+      "id": "dauntbooks-587203",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "tags": {
+        "brand": "Daunt Books",
+        "brand:wikidata": "Q5228057",
+        "name": "Daunt Books",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Dedalus",
+      "id": "dedalus-0c5adb",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Dedalus",
+        "brand:wikidata": "Q113308417",
+        "name": "Dedalus",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Delfi",
+      "id": "d753a4-000b97",
+      "locationSet": {"include": ["rs"]},
+      "matchNames": [
+        "delfi knjižara",
+        "knjižara delfi",
+        "делфи књижара",
+        "књижара делфи"
+      ],
+      "tags": {
+        "brand": "Делфи",
+        "brand:sr": "Делфи",
+        "brand:sr-Latn": "Delfi",
+        "brand:wikidata": "Q62081796",
+        "name": "Делфи",
+        "name:sr": "Делфи",
+        "name:sr-Latn": "Delfi",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Dymocks",
+      "id": "dymocks-e673a5",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Dymocks",
+        "brand:wikidata": "Q1280883",
+        "name": "Dymocks",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Eason",
+      "id": "eason-202425",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "brand": "Eason",
+        "brand:wikidata": "Q3046482",
+        "name": "Eason",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Empik",
+      "id": "empik-0c5adb",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Empik",
+        "brand:wikidata": "Q3045978",
+        "name": "Empik",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Exclusive Books",
+      "id": "exclusivebooks-086859",
+      "locationSet": {
+        "include": ["bw", "na", "za"]
+      },
+      "tags": {
+        "brand": "Exclusive Books",
+        "brand:wikidata": "Q5419679",
+        "name": "Exclusive Books",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Foyles",
+      "id": "foyles-e6b908",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "brand": "Foyles",
+        "brand:wikidata": "Q1440267",
+        "name": "Foyles",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "France Loisirs",
+      "id": "franceloisirs-f3b31c",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "France Loisirs",
+        "brand:wikidata": "Q3080726",
+        "name": "France Loisirs",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Gandhi",
+      "id": "gandhi-1ea9d6",
+      "locationSet": {"include": ["mx"]},
+      "matchNames": [
+        "librería gandhi",
+        "librerías gandhi"
+      ],
+      "tags": {
+        "brand": "Gandhi",
+        "brand:wikidata": "Q17071066",
+        "name": "Gandhi",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Giunti al Punto",
+      "id": "giuntialpunto-56c580",
+      "locationSet": {"include": ["it"]},
+      "matchNames": [
+        "giunti",
+        "libreria giunti",
+        "librerie giunti"
+      ],
+      "tags": {
+        "brand": "Giunti al Punto",
+        "brand:wikidata": "Q76505309",
+        "name": "Giunti al Punto",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Gramedia",
+      "id": "gramedia-828c8f",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "brand": "Gramedia",
+        "brand:wikidata": "Q19646130",
+        "name": "Gramedia",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Half Price Books",
+      "id": "halfpricebooks-1bd7b6",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Half Price Books",
+        "brand:wikidata": "Q5641744",
+        "name": "Half Price Books",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Higginbotham's",
+      "id": "higginbothams-be6694",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Higginbotham's",
+        "brand:wikidata": "Q1572944",
+        "name": "Higginbotham's",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Hudson Booksellers",
+      "id": "hudsonbooksellers-285257",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Hudson Booksellers",
+        "brand:wikidata": "Q111534550",
+        "name": "Hudson Booksellers",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Hugendubel",
+      "id": "hugendubel-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Hugendubel",
+        "brand:wikidata": "Q1634142",
+        "name": "Hugendubel",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Indigo",
+      "id": "indigo-285257",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "alt_name": "!ndigo",
+        "brand": "Indigo",
+        "brand:wikidata": "Q2477358",
+        "name": "Indigo",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Jokers",
+      "id": "jokers-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Jokers",
+        "brand:wikidata": "Q27801057",
+        "name": "Jokers",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "La Feltrinelli",
+      "id": "lafeltrinelli-56c580",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "La Feltrinelli",
+        "brand:wikidata": "Q96311190",
+        "name": "La Feltrinelli",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "La Procure",
+      "id": "laprocure-9d3dbd",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "La Procure",
+        "brand:wikidata": "Q3211977",
+        "name": "La Procure",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Laguna",
+      "id": "bbcfec-000b97",
+      "locationSet": {"include": ["rs"]},
+      "tags": {
+        "brand": "Лагуна",
+        "brand:sr": "Лагуна",
+        "brand:sr-Latn": "Laguna",
+        "brand:wikidata": "Q12754418",
+        "name": "Лагуна",
+        "name:sr": "Лагуна",
+        "name:sr-Latn": "Laguna",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Leitura",
+      "id": "leitura-fdaa32",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "alt_name": "Livraria Leitura",
+        "brand": "Leitura",
+        "brand:wikidata": "Q6176628",
+        "name": "Leitura",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Libris",
+      "id": "libris-1267b5",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Libris",
+        "brand:wikidata": "Q2933427",
+        "name": "Libris",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Libro",
+      "id": "libro-95302b",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "brand": "Libro",
+        "brand:wikidata": "Q1823138",
+        "name": "Libro",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Lüthy",
+      "id": "luthy-c5abff",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "Lüthy Balmer Stocker",
+        "brand:wikidata": "Q14018409",
+        "name": "Lüthy",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Martinus",
+      "id": "martinus-de15da",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "Martinus",
+        "brand:wikidata": "Q15089074",
+        "name": "Martinus",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Maxilivres",
+      "id": "maxilivres-f3b31c",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Maxilivres",
+        "brand:wikidata": "Q3302434",
+        "name": "Maxilivres",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Mayersche",
+      "id": "mayersche-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Mayersche",
+        "brand:wikidata": "Q1462383",
+        "name": "Mayersche",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Mondadori",
+      "id": "mondadori-56c580",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Mondadori",
+        "brand:wikidata": "Q85355",
+        "name": "Mondadori",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Morawa",
+      "id": "morawa-95302b",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "brand": "Morawa",
+        "brand:wikidata": "Q1947238",
+        "name": "Morawa",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "National Book Store",
+      "id": "nationalbookstore-08d1a3",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "National Book Store",
+        "brand:wikidata": "Q6971094",
+        "name": "National Book Store",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Norli",
+      "id": "norli-ed60d1",
+      "locationSet": {"include": ["no"]},
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Norli",
+        "brand:wikidata": "Q1999199",
+        "name": "Norli",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Orell Füssli",
+      "id": "orellfussli-c5abff",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "Orell Füssli",
+        "brand:wikidata": "Q1511140",
+        "name": "Orell Füssli",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Osiander",
+      "id": "osiander-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Osiander",
+        "brand:wikidata": "Q1800686",
+        "name": "Osiander",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Oxfam Bookshop",
+      "id": "oxfambookshop-4cb062",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Oxfam Bookshop",
+        "brand:wikidata": "Q7115196",
+        "name": "Oxfam Bookshop",
+        "second_hand": "only",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Oxford Bookstore",
+      "id": "oxfordbookstore-be6694",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Oxford Bookstore",
+        "brand:wikidata": "Q7115252",
+        "name": "Oxford Bookstore",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Pandayan Bookshop",
+      "id": "pandayanbookshop-08d1a3",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "Pandayan Bookshop",
+        "brand:wikidata": "Q120220745",
+        "name": "Pandayan Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Panta Rhei",
+      "id": "pantarhei-de15da",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "Panta Rhei",
+        "brand:wikidata": "Q93431299",
+        "name": "Panta Rhei",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Paper Plus",
+      "id": "paperplus-fe66a8",
+      "locationSet": {"include": ["nz"]},
+      "matchTags": ["shop/stationery"],
+      "tags": {
+        "brand": "Paper Plus",
+        "brand:wikidata": "Q110437236",
+        "name": "Paper Plus",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Popular",
+      "id": "popular-a6ba8a",
+      "locationSet": {"include": ["my", "sg"]},
+      "matchTags": ["shop/stationery"],
+      "tags": {
+        "brand": "Popular",
+        "brand:wikidata": "Q4167785",
+        "brand:zh": "大众书局",
+        "name": "Popular",
+        "name:zh": "大众书局",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Porrúa",
+      "id": "porrua-1ea9d6",
+      "locationSet": {"include": ["mx"]},
+      "matchNames": [
+        "librería porrua",
+        "librerías porrua"
+      ],
+      "tags": {
+        "brand": "Porrúa",
+        "brand:wikidata": "Q981374",
+        "name": "Porrúa",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Press & Books",
+      "id": "pressandbooks-76a200",
+      "locationSet": {
+        "include": ["at", "ch", "de", "lu"]
+      },
+      "matchNames": ["p&k"],
+      "tags": {
+        "brand": "Press & Books",
+        "brand:wikidata": "Q100407277",
+        "name": "Press & Books",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "QBD Books",
+      "id": "qbdbooks-e673a5",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "QBD Books",
+        "brand:wikidata": "Q7270909",
+        "name": "QBD Books",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Remzi Kitabevi",
+      "id": "remzikitabevi-c24b88",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Remzi Kitabevi",
+        "brand:wikidata": "Q2143214",
+        "name": "Remzi Kitabevi",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Rupprecht",
+      "id": "rupprecht-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["ruprecht"],
+      "tags": {
+        "brand": "Rupprecht",
+        "brand:wikidata": "Q89431762",
+        "name": "Rupprecht",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Seagull Book",
+      "id": "seagullbook-1bd7b6",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Seagull Book",
+        "brand:wikidata": "Q7440458",
+        "name": "Seagull Book",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Standaard Boekhandel",
+      "id": "standaardboekhandel-7d5083",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "brand": "Standaard Boekhandel",
+        "brand:wikidata": "Q3496554",
+        "name": "Standaard Boekhandel",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Suomalainen Kirjakauppa",
+      "id": "suomalainenkirjakauppa-0c91f3",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "brand": "Suomalainen Kirjakauppa",
+        "brand:wikidata": "Q7641808",
+        "name": "Suomalainen Kirjakauppa",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Świat Książki",
+      "id": "swiatksiazki-0c5adb",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Świat Książki",
+        "brand:wikidata": "Q9396199",
+        "name": "Świat Książki",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Thalia",
+      "id": "thalia-5cfe4f",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "Thalia",
+        "brand:wikidata": "Q2408854",
+        "name": "Thalia",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "The Readshop",
+      "id": "thereadshop-1267b5",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "The Readshop",
+        "brand:wikidata": "Q114905224",
+        "name": "The Readshop",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "The Works",
+      "id": "theworks-b448ba",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "brand": "The Works",
+        "brand:wikidata": "Q7775853",
+        "name": "The Works",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "TSUTAYA",
+      "id": "tsutaya-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "TSUTAYA",
+        "brand:wikidata": "Q5193457",
+        "name": "TSUTAYA",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Ubik",
+      "id": "ubik-56c580",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Ubik",
+        "brand:wikidata": "Q103169450",
+        "name": "Ubik",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Van Schaik",
+      "id": "vanschaik-8d3b5b",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Van Schaik",
+        "brand:wikidata": "Q116741158",
+        "name": "Van Schaik",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Vulkan",
+      "id": "2b3ec0-000b97",
+      "locationSet": {"include": ["rs"]},
+      "matchNames": [
+        "knjižara vulkan",
+        "vulkan knjižara",
+        "вулкан књижара",
+        "књижара вулкан"
+      ],
+      "tags": {
+        "brand": "Вулкан",
+        "brand:sr": "Вулкан",
+        "brand:sr-Latn": "Vulkan",
+        "brand:wikidata": "Q114735398",
+        "name": "Вулкан",
+        "name:sr": "Вулкан",
+        "name:sr-Latn": "Vulkan",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Waterstones",
+      "id": "waterstones-3a34ca",
+      "locationSet": {
+        "include": ["be", "gb", "ie", "je", "nl"]
+      },
+      "tags": {
+        "brand": "Waterstones",
+        "brand:wikidata": "Q151779",
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Weltbild",
+      "id": "weltbild-65e1d5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Weltbild",
+        "brand:wikidata": "Q883522",
+        "name": "Weltbild",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Whitcoulls",
+      "id": "whitcoulls-fe66a8",
+      "locationSet": {"include": ["nz"]},
+      "matchTags": ["shop/stationery"],
+      "tags": {
+        "brand": "Whitcoulls",
+        "brand:wikidata": "Q7994237",
+        "name": "Whitcoulls",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "WHSmith",
+      "id": "whsmith-4d39b8",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "brand": "WHSmith",
+        "brand:wikidata": "Q1548712",
+        "name": "WHSmith",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "WH史密斯",
+      "id": "whsmith-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "WH史密斯",
+        "brand:en": "WHSmith",
+        "brand:wikidata": "Q1548712",
+        "brand:zh": "WH史密斯",
+        "name": "WH史密斯",
+        "name:en": "WHSmith",
+        "name:zh": "WH史密斯",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Белкнига",
+      "id": "belkniga-9972c8",
+      "locationSet": {"include": ["by"]},
+      "tags": {
+        "brand": "Белкнига",
+        "brand:en": "Belkniga",
+        "brand:wikidata": "Q60793563",
+        "name": "Белкнига",
+        "name:en": "Belkniga",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Буквоед",
+      "id": "9698e8-4175bc",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Буквоед",
+        "brand:wikidata": "Q4098549",
+        "name": "Буквоед",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Дом книги",
+      "id": "fcb83c-4175bc",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Дом книги",
+        "brand:wikidata": "Q48950742",
+        "name": "Дом книги",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Є",
+      "id": "5b11cd-6e5bbf",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["книгарня є"],
+      "tags": {
+        "brand": "Є",
+        "brand:wikidata": "Q12073058",
+        "name": "Є",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "КСД",
+      "id": "ksd-6e5bbf",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["клуб сімейного дозвілля"],
+      "tags": {
+        "brand": "КСД",
+        "brand:en": "KSD",
+        "brand:uk": "КСД",
+        "brand:wikidata": "Q12129440",
+        "name": "КСД",
+        "name:en": "KSD",
+        "name:uk": "КСД",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Читай-город",
+      "id": "2b704f-4175bc",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Читай-город",
+        "brand:wikidata": "Q4516645",
+        "name": "Читай-город",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "סטימצקי",
+      "id": "steimatzky-428a21",
+      "locationSet": {"include": ["il"]},
+      "tags": {
+        "brand": "סטימצקי",
+        "brand:en": "Steimatzky",
+        "brand:he": "סטימצקי",
+        "brand:wikidata": "Q2903995",
+        "name": "סטימצקי",
+        "name:en": "Steimatzky",
+        "name:he": "סטימצקי",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "צומת ספרים",
+      "id": "tzometsfarm-428a21",
+      "locationSet": {"include": ["il"]},
+      "matchNames": ["zomet sfarim"],
+      "tags": {
+        "brand": "צומת ספרים",
+        "brand:en": "Tzomet Sfarim",
+        "brand:he": "צומת ספרים",
+        "brand:wikidata": "Q6743833",
+        "name": "צומת ספרים",
+        "name:en": "Tzomet Sfarm",
+        "name:he": "צומת ספרים",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "مكتبة العبيكان",
+      "id": "obeikanstores-9ea300",
+      "locationSet": {"include": ["sa"]},
+      "matchNames": ["العبيكان"],
+      "tags": {
+        "brand": "مكتبة العبيكان",
+        "brand:ar": "مكتبة العبيكان",
+        "brand:en": "ObeikanStores",
+        "brand:wikidata": "Q12244784",
+        "name": "مكتبة العبيكان",
+        "name:ar": "مكتبة العبيكان",
+        "name:en": "ObeikanStores",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "مكتبة جرير",
+      "id": "jarirbookstore-e19842",
+      "locationSet": {
+        "include": ["ae", "kw", "qa", "sa"]
+      },
+      "matchNames": ["جرير"],
+      "tags": {
+        "brand": "مكتبة جرير",
+        "brand:ar": "مكتبة جرير",
+        "brand:en": "Jarir Bookstore",
+        "brand:wikidata": "Q6160243",
+        "name": "مكتبة جرير",
+        "name:ar": "مكتبة جرير",
+        "name:en": "Jarir Bookstore",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "あおい書店",
+      "id": "aoi-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "あおい書店",
+        "brand:en": "AOI",
+        "brand:ja": "あおい書店",
+        "brand:wikidata": "Q11256783",
+        "name": "あおい書店",
+        "name:en": "AOI",
+        "name:ja": "あおい書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "オリオン書房",
+      "id": "orionbooks-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "オリオン書房",
+        "brand:en": "Orion Books",
+        "brand:ja": "オリオン書房",
+        "brand:wikidata": "Q11292597",
+        "name": "オリオン書房",
+        "name:en": "Orion Books",
+        "name:ja": "オリオン書房",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "くまざわ書店",
+      "id": "kumazawabooks-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "alt_name:en": "Kumabook",
+        "brand": "くまざわ書店",
+        "brand:en": "Kumazawa Books",
+        "brand:ja": "くまざわ書店",
+        "brand:wikidata": "Q11265517",
+        "name": "くまざわ書店",
+        "name:en": "Kumazawa Books",
+        "name:ja": "くまざわ書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "ジュンク堂書店",
+      "id": "junkudo-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["ジュンク"],
+      "tags": {
+        "brand": "ジュンク堂書店",
+        "brand:en": "Junkudo",
+        "brand:ja": "ジュンク堂書店",
+        "brand:wikidata": "Q3190093",
+        "name": "ジュンク堂書店",
+        "name:en": "Junkudo",
+        "name:ja": "ジュンク堂書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "とらのあな",
+      "id": "comictoranoana-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "books": "comic",
+        "brand": "とらのあな",
+        "brand:en": "Toranoana",
+        "brand:ja": "とらのあな",
+        "brand:wikidata": "Q865297",
+        "name": "とらのあな",
+        "name:en": "Comic Toranoana",
+        "name:ja": "とらのあな",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "ブックオフ",
+      "id": "bookoff-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ブックオフ",
+        "brand:en": "Book Off",
+        "brand:ja": "ブックオフ",
+        "brand:wikidata": "Q893011",
+        "name": "ブックオフ",
+        "name:en": "Book Off",
+        "name:ja": "ブックオフ",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "ブックファースト",
+      "id": "book1st-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["ブック最初"],
+      "tags": {
+        "brand": "ブックファースト",
+        "brand:en": "Book1st",
+        "brand:ja": "ブックファースト",
+        "brand:wikidata": "Q11334365",
+        "name": "ブックファースト",
+        "name:en": "Book1st",
+        "name:ja": "ブックファースト",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "メロンブックス",
+      "id": "melonbooks-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "メロンブックス",
+        "brand:en": "Melonbooks",
+        "brand:ja": "メロンブックス",
+        "brand:wikidata": "Q10851653",
+        "name": "メロンブックス",
+        "name:en": "Melonbooks",
+        "name:ja": "メロンブックス",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "リブロ",
+      "id": "libro-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "リブロ",
+        "brand:en": "LIBRO",
+        "brand:ja": "リブロ",
+        "brand:wikidata": "Q6542768",
+        "name": "リブロ",
+        "name:en": "Libro",
+        "name:ja": "リブロ",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "三省堂書店",
+      "id": "bookssanseido-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "三省堂書店",
+        "brand:en": "Books Sanseido",
+        "brand:ja": "三省堂書店",
+        "brand:wikidata": "Q10866539",
+        "name": "三省堂書店",
+        "name:en": "Books Sanseido",
+        "name:ja": "三省堂書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "三聯書店 Joint Publishing",
+      "id": "jointpublishing-199399",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "三聯書店 Joint Publishing",
+        "brand:en": "Joint Publishing",
+        "brand:wikidata": "Q17012917",
+        "brand:zh": "三聯書店",
+        "brand:zh-Hans": "三联书店",
+        "brand:zh-Hant": "三聯書店",
+        "name": "三聯書店 Joint Publishing",
+        "name:en": "Joint Publishing",
+        "name:zh": "三聯書店",
+        "name:zh-Hans": "三联书店",
+        "name:zh-Hant": "三聯書店",
+        "owner": "聯合出版（集團）有限公司 Sino United Publishing (Holdings) Limited",
+        "owner:en": "Sino United Publishing (Holdings) Limited",
+        "owner:wikidata": "Q15912494",
+        "owner:zh": "聯合出版（集團）有限公司",
+        "owner:zh-Hans": "联合出版（集团）有限公司",
+        "owner:zh-Hant": "聯合出版（集團）有限公司",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "中信书店",
+      "id": "citicbooks-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "中信书店",
+        "brand:en": "CITIC Books",
+        "brand:wikidata": "Q108178107",
+        "brand:zh": "中信书店",
+        "name": "中信书店",
+        "name:en": "CITIC Books",
+        "name:zh": "中信书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "中華書局 Chung Hwa Book Company",
+      "id": "chunghwabookcompany-199399",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "中華書局 Chung Hwa Book Company",
+        "brand:en": "Chung Hwa Book Company",
+        "brand:wikidata": "Q10876287",
+        "brand:zh": "中華書局",
+        "brand:zh-Hans": "中华书局",
+        "brand:zh-Hant": "中華書局",
+        "name": "中華書局 Chung Hwa Book Company",
+        "name:en": "Chung Hwa Book Company",
+        "name:zh": "中華書局",
+        "name:zh-Hans": "中华书局",
+        "name:zh-Hant": "中華書局",
+        "owner": "聯合出版（集團）有限公司 Sino United Publishing (Holdings) Limited",
+        "owner:en": "Sino United Publishing (Holdings) Limited",
+        "owner:wikidata": "Q15912494",
+        "owner:zh": "聯合出版（集團）有限公司",
+        "owner:zh-Hans": "联合出版（集团）有限公司",
+        "owner:zh-Hant": "聯合出版（集團）有限公司",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "丸善",
+      "id": "maruzen-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["丸善書店"],
+      "tags": {
+        "brand": "丸善",
+        "brand:en": "MARUZEN",
+        "brand:ja": "丸善",
+        "brand:wikidata": "Q1906012",
+        "name": "丸善",
+        "name:en": "MARUZEN",
+        "name:ja": "丸善",
+        "official_name": "丸善雄松堂",
+        "official_name:en": "Maruzen Yushodo",
+        "official_name:ja": "丸善雄松堂",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "商務印書館 The Commercial Press",
+      "id": "thecommercialpress-199399",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "商務印書館 The Commercial Press",
+        "brand:en": "The Commercial Press",
+        "brand:wikidata": "Q10923130",
+        "brand:zh": "商務印書館",
+        "brand:zh-Hans": "商务印书馆",
+        "brand:zh-Hant": "商務印書館",
+        "name": "商務印書館 The Commercial Press",
+        "name:en": "The Commercial Press",
+        "name:zh": "商務印書館",
+        "name:zh-Hans": "商务印书馆",
+        "name:zh-Hant": "商務印書館",
+        "owner": "聯合出版（集團）有限公司 Sino United Publishing (Holdings) Limited",
+        "owner:en": "Sino United Publishing (Holdings) Limited",
+        "owner:wikidata": "Q15912494",
+        "owner:zh": "聯合出版（集團）有限公司",
+        "owner:zh-Hans": "联合出版（集团）有限公司",
+        "owner:zh-Hant": "聯合出版（集團）有限公司",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "大众书局",
+      "id": "dazo-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "大众书局",
+        "brand:en": "DAZO",
+        "brand:wikidata": "Q108178095",
+        "brand:zh": "大众书局",
+        "name": "大众书局",
+        "name:en": "DAZO",
+        "name:zh": "大众书局",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "宮脇書店",
+      "id": "miyawakishoten-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "宮脇書店",
+        "brand:en": "Miyawaki Shoten",
+        "brand:ja": "宮脇書店",
+        "brand:wikidata": "Q11455237",
+        "name": "宮脇書店",
+        "name:en": "Miyawaki Shoten",
+        "name:ja": "宮脇書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "当当阅界书店",
+      "id": "dangdangyuejiebookstore-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["当当书店", "当当阅界"],
+      "tags": {
+        "brand": "当当阅界书店",
+        "brand:en": "Dang Dang Yuejie Bookstore",
+        "brand:wikidata": "Q108178124",
+        "brand:zh": "当当阅界书店",
+        "name": "当当阅界书店",
+        "name:en": "Dang Dang Yuejie Bookstore",
+        "name:zh": "当当阅界书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "文教堂",
+      "id": "bunkyodo-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["文教堂書店"],
+      "tags": {
+        "brand": "文教堂",
+        "brand:en": "Bunkyodo",
+        "brand:ja": "文教堂",
+        "brand:wikidata": "Q11499974",
+        "name": "文教堂",
+        "name:en": "Bunkyodo",
+        "name:ja": "文教堂",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "新华书店",
+      "id": "xinhuabookstore-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "新华书店",
+        "brand:en": "Xinhua Bookstore",
+        "brand:wikidata": "Q6124193",
+        "brand:zh": "新华书店",
+        "name": "新华书店",
+        "name:en": "Xinhua Bookstore",
+        "name:zh": "新华书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "有隣堂",
+      "id": "yurindo-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "有隣堂",
+        "brand:en": "Yurindo",
+        "brand:ja": "有隣堂",
+        "brand:wikidata": "Q8061680",
+        "name": "有隣堂",
+        "name:en": "Yurindo",
+        "name:ja": "有隣堂",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "未来屋書店",
+      "id": "miraiyashoten-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "未来屋書店",
+        "brand:en": "Miraiya Shoten",
+        "brand:ja": "未来屋書店",
+        "brand:wikidata": "Q11519563",
+        "name": "未来屋書店",
+        "name:en": "Miraiya Shoten",
+        "name:ja": "未来屋書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "樊登书店",
+      "id": "fandengbooks-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "樊登书店",
+        "brand:en": "FAN DENG BOOKS",
+        "brand:wikidata": "Q108178138",
+        "brand:zh": "樊登书店",
+        "name": "樊登书店",
+        "name:en": "FAN DENG BOOKS",
+        "name:zh": "樊登书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "猫的天空之城概念书店",
+      "id": "momicafe-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": [
+        "猫的天空之城",
+        "猫的天空之城书店",
+        "猫空书店",
+        "猫空概念书店"
+      ],
+      "tags": {
+        "brand": "猫的天空之城概念书店",
+        "brand:en": "Momicafe",
+        "brand:wikidata": "Q16259482",
+        "brand:zh": "猫的天空之城概念书店",
+        "name": "猫的天空之城概念书店",
+        "name:en": "Momicafe",
+        "name:zh": "猫的天空之城概念书店",
+        "operator": "苏州天空之城图书有限公司",
+        "operator:en": "momibook",
+        "operator:zh": "苏州天空之城图书有限公司",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "紀伊國屋書店",
+      "id": "bookskinokuniya-39c53e",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "紀伊國屋書店",
+        "brand:en": "Books Kinokuniya",
+        "brand:ja": "紀伊國屋書店",
+        "brand:wikidata": "Q703227",
+        "name": "紀伊國屋書店",
+        "name:en": "Books Kinokuniya",
+        "name:ja": "紀伊國屋書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "西西弗书店",
+      "id": "sisyphebookstore-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "西西弗书店",
+        "brand:en": "Sisyphe Bookstore",
+        "brand:wikidata": "Q15904402",
+        "brand:zh": "西西弗书店",
+        "name": "西西弗书店",
+        "name:en": "Sisyphe Bookstore",
+        "name:zh": "西西弗书店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "言几又",
+      "id": "yanjiyou-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "言几又",
+        "brand:en": "Yan Ji You",
+        "brand:wikidata": "Q56419889",
+        "brand:zh": "言几又",
+        "name": "言几又",
+        "name:en": "Yan Ji You",
+        "name:zh": "言几又",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "誠品書店",
+      "id": "eslitebookstore-b7aa5f",
+      "locationSet": {
+        "include": ["cn", "tw"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "誠品書店",
+        "brand:en": "Eslite Bookstore",
+        "brand:wikidata": "Q391988",
+        "brand:zh": "誠品書店",
+        "name": "誠品書店",
+        "name:en": "Eslite Bookstore",
+        "name:zh": "誠品書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "誠品書店 Eslite Bookstore",
+      "id": "eslitebookstore-e5bda4",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "誠品書店 Eslite Bookstore",
+        "brand:en": "Eslite Bookstore",
+        "brand:wikidata": "Q391988",
+        "brand:zh": "誠品書店",
+        "brand:zh-Hans": "诚品书店",
+        "brand:zh-Hant": "誠品書店",
+        "name": "誠品書店 Eslite Bookstore",
+        "name:en": "Eslite Bookstore",
+        "name:zh": "誠品書店",
+        "name:zh-Hans": "诚品书店",
+        "name:zh-Hant": "誠品書店",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "墨格",
+      "id": "monogram-1c7751",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "墨格",
+        "brand:en": "monogram",
+        "brand:wikidata": "Q108178296",
+        "brand:zh": "墨格",
+        "name": "墨格",
+        "name:en": "monogram",
+        "name:zh": "墨格",
+        "operator": "苏州天空之城图书有限公司",
+        "operator:en": "momibook",
+        "operator:zh": "苏州天空之城图书有限公司",
+        "shop": "books"
+      }
+    }
+  ]
+}

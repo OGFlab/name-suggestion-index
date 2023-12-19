@@ -1,0 +1,58 @@
+{
+  "properties": {
+    "path": "brands/healthcare/counselling",
+    "exclude": {
+      "generic": [
+        "^counselling$",
+        "^поликлиника$",
+        "^поліклініка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bernstein Diet & Health Clinic",
+      "id": "bernsteindietandhealthclinic-e7c4e2",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["bernstein"],
+      "tags": {
+        "brand": "Bernstein Diet & Health Clinic",
+        "brand:wikidata": "Q6179221",
+        "healthcare": "counselling",
+        "healthcare:counselling": "dietitian",
+        "healthcare:speciality": "weight_loss",
+        "name": "Bernstein Diet & Health Clinic"
+      }
+    },
+    {
+      "displayName": "Jenny Craig",
+      "id": "jennycraig-364e20",
+      "locationSet": {
+        "include": ["au", "ca", "nz", "us"]
+      },
+      "tags": {
+        "brand": "Jenny Craig",
+        "brand:wikidata": "Q6179221",
+        "healthcare": "counselling",
+        "healthcare:counselling": "dietitian",
+        "healthcare:speciality": "weight_loss",
+        "name": "Jenny Craig"
+      }
+    },
+    {
+      "displayName": "WW Studio",
+      "id": "wwstudio-da5d0f",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["ww"],
+      "tags": {
+        "alt_name": "Weight Watchers",
+        "brand": "WW Studio",
+        "brand:wikidata": "Q1929466",
+        "healthcare": "counselling",
+        "healthcare:counselling": "dietitian",
+        "healthcare:speciality": "weight_loss",
+        "name": "WW Studio"
+      }
+    }
+  ]
+}

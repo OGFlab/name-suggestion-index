@@ -1,0 +1,32 @@
+{
+  "properties": {
+    "path": "brands/shop/curtain",
+    "exclude": {"generic": ["^curtain$"]}
+  },
+  "items": [
+    {
+      "displayName": "Heytens",
+      "id": "heytens-ceb642",
+      "locationSet": {
+        "include": ["be", "ch", "fr", "lu"]
+      },
+      "tags": {
+        "brand": "Heytens",
+        "brand:wikidata": "Q90565231",
+        "name": "Heytens",
+        "shop": "curtain"
+      }
+    },
+    {
+      "displayName": "Vianney",
+      "id": "vianney-8de768",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Vianney",
+        "brand:wikidata": "Q113203804",
+        "name": "Vianney",
+        "shop": "curtain"
+      }
+    }
+  ]
+}

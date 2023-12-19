@@ -1,0 +1,233 @@
+{
+  "properties": {
+    "path": "brands/healthcare/sample_collection",
+    "exclude": {
+      "generic": [
+        "^laborato(ire|ry)( d'analyses médicales)?$",
+        "^sample collection?$",
+        "^поликлиника$",
+        "^поліклініка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Australian Clinical Labs",
+      "id": "australianclinicallabs-b42694",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Australian Clinical Labs",
+        "brand:wikidata": "Q105256111",
+        "healthcare": "sample_collection",
+        "name": "Australian Clinical Labs"
+      }
+    },
+    {
+      "displayName": "Clinica Sante",
+      "id": "clinicasante-9f4d9c",
+      "locationSet": {"include": ["ro", "ua"]},
+      "matchNames": ["sante"],
+      "tags": {
+        "brand": "Clinica Sante",
+        "brand:wikidata": "Q121080834",
+        "healthcare": "sample_collection",
+        "name": "Clinica Sante"
+      }
+    },
+    {
+      "displayName": "CSD",
+      "id": "csd-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "сі ес ді лаб",
+        "тов сі ес ді лаб"
+      ],
+      "tags": {
+        "brand": "CSD",
+        "brand:wikidata": "Q117382737",
+        "healthcare": "sample_collection",
+        "name": "CSD"
+      }
+    },
+    {
+      "displayName": "Diagnostyka",
+      "id": "diagnostyka-42d0f5",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Diagnostyka",
+        "brand:wikidata": "Q118442310",
+        "healthcare": "sample_collection",
+        "name": "Diagnostyka"
+      }
+    },
+    {
+      "displayName": "Douglass Hanly Moir",
+      "id": "douglasshanlymoir-b42694",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Douglass Hanly Moir",
+        "brand:wikidata": "Q30253740",
+        "healthcare": "sample_collection",
+        "name": "Douglass Hanly Moir",
+        "short_name": "DHM"
+      }
+    },
+    {
+      "displayName": "Dr Lal Path Labs",
+      "id": "drlalpathlabs-f3fd3c",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Dr Lal Path Labs",
+        "brand:wikidata": "Q23198401",
+        "healthcare": "sample_collection"
+      }
+    },
+    {
+      "displayName": "Invivo (Україна)",
+      "id": "invivo-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["інвіво"],
+      "tags": {
+        "brand": "Invivo",
+        "brand:wikidata": "Q121898483",
+        "healthcare": "sample_collection",
+        "name": "Invivo"
+      }
+    },
+    {
+      "displayName": "Labtests",
+      "id": "labtests-04a251",
+      "locationSet": {
+        "include": ["nz-auk.geojson"]
+      },
+      "tags": {
+        "brand": "Labtests",
+        "brand:wikidata": "Q113312315",
+        "healthcare": "sample_collection",
+        "name": "Labtests"
+      }
+    },
+    {
+      "displayName": "Laverty Pathology",
+      "id": "lavertypathology-b42694",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Laverty Pathology",
+        "brand:wikidata": "Q105256033",
+        "healthcare": "sample_collection",
+        "name": "Laverty Pathology"
+      }
+    },
+    {
+      "displayName": "Nikolab",
+      "id": "nikolab-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["ніколаб"],
+      "tags": {
+        "brand": "Nikolab",
+        "brand:wikidata": "Q116924642",
+        "healthcare": "sample_collection",
+        "name": "Nikolab"
+      }
+    },
+    {
+      "displayName": "Synevo",
+      "id": "synevo-42d0f5",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Synevo",
+        "brand:wikidata": "Q108474045",
+        "healthcare": "sample_collection",
+        "name": "Synevo"
+      }
+    },
+    {
+      "displayName": "Діла",
+      "id": "dila-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["diла", "dіла"],
+      "tags": {
+        "brand": "Діла",
+        "brand:wikidata": "Q116927709",
+        "healthcare": "sample_collection",
+        "name": "Діла",
+        "name:en": "Dila",
+        "name:ru": "Дила",
+        "name:uk": "Діла"
+      }
+    },
+    {
+      "displayName": "Ескулаб",
+      "id": "bd71fa-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "Ескулаб",
+        "brand:wikidata": "Q108048285",
+        "healthcare": "sample_collection",
+        "name": "Ескулаб"
+      }
+    },
+    {
+      "displayName": "Медіс",
+      "id": "medis-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "Медіс",
+        "brand:en": "Medis",
+        "brand:uk": "Медіс",
+        "brand:wikidata": "Q122852637",
+        "healthcare": "sample_collection",
+        "name": "Медіс",
+        "name:en": "Medis",
+        "name:uk": "Медіс"
+      }
+    },
+    {
+      "displayName": "МедЛаб",
+      "id": "medlab-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "МедЛаб",
+        "brand:wikidata": "Q116924614",
+        "healthcare": "sample_collection",
+        "name": "МедЛаб",
+        "name:en": "MedLab",
+        "name:ru": "МедЛаб",
+        "name:uk": "МедЛаб"
+      }
+    },
+    {
+      "displayName": "Сінево",
+      "id": "synevo-c54d89",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["sinevo", "синево"],
+      "tags": {
+        "brand": "Сінево",
+        "brand:en": "Synevo",
+        "brand:uk": "Сінево",
+        "brand:wikidata": "Q65207011",
+        "healthcare": "sample_collection",
+        "name": "Сінево",
+        "name:en": "Synevo",
+        "name:ru": "Синэво",
+        "name:uk": "Сінево"
+      }
+    },
+    {
+      "displayName": "სინევო",
+      "id": "synevo-5675a4",
+      "locationSet": {"include": ["ge"]},
+      "matchNames": ["სინევი"],
+      "tags": {
+        "brand": "სინევო",
+        "brand:en": "Synevo",
+        "brand:ka": "სინევო",
+        "brand:wikidata": "Q117891346",
+        "healthcare": "sample_collection",
+        "name": "სინევო",
+        "name:en": "Synevo",
+        "name:ka": "სინევო"
+      }
+    }
+  ]
+}

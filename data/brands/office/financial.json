@@ -1,0 +1,121 @@
+{
+  "properties": {
+    "path": "brands/office/financial",
+    "exclude": {"generic": ["^financial$"]}
+  },
+  "items": [
+    {
+      "displayName": "CMG Financial",
+      "id": "cmgfinancial-07b653",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "CMG Financial",
+        "brand:wikidata": "Q120884918",
+        "name": "CMG Financial",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Kerala Financial Corporation",
+      "id": "keralafinancialcorporation-8505f7",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Kerala Financial Corporation",
+        "brand:wikidata": "Q17064561",
+        "name": "Kerala Financial Corporation",
+        "office": "financial",
+        "short_name": "KFC"
+      }
+    },
+    {
+      "displayName": "Kerala State Financial Enterprises",
+      "id": "ksfe-8505f7",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Kerala State Financial Enterprises",
+        "brand:wikidata": "Q6393471",
+        "name": "KSFE",
+        "office": "financial",
+        "official_name": "Kerala State Financial Enterprises"
+      }
+    },
+    {
+      "displayName": "Manappuram General Finance and Leasing",
+      "id": "manappuramgeneralfinanceandleasing-8505f7",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Manappuram General Finance and Leasing",
+        "brand:wikidata": "Q6746938",
+        "name": "Manappuram General Finance and Leasing",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Muthoot Finance",
+      "id": "muthootfinance-47d4e7",
+      "locationSet": {
+        "include": ["ae", "gb", "in", "us"]
+      },
+      "matchNames": ["muthoot india"],
+      "tags": {
+        "brand": "Muthoot Finance",
+        "brand:wikidata": "Q6943861",
+        "name": "Muthoot Finance",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Old Mutual",
+      "id": "oldmutual-38693f",
+      "locationSet": {
+        "include": [
+          "bw",
+          "cn",
+          "gh",
+          "ke",
+          "mw",
+          "na",
+          "ng",
+          "rw",
+          "ss",
+          "sz",
+          "tz",
+          "ug",
+          "za",
+          "zw"
+        ]
+      },
+      "matchTags": ["office/insurance"],
+      "tags": {
+        "brand": "Old Mutual",
+        "brand:wikidata": "Q289704",
+        "name": "Old Mutual",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Vousfinancer",
+      "id": "vousfinancer-1791d3",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Vousfinancer",
+        "brand:wikidata": "Q114185120",
+        "name": "Vousfinancer",
+        "office": "financial"
+      }
+    },
+    {
+      "displayName": "Ymanci",
+      "id": "ymanci-e4d72a",
+      "locationSet": {"include": ["fr"]},
+      "note": "Three branches: Assurances, Crédit immobilier and Regroupement de crédits",
+      "tags": {
+        "brand": "Ymanci",
+        "brand:wikidata": "Q109722251",
+        "name": "Ymanci",
+        "office": "financial",
+        "operator": "Premista"
+      }
+    }
+  ]
+}

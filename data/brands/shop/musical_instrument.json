@@ -1,0 +1,105 @@
+{
+  "properties": {
+    "path": "brands/shop/musical_instrument",
+    "exclude": {
+      "generic": ["^musical instrument$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Guitar Center",
+      "id": "guitarcenter-b8f0e1",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Guitar Center",
+        "brand:wikidata": "Q3622794",
+        "name": "Guitar Center",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "displayName": "Long & McQuade",
+      "id": "longandmcquade-25c79c",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Long & McQuade",
+        "brand:wikidata": "Q6672180",
+        "name": "Long & McQuade",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "displayName": "Muziker",
+      "id": "muziker-ae1cfe",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Muziker",
+        "brand:wikidata": "Q114425580",
+        "name": "Muziker",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "displayName": "山野楽器",
+      "id": "yamanomusic-84d595",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "山野楽器",
+        "brand:en": "Yamano Music",
+        "brand:ja": "山野楽器",
+        "brand:wikidata": "Q11471074",
+        "name": "山野楽器",
+        "name:en": "Yamano Music",
+        "name:ja": "山野楽器",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "displayName": "島村楽器",
+      "id": "shimamuramusic-84d595",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "島村楽器",
+        "brand:en": "Shimamura Music",
+        "brand:ja": "島村楽器",
+        "brand:wikidata": "Q11476395",
+        "name": "島村楽器",
+        "name:en": "Shimamura Music",
+        "name:ja": "島村楽器",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "displayName": "柏斯琴行 Parsons Music",
+      "id": "parsonsmusic-77cd7c",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["柏斯"],
+      "tags": {
+        "brand": "柏斯琴行 Parsons Music",
+        "brand:en": "Parsons Music",
+        "brand:wikidata": "Q11108147",
+        "brand:zh": "柏斯琴行",
+        "name": "柏斯琴行 Parsons Music",
+        "name:en": "Parsons Music",
+        "name:zh": "柏斯琴行",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "displayName": "通利琴行 Tom Lee Music",
+      "id": "tomleemusic-77cd7c",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["通利"],
+      "tags": {
+        "brand": "通利琴行 Tom Lee Music",
+        "brand:en": "Tom Lee Music",
+        "brand:wikidata": "Q43487",
+        "brand:zh": "通利琴行",
+        "name": "通利琴行 Tom Lee Music",
+        "name:en": "Tom Lee Music",
+        "name:zh": "通利琴行",
+        "shop": "musical_instrument"
+      }
+    }
+  ]
+}

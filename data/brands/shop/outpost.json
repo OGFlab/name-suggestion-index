@@ -1,0 +1,133 @@
+{
+  "properties": {
+    "path": "brands/shop/outpost",
+    "exclude": {"generic": ["^outpost$"]}
+  },
+  "items": [
+    {
+      "displayName": "Boxberry",
+      "id": "boxberry-968c70",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Boxberry",
+        "name": "Boxberry",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "KazanExpress",
+      "id": "kazanexpress-968c70",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "KazanExpress",
+        "name": "KazanExpress",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "Lamoda",
+      "id": "lamoda-968c70",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Lamoda",
+        "brand:wikidata": "Q97658635",
+        "name": "Lamoda",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "MaxMarket",
+      "id": "maxmarket-70cac3",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "MaxMarket",
+        "name": "MaxMarket",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "Ozon",
+      "id": "ozon-968c70",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Ozon",
+        "brand:wikidata": "Q2365235",
+        "name": "Ozon",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "Ozon Rocket",
+      "id": "ozonrocket-968c70",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Ozon Rocket",
+        "name": "Ozon Rocket",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "Rozetka",
+      "id": "rozetka-76dfdf",
+      "locationSet": {"include": ["md", "ua"]},
+      "matchNames": ["розетка", "розетка. уа"],
+      "matchTags": [
+        "office/company",
+        "shop/trade"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Rozetka",
+        "brand:wikidata": "Q12072279",
+        "name": "Rozetka",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "Wildberries",
+      "id": "wildberries-f8825b",
+      "locationSet": {
+        "include": [
+          "am",
+          "by",
+          "kg",
+          "kz",
+          "ru",
+          "uz"
+        ]
+      },
+      "matchTags": ["shop/clothes"],
+      "tags": {
+        "brand": "Wildberries",
+        "brand:wikidata": "Q24933714",
+        "name": "Wildberries",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "Онлайн Трейд",
+      "id": "eeed4b-968c70",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Онлайн Трейд",
+        "name": "Онлайн Трейд",
+        "shop": "outpost"
+      }
+    },
+    {
+      "displayName": "Яндекс.Маркет",
+      "id": "yandexmarket-968c70",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Яндекс.Маркет",
+        "brand:en": "Yandex.Market",
+        "brand:ru": "Яндекс.Маркет",
+        "brand:wikidata": "Q4537982",
+        "name": "Яндекс.Маркет",
+        "name:en": "Yandex.Market",
+        "name:ru": "Яндекс.Маркет",
+        "shop": "outpost"
+      }
+    }
+  ]
+}

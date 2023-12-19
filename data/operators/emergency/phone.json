@@ -1,0 +1,996 @@
+{
+  "properties": {
+    "path": "operators/emergency/phone",
+    "exclude": {
+      "generic": ["^phone$"],
+      "named": [
+        "^deutsche telekom$",
+        "^straßenmeisterei$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "AB Colinas",
+      "id": "abcolinas-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "AB Colinas"
+      }
+    },
+    {
+      "displayName": "AB Triangulo do Sol",
+      "id": "abtriangulodosol-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "AB Triangulo do Sol",
+        "operator:wikidata": "Q3539764"
+      }
+    },
+    {
+      "displayName": "Adelphi Public Safety & Transportation",
+      "id": "adelphipublicsafetyandtransportation-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Adelphi Public Safety & Transportation"
+      }
+    },
+    {
+      "displayName": "ARSSA",
+      "id": "arssa-91d45d",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "ARSSA"
+      }
+    },
+    {
+      "displayName": "Asfinag",
+      "id": "asfinag-ed5273",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Asfinag",
+        "operator:wikidata": "Q297650"
+      }
+    },
+    {
+      "displayName": "AT (Auckland Transport)",
+      "id": "at-25eda4",
+      "locationSet": {
+        "include": [
+          "nz-auk.geojson",
+          "nz-wko.geojson"
+        ]
+      },
+      "matchNames": ["auckland transport"],
+      "tags": {
+        "emergency": "phone",
+        "operator": "AT",
+        "operator:wikidata": "Q4819567"
+      }
+    },
+    {
+      "displayName": "Auburn University",
+      "id": "auburnuniversity-b53a22",
+      "locationSet": {
+        "include": ["us-al.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Auburn University",
+        "operator:wikidata": "Q540672"
+      }
+    },
+    {
+      "displayName": "AUSA",
+      "id": "ausa-91d45d",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "AUSA"
+      }
+    },
+    {
+      "displayName": "Autobahnmeisterei",
+      "id": "autobahnmeisterei-3876cc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Autobahnmeisterei"
+      }
+    },
+    {
+      "displayName": "Autobahnmeisterei Neumünster",
+      "id": "autobahnmeistereineumunster-6c607b",
+      "locationSet": {
+        "include": ["de-sh.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Autobahnmeisterei Neumünster"
+      }
+    },
+    {
+      "displayName": "Autopistas del Oeste",
+      "id": "autopistasdeloeste-91d45d",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Autopistas del Oeste"
+      }
+    },
+    {
+      "displayName": "Autopistas del Sol",
+      "id": "autopistasdelsol-91d45d",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Autopistas del Sol"
+      }
+    },
+    {
+      "displayName": "Autostrada Wielkopolska",
+      "id": "autostradawielkopolska-cf0612",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Autostrada Wielkopolska",
+        "operator:wikidata": "Q13404090"
+      }
+    },
+    {
+      "displayName": "Björn Steiger Stiftung",
+      "id": "bjornsteigerstiftung-3876cc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Björn Steiger Stiftung",
+        "operator:wikidata": "Q879521"
+      }
+    },
+    {
+      "displayName": "Bombers de la Generalitat de Catalunya",
+      "id": "bombersdelageneralitatdecatalunya-a463d2",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Bombers de la Generalitat de Catalunya",
+        "operator:wikidata": "Q8250689"
+      }
+    },
+    {
+      "displayName": "Bowling Green State University",
+      "id": "bowlinggreenstateuniversity-25a309",
+      "locationSet": {
+        "include": ["us-oh.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Bowling Green State University",
+        "operator:wikidata": "Q895457"
+      }
+    },
+    {
+      "displayName": "Brown University",
+      "id": "brownuniversity-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Brown University"
+      }
+    },
+    {
+      "displayName": "C5 CDMX",
+      "id": "c5cdmx-aab334",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "C5 CDMX"
+      }
+    },
+    {
+      "displayName": "Campus Police",
+      "id": "campuspolice-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Campus Police"
+      }
+    },
+    {
+      "displayName": "CART",
+      "id": "cart-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "CART"
+      }
+    },
+    {
+      "displayName": "CCR NovaDutra",
+      "id": "ccrnovadutra-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "CCR NovaDutra"
+      }
+    },
+    {
+      "displayName": "CCR SPVias",
+      "id": "ccrspvias-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "CCR SPVias"
+      }
+    },
+    {
+      "displayName": "Clemson University",
+      "id": "clemsonuniversity-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Clemson University"
+      }
+    },
+    {
+      "displayName": "CLN",
+      "id": "cln-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "CLN"
+      }
+    },
+    {
+      "displayName": "CSU, Chico Police Department",
+      "id": "csuchicopolicedepartment-a22ec8",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "CSU, Chico Police Department"
+      }
+    },
+    {
+      "displayName": "DDE",
+      "id": "dde-6aca25",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "DDE"
+      }
+    },
+    {
+      "displayName": "DDE15",
+      "id": "dde15-6aca25",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "DDE15"
+      }
+    },
+    {
+      "displayName": "DDE48",
+      "id": "dde48-6aca25",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "DDE48"
+      }
+    },
+    {
+      "displayName": "DDE81",
+      "id": "dde81-6aca25",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "DDE81"
+      }
+    },
+    {
+      "displayName": "Deutsche Bahn",
+      "id": "deutschebahn-3876cc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Deutsche Bahn",
+        "operator:wikidata": "Q9322"
+      }
+    },
+    {
+      "displayName": "Deutsche Telekom AG",
+      "id": "deutschetelekomag-3876cc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Deutsche Telekom AG",
+        "operator:wikidata": "Q9396"
+      }
+    },
+    {
+      "displayName": "Die Autobahn GmbH des Bundes",
+      "id": "dieautobahngmbhdesbundes-3876cc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Die Autobahn GmbH des Bundes",
+        "operator:wikidata": "Q31840061"
+      }
+    },
+    {
+      "displayName": "DIRIF",
+      "id": "dirif-6aca25",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "DIRIF"
+      }
+    },
+    {
+      "displayName": "DLRG / Björn Steiger Stiftung",
+      "id": "dlrgbjornsteigerstiftung-3876cc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "DLRG / Björn Steiger Stiftung"
+      }
+    },
+    {
+      "displayName": "Ecovias",
+      "id": "ecovias-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Ecovias"
+      }
+    },
+    {
+      "displayName": "Federal Road Safety Corps",
+      "id": "federalroadsafetycorps-3ed96b",
+      "locationSet": {"include": ["ng"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Federal Road Safety Corps",
+        "operator:short": "FRSC",
+        "operator:wikidata": "Q5440417"
+      }
+    },
+    {
+      "displayName": "Florida Polytechnic University Police Department",
+      "id": "floridapolytechnicuniversitypolicedepartment-c0aeb4",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Florida Polytechnic University Police Department"
+      }
+    },
+    {
+      "displayName": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+      "id": "generalnadyrekcjadrogkrajowychiautostrad-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Generalna Dyrekcja Dróg Krajowych i Autostrad"
+      }
+    },
+    {
+      "displayName": "Johns Hopkins University",
+      "id": "johnshopkinsuniversity-b21369",
+      "locationSet": {
+        "include": ["us-md.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Johns Hopkins University",
+        "operator:short": "JHU",
+        "operator:wikidata": "Q193727"
+      }
+    },
+    {
+      "displayName": "Kent State University",
+      "id": "kentstateuniversity-25a309",
+      "locationSet": {
+        "include": ["us-oh.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Kent State University",
+        "operator:wikidata": "Q1473615"
+      }
+    },
+    {
+      "displayName": "Landesbetrieb Straßenbau NRW",
+      "id": "landesbetriebstrassenbaunrw-3876cc",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["straßen.nrw"],
+      "tags": {
+        "emergency": "phone",
+        "operator": "Landesbetrieb Straßenbau NRW",
+        "operator:wikidata": "Q1548258"
+      }
+    },
+    {
+      "displayName": "Marquette University Department of Public Safety",
+      "id": "marquetteuniversitydepartmentofpublicsafety-05b8f9",
+      "locationSet": {
+        "include": ["us-wi.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Marquette University Department of Public Safety"
+      }
+    },
+    {
+      "displayName": "Milwaukee Police Department",
+      "id": "milwaukeepolicedepartment-142ed9",
+      "locationSet": {
+        "include": [[-87.9, 43.05]]
+      },
+      "note": "All phones seem to be tagged as historic and not in use, so should this be removed?",
+      "tags": {
+        "emergency": "phone",
+        "operator": "Milwaukee Police Department"
+      }
+    },
+    {
+      "displayName": "MIT",
+      "id": "mit-4facae",
+      "locationSet": {
+        "include": ["us-ma.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "MIT"
+      }
+    },
+    {
+      "displayName": "Münchner Verkehrsgesellschaft",
+      "id": "munchnerverkehrsgesellschaft-e1233b",
+      "locationSet": {
+        "include": [[11.56, 48.11]]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Münchner Verkehrsgesellschaft",
+        "operator:short": "MVG",
+        "operator:wikidata": "Q456402"
+      }
+    },
+    {
+      "displayName": "National Highways",
+      "id": "nationalhighways-851822",
+      "locationSet": {"include": ["gb-eng"]},
+      "matchNames": [
+        "highways agency",
+        "highways england"
+      ],
+      "tags": {
+        "emergency": "phone",
+        "operator": "National Highways",
+        "operator:type": "government",
+        "operator:wikidata": "Q5760006"
+      }
+    },
+    {
+      "displayName": "Nederlandse Spoorwegen",
+      "id": "nederlandsespoorwegen-5f7cd9",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Nederlandse Spoorwegen",
+        "operator:type": "government",
+        "operator:wikidata": "Q23076"
+      }
+    },
+    {
+      "displayName": "Network Rail",
+      "id": "networkrail-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Network Rail"
+      }
+    },
+    {
+      "displayName": "NLEX Corporation",
+      "id": "nlexcorporation-507034",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "NLEX Corporation",
+        "operator:wikidata": "Q60749735"
+      }
+    },
+    {
+      "displayName": "North Carolina State University",
+      "id": "northcarolinastateuniversity-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "North Carolina State University"
+      }
+    },
+    {
+      "displayName": "Oakland University Police Department",
+      "id": "oaklanduniversitypolicedepartment-4b3b14",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Oakland University Police Department"
+      }
+    },
+    {
+      "displayName": "Oklahoma State University Police Department",
+      "id": "oklahomastateuniversitypolicedepartment-d029cc",
+      "locationSet": {
+        "include": ["us-ok.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Oklahoma State University Police Department"
+      }
+    },
+    {
+      "displayName": "Poste SOS COVISUR",
+      "id": "postesoscovisur-0d25eb",
+      "locationSet": {"include": ["pe"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Poste SOS COVISUR"
+      }
+    },
+    {
+      "displayName": "Queen's University",
+      "id": "queensuniversity-de0db7",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Queen's University",
+        "operator:wikidata": "Q1420038"
+      }
+    },
+    {
+      "displayName": "Rochester Institute of Technology",
+      "id": "rochesterinstituteoftechnology-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Rochester Institute of Technology"
+      }
+    },
+    {
+      "displayName": "Rodovias das Colinas",
+      "id": "rodoviasdascolinas-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Rodovias das Colinas"
+      }
+    },
+    {
+      "displayName": "Rodovias do Tietê",
+      "id": "rodoviasdotiete-880fe0",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Rodovias do Tietê"
+      }
+    },
+    {
+      "displayName": "ŘSD",
+      "id": "rsd-5526e0",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "ŘSD"
+      }
+    },
+    {
+      "displayName": "Sacred Heart Medical Center at Riverbend",
+      "id": "sacredheartmedicalcenteratriverbend-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Sacred Heart Medical Center at Riverbend"
+      }
+    },
+    {
+      "displayName": "SANEF",
+      "id": "sanef-6aca25",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "SANEF"
+      }
+    },
+    {
+      "displayName": "Santa Clara County",
+      "id": "santaclaracounty-87c79e",
+      "locationSet": {
+        "include": [[-121.95, 37.35, 25]]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Santa Clara County"
+      }
+    },
+    {
+      "displayName": "SAPN",
+      "id": "sapn-6aca25",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "SAPN"
+      }
+    },
+    {
+      "displayName": "SDSU Police Department",
+      "id": "sdsupolicedepartment-a22ec8",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "SDSU Police Department"
+      }
+    },
+    {
+      "displayName": "Seattle University",
+      "id": "seattleuniversity-82c3f1",
+      "locationSet": {
+        "include": ["us-wa.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Seattle University"
+      }
+    },
+    {
+      "displayName": "Security Blue Phone",
+      "id": "securitybluephone-dc8817",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Security Blue Phone"
+      }
+    },
+    {
+      "displayName": "Slippery Rock University",
+      "id": "slipperyrockuniversity-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Slippery Rock University"
+      }
+    },
+    {
+      "displayName": "SNCF",
+      "id": "sncf-697f7d",
+      "locationSet": {"include": ["fr"]},
+      "matchNames": [
+        "société nationale des chemins de fer français"
+      ],
+      "tags": {
+        "emergency": "phone",
+        "operator": "SNCF",
+        "operator:type": "government",
+        "operator:wikidata": "Q13646"
+      }
+    },
+    {
+      "displayName": "Stadt Karlsruhe",
+      "id": "stadtkarlsruhe-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Stadt Karlsruhe"
+      }
+    },
+    {
+      "displayName": "Stadtwerke Augsburg",
+      "id": "stadtwerkeaugsburg-223542",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Stadtwerke Augsburg",
+        "operator:wikidata": "Q2328426"
+      }
+    },
+    {
+      "displayName": "Svenska Turistföreningen",
+      "id": "svenskaturistforeningen-76fb80",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Svenska Turistföreningen",
+        "operator:wikidata": "Q1492844"
+      }
+    },
+    {
+      "displayName": "Texas Woman's University",
+      "id": "texaswomansuniversity-d7c31f",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Texas Woman's University"
+      }
+    },
+    {
+      "displayName": "TII",
+      "id": "tii-ee7ba4",
+      "locationSet": {"include": ["ie"]},
+      "matchNames": [
+        "bonneagar iompair éireann",
+        "transport infrastructure ireland"
+      ],
+      "tags": {
+        "emergency": "phone",
+        "operator": "TII",
+        "operator:type": "government",
+        "operator:wikidata": "Q26838200"
+      }
+    },
+    {
+      "displayName": "Towson University",
+      "id": "towsonuniversity-b21369",
+      "locationSet": {
+        "include": ["us-md.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Towson University"
+      }
+    },
+    {
+      "displayName": "Transfort",
+      "id": "transfort-2829ac",
+      "locationSet": {
+        "include": ["us-co.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Transfort",
+        "operator:wikidata": "Q7834201"
+      }
+    },
+    {
+      "displayName": "Transport for NSW",
+      "id": "transportfornsw-86d884",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Transport for NSW"
+      }
+    },
+    {
+      "displayName": "Trenes Argentinos",
+      "id": "trenesargentinos-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Trenes Argentinos"
+      }
+    },
+    {
+      "displayName": "U.S Customs and Border Protection",
+      "id": "uscustomsandborderprotection-dc8817",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "U.S Customs and Border Protection",
+        "operator:short": "CBP",
+        "operator:wikidata": "Q368804"
+      }
+    },
+    {
+      "displayName": "UBC Security",
+      "id": "ubcsecurity-6c17a8",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "UBC Security"
+      }
+    },
+    {
+      "displayName": "UF Police Department",
+      "id": "ufpolicedepartment-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "UF Police Department"
+      }
+    },
+    {
+      "displayName": "UMass Lowell",
+      "id": "umasslowell-4facae",
+      "locationSet": {
+        "include": ["us-ma.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "UMass Lowell"
+      }
+    },
+    {
+      "displayName": "University of Canterbury",
+      "id": "universityofcanterbury-dce6cd",
+      "locationSet": {
+        "include": ["nz-can.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "University of Canterbury",
+        "operator:wikidata": "Q432475"
+      }
+    },
+    {
+      "displayName": "University of Melbourne",
+      "id": "universityofmelbourne-9d2726",
+      "locationSet": {
+        "include": ["au-vic.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "University of Melbourne"
+      }
+    },
+    {
+      "displayName": "University of Sussex",
+      "id": "universityofsussex-851822",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "University of Sussex",
+        "operator:wikidata": "Q1161297"
+      }
+    },
+    {
+      "displayName": "University of Toronto",
+      "id": "universityoftoronto-de0db7",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "University of Toronto"
+      }
+    },
+    {
+      "displayName": "University of Washington Police Department",
+      "id": "universityofwashingtonpolicedepartment-82c3f1",
+      "locationSet": {
+        "include": ["us-wa.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "University of Washington Police Department"
+      }
+    },
+    {
+      "displayName": "ÜSTRA Hannoversche Verkehrsbetriebe AG",
+      "id": "ustrahannoverscheverkehrsbetriebeag-3876cc",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "ÜSTRA Hannoversche Verkehrsbetriebe AG",
+        "operator:wikidata": "Q265625"
+      }
+    },
+    {
+      "displayName": "Verkehrsbetriebe Karlsruhe GmbH",
+      "id": "verkehrsbetriebekarlsruhegmbh-d9e125",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH"
+      }
+    },
+    {
+      "displayName": "Vicente López Patrulla",
+      "id": "vicentelopezpatrulla-91d45d",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Vicente López Patrulla",
+        "operator:wikidata": "Q97179385"
+      }
+    },
+    {
+      "displayName": "Virginia Tech",
+      "id": "virginiatech-1efc6c",
+      "locationSet": {
+        "include": ["us-va.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Virginia Tech"
+      }
+    },
+    {
+      "displayName": "Waka Kotahi",
+      "id": "wakakotahi-ed25d5",
+      "locationSet": {"include": ["nz"]},
+      "matchNames": [
+        "new zealand transport agency",
+        "nzta"
+      ],
+      "tags": {
+        "emergency": "phone",
+        "operator": "Waka Kotahi",
+        "operator:wikidata": "Q7015807"
+      }
+    },
+    {
+      "displayName": "Western Carolina University Police",
+      "id": "westerncarolinauniversitypolice-6ce07d",
+      "locationSet": {"include": [[-83.2, 35.3]]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "Western Carolina University Police"
+      }
+    },
+    {
+      "displayName": "WPI Police",
+      "id": "wpipolice-4facae",
+      "locationSet": {
+        "include": ["us-ma.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "WPI Police"
+      }
+    },
+    {
+      "displayName": "Yale University",
+      "id": "yaleuniversity-2ea36d",
+      "locationSet": {
+        "include": ["us-ct.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "Yale University"
+      }
+    },
+    {
+      "displayName": "York University",
+      "id": "yorkuniversity-de0db7",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "emergency": "phone",
+        "operator": "York University"
+      }
+    },
+    {
+      "displayName": "공원녹지과",
+      "id": "e4fbfe-9e18bc",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "공원녹지과",
+        "operator:ko": "공원녹지과"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1023 @@
+{
+  "properties": {
+    "path": "brands/shop/cosmetics",
+    "exclude": {
+      "generic": ["^cosmetics$"],
+      "named": ["^(vente de )?cosm[eé]tiques?$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Aesop",
+      "id": "aesop-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Aesop",
+        "brand:wikidata": "Q4688560",
+        "name": "Aesop",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Avatim",
+      "id": "avatim-55348e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Avatim",
+        "brand:wikidata": "Q111786557",
+        "name": "Avatim",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Aveda",
+      "id": "aveda-7d6f1e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Aveda",
+        "brand:wikidata": "Q4827965",
+        "name": "Aveda",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Avon",
+      "id": "avon-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Avon",
+        "brand:wikidata": "Q791285",
+        "name": "Avon",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Avril",
+      "id": "avril-a71d22",
+      "locationSet": {"include": ["fr", "lu"]},
+      "tags": {
+        "brand": "Avril",
+        "brand:wikidata": "Q104744254",
+        "name": "Avril",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Banila Co.",
+      "id": "banilaco-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Banila Co.",
+        "brand:en": "Banila Co.",
+        "brand:ko": "바닐라코",
+        "brand:wikidata": "Q16243459",
+        "name": "Banila Co.",
+        "name:en": "Banila Co.",
+        "name:ko": "바닐라코",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "bareMinerals",
+      "id": "bareminerals-fdc7bb",
+      "locationSet": {
+        "include": [
+          "au",
+          "ca",
+          "dk",
+          "gb",
+          "ie",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "bareMinerals",
+        "brand:wikidata": "Q66740659",
+        "name": "bareMinerals",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Bath & Body Works",
+      "id": "bathandbodyworks-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Bath & Body Works",
+        "brand:wikidata": "Q810773",
+        "name": "Bath & Body Works",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Beauty Success",
+      "id": "beautysuccess-6051ce",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Beauty Success",
+        "brand:wikidata": "Q60964499",
+        "name": "Beauty Success",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Beauty Zone",
+      "id": "beautyzone-0141c7",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Beauty Zone",
+        "brand:wikidata": "Q118185921",
+        "name": "Beauty Zone",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "bluemercury",
+      "id": "bluemercury-7d6f1e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "bluemercury",
+        "brand:wikidata": "Q4930376",
+        "name": "bluemercury",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Bobbi Brown",
+      "id": "bobbibrown-7b55df",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "brand": "Bobbi Brown",
+        "brand:wikidata": "Q105132734",
+        "name": "Bobbi Brown",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Bottega Verde",
+      "id": "bottegaverde-a13ae4",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Bottega Verde",
+        "brand:wikidata": "Q894870",
+        "name": "Bottega Verde",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Charlotte Tilbury",
+      "id": "charlottetilbury-6776ad",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Charlotte Tilbury",
+        "brand:wikidata": "Q106670902",
+        "name": "Charlotte Tilbury",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Charmed Aroma",
+      "id": "charmedaroma-0bbe21",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Charmed Aroma",
+        "brand:wikidata": "Q113001365",
+        "name": "Charmed Aroma",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Chicor",
+      "id": "chicor-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Chicor",
+        "brand:en": "Chicor",
+        "brand:ko": "시코르",
+        "brand:wikidata": "Q65331881",
+        "name": "Chicor",
+        "name:en": "Chicor",
+        "name:ko": "시코르",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Cloré Beauty Supply",
+      "id": "clorebeautysupply-0bbe21",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["clore"],
+      "tags": {
+        "brand": "Cloré Beauty Supply",
+        "brand:wikidata": "Q113001363",
+        "name": "Cloré Beauty Supply",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Dermacol",
+      "id": "dermacol-85d8c2",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Dermacol",
+        "brand:wikidata": "Q67810810",
+        "name": "Dermacol",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Etude House",
+      "id": "etudehouse-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Etude House",
+        "brand:en": "Etude House",
+        "brand:ko": "에뛰드",
+        "brand:wikidata": "Q16174973",
+        "name": "Etude House",
+        "name:en": "Etude House",
+        "name:ko": "에뛰드",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Eva (Россия)",
+      "id": "eva-882961",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Eva",
+        "name": "Eva",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Faberlic",
+      "id": "faberlic-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Faberlic",
+        "brand:wikidata": "Q9257470",
+        "name": "Faberlic",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Gouiran Beauté",
+      "id": "gouiranbeaute-6051ce",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Gouiran Beauté",
+        "brand:wikidata": "Q105374666",
+        "name": "Gouiran Beauté",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Gratis",
+      "id": "gratis-15d6a4",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Gratis",
+        "brand:wikidata": "Q28605813",
+        "name": "Gratis",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Havlíkova apotéka",
+      "id": "havlikovaapoteka-85d8c2",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Havlíkova apotéka",
+        "brand:wikidata": "Q67814393",
+        "name": "Havlíkova apotéka",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "IL Makiage",
+      "id": "ilmakiage-e301c4",
+      "locationSet": {"include": ["il"]},
+      "tags": {
+        "brand": "IL Makiage",
+        "brand:wikidata": "Q76089779",
+        "name": "IL Makiage",
+        "name:en": "IL Makiage",
+        "name:he": "איל מקיאג'",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Inglot",
+      "id": "inglot-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Inglot",
+        "brand:wikidata": "Q5420712",
+        "name": "Inglot",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Innisfree",
+      "id": "innisfree-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Innisfree",
+        "brand:en": "Innisfree",
+        "brand:ko": "이니스프리",
+        "brand:wikidata": "Q16176002",
+        "name": "Innisfree",
+        "name:en": "Innisfree",
+        "name:ko": "이니스프리",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "It's Skin",
+      "id": "itsskin-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "It's Skin",
+        "brand:en": "It's Skin",
+        "brand:ko": "잇츠스킨",
+        "brand:wikidata": "Q22974808",
+        "name": "It's Skin",
+        "name:en": "It's Skin",
+        "name:ko": "잇츠스킨",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "itStyle",
+      "id": "itstyle-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "itStyle",
+        "brand:wikidata": "Q105343236",
+        "name": "itStyle",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Jurlique",
+      "id": "jurlique-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Jurlique",
+        "brand:wikidata": "Q17008691",
+        "name": "Jurlique",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Kiehl's",
+      "id": "kiehls-a08666",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["kiehl's since 1851"],
+      "tags": {
+        "brand": "Kiehl's",
+        "brand:wikidata": "Q3196447",
+        "name": "Kiehl's",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "KIKO Milano",
+      "id": "kikomilano-a08666",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["kiko"],
+      "tags": {
+        "brand": "KIKO Milano",
+        "brand:wikidata": "Q3812045",
+        "name": "KIKO Milano",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "L'Occitane",
+      "id": "loccitane-a08666",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["l'occitane en provence"],
+      "tags": {
+        "brand": "L'Occitane",
+        "brand:wikidata": "Q1880676",
+        "name": "L'Occitane",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Lallin",
+      "id": "laline-e301c4",
+      "locationSet": {"include": ["il"]},
+      "matchTags": ["shop/gift"],
+      "tags": {
+        "brand": "Laline",
+        "brand:wikidata": "Q55649188",
+        "name": "ללין",
+        "name:en": "Laline",
+        "name:he": "ללין",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "LOHB's",
+      "id": "lohbs-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "LOHB's",
+        "brand:en": "LOHB's",
+        "brand:ko": "롭스",
+        "brand:wikidata": "Q16160242",
+        "name": "LOHB's",
+        "name:en": "LOHB's",
+        "name:ko": "롭스",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Lush",
+      "id": "lush-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Lush",
+        "brand:wikidata": "Q1585448",
+        "name": "Lush",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "MAC Cosmetics",
+      "id": "maccosmetics-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "MAC Cosmetics",
+        "brand:wikidata": "Q2624442",
+        "name": "MAC Cosmetics",
+        "shop": "cosmetics",
+        "short_name": "M·A·C"
+      }
+    },
+    {
+      "displayName": "Manufaktura",
+      "id": "manufaktura-85d8c2",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Manufaktura",
+        "brand:wikidata": "Q107740958",
+        "name": "Manufaktura",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Merle Norman Cosmetics",
+      "id": "merlenorman-f96c07",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "ca",
+          "gt",
+          "hk",
+          "tw",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Merle Norman Cosmetics",
+        "brand:wikidata": "Q104844059",
+        "full_name": "Merle Norman Cosmetic Studio",
+        "name": "Merle Norman",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Missha",
+      "id": "missha-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Missha",
+        "brand:en": "Missha",
+        "brand:ko": "미샤",
+        "brand:wikidata": "Q4668069",
+        "name": "Missha",
+        "name:en": "Missha",
+        "name:ko": "미샤",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Mixit",
+      "id": "mixit-8126fc",
+      "locationSet": {
+        "include": ["by", "kz", "ru"]
+      },
+      "tags": {
+        "brand": "Mixit",
+        "brand:wikidata": "Q110291123",
+        "name": "Mixit",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Morphe",
+      "id": "morphe-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Morphe",
+        "brand:wikidata": "Q85944707",
+        "name": "Morphe",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Natura",
+      "id": "natura-55348e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Natura",
+        "brand:wikidata": "Q3131210",
+        "name": "Natura",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Nature Republic",
+      "id": "naturerepublic-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Nature Republic",
+        "brand:wikidata": "Q16935507",
+        "name": "Nature Republic",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Nocibé",
+      "id": "nocibe-6051ce",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Nocibé",
+        "brand:wikidata": "Q3342592",
+        "name": "Nocibé",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Nyx",
+      "id": "nyx-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Nyx",
+        "brand:wikidata": "Q23671513",
+        "name": "Nyx",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Olive Young",
+      "id": "oliveyoung-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Olive Young",
+        "brand:en": "Olive Young",
+        "brand:ko": "올리브영",
+        "brand:wikidata": "Q55643246",
+        "name": "Olive Young",
+        "name:en": "Olive Young",
+        "name:ko": "올리브영",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Oriflame",
+      "id": "oriflame-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Oriflame",
+        "brand:wikidata": "Q730893",
+        "name": "Oriflame",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Origins",
+      "id": "origins-7d6f1e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Origins",
+        "brand:wikidata": "Q6643229",
+        "name": "Origins",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Primor",
+      "id": "primor-16394a",
+      "locationSet": {
+        "include": ["ad", "es", "pt"]
+      },
+      "tags": {
+        "brand": "Primor",
+        "brand:wikidata": "Q101113141",
+        "name": "Primor",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "PUPA Milano",
+      "id": "pupamilano-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "PUPA Milano",
+        "brand:wikidata": "Q3925875",
+        "name": "PUPA Milano",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Quem Disse, Berenice?",
+      "id": "quemdisseberenice-55348e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Quem Disse, Berenice?",
+        "brand:wikidata": "Q110249404",
+        "name": "Quem Disse, Berenice?",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Rituals",
+      "id": "rituals-a08666",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["rituals cosmetics"],
+      "tags": {
+        "brand": "Rituals",
+        "brand:wikidata": "Q62874140",
+        "name": "Rituals",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "S Parfum&Cosmetics",
+      "id": "sparfumandcosmetics-882961",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "S Parfum&Cosmetics",
+        "name": "S Parfum&Cosmetics",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Sabon",
+      "id": "sabon-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sabon",
+        "brand:wikidata": "Q105064185",
+        "name": "Sabon",
+        "name:en": "Sabon",
+        "name:he": "סבון",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Saga Cosmetics",
+      "id": "sagacosmetics-6051ce",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Saga Cosmetics",
+        "brand:wikidata": "Q104600294",
+        "name": "Saga Cosmetics",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Saje",
+      "id": "saje-cf522e",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Saje",
+        "brand:wikidata": "Q44631749",
+        "name": "Saje",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Sephora",
+      "id": "sephora-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sephora",
+        "brand:wikidata": "Q2408041",
+        "name": "Sephora",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Shiseido",
+      "id": "shiseido-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Shiseido",
+        "brand:ja": "資生堂",
+        "brand:wikidata": "Q728185",
+        "name": "Shiseido",
+        "name:ja": "資生堂",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Signature Cosmetics & Fragrances",
+      "id": "signaturecosmeticsandfragrances-28fda4",
+      "locationSet": {
+        "include": ["bw", "mz", "na", "za"]
+      },
+      "tags": {
+        "brand": "Signature Cosmetics & Fragrances",
+        "brand:wikidata": "Q116894514",
+        "name": "Signature Cosmetics & Fragrances",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Skinfood",
+      "id": "skinfood-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Skinfood",
+        "brand:en": "Skinfood",
+        "brand:ko": "스킨푸드",
+        "brand:wikidata": "Q7535345",
+        "name": "Skinfood",
+        "name:en": "Skinfood",
+        "name:ko": "스킨푸드",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Soeder",
+      "id": "soeder-1b5c42",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "Soeder",
+        "brand:wikidata": "Q111722324",
+        "name": "Soeder",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Space NK",
+      "id": "spacenk-6776ad",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["space nk apothecary"],
+      "tags": {
+        "brand": "Space NK",
+        "brand:wikidata": "Q7572184",
+        "name": "Space NK",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "The Body Shop",
+      "id": "thebodyshop-a08666",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Body Shop",
+        "brand:wikidata": "Q837851",
+        "name": "The Body Shop",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "The Face Shop",
+      "id": "thefaceshop-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "The Face Shop",
+        "brand:en": "The Face Shop",
+        "brand:ko": "더페이스샵",
+        "brand:wikidata": "Q624440",
+        "name": "The Face Shop",
+        "name:en": "The Face Shop",
+        "name:ko": "더페이스샵",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Tony Moly",
+      "id": "tonymoly-b395fe",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "Tony Moly",
+        "brand:en": "Tony Moly",
+        "brand:ko": "토니모리",
+        "brand:wikidata": "Q16935513",
+        "name": "Tony Moly",
+        "name:en": "Tony Moly",
+        "name:ko": "토니모리",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Ulta Beauty",
+      "id": "ultabeauty-7d6f1e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["ulta"],
+      "tags": {
+        "brand": "Ulta Beauty",
+        "brand:wikidata": "Q7880076",
+        "name": "Ulta Beauty",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Wycon Cosmetics",
+      "id": "wyconcosmetics-a13ae4",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Wycon Cosmetics",
+        "brand:wikidata": "Q55831243",
+        "name": "Wycon Cosmetics",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Yes! Cosmetics",
+      "id": "yescosmetics-55348e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Yes! Cosmetics",
+        "brand:wikidata": "Q109569583",
+        "name": "Yes! Cosmetics",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Yves Rocher",
+      "id": "yvesrocher-a08666",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["ив роше"],
+      "tags": {
+        "brand": "Yves Rocher",
+        "brand:wikidata": "Q28496595",
+        "name": "Yves Rocher",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Ziaja",
+      "id": "ziaja-a2d805",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "de",
+          "es",
+          "hu",
+          "ie",
+          "pl",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Ziaja",
+        "brand:wikidata": "Q9390905",
+        "name": "Ziaja",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Белорусская косметика",
+      "id": "e49d24-882961",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Белорусская косметика",
+        "name": "Белорусская косметика",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Золотое яблоко",
+      "id": "goldapple-882961",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Золотое яблоко",
+        "brand:en": "Gold Apple",
+        "brand:wikidata": "Q106411451",
+        "name": "Золотое яблоко",
+        "name:en": "Gold Apple",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Л'Этуаль",
+      "id": "5e497e-882961",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": ["летуаль"],
+      "tags": {
+        "brand": "Л'Этуаль",
+        "brand:wikidata": "Q18400706",
+        "name": "Л'Этуаль",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Подружка",
+      "id": "95c47a-882961",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Подружка",
+        "brand:wikidata": "Q101646588",
+        "name": "Подружка",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Рив Гош",
+      "id": "d7b8b0-882961",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Рив Гош",
+        "brand:fr": "Rive Gauche",
+        "brand:ru": "Рив Гош",
+        "brand:wikidata": "Q4394330",
+        "name": "Рив Гош",
+        "name:fr": "Rive Gauche",
+        "name:ru": "Рив Гош",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "Чистый дом",
+      "id": "f98ce1-b8d09c",
+      "locationSet": {"include": ["ru", "ua"]},
+      "tags": {
+        "brand": "Чистый дом",
+        "name": "Чистый дом",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "卓悅 Bonjour",
+      "id": "bonjour-03ac43",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "卓悅 Bonjour",
+        "brand:en": "Bonjour",
+        "brand:wikidata": "Q10906081",
+        "brand:zh": "卓悅",
+        "name": "卓悅 Bonjour",
+        "name:en": "Bonjour",
+        "name:zh": "卓悅",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "卡萊美 Colourmix",
+      "id": "colourmix-03ac43",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "卡萊美 Colourmix",
+        "brand:en": "Colourmix",
+        "brand:wikidata": "Q111494580",
+        "brand:zh": "卡萊美",
+        "name": "卡萊美 Colourmix",
+        "name:en": "Colourmix",
+        "name:zh": "卡萊美",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "芭比波朗",
+      "id": "bobbibrown-dab93b",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "芭比波朗",
+        "brand:en": "Bobbi Brown",
+        "brand:wikidata": "Q105132734",
+        "brand:zh": "芭比波朗",
+        "name": "芭比波朗",
+        "name:en": "Bobbi Brown",
+        "name:zh": "芭比波朗",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "displayName": "莎莎 Sasa",
+      "id": "sasa-03ac43",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "莎莎 Sasa",
+        "brand:en": "Sasa",
+        "brand:wikidata": "Q15910675",
+        "brand:zh": "莎莎",
+        "name": "莎莎 Sasa",
+        "name:en": "Sasa",
+        "name:zh": "莎莎",
+        "shop": "cosmetics"
+      }
+    }
+  ]
+}

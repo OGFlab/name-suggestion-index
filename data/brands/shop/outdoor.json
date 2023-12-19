@@ -1,0 +1,489 @@
+{
+  "properties": {
+    "path": "brands/shop/outdoor",
+    "exclude": {
+      "generic": ["^outdoor$", "^рыболов$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "A.S.Adventure",
+      "id": "asadventure-718831",
+      "locationSet": {
+        "include": ["be", "fx", "lu", "nl"]
+      },
+      "tags": {
+        "brand": "A.S.Adventure",
+        "brand:wikidata": "Q1815008",
+        "name": "A.S.Adventure",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Anaconda",
+      "id": "anaconda-a827df",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Anaconda",
+        "brand:wikidata": "Q105981238",
+        "name": "Anaconda",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "ANWB",
+      "id": "anwbwinkel-88720f",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "ANWB",
+        "brand:wikidata": "Q2646455",
+        "name": "ANWB winkel",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Au vieux campeur",
+      "id": "auvieuxcampeur-ecd87b",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Au vieux campeur",
+        "brand:wikidata": "Q2409646",
+        "name": "Au vieux campeur",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Aussie Disposals",
+      "id": "aussiedisposals-a827df",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Aussie Disposals",
+        "brand:wikidata": "Q117847729",
+        "name": "Aussie Disposals",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Barbeques Galore",
+      "id": "barbequesgalore-a827df",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Barbeques Galore",
+        "brand:wikidata": "Q4859570",
+        "name": "Barbeques Galore",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Bass Pro Shops",
+      "id": "bassproshops-069867",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Bass Pro Shops",
+        "brand:wikidata": "Q4867953",
+        "name": "Bass Pro Shops",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "BCF",
+      "id": "bcf-a827df",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "BCF",
+        "brand:wikidata": "Q16246527",
+        "name": "BCF",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Bivouac Outdoor",
+      "id": "bivouacoutdoor-f40221",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "Bivouac Outdoor",
+        "brand:wikidata": "Q111019114",
+        "name": "Bivouac Outdoor",
+        "shop": "outdoor",
+        "short_name": "Bivouac"
+      }
+    },
+    {
+      "displayName": "Blacks",
+      "id": "blacks-f55d12",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Blacks",
+        "brand:wikidata": "Q64822933",
+        "name": "Blacks",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Cabela's",
+      "id": "cabelas-069867",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Cabela's",
+        "brand:wikidata": "Q2793714",
+        "name": "Cabela's",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Cotswold Outdoor",
+      "id": "cotswoldoutdoor-f55d12",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["cotswold"],
+      "tags": {
+        "brand": "Cotswold Outdoor",
+        "brand:wikidata": "Q5175488",
+        "name": "Cotswold Outdoor",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Eastern Mountain Sports",
+      "id": "easternmountainsports-d32658",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-ma.geojson",
+          "us-me.geojson",
+          "us-nh.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson",
+          "us-pa.geojson",
+          "us-vt.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Eastern Mountain Sports",
+        "brand:wikidata": "Q5330322",
+        "name": "Eastern Mountain Sports",
+        "shop": "outdoor",
+        "short_name": "EMS"
+      }
+    },
+    {
+      "displayName": "Eiger",
+      "id": "eiger-19c913",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "brand": "Eiger",
+        "brand:wikidata": "Q25471361",
+        "name": "Eiger",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Fjällräven",
+      "id": "fjallraven-069867",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Fjällräven",
+        "brand:wikidata": "Q1422481",
+        "name": "Fjällräven",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Fritz Berger",
+      "id": "fritzberger-00734f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Fritz Berger",
+        "brand:wikidata": "Q107636665",
+        "name": "Fritz Berger",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Gander Outdoors",
+      "id": "ganderoutdoors-a7317e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["gander mountain"],
+      "tags": {
+        "brand": "Gander Outdoors",
+        "brand:wikidata": "Q5520637",
+        "name": "Gander Outdoors",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Globetrotter",
+      "id": "globetrotter-00734f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Globetrotter",
+        "brand:wikidata": "Q1531763",
+        "name": "Globetrotter",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Go Outdoors",
+      "id": "gooutdoors-f55d12",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Go Outdoors",
+        "brand:wikidata": "Q75293941",
+        "name": "Go Outdoors",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Jack Wolfskin",
+      "id": "jackwolfskin-5feed5",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "fr",
+          "gb",
+          "it",
+          "nl",
+          "pl",
+          "ru",
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Jack Wolfskin",
+        "brand:wikidata": "Q536133",
+        "name": "Jack Wolfskin",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Kathmandu",
+      "id": "kathmandu-7b766e",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Kathmandu",
+        "brand:wikidata": "Q1736294",
+        "name": "Kathmandu",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "L.L.Bean",
+      "id": "llbean-b092d8",
+      "locationSet": {
+        "include": ["ca", "jp", "us"]
+      },
+      "tags": {
+        "brand": "L.L.Bean",
+        "brand:wikidata": "Q6131944",
+        "name": "L.L.Bean",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Macpac",
+      "id": "macpac-7b766e",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Macpac",
+        "brand:wikidata": "Q6724943",
+        "name": "Macpac",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "McTREK",
+      "id": "mctrek-00734f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "McTREK",
+        "brand:wikidata": "Q110007506",
+        "name": "McTREK",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "MEC Mountain Equipment Company",
+      "id": "mecmountainequipmentcompany-388b66",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": [
+        "mec",
+        "mec canada",
+        "mountain equipment company",
+        "mountain equipment coop"
+      ],
+      "tags": {
+        "brand": "MEC Mountain Equipment Company",
+        "brand:wikidata": "Q104867916",
+        "name": "MEC Mountain Equipment Company",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Millets",
+      "id": "millets-f55d12",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Millets",
+        "brand:wikidata": "Q64822903",
+        "name": "Millets",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Mountain Warehouse",
+      "id": "mountainwarehouse-19caf6",
+      "locationSet": {
+        "include": [
+          "at",
+          "ca",
+          "de",
+          "gb",
+          "ie",
+          "nz",
+          "pl",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Mountain Warehouse",
+        "brand:wikidata": "Q6925414",
+        "name": "Mountain Warehouse",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Nature & Découvertes",
+      "id": "natureanddecouvertes-fb7405",
+      "locationSet": {
+        "include": ["be", "ch", "fr", "lu", "pt"]
+      },
+      "tags": {
+        "brand": "Nature & Découvertes",
+        "brand:wikidata": "Q3337111",
+        "name": "Nature & Découvertes",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Nature et Découvertes",
+      "id": "natureetdecouvertes-d45246",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Nature et Découvertes",
+        "name": "Nature et Découvertes",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Regatta Great Outdoors",
+      "id": "regattagreatoutdoors-d45246",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Regatta Great Outdoors",
+        "brand:wikidata": "Q9305279",
+        "name": "Regatta Great Outdoors",
+        "shop": "outdoor",
+        "short_name": "Regatta"
+      }
+    },
+    {
+      "displayName": "REI",
+      "id": "rei-72e82e",
+      "locationSet": {"include": ["id", "us"]},
+      "tags": {
+        "brand": "REI",
+        "brand:wikidata": "Q3414933",
+        "name": "REI",
+        "official_name": "Recreational Equipment, Inc.",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Sierra",
+      "id": "sierra-a7317e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "alt_name": "Sierra Trading Post",
+        "brand": "Sierra",
+        "brand:wikidata": "Q7511598",
+        "name": "Sierra",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Snow+Rock",
+      "id": "snowrock-f55d12",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["snow & rock"],
+      "tags": {
+        "brand": "Snow+Rock",
+        "brand:wikidata": "Q113556466",
+        "name": "Snow+Rock",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Sportsman's Warehouse",
+      "id": "sportsmanswarehouse-a7317e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Sportsman's Warehouse",
+        "brand:wikidata": "Q7579979",
+        "name": "Sportsman's Warehouse",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Torpedo7",
+      "id": "torpedo7-f40221",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "Torpedo7",
+        "brand:wikidata": "Q110221600",
+        "name": "Torpedo7",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Trespass",
+      "id": "trespass-290058",
+      "locationSet": {
+        "include": ["fr", "gb", "ie"]
+      },
+      "tags": {
+        "brand": "Trespass",
+        "brand:wikidata": "Q17035733",
+        "name": "Trespass",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "Vaude",
+      "id": "vaude-00734f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Vaude",
+        "brand:wikidata": "Q322238",
+        "name": "Vaude",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "displayName": "上州屋",
+      "id": "johshuya-c097b7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "上州屋",
+        "brand:en": "Johshuya",
+        "brand:ja": "上州屋",
+        "brand:wikidata": "Q11358975",
+        "name": "上州屋",
+        "name:en": "Johshuya",
+        "name:ja": "上州屋",
+        "shop": "outdoor"
+      }
+    }
+  ]
+}

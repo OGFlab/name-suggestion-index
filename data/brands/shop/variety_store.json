@@ -1,0 +1,1291 @@
+{
+  "properties": {
+    "path": "brands/shop/variety_store",
+    "exclude": {
+      "generic": [
+        "^(variety|world)\\s?(store|shop)?$",
+        "^\\d00円ショップ$",
+        "^tienda( de (barrio|abarrotes))?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "100えんハウス レモン",
+      "id": "100houselemon-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "100えんハウス レモン",
+        "brand:en": "100 House Lemon",
+        "brand:ja": "100えんハウス レモン",
+        "brand:wikidata": "Q43305392",
+        "name": "100えんハウス レモン",
+        "name:en": "100 House Lemon",
+        "name:ja": "100えんハウス レモン",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "3COINS",
+      "id": "3coins-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "3COINS",
+        "brand:en": "3COINS",
+        "brand:ja": "スリーコインズ",
+        "brand:wikidata": "Q60997353",
+        "name": "3COINS",
+        "name:en": "3COINS",
+        "name:ja": "スリーコインズ",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "99 Cents Only Stores",
+      "id": "99centsonlystores-c85191",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "99 cent only stores",
+        "99 cents only"
+      ],
+      "tags": {
+        "brand": "99 Cents Only Stores",
+        "brand:wikidata": "Q4646294",
+        "name": "99 Cents Only Stores",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "99 Speedmart",
+      "id": "99speedmart-14cb81",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "99 Speedmart",
+        "brand:wikidata": "Q62075061",
+        "name": "99 Speedmart",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Action",
+      "id": "action-8dd2e2",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "nl",
+          "pl",
+          "sk"
+        ]
+      },
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Action",
+        "brand:wikidata": "Q2634111",
+        "name": "Action",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "B&M",
+      "id": "bandm-622078",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["b&m stores"],
+      "tags": {
+        "brand": "B&M",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "B&M Bargains",
+      "id": "bandmbargains-622078",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["b&m bargains store"],
+      "tags": {
+        "brand": "B&M Bargains",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M Bargains",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "B&M Home Store",
+      "id": "bandmhomestore-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "B&M Home Store",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M Home Store",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "B&M Home Store with Garden Centre",
+      "id": "bandmhomestorewithgardencentre-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "B&M Home Store",
+        "brand:wikidata": "Q4836931",
+        "name": "B&M Home Store with Garden Centre",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Bargain Buys",
+      "id": "bargainbuys-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Bargain Buys",
+        "brand:wikidata": "Q19870995",
+        "name": "Bargain Buys",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Big Bazar",
+      "id": "bigbazar-8a7b93",
+      "locationSet": {"include": ["be", "nl"]},
+      "tags": {
+        "brand": "Big Bazar",
+        "brand:wikidata": "Q15873104",
+        "name": "Big Bazar",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Centershop",
+      "id": "centershop-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "matchTags": ["shop/supermarket"],
+      "tags": {
+        "brand": "Centershop",
+        "brand:wikidata": "Q108716135",
+        "name": "Centershop",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Christmas Tree Shops",
+      "id": "christmastreeshops-c85191",
+      "locationSet": {"include": ["us"]},
+      "matchTags": [
+        "shop/department_store",
+        "shop/gift",
+        "shop/houseware",
+        "shop/interior_decoration"
+      ],
+      "tags": {
+        "brand": "Christmas Tree Shops",
+        "brand:wikidata": "Q5111452",
+        "name": "Christmas Tree Shops",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Daiso",
+      "id": "daiso-80c116",
+      "locationSet": {"include": ["ca", "my"]},
+      "tags": {
+        "brand": "Daiso",
+        "brand:wikidata": "Q866991",
+        "name": "Daiso",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Daiso Japan",
+      "id": "daisojapan-5e5531",
+      "locationSet": {
+        "include": ["au", "cn", "us"]
+      },
+      "tags": {
+        "brand": "Daiso",
+        "brand:wikidata": "Q866991",
+        "name": "Daiso Japan",
+        "shop": "variety_store",
+        "short_name": "Daiso"
+      }
+    },
+    {
+      "displayName": "Dealz",
+      "id": "dealz-01f38b",
+      "locationSet": {
+        "include": ["es", "ie", "pl"]
+      },
+      "tags": {
+        "brand": "Dealz",
+        "brand:wikidata": "Q16942585",
+        "name": "Dealz",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Dollar General",
+      "id": "dollargeneral-c85191",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["shop/general"],
+      "tags": {
+        "brand": "Dollar General",
+        "brand:wikidata": "Q145168",
+        "name": "Dollar General",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Dollar Tree",
+      "id": "dollartree-44cca6",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Dollar Tree",
+        "brand:wikidata": "Q5289230",
+        "name": "Dollar Tree",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Dollarama",
+      "id": "dollarama-f36c63",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Dollarama",
+        "brand:wikidata": "Q3033947",
+        "name": "Dollarama",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Dollarcity",
+      "id": "dollarcity-8f2567",
+      "locationSet": {
+        "include": ["co", "gt", "pe", "sv"]
+      },
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Dollarcity",
+        "brand:wikidata": "Q107120814",
+        "name": "Dollarcity",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Dollarstore",
+      "id": "dollarstore-aa81b7",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Dollarstore",
+        "brand:wikidata": "Q10475598",
+        "name": "Dollarstore",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Don Don Donki",
+      "id": "dondondonki-717fd7",
+      "locationSet": {
+        "include": [
+          "hk",
+          "my",
+          "sg",
+          "th",
+          "tw",
+          "us-hi"
+        ]
+      },
+      "tags": {
+        "brand": "Don Don Donki",
+        "brand:wikidata": "Q1185381",
+        "name": "Don Don Donki",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "eco-shop",
+      "id": "ecoshop-14cb81",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "eco-shop",
+        "brand:wikidata": "Q95721269",
+        "name": "eco-shop",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "EuroGiant",
+      "id": "eurogiant-d3831c",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "brand": "EuroGiant",
+        "brand:wikidata": "Q113197596",
+        "name": "EuroGiant",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "EuroShop",
+      "id": "euroshop-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "EuroShop",
+        "brand:wikidata": "Q15846763",
+        "name": "EuroShop",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Family Dollar",
+      "id": "familydollar-c85191",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Family Dollar",
+        "brand:wikidata": "Q5433101",
+        "name": "Family Dollar",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Five Below",
+      "id": "fivebelow-c85191",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Five Below",
+        "brand:wikidata": "Q5455836",
+        "name": "Five Below",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Fix Price",
+      "id": "fixprice-95635e",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Fix Price",
+        "brand:wikidata": "Q4038791",
+        "name": "Fix Price",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Flying Tiger Copenhagen",
+      "id": "flyingtigercopenhagen-55ef00",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "cy",
+          "cz",
+          "de",
+          "dk",
+          "ee",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "gr",
+          "hu",
+          "ie",
+          "il",
+          "is",
+          "it",
+          "jp",
+          "kr",
+          "lt",
+          "lv",
+          "mt",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "se",
+          "sk"
+        ]
+      },
+      "matchNames": ["tgr", "tiger"],
+      "matchTags": ["shop/gift"],
+      "tags": {
+        "brand": "Flying Tiger Copenhagen",
+        "brand:wikidata": "Q2786319",
+        "name": "Flying Tiger Copenhagen",
+        "shop": "variety_store",
+        "short_name": "Flying Tiger"
+      }
+    },
+    {
+      "displayName": "Giant Mini",
+      "id": "giantmini-14cb81",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Giant Mini",
+        "brand:wikidata": "Q4217013",
+        "name": "Giant Mini",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "GiFi",
+      "id": "gifi-4bad18",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "GiFi",
+        "brand:wikidata": "Q3105439",
+        "name": "GiFi",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Home Bargains",
+      "id": "homebargains-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Home Bargains",
+        "brand:wikidata": "Q5888229",
+        "name": "Home Bargains",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Jawoll",
+      "id": "jawoll-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Jawoll",
+        "brand:wikidata": "Q65180661",
+        "name": "Jawoll",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "KINEKUS",
+      "id": "kinekus-c029a3",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "KINEKUS",
+        "brand:wikidata": "Q96132061",
+        "name": "KINEKUS",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "KRÜMET",
+      "id": "krumet-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "KRÜMET",
+        "brand:wikidata": "Q110483542",
+        "name": "KRÜMET",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "La Foir'Fouille",
+      "id": "lafoirfouille-af2034",
+      "locationSet": {
+        "include": ["be", "fr", "lu", "mu", "nc"]
+      },
+      "tags": {
+        "brand": "La Foir'Fouille",
+        "brand:wikidata": "Q3209040",
+        "name": "La Foir'Fouille",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Mäc-Geiz",
+      "id": "macgeiz-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Mäc-Geiz",
+        "brand:wikidata": "Q1957126",
+        "name": "Mäc-Geiz",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Maxi Bazar",
+      "id": "maxibazar-4bad18",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Maxi Bazar",
+        "brand:wikidata": "Q111817854",
+        "name": "Maxi Bazar",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Miniso",
+      "id": "miniso-2aea30",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn", "hk", "tw"]
+      },
+      "tags": {
+        "brand": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "name": "Miniso",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Mr. Price",
+      "id": "mrprice-d3831c",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "brand": "Mr. Price",
+        "brand:wikidata": "Q113197454",
+        "name": "Mr. Price",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "MR.DOLLAR",
+      "id": "mrdollar-14cb81",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "MR.DOLLAR",
+        "brand:wikidata": "Q106959890",
+        "name": "MR.DOLLAR",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Nille",
+      "id": "nille-1dc1f6",
+      "locationSet": {"include": ["no"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Nille",
+        "brand:wikidata": "Q11991429",
+        "name": "Nille",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Ninso",
+      "id": "ninso-14cb81",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Ninso",
+        "brand:wikidata": "Q106959816",
+        "name": "Ninso",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "NOZ",
+      "id": "noz-4bad18",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "NOZ",
+        "brand:wikidata": "Q3345688",
+        "name": "NOZ",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Ocean State Job Lot",
+      "id": "oceanstatejoblot-c85191",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Ocean State Job Lot",
+        "brand:wikidata": "Q7076076",
+        "name": "Ocean State Job Lot",
+        "shop": "variety_store",
+        "short_name": "Job Lot"
+      }
+    },
+    {
+      "displayName": "Ollie's Bargain Outlet",
+      "id": "olliesbargainoutlet-c85191",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Ollie's Bargain Outlet",
+        "brand:wikidata": "Q7088304",
+        "name": "Ollie's Bargain Outlet",
+        "shop": "variety_store",
+        "short_name": "Ollie's"
+      }
+    },
+    {
+      "displayName": "OneBeyond",
+      "id": "onebeyond-622078",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["onebelow"],
+      "note": "Previously known as OneBelow",
+      "tags": {
+        "brand": "OneBeyond",
+        "brand:wikidata": "Q65079443",
+        "name": "OneBeyond",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "OnePrice",
+      "id": "oneprice-386db3",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["уанпрайс"],
+      "tags": {
+        "brand": "OnePrice",
+        "brand:wikidata": "Q122641630",
+        "name": "OnePrice",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Otto's",
+      "id": "ottos-793388",
+      "locationSet": {"include": ["ch"]},
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Otto's",
+        "brand:wikidata": "Q2041507",
+        "name": "Otto's",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Pantai Timor Mart",
+      "id": "pantaitimormart-14cb81",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "alt_name": "Billion",
+        "brand": "Pantai Timor Mart",
+        "brand:wikidata": "Q106989381",
+        "name": "Pantai Timor Mart",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Pasar Ekonomi Econsave",
+      "id": "pasarekonomieconsave-14cb81",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Pasar Ekonomi Econsave",
+        "brand:en": "Econsave Express",
+        "brand:wikidata": "Q61776608",
+        "brand:zh": "宜康省经济市场",
+        "name": "Pasar Ekonomi Econsave",
+        "name:en": "Econsave Express",
+        "name:zh": "宜康省经济市场",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Pfennigpfeiffer",
+      "id": "pfennigpfeiffer-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Pfennigpfeiffer",
+        "brand:wikidata": "Q2083618",
+        "name": "Pfennigpfeiffer",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "pOpshelf",
+      "id": "popshelf-c85191",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "pOpshelf",
+        "brand:wikidata": "Q119994868",
+        "name": "pOpshelf",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Postenbörse",
+      "id": "postenborse-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Postenbörse",
+        "brand:wikidata": "Q100780033",
+        "name": "Postenbörse",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Poundland",
+      "id": "poundland-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Poundland",
+        "brand:wikidata": "Q1434528",
+        "name": "Poundland",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Poundstretcher",
+      "id": "poundstretcher-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Poundstretcher",
+        "brand:wikidata": "Q7235675",
+        "name": "Poundstretcher",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Roses",
+      "id": "roses-c85191",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Roses",
+        "brand:wikidata": "Q7368644",
+        "name": "Roses",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Rusta",
+      "id": "rusta-7f2f16",
+      "locationSet": {
+        "include": ["de", "fi", "sv"]
+      },
+      "tags": {
+        "brand": "Rusta",
+        "brand:wikidata": "Q10658096",
+        "name": "Rusta",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Shiploads",
+      "id": "shiploads-c7d002",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Shiploads",
+        "brand:wikidata": "Q105883436",
+        "name": "Shiploads",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Stokomani",
+      "id": "stokomani-4bad18",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Stokomani",
+        "brand:wikidata": "Q22249328",
+        "name": "Stokomani",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "TEDi",
+      "id": "tedi-8a061e",
+      "locationSet": {
+        "include": [
+          "at",
+          "bg",
+          "cz",
+          "de",
+          "es",
+          "gb",
+          "hr",
+          "hu",
+          "it",
+          "pl",
+          "pt",
+          "ro",
+          "si",
+          "sk"
+        ]
+      },
+      "matchNames": ["t€di"],
+      "tags": {
+        "brand": "TEDi",
+        "brand:wikidata": "Q1364603",
+        "name": "TEDi",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "THANK YOU MART",
+      "id": "thankyoumart-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "alt_name:en": "390 Yen Shop",
+        "brand": "THANK YOU MART",
+        "brand:en": "THANK YOU MART",
+        "brand:ja": "サンキューマート",
+        "brand:wikidata": "Q11305509",
+        "name": "THANK YOU MART",
+        "name:en": "THANK YOU MART",
+        "name:ja": "サンキューマート",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "The 99 Store",
+      "id": "the99store-c85191",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "The 99 Store",
+        "brand:wikidata": "Q122981295",
+        "name": "The 99 Store",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "The Crazy Store",
+      "id": "thecrazystore-5c81c2",
+      "locationSet": {"include": ["na", "za"]},
+      "matchTags": ["shop/toys"],
+      "tags": {
+        "brand": "The Crazy Store",
+        "brand:wikidata": "Q116620808",
+        "name": "The Crazy Store",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "The Original Factory Shop",
+      "id": "theoriginalfactoryshop-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "The Original Factory Shop",
+        "brand:wikidata": "Q7755366",
+        "name": "The Original Factory Shop",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "The Reject Shop",
+      "id": "therejectshop-c7d002",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "The Reject Shop",
+        "brand:wikidata": "Q7760092",
+        "name": "The Reject Shop",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Thomas Philipps Sonderposten",
+      "id": "thomasphilippssonderposten-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["thomas philipps"],
+      "matchTags": ["shop/supermarket"],
+      "tags": {
+        "brand": "Thomas Philipps Sonderposten",
+        "brand:wikidata": "Q1424735",
+        "name": "Thomas Philipps Sonderposten",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Tokmanni",
+      "id": "tokmanni-c0b5b4",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "brand": "Tokmanni",
+        "brand:wikidata": "Q13423470",
+        "name": "Tokmanni",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Top Shop",
+      "id": "topshop-f153f8",
+      "locationSet": {
+        "include": [
+          "al",
+          "ba",
+          "bg",
+          "cz",
+          "ee",
+          "hr",
+          "hu",
+          "lt",
+          "lv",
+          "md",
+          "me",
+          "mk",
+          "pl",
+          "ro",
+          "rs",
+          "si",
+          "sk",
+          "ua",
+          "xk"
+        ]
+      },
+      "tags": {
+        "brand": "Top Shop",
+        "brand:wikidata": "Q116919675",
+        "name": "Top Shop",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Waldo's",
+      "id": "waldos-072262",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Waldo's",
+        "brand:wikidata": "Q6166095",
+        "name": "Waldo's",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Wilko",
+      "id": "wilko-622078",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "wilko / wilko retail limited",
+        "wilko retail limited"
+      ],
+      "matchTags": ["shop/hardware"],
+      "tags": {
+        "brand": "Wilko",
+        "brand:wikidata": "Q8002536",
+        "name": "Wilko",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Wreesmann",
+      "id": "wreesmann-9f9d31",
+      "locationSet": {"include": ["de"]},
+      "matchNames": [
+        "aktionshaus wreesmann",
+        "wreesmann sonderpostenmarkt"
+      ],
+      "tags": {
+        "brand": "Wreesmann",
+        "brand:wikidata": "Q108739374",
+        "name": "Wreesmann",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Аврора",
+      "id": "4b0bb7-386db3",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "aurora multimarket",
+        "avrora multimarket",
+        "аврора мультимаркет",
+        "магазин аврора"
+      ],
+      "matchTags": [
+        "shop/houseware",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "Аврора",
+        "brand:wikidata": "Q117669095",
+        "name": "Аврора",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Копійочка",
+      "id": "d2493c-386db3",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "Копійочка",
+        "brand:wikidata": "Q118252103",
+        "name": "Копійочка",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Три цены",
+      "id": "8ba36a-70ec82",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Три цены",
+        "name": "Три цены",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Червоний маркет",
+      "id": "fd532c-386db3",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "Червоний маркет",
+        "brand:wikidata": "Q117705449",
+        "name": "Червоний маркет",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "다이소",
+      "id": "daiso-67f747",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "brand": "다이소",
+        "brand:en": "Daiso",
+        "brand:ja": "ダイソー",
+        "brand:ko": "다이소",
+        "brand:wikidata": "Q12590862",
+        "brand:zh-Hans": "大创百货",
+        "brand:zh-Hant": "大創百貨",
+        "name": "다이소",
+        "name:en": "Daiso",
+        "name:ja": "ダイソー",
+        "name:ko": "다이소",
+        "name:zh-Hans": "大创百货",
+        "name:zh-Hant": "大創百貨",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "キャンドゥ",
+      "id": "cando-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "キャンドゥ",
+        "brand:en": "Can Do",
+        "brand:ja": "キャンドゥ",
+        "brand:wikidata": "Q11297367",
+        "name": "キャンドゥ",
+        "name:en": "Can Do",
+        "name:ja": "キャンドゥ",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "セリア",
+      "id": "seria-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "セリア",
+        "brand:en": "Seria",
+        "brand:ja": "セリア",
+        "brand:wikidata": "Q11314509",
+        "name": "セリア",
+        "name:en": "Seria",
+        "name:ja": "セリア",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "ダイソー",
+      "id": "daiso-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["ザ・ダイソー", "大創産業"],
+      "tags": {
+        "brand": "ダイソー",
+        "brand:en": "Daiso",
+        "brand:ja": "ダイソー",
+        "brand:wikidata": "Q866991",
+        "name": "ダイソー",
+        "name:en": "Daiso",
+        "name:ja": "ダイソー",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "ダイレックス",
+      "id": "direx-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ダイレックス",
+        "brand:en": "Direx",
+        "brand:ja": "ダイレックス",
+        "brand:wikidata": "Q11317051",
+        "name": "ダイレックス",
+        "name:en": "Direx",
+        "name:ja": "ダイレックス",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "ドン・キホーテ",
+      "id": "donquijote-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ドン・キホーテ",
+        "brand:en": "Don Quijote",
+        "brand:ja": "ドン・キホーテ",
+        "brand:wikidata": "Q1185381",
+        "name": "ドン・キホーテ",
+        "name:en": "Don Quijote",
+        "name:ja": "ドン・キホーテ",
+        "shop": "variety_store",
+        "short_name": "ドンキ",
+        "short_name:en": "Donki",
+        "short_name:ja": "ドンキ"
+      }
+    },
+    {
+      "displayName": "ハンズ",
+      "id": "hands-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["東急ハンズ"],
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "ハンズ",
+        "brand:en": "Hands",
+        "brand:ja": "ハンズ",
+        "brand:wikidata": "Q859212",
+        "name": "ハンズ",
+        "name:en": "Hands",
+        "name:ja": "ハンズ",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "ロフト",
+      "id": "loft-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "ロフト",
+        "brand:en": "Loft",
+        "brand:ja": "ロフト",
+        "brand:wikidata": "Q5358428",
+        "name": "ロフト",
+        "name:en": "Loft",
+        "name:ja": "ロフト",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "ワッツ",
+      "id": "watts-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ワッツ",
+        "brand:en": "Watts",
+        "brand:ja": "ワッツ",
+        "brand:wikidata": "Q11351402",
+        "name": "ワッツ",
+        "name:en": "Watts",
+        "name:ja": "ワッツ",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "價真棧 PrizeMart",
+      "id": "prizemart-cab585",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "價真棧 PrizeMart",
+        "brand:en": "PrizeMart",
+        "brand:wikidata": "Q117269648",
+        "brand:zh": "價真棧",
+        "name": "價真棧 PrizeMart",
+        "name:en": "PrizeMart",
+        "name:zh": "價真棧",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "名创优品",
+      "id": "miniso-8e7978",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "名创优品",
+        "brand:en": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "brand:zh": "名创优品",
+        "name": "名创优品",
+        "name:en": "Miniso",
+        "name:zh": "名创优品",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "名創優品",
+      "id": "miniso-501f06",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "名創優品",
+        "brand:en": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "brand:zh": "名創優品",
+        "brand:zh-Hans": "名创优品",
+        "brand:zh-Hant": "名創優品",
+        "name": "名創優品",
+        "name:en": "Miniso",
+        "name:zh": "名創優品",
+        "name:zh-Hans": "名创优品",
+        "name:zh-Hant": "名創優品",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "名創優品 Miniso",
+      "id": "miniso-264ade",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "名創優品 Miniso",
+        "brand:en": "Miniso",
+        "brand:wikidata": "Q20732498",
+        "brand:zh": "名創優品",
+        "brand:zh-Hans": "名创优品",
+        "brand:zh-Hant": "名創優品",
+        "name": "名創優品 Miniso",
+        "name:en": "Miniso",
+        "name:zh": "名創優品",
+        "name:zh-Hans": "名创优品",
+        "name:zh-Hant": "名創優品",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "小北百貨",
+      "id": "showba-501f06",
+      "locationSet": {"include": ["tw"]},
+      "matchNames": [
+        "showba department store",
+        "sio pak",
+        "sio-pak-á",
+        "xiao bei bei huo",
+        "小北仔"
+      ],
+      "tags": {
+        "brand": "小北百貨",
+        "brand:en": "Showba",
+        "brand:wikidata": "Q42308684",
+        "brand:zh-Hans": "小北百货",
+        "brand:zh-Hant": "小北百貨",
+        "name": "小北百貨",
+        "name:en": "Showba",
+        "name:nan": "Sió-pak Pah-hòe",
+        "name:nan-HJ": "小北百貨",
+        "name:nan-POJ": "Sió-pak Pah-hòe",
+        "name:nan-TL": "Sió-pak Pah-huè",
+        "name:zh-Hans": "小北百货",
+        "name:zh-Hant": "小北百貨",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "無印良品",
+      "id": "muji-e1b193",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["良品計画"],
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "無印良品",
+        "brand:en": "MUJI",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "name": "無印良品",
+        "name:en": "MUJI",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "shop": "variety_store"
+      }
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "properties": {
+    "path": "brands/shop/travel_agency",
+    "exclude": {"generic": ["^travel agency$"]}
+  },
+  "items": [
+    {
+      "displayName": "ADAC Geschäftsstelle",
+      "id": "adacgeschaftsstelle-3ea820",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "ADAC Geschäftsstelle",
+        "brand:wikidata": "Q289953",
+        "name": "ADAC Geschäftsstelle",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Alltours",
+      "id": "alltours-3ea820",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Alltours",
+        "brand:wikidata": "Q2649481",
+        "name": "Alltours",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "American Automobile Association",
+      "id": "americanautomobileassociation-263985",
+      "locationSet": {"include": ["us"]},
+      "matchTags": [
+        "office/travel_agent",
+        "shop/car"
+      ],
+      "tags": {
+        "brand": "American Automobile Association",
+        "brand:wikidata": "Q463436",
+        "name": "American Automobile Association",
+        "shop": "travel_agency",
+        "short_name": "AAA"
+      }
+    },
+    {
+      "displayName": "Barrhead Travel",
+      "id": "barrheadtravel-b1d32b",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Barrhead Travel",
+        "brand:wikidata": "Q114292485",
+        "name": "Barrhead Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Club Med",
+      "id": "clubmed-9ff76a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Club Med",
+        "brand:wikidata": "Q1076645",
+        "name": "Club Med",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Coral Travel",
+      "id": "coraltravel-45eb20",
+      "locationSet": {
+        "include": ["pl", "ru", "ua"]
+      },
+      "tags": {
+        "brand": "Coral Travel",
+        "brand:wikidata": "Q58011479",
+        "name": "Coral Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Cruise Planners",
+      "id": "cruiseplanners-263985",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Cruise Planners",
+        "brand:wikidata": "Q44076766",
+        "name": "Cruise Planners",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "CVC",
+      "id": "cvc-48b489",
+      "locationSet": {"include": ["br"]},
+      "matchNames": [
+        "cvc turismo",
+        "cvc viagens"
+      ],
+      "tags": {
+        "brand": "CVC",
+        "brand:wikidata": "Q106903991",
+        "name": "CVC",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "D-reizen",
+      "id": "dreizen-9d1680",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "D-reizen",
+        "brand:wikidata": "Q2445498",
+        "name": "D-reizen",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "DER Reisebüro",
+      "id": "derreiseburo-3ea820",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["der deutsches reisebüro"],
+      "tags": {
+        "brand": "DER Reisebüro",
+        "brand:wikidata": "Q56729186",
+        "name": "DER Reisebüro",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Voyages",
+      "id": "eleclerc-9ff76a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "name": "E.Leclerc",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Expedia Cruises",
+      "id": "expediacruises-e2fbf2",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": [
+        "cruiseshipcenters international",
+        "expedia cruiseshipcenters"
+      ],
+      "tags": {
+        "brand": "Expedia Cruises",
+        "brand:wikidata": "Q5189985",
+        "name": "Expedia Cruises",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "First Reisebüro",
+      "id": "firstreiseburo-3ea820",
+      "locationSet": {"include": ["de"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "First Reisebüro",
+        "brand:wikidata": "Q109931384",
+        "name": "First Reisebüro",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Flight Centre",
+      "id": "flightcentre-9aaf3f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Flight Centre",
+        "brand:wikidata": "Q5459202",
+        "name": "Flight Centre",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Fram",
+      "id": "fram-9ff76a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Fram",
+        "brand:wikidata": "Q3063398",
+        "name": "Fram",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Halcón Viajes",
+      "id": "halconviajes-7a9abd",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "brand": "Halcón Viajes",
+        "brand:wikidata": "Q57591939",
+        "name": "Halcón Viajes",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Havas Voyages",
+      "id": "havasvoyages-9ff76a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Havas Voyages",
+        "brand:wikidata": "Q57628091",
+        "name": "Havas Voyages",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Hays Travel",
+      "id": "haystravel-b1d32b",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Hays Travel",
+        "brand:wikidata": "Q70250954",
+        "name": "Hays Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Helloworld Travel",
+      "id": "helloworldtravel-b91cc8",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Helloworld Travel",
+        "brand:wikidata": "Q48772712",
+        "name": "Helloworld Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Hotelplan",
+      "id": "hotelplan-c09afe",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "Hotelplan",
+        "brand:wikidata": "Q1631145",
+        "name": "Hotelplan",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "House of Travel",
+      "id": "houseoftravel-64ecef",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "House of Travel",
+        "brand:wikidata": "Q23177553",
+        "name": "House of Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "HYDROTOUR",
+      "id": "hydrotour-1d4025",
+      "locationSet": {"include": ["sk"]},
+      "matchNames": ["ck hydrotour"],
+      "tags": {
+        "brand": "HYDROTOUR",
+        "brand:wikidata": "Q116854712",
+        "name": "HYDROTOUR",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Invia",
+      "id": "invia-bc5dc6",
+      "locationSet": {
+        "include": ["cz", "hu", "pl", "sk"]
+      },
+      "tags": {
+        "brand": "Invia",
+        "brand:wikidata": "Q20057477",
+        "name": "Invia",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Itaka",
+      "id": "itaka-68492b",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Itaka",
+        "brand:wikidata": "Q16560452",
+        "name": "Itaka",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "JTB",
+      "id": "jtb-4b4d86",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "JTB",
+        "brand:wikidata": "Q6109053",
+        "name": "JTB",
+        "official_name": "日本交通公社",
+        "official_name:en": "Japan Travel Bureau",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Koala Tours",
+      "id": "koalatours-1d4025",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "Koala Tours",
+        "brand:wikidata": "Q116910323",
+        "name": "Koala Tours",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Kuoni",
+      "id": "kuoni-9aaf3f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Kuoni",
+        "brand:wikidata": "Q684355",
+        "name": "Kuoni",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Last Minute Tour",
+      "id": "lastminutetour-3832ef",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Last Minute Tour",
+        "brand:wikidata": "Q110960763",
+        "name": "Last Minute Tour",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Liberty Travel",
+      "id": "libertytravel-263985",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Liberty Travel",
+        "brand:wikidata": "Q17031665",
+        "name": "Liberty Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "ltur",
+      "id": "ltur-3ea820",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "ltur",
+        "brand:wikidata": "Q519040",
+        "name": "ltur",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Miles Morgan Travel",
+      "id": "milesmorgantravel-b1d32b",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Miles Morgan Travel",
+        "brand:wikidata": "Q83179278",
+        "name": "Miles Morgan Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Neckermann Reisen",
+      "id": "neckermannreisen-3ea820",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Neckermann Reisen",
+        "brand:wikidata": "Q17300280",
+        "name": "Neckermann Reisen",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Nouvelles Frontières",
+      "id": "nouvellesfrontieres-9ff76a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Nouvelles Frontières",
+        "brand:wikidata": "Q3117506",
+        "name": "Nouvelles Frontières",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Promovacances",
+      "id": "promovacances-9ff76a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Promovacances",
+        "brand:wikidata": "Q3407444",
+        "name": "Promovacances",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Rainbow",
+      "id": "rainbow-68492b",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Rainbow",
+        "brand:wikidata": "Q16594744",
+        "name": "Rainbow",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Reiseland",
+      "id": "reiseland-3ea820",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Reiseland",
+        "brand:wikidata": "Q40387610",
+        "name": "Reiseland",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Ruefa",
+      "id": "ruefa-2db47e",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "brand": "Ruefa",
+        "brand:wikidata": "Q2174678",
+        "name": "Ruefa",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "SATUR",
+      "id": "satur-1d4025",
+      "locationSet": {"include": ["sk"]},
+      "matchNames": ["ck satur"],
+      "tags": {
+        "brand": "SATUR",
+        "brand:wikidata": "Q69999346",
+        "name": "SATUR",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Selectour",
+      "id": "selectour-9ff76a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Selectour",
+        "brand:wikidata": "Q3478073",
+        "name": "Selectour",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "SENECA Tours",
+      "id": "senecatours-1d4025",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "SENECA Tours",
+        "brand:wikidata": "Q116944532",
+        "name": "SENECA Tours",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "STA Travel",
+      "id": "statravel-9aaf3f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "STA Travel",
+        "brand:wikidata": "Q2208025",
+        "name": "STA Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Thomas Cook",
+      "id": "thomascook-9aaf3f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Thomas Cook",
+        "brand:wikidata": "Q2141800",
+        "name": "Thomas Cook",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "TIP travel",
+      "id": "tiptravel-1d4025",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "TIP travel",
+        "brand:wikidata": "Q116914645",
+        "name": "TIP travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "TUI (Group)",
+      "id": "tui-b6aae0",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["gb"]
+      },
+      "tags": {
+        "brand": "TUI",
+        "brand:wikidata": "Q573103",
+        "name": "TUI",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "TUI (UK)",
+      "id": "tui-b1d32b",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["thomson"],
+      "tags": {
+        "brand": "TUI",
+        "brand:wikidata": "Q7795876",
+        "name": "TUI",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "TUI ReiseCenter",
+      "id": "tuireisecenter-3ea820",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "TUI",
+        "brand:wikidata": "Q573103",
+        "name": "TUI ReiseCenter",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Turancar",
+      "id": "turancar-1d4025",
+      "locationSet": {"include": ["sk"]},
+      "matchNames": ["ck turancar"],
+      "tags": {
+        "brand": "Turancar",
+        "brand:wikidata": "Q63139142",
+        "name": "Turancar",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Turkish Airlines",
+      "id": "turkishairlines-9aaf3f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Turkish Airlines",
+        "brand:wikidata": "Q4548",
+        "name": "Turkish Airlines",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "VakantieXperts",
+      "id": "vakantiexperts-9d1680",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "VakantieXperts",
+        "brand:wikidata": "Q114904977",
+        "name": "VakantieXperts",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Viajes El Corte Inglés",
+      "id": "viajeselcorteingles-d900b5",
+      "locationSet": {
+        "include": [
+          "ar",
+          "cl",
+          "co",
+          "do",
+          "ec",
+          "es",
+          "fr",
+          "it",
+          "mx",
+          "pa",
+          "pe",
+          "pt",
+          "uy"
+        ]
+      },
+      "tags": {
+        "brand": "Viajes El Corte Inglés",
+        "brand:wikidata": "Q115268048",
+        "name": "Viajes El Corte Inglés",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Wakacje.pl",
+      "id": "wakacjepl-68492b",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Wakacje.pl",
+        "brand:wikidata": "Q123051210",
+        "name": "Wakacje.pl",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Your Coop Travel",
+      "id": "yourcooptravel-61ce41",
+      "locationSet": {"include": ["gb-eng"]},
+      "matchNames": ["the co-operative travel"],
+      "tags": {
+        "brand": "Your Coop Travel",
+        "brand:wikidata": "Q7726526",
+        "name": "Your Coop Travel",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Магазин Горящих Путёвок",
+      "id": "c5396b-9aaf3f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Магазин Горящих Путёвок",
+        "name": "Магазин Горящих Путёвок",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "Поїхали з нами",
+      "id": "ffa08a-09bdb9",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "Поїхали з нами",
+        "brand:ru": "Поехали с нами",
+        "brand:uk": "Поїхали з нами",
+        "brand:wikidata": "Q25439141",
+        "name": "Поїхали з нами",
+        "name:ru": "Поехали с нами",
+        "name:uk": "Поїхали з нами",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "エイチ・アイ・エス",
+      "id": "his-4b4d86",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "alt_name:en": "HIS",
+        "brand": "エイチ・アイ・エス",
+        "brand:en": "H.I.S.",
+        "brand:ja": "エイチ・アイ・エス",
+        "brand:wikidata": "Q1452225",
+        "name": "エイチ・アイ・エス",
+        "name:en": "H.I.S.",
+        "name:ja": "エイチ・アイ・エス",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "displayName": "日本旅行",
+      "id": "nippontravelagency-4b4d86",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "日本旅行",
+        "brand:en": "Nippon Travel Agency",
+        "brand:ja": "日本旅行",
+        "brand:ja-Hira": "にほんりょこう",
+        "brand:ja-Latn": "Nihon Ryokō",
+        "brand:wikidata": "Q11508225",
+        "name": "日本旅行",
+        "name:en": "Nippon Travel Agency",
+        "name:ja": "日本旅行",
+        "name:ja-Hira": "にほんりょこう",
+        "name:ja-Latn": "Nihon Ryokō",
+        "shop": "travel_agency",
+        "short_name": "日旅",
+        "short_name:en": "NTA",
+        "short_name:ja": "日旅"
+      }
+    },
+    {
+      "displayName": "近畿日本ツーリスト",
+      "id": "knt-4b4d86",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "近畿日本ツーリスト",
+        "brand:en": "KNT",
+        "brand:ja": "近畿日本ツーリスト",
+        "brand:wikidata": "Q11638632",
+        "name": "近畿日本ツーリスト",
+        "name:en": "KNT",
+        "name:ja": "近畿日本ツーリスト",
+        "official_name:en": "Kinki Nippon Tourist",
+        "shop": "travel_agency"
+      }
+    }
+  ]
+}

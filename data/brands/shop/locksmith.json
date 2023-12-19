@@ -1,0 +1,83 @@
+{
+  "properties": {
+    "path": "brands/shop/locksmith",
+    "exclude": {"generic": ["^locksmith$"]}
+  },
+  "items": [
+    {
+      "displayName": "Mister Minit",
+      "id": "misterminit-b68e86",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mister Minit",
+        "brand:wikidata": "Q1939269",
+        "name": "Mister Minit",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "OS.9",
+      "id": "os9-a897ac",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "OS.9",
+        "brand:wikidata": "Q123670813",
+        "name": "OS.9",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "Timpson",
+      "id": "timpson-5c571a",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchNames": ["timpsons"],
+      "matchTags": ["shop/shoes"],
+      "tags": {
+        "brand": "Timpson",
+        "brand:wikidata": "Q7807658",
+        "name": "Timpson",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "Ключевой момент",
+      "id": "927054-b68e86",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ключевой момент",
+        "name": "Ключевой момент",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "カギの110番",
+      "id": "kagi110-214af9",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "カギの110番",
+        "brand:en": "Kagi110",
+        "brand:ja": "カギの110番",
+        "brand:wikidata": "Q94551271",
+        "name": "カギの110番",
+        "name:en": "Kagi110",
+        "name:ja": "カギの110番",
+        "shop": "locksmith"
+      }
+    },
+    {
+      "displayName": "カギの救急車",
+      "id": "keyambulancy-214af9",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "カギの救急車",
+        "brand:en": "Key Ambulancy",
+        "brand:ja": "カギの救急車",
+        "brand:wikidata": "Q94551271",
+        "name": "カギの救急車",
+        "name:en": "Key Ambulancy",
+        "name:ja": "カギの救急車",
+        "shop": "locksmith"
+      }
+    }
+  ]
+}

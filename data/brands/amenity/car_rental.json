@@ -1,0 +1,518 @@
+{
+  "properties": {
+    "path": "brands/amenity/car_rental",
+    "exclude": {
+      "generic": ["^(car rental|rent a car)$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ADA",
+      "id": "ada-d9531a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ADA",
+        "brand:wikidata": "Q57313774",
+        "name": "ADA"
+      }
+    },
+    {
+      "displayName": "Alamo",
+      "id": "alamo-1f06f0",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Alamo",
+        "brand:wikidata": "Q1429287",
+        "name": "Alamo"
+      }
+    },
+    {
+      "displayName": "Apex",
+      "id": "apex-f8249a",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Apex",
+        "brand:wikidata": "Q113312731",
+        "name": "Apex"
+      }
+    },
+    {
+      "displayName": "Arnold Clark Car & Van Rental",
+      "id": "arnoldclarkcarandvanrental-94e308",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Arnold Clark",
+        "brand:wikidata": "Q29344371",
+        "name": "Arnold Clark Car & Van Rental"
+      }
+    },
+    {
+      "displayName": "Avis",
+      "id": "avis-d9531a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Avis",
+        "brand:wikidata": "Q791136",
+        "name": "Avis",
+        "official_name": "Avis Car Rental"
+      }
+    },
+    {
+      "displayName": "Buchbinder",
+      "id": "buchbinder-407895",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Buchbinder",
+        "brand:wikidata": "Q89432097",
+        "name": "Buchbinder"
+      }
+    },
+    {
+      "displayName": "Budget",
+      "id": "budget-d9531a",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["budget car rental"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Budget",
+        "brand:wikidata": "Q1001437",
+        "name": "Budget",
+        "official_name": "Budget Rent a Car"
+      }
+    },
+    {
+      "displayName": "Budget Truck Rental",
+      "id": "budgettruckrental-d50162",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Budget Truck Rental",
+        "brand:wikidata": "Q4985029",
+        "name": "Budget Truck Rental"
+      }
+    },
+    {
+      "displayName": "CarGo",
+      "id": "cargo-8fb45c",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "CarGo",
+        "brand:wikidata": "Q117662226",
+        "name": "CarGo"
+      }
+    },
+    {
+      "displayName": "Dollar Car Rental",
+      "id": "dollarcarrental-d50162",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "dollar",
+        "dollar rent a car"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Dollar Car Rental",
+        "brand:wikidata": "Q1235661",
+        "name": "Dollar Car Rental"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Location",
+      "id": "eleclerclocation-8fb45c",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "E.Leclerc Location",
+        "brand:wikidata": "Q1273376",
+        "name": "E.Leclerc Location"
+      }
+    },
+    {
+      "displayName": "Enterprise",
+      "id": "enterprise-d9531a",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["enterprise car rental"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Enterprise",
+        "brand:wikidata": "Q17085454",
+        "name": "Enterprise",
+        "official_name": "Enterprise Rent-A-Car"
+      }
+    },
+    {
+      "displayName": "Euromobil",
+      "id": "euromobil-76827b",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Euromobil",
+        "brand:wikidata": "Q1375118",
+        "name": "Euromobil"
+      }
+    },
+    {
+      "displayName": "Europcar",
+      "id": "europcar-802794",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["dk", "fi", "no", "se"]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Europcar",
+        "brand:wikidata": "Q1376256",
+        "name": "Europcar"
+      }
+    },
+    {
+      "displayName": "Europcar (Scandinavia)",
+      "id": "europcar-95cde7",
+      "locationSet": {
+        "include": ["dk", "fi", "no", "se"]
+      },
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Europcar",
+        "brand:wikidata": "Q1376256",
+        "name": "Europcar"
+      }
+    },
+    {
+      "displayName": "GarentaDAY",
+      "id": "garentaday-48a8d7",
+      "locationSet": {"include": ["tr"]},
+      "matchNames": ["garenta"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "GarentaDAY",
+        "brand:wikidata": "Q106801676",
+        "name": "GarentaDAY"
+      }
+    },
+    {
+      "displayName": "Green Motion",
+      "id": "greenmotion-d9531a",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["green motion car rental"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Green Motion",
+        "brand:wikidata": "Q65315691",
+        "name": "Green Motion"
+      }
+    },
+    {
+      "displayName": "Hertz",
+      "id": "hertz-d9531a",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "hertz car rental",
+        "hertz rent a car"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Hertz",
+        "brand:wikidata": "Q1543874",
+        "name": "Hertz"
+      }
+    },
+    {
+      "displayName": "Jucy",
+      "id": "jucy-fde8ea",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Jucy",
+        "brand:wikidata": "Q22032112",
+        "name": "Jucy"
+      }
+    },
+    {
+      "displayName": "Localiza",
+      "id": "localiza-d9531a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Localiza",
+        "brand:wikidata": "Q10319490",
+        "name": "Localiza"
+      }
+    },
+    {
+      "displayName": "Movida",
+      "id": "movida-7721c7",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Movida",
+        "brand:wikidata": "Q106632587",
+        "name": "Movida"
+      }
+    },
+    {
+      "displayName": "National",
+      "id": "national-6ebae1",
+      "locationSet": {
+        "include": ["ca", "gb", "mx", "us"]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "National",
+        "brand:wikidata": "Q1424142",
+        "name": "National",
+        "official_name": "National Car Rental"
+      }
+    },
+    {
+      "displayName": "Payless",
+      "id": "payless-d9531a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Payless",
+        "brand:wikidata": "Q17084987",
+        "name": "Payless"
+      }
+    },
+    {
+      "displayName": "Practical",
+      "id": "practical-9ff876",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchNames": [
+        "practical car & van rental"
+      ],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Practical",
+        "brand:wikidata": "Q121435266",
+        "name": "Practical"
+      }
+    },
+    {
+      "displayName": "Redspot Car Rentals",
+      "id": "redspotcarrentals-ba918c",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Redspot Car Rentals",
+        "brand:wikidata": "Q7306270",
+        "name": "Redspot Car Rentals"
+      }
+    },
+    {
+      "displayName": "SIXT",
+      "id": "sixt-d9531a",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["sixt rent a car"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "SIXT",
+        "brand:wikidata": "Q705664",
+        "name": "SIXT"
+      }
+    },
+    {
+      "displayName": "SK렌터카",
+      "id": "skrentacar-1f06f0",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "SK렌터카",
+        "brand:en": "SK rent-a-car",
+        "brand:ko": "SK렌터카",
+        "brand:wikidata": "Q121294762",
+        "name": "SK렌터카",
+        "name:en": "SK rent-a-car",
+        "name:ko": "SK렌터카"
+      }
+    },
+    {
+      "displayName": "STARCAR",
+      "id": "starcar-608338",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "STARCAR",
+        "brand:wikidata": "Q123031847",
+        "name": "STARCAR"
+      }
+    },
+    {
+      "displayName": "Thrifty",
+      "id": "thrifty-d9531a",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["thrifty car rental"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Thrifty",
+        "brand:wikidata": "Q2429546",
+        "name": "Thrifty"
+      }
+    },
+    {
+      "displayName": "U-Save",
+      "id": "usave-c212fd",
+      "locationSet": {
+        "include": [
+          "cr",
+          "do",
+          "jm",
+          "mt",
+          "mx",
+          "nl",
+          "ro",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "U-Save",
+        "brand:wikidata": "Q123005345",
+        "name": "U-Save",
+        "official_name": "U-Save Car & Truck Rental"
+      }
+    },
+    {
+      "displayName": "Unidas",
+      "id": "unidas-7721c7",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Unidas",
+        "brand:wikidata": "Q97377626",
+        "name": "Unidas"
+      }
+    },
+    {
+      "displayName": "롯데렌터카",
+      "id": "lotterentacar-1f06f0",
+      "locationSet": {"include": ["kr"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "롯데렌터카",
+        "brand:en": "Lotte rent-a-car",
+        "brand:ko": "롯데렌터카",
+        "brand:wikidata": "Q121294865",
+        "name": "롯데렌터카",
+        "name:en": "Lotte rent-a-car",
+        "name:ko": "롯데렌터카"
+      }
+    },
+    {
+      "displayName": "オリックスレンタカー",
+      "id": "orixrentacar-f05847",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "オリックスレンタカー",
+        "brand:en": "ORIX Rent-A-Car",
+        "brand:ja": "オリックスレンタカー",
+        "brand:wikidata": "Q11123021",
+        "name": "オリックスレンタカー",
+        "name:en": "ORIX Rent a Car",
+        "name:ja": "オリックスレンタカー"
+      }
+    },
+    {
+      "displayName": "トヨタレンタカー",
+      "id": "toyotarentacar-f05847",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["トヨタレンタリース"],
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "トヨタレンタカー",
+        "brand:en": "TOYOTA Rent a Car",
+        "brand:ja": "トヨタレンタカー",
+        "brand:wikidata": "Q11321580",
+        "name": "トヨタレンタカー",
+        "name:en": "Toyota Rent a Car",
+        "name:ja": "トヨタレンタカー"
+      }
+    },
+    {
+      "displayName": "ニコニコレンタカー",
+      "id": "niconicorentacar-f05847",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ニコニコレンタカー",
+        "brand:en": "NICONICO RENTACAR",
+        "brand:ja": "ニコニコレンタカー",
+        "brand:wikidata": "Q11324230",
+        "name": "ニコニコレンタカー",
+        "name:en": "Niconico Rentacar",
+        "name:ja": "ニコニコレンタカー"
+      }
+    },
+    {
+      "displayName": "ニッポンレンタカー",
+      "id": "nipponrentacar-f05847",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ニッポンレンタカー",
+        "brand:en": "NIPPON Rent-A-Car",
+        "brand:ja": "ニッポンレンタカー",
+        "brand:wikidata": "Q11086533",
+        "name": "ニッポンレンタカー",
+        "name:en": "Nippon Rent-A-Car",
+        "name:ja": "ニッポンレンタカー"
+      }
+    },
+    {
+      "displayName": "和運租車",
+      "id": "hotaileasing-9fc5e0",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "和運租車",
+        "brand:en": "Hotai Leasing",
+        "brand:wikidata": "Q10921690",
+        "brand:zh": "和運租車",
+        "name": "和運租車",
+        "name:en": "Hotai Leasing",
+        "name:zh": "和運租車"
+      }
+    },
+    {
+      "displayName": "日産レンタカー",
+      "id": "nissanrentacar-f05847",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "日産レンタカー",
+        "brand:en": "NISSAN RENT A CAR",
+        "brand:ja": "日産レンタカー",
+        "brand:wikidata": "Q11086838",
+        "name": "日産レンタカー",
+        "name:en": "Nissan Rent a Car",
+        "name:ja": "日産レンタカー"
+      }
+    },
+    {
+      "displayName": "神州租车",
+      "id": "carinc-bc1c71",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "神州租车",
+        "brand:en": "CAR Inc.",
+        "brand:wikidata": "Q18091357",
+        "brand:zh": "神州租车",
+        "name": "神州租车",
+        "name:en": "CAR Inc.",
+        "name:zh": "神州租车"
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "properties": {
+    "path": "brands/office/employment_agency",
+    "exclude": {
+      "generic": ["^employment agency$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Accent Jobs",
+      "id": "accentjobs-26db9d",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "brand": "Accent Jobs",
+        "brand:wikidata": "Q2939495",
+        "name": "Accent Jobs",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Adecco",
+      "id": "adecco-0baa05",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["adecco france"],
+      "tags": {
+        "brand": "Adecco",
+        "brand:wikidata": "Q353494",
+        "name": "Adecco",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Agentur für Arbeit",
+      "id": "agenturfurarbeit-d474df",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Agentur für Arbeit",
+        "brand:wikidata": "Q1478016",
+        "name": "Agentur für Arbeit",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Appel Médical",
+      "id": "appelmedical-9e0ae6",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Appel Médical",
+        "name": "Appel Médical",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Arbeitsuchende Österreich",
+      "id": "arbeitsuchendeosterreich-69b0ce",
+      "locationSet": {"include": ["at"]},
+      "matchNames": ["ams jobseekers austria"],
+      "tags": {
+        "brand": "Arbeitsuchende Österreich",
+        "brand:wikidata": "Q120765386",
+        "name": "Arbeitsuchende Österreich",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "cintas",
+      "id": "cintas-61ea6e",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "cintas",
+        "brand:wikidata": "Q1092571",
+        "name": "cintas",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Driver Hire",
+      "id": "driverhire-e4b4b7",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Driver Hire",
+        "brand:wikidata": "Q89404688",
+        "name": "Driver Hire",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Express Employment Professionals",
+      "id": "expressemploymentprofessionals-867cf6",
+      "locationSet": {
+        "include": ["au", "ca", "nz", "us", "za"]
+      },
+      "matchNames": ["express employment"],
+      "tags": {
+        "brand": "Express Employment Professionals",
+        "brand:wikidata": "Q117351404",
+        "name": "Express Employment Professionals",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "İŞKUR",
+      "id": "iskur-591089",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "İŞKUR",
+        "brand:wikidata": "Q6001879",
+        "name": "İŞKUR",
+        "office": "employment_agency",
+        "official_name": "Türkiye İş Kurumu"
+      }
+    },
+    {
+      "displayName": "Jobcenter",
+      "id": "jobcenter-d474df",
+      "locationSet": {"include": ["de"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Jobcenter",
+        "brand:wikidata": "Q56292847",
+        "name": "Jobcenter",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Jobcentre Plus",
+      "id": "jobcentreplus-e4b4b7",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["jobcentre"],
+      "matchTags": ["office/company"],
+      "tags": {
+        "brand": "Jobcentre Plus",
+        "brand:wikidata": "Q6206793",
+        "name": "Jobcentre Plus",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Kelly Services",
+      "id": "kellyservices-0baa05",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Kelly Services",
+        "brand:wikidata": "Q1538585",
+        "name": "Kelly Services",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Manpower",
+      "id": "manpower-0baa05",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Manpower",
+        "brand:wikidata": "Q1472539",
+        "name": "Manpower",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Office Angels",
+      "id": "officeangels-e4b4b7",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Office Angels",
+        "brand:wikidata": "Q89403503",
+        "name": "Office Angels",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "PeopleReady",
+      "id": "peopleready-81c4e9",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "PeopleReady",
+        "brand:wikidata": "Q122432694",
+        "name": "PeopleReady",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Pôle Emploi",
+      "id": "poleemploi-9e0ae6",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Pôle Emploi",
+        "brand:wikidata": "Q8901192",
+        "name": "Pôle Emploi",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Proman",
+      "id": "proman-9e0ae6",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Proman",
+        "brand:wikidata": "Q24189171",
+        "name": "Proman",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Randstad",
+      "id": "randstad-f7dc26",
+      "locationSet": {
+        "include": [
+          "ad",
+          "at",
+          "au",
+          "be",
+          "ca",
+          "ch",
+          "cn",
+          "cz",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb",
+          "gr",
+          "hk",
+          "hu",
+          "ie",
+          "in",
+          "it",
+          "jp",
+          "lu",
+          "mc",
+          "mx",
+          "my",
+          "nl",
+          "no",
+          "nz",
+          "pl",
+          "pt",
+          "ro",
+          "se",
+          "sg",
+          "sy",
+          "tk",
+          "us"
+        ]
+      },
+      "matchTags": ["office/consulting"],
+      "tags": {
+        "brand": "Randstad",
+        "brand:wikidata": "Q267840",
+        "name": "Randstad",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Spherion",
+      "id": "spherionstaffingandrecruiting-81c4e9",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Spherion",
+        "brand:wikidata": "Q120730666",
+        "name": "Spherion Staffing & Recruiting",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Start People",
+      "id": "startpeople-3ac139",
+      "locationSet": {"include": ["be", "nl"]},
+      "tags": {
+        "brand": "Start People",
+        "brand:wikidata": "Q2646530",
+        "name": "Start People",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Synergie",
+      "id": "synergie-9e0ae6",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Synergie",
+        "brand:wikidata": "Q3508830",
+        "name": "Synergie",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "Tempo-Team",
+      "id": "tempoteam-a6688c",
+      "locationSet": {
+        "include": ["be", "de", "nl"]
+      },
+      "tags": {
+        "brand": "Tempo-Team",
+        "brand:wikidata": "Q1996250",
+        "name": "Tempo-Team",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "The Recruitment Co",
+      "id": "therecruitmentco-e4b4b7",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["cordant people"],
+      "tags": {
+        "brand": "The Recruitment Co",
+        "brand:wikidata": "Q85311605",
+        "name": "The Recruitment Co",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "パソナ",
+      "id": "pasona-ea06d3",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "パソナ",
+        "brand:en": "Pasona",
+        "brand:ja": "パソナ",
+        "brand:wikidata": "Q7142290",
+        "name": "パソナ",
+        "name:en": "Pasona",
+        "name:ja": "パソナ",
+        "office": "employment_agency"
+      }
+    },
+    {
+      "displayName": "ハローワーク",
+      "id": "hellowork-ea06d3",
+      "locationSet": {"include": ["jp"]},
+      "preserveTags": ["^name", "^official_name"],
+      "tags": {
+        "brand": "ハローワーク",
+        "brand:en": "Hello Work",
+        "brand:ja": "ハローワーク",
+        "brand:wikidata": "Q5016578",
+        "name": "ハローワーク",
+        "name:en": "Hello Work",
+        "name:ja": "ハローワーク",
+        "office": "employment_agency",
+        "official_name": "公共職業安定所",
+        "official_name:en": "Public Employment Security Office",
+        "official_name:ja": "公共職業安定所"
+      }
+    }
+  ]
+}

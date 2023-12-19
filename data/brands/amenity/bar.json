@@ -1,0 +1,290 @@
+{
+  "properties": {
+    "path": "brands/amenity/bar",
+    "skipCollection": true,
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": ["^(pool|snack)?\\s?bar$"],
+      "named": ["^уют$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "All Bar One",
+      "id": "allbarone-60d62f",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "All Bar One",
+        "brand:wikidata": "Q4728624",
+        "cocktails": "yes",
+        "name": "All Bar One"
+      }
+    },
+    {
+      "displayName": "Bar Louie Restaurants",
+      "id": "barlouierestaurants-f5e33a",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Bar Louie Restaurants",
+        "brand:wikidata": "Q16935493",
+        "cocktails": "yes",
+        "name": "Bar Louie Restaurants"
+      }
+    },
+    {
+      "displayName": "Barrio",
+      "id": "barrio-f3bc39",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "tags": {
+        "amenity": "bar",
+        "brand": "Barrio",
+        "brand:wikidata": "Q114670989",
+        "cocktails": "yes",
+        "name": "Barrio"
+      }
+    },
+    {
+      "displayName": "Be At One",
+      "id": "beatone-60d62f",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Be At One",
+        "brand:wikidata": "Q110016786",
+        "cocktails": "yes",
+        "name": "Be At One"
+      }
+    },
+    {
+      "displayName": "Coyote Ugly",
+      "id": "coyoteugly-163d6e",
+      "locationSet": {
+        "include": [
+          "de",
+          "gb",
+          "jp",
+          "kg",
+          "ru",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "bar",
+        "brand": "Coyote Ugly Saloon",
+        "brand:wikidata": "Q4131558",
+        "name": "Coyote Ugly"
+      }
+    },
+    {
+      "displayName": "Flight Club",
+      "id": "flightclub-dd725d",
+      "locationSet": {
+        "include": ["au", "gb-eng", "us"]
+      },
+      "tags": {
+        "amenity": "bar",
+        "brand": "Flight Club",
+        "brand:wikidata": "Q112668069",
+        "food": "yes",
+        "name": "Flight Club",
+        "sport": "darts"
+      }
+    },
+    {
+      "displayName": "Piana Vyshnia",
+      "id": "pianavyshnia-1dc747",
+      "locationSet": {
+        "include": [
+          "ee",
+          "hu",
+          "lt",
+          "lv",
+          "md",
+          "ro",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "bar",
+        "brand": "Piana Vyshnia",
+        "brand:wikidata": "Q120651326",
+        "name": "Piana Vyshnia"
+      }
+    },
+    {
+      "displayName": "Pijalnia Wódki i Piwa",
+      "id": "pijalniawodkiipiwa-ca2c56",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Pijalnia Wódki i Piwa",
+        "brand:wikidata": "Q86681898",
+        "name": "Pijalnia Wódki i Piwa"
+      }
+    },
+    {
+      "displayName": "Pijana Wiśnia",
+      "id": "pijanawisnia-ca2c56",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Pijana Wiśnia",
+        "brand:wikidata": "Q120651326",
+        "name": "Pijana Wiśnia"
+      }
+    },
+    {
+      "displayName": "Revolución de Cuba",
+      "id": "revoluciondecuba-60d62f",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Revolución de Cuba",
+        "brand:wikidata": "Q64024691",
+        "name": "Revolución de Cuba"
+      }
+    },
+    {
+      "displayName": "Revolution",
+      "id": "revolution-60d62f",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Revolution",
+        "brand:wikidata": "Q64024398",
+        "cocktails": "yes",
+        "name": "Revolution"
+      }
+    },
+    {
+      "displayName": "Simmons",
+      "id": "simmons-60d62f",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["simmons bar"],
+      "matchTags": ["amenity/nightclub"],
+      "tags": {
+        "amenity": "bar",
+        "brand": "Simmons Bars",
+        "brand:wikidata": "Q109991573",
+        "cocktails": "yes",
+        "name": "Simmons"
+      }
+    },
+    {
+      "displayName": "Slug and Lettuce",
+      "id": "slugandlettuce-60d62f",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Slug and Lettuce",
+        "brand:wikidata": "Q7542224",
+        "cocktails": "yes",
+        "food": "yes",
+        "name": "Slug and Lettuce"
+      }
+    },
+    {
+      "displayName": "The Blues Kitchen",
+      "id": "theblueskitchen-149b5d",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "The Blues Kitchen",
+        "brand:wikidata": "Q24890814",
+        "live_music": "yes",
+        "name": "The Blues Kitchen"
+      }
+    },
+    {
+      "displayName": "The Cocktail Club",
+      "id": "thecocktailclub-149b5d",
+      "locationSet": {"include": ["gb-eng"]},
+      "matchNames": [
+        "london cocktail club",
+        "the london cocktail club"
+      ],
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "bar",
+        "brand": "The Cocktail Club",
+        "brand:wikidata": "Q117280652",
+        "cocktails": "yes",
+        "name": "The Cocktail Club"
+      }
+    },
+    {
+      "displayName": "Vagabond",
+      "id": "vagabond-149b5d",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Vagabond",
+        "brand:wikidata": "Q115139492",
+        "name": "Vagabond"
+      }
+    },
+    {
+      "displayName": "Vino Volo",
+      "id": "vinovolo-197df4",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Vino Volo",
+        "brand:wikidata": "Q7932710",
+        "name": "Vino Volo"
+      }
+    },
+    {
+      "displayName": "Пʼяна Вишня",
+      "id": "2db45d-10ce3b",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "drunken cherry",
+        "piana vyshnia",
+        "pijana wiśnia",
+        "п'яна вишня"
+      ],
+      "tags": {
+        "amenity": "bar",
+        "brand": "Пʼяна Вишня",
+        "brand:wikidata": "Q120651326",
+        "name": "Пʼяна Вишня",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "吧東 Bar East",
+      "id": "bareast-63b5b7",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "吧東 Bar East",
+        "brand:en": "Bar East",
+        "brand:wikidata": "Q120288546",
+        "brand:zh": "吧東",
+        "name": "吧東 Bar East",
+        "name:en": "Bar East",
+        "name:zh": "吧東"
+      }
+    },
+    {
+      "displayName": "太平洋酒吧 Bar Pacific",
+      "id": "barpacific-63b5b7",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "太平洋酒吧 Bar Pacific",
+        "brand:en": "Bar Pacific",
+        "brand:wikidata": "Q28445474",
+        "brand:zh": "太平洋酒吧",
+        "name": "太平洋酒吧 Bar Pacific",
+        "name:en": "Bar Pacific",
+        "name:zh": "太平洋酒吧"
+      }
+    }
+  ]
+}

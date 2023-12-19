@@ -1,0 +1,1644 @@
+{
+  "properties": {
+    "path": "brands/leisure/fitness_centre",
+    "exclude": {
+      "generic": [
+        "^academia ao ar livre$",
+        "^fitness cent(re|er)$",
+        "^gimnasio( municipal)?$",
+        "^gym(nase|nasium)?$",
+        "^باشگاه بدنسازی$",
+        "^체육관$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "24 Hour Fitness",
+      "id": "24hourfitness-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "24 Hour Fitness",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness"
+      }
+    },
+    {
+      "displayName": "24 Hour Fitness Sport",
+      "id": "24hourfitnesssport-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "24 Hour Fitness Sport",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness Sport"
+      }
+    },
+    {
+      "displayName": "24 Hour Fitness Super Sport",
+      "id": "24hourfitnesssupersport-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "24 Hour Fitness Super Sport",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness Super Sport"
+      }
+    },
+    {
+      "displayName": "24/7 Fitness",
+      "id": "247fitness-68bf34",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "24/7 Fitness",
+        "brand:en": "24/7 Fitness",
+        "brand:wikidata": "Q112671987",
+        "leisure": "fitness_centre",
+        "name": "24/7 Fitness",
+        "name:en": "24/7 Fitness"
+      }
+    },
+    {
+      "displayName": "9Round",
+      "id": "9round-c8777b",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["9round kickboxing fitness"],
+      "tags": {
+        "brand": "9Round",
+        "brand:wikidata": "Q120122534",
+        "leisure": "fitness_centre",
+        "name": "9Round",
+        "sport": "kickboxing"
+      }
+    },
+    {
+      "displayName": "Alex Fitness",
+      "id": "alexfitness-2b2465",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Alex Fitness",
+        "brand:wikidata": "Q110300392",
+        "leisure": "fitness_centre",
+        "name": "Alex Fitness"
+      }
+    },
+    {
+      "displayName": "Anytime Fitness",
+      "id": "anytimefitness-c8777b",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["anytime fitness australia"],
+      "tags": {
+        "brand": "Anytime Fitness",
+        "brand:wikidata": "Q4778364",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness"
+      }
+    },
+    {
+      "displayName": "Bannatyne Health Club",
+      "id": "bannatynehealthclub-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Bannatyne Health Club",
+        "brand:wikidata": "Q24993691",
+        "leisure": "fitness_centre",
+        "name": "Bannatyne Health Club"
+      }
+    },
+    {
+      "displayName": "Barre3",
+      "id": "barre3-571e6b",
+      "locationSet": {
+        "include": ["ca", "ph", "us"]
+      },
+      "tags": {
+        "brand": "Barre3",
+        "brand:wikidata": "Q120601241",
+        "leisure": "fitness_centre",
+        "name": "Barre3",
+        "sport": "barre"
+      }
+    },
+    {
+      "displayName": "Barry's",
+      "id": "barrys-1b6d66",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "ca",
+          "de",
+          "dk",
+          "es",
+          "fr",
+          "gb-eng",
+          "it",
+          "mx",
+          "no",
+          "qa",
+          "se",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Barry's",
+        "brand:wikidata": "Q96373178",
+        "leisure": "fitness_centre",
+        "name": "Barry's"
+      }
+    },
+    {
+      "displayName": "Basic-Fit",
+      "id": "basicfit-4741dc",
+      "locationSet": {
+        "include": ["be", "es", "fr", "lu", "nl"]
+      },
+      "tags": {
+        "brand": "Basic-Fit",
+        "brand:wikidata": "Q40165577",
+        "leisure": "fitness_centre",
+        "name": "Basic-Fit"
+      }
+    },
+    {
+      "displayName": "Better (Greenwich Leisure Limited)",
+      "id": "better-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["better leisure centres"],
+      "tags": {
+        "brand": "Better",
+        "brand:wikidata": "Q109721926",
+        "fee": "yes",
+        "leisure": "fitness_centre",
+        "operator": "Greenwich Leisure Limited",
+        "operator:wikidata": "Q5604859"
+      }
+    },
+    {
+      "displayName": "Blink Fitness",
+      "id": "blinkfitness-809afb",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["blink"],
+      "tags": {
+        "brand": "Blink Fitness",
+        "brand:wikidata": "Q65621568",
+        "leisure": "fitness_centre",
+        "name": "Blink Fitness"
+      }
+    },
+    {
+      "displayName": "Bluefit",
+      "id": "bluefit-777e0e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Bluefit",
+        "brand:wikidata": "Q111154874",
+        "leisure": "fitness_centre",
+        "name": "Bluefit"
+      }
+    },
+    {
+      "displayName": "Bodystreet",
+      "id": "bodystreet-c8777b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Bodystreet",
+        "brand:wikidata": "Q117880186",
+        "leisure": "fitness_centre",
+        "name": "Bodystreet"
+      }
+    },
+    {
+      "displayName": "Bodytech",
+      "id": "bodytech-526e49",
+      "locationSet": {
+        "include": ["cl", "co", "pe"]
+      },
+      "matchNames": ["boditech", "bodytek"],
+      "tags": {
+        "brand": "Bodytech",
+        "brand:wikidata": "Q16538274",
+        "leisure": "fitness_centre",
+        "name": "Bodytech"
+      }
+    },
+    {
+      "displayName": "Bodytech (Brasil)",
+      "id": "bodytech-777e0e",
+      "locationSet": {"include": ["br"]},
+      "matchNames": ["boditech", "bodytek"],
+      "tags": {
+        "brand": "Bodytech",
+        "brand:wikidata": "Q100273505",
+        "leisure": "fitness_centre",
+        "name": "Bodytech"
+      }
+    },
+    {
+      "displayName": "Burn Boot Camp",
+      "id": "burnbootcamp-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Burn Boot Camp",
+        "brand:wikidata": "Q83375810",
+        "leisure": "fitness_centre",
+        "name": "Burn Boot Camp"
+      }
+    },
+    {
+      "displayName": "Buzz Gym",
+      "id": "buzzgym-a89c8d",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "brand": "Buzz Gym",
+        "brand:wikidata": "Q117834439",
+        "leisure": "fitness_centre",
+        "name": "Buzz Gym",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "displayName": "Celebrity Fitness",
+      "id": "celebrityfitness-412a8d",
+      "locationSet": {
+        "include": ["id", "my", "ph", "sg", "th"]
+      },
+      "tags": {
+        "brand": "Celebrity Fitness",
+        "brand:wikidata": "Q5057734",
+        "leisure": "fitness_centre",
+        "name": "Celebrity Fitness"
+      }
+    },
+    {
+      "displayName": "CityFitness",
+      "id": "cityfitness-745622",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "CityFitness",
+        "brand:wikidata": "Q110923303",
+        "leisure": "fitness_centre",
+        "name": "CityFitness"
+      }
+    },
+    {
+      "displayName": "Clever fit",
+      "id": "cleverfit-1d011d",
+      "locationSet": {
+        "include": ["at", "ch", "de"]
+      },
+      "tags": {
+        "brand": "Clever fit",
+        "brand:wikidata": "Q27909675",
+        "leisure": "fitness_centre",
+        "name": "Clever fit"
+      }
+    },
+    {
+      "displayName": "Club Pilates",
+      "id": "clubpilates-9a38b2",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Club Pilates",
+        "brand:wikidata": "Q109328844",
+        "leisure": "fitness_centre",
+        "name": "Club Pilates",
+        "sport": "pilates"
+      }
+    },
+    {
+      "displayName": "CorePower Yoga",
+      "id": "corepoweryoga-809afb",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["corepower"],
+      "matchTags": ["club/sport"],
+      "tags": {
+        "brand": "CorePower Yoga",
+        "brand:wikidata": "Q21015663",
+        "leisure": "fitness_centre",
+        "name": "CorePower Yoga",
+        "sport": "yoga"
+      }
+    },
+    {
+      "displayName": "Crunch Fitness",
+      "id": "crunchfitness-39883b",
+      "locationSet": {
+        "include": ["au", "ca", "us"]
+      },
+      "matchNames": ["crunch"],
+      "tags": {
+        "brand": "Crunch Fitness",
+        "brand:wikidata": "Q5190093",
+        "leisure": "fitness_centre",
+        "name": "Crunch Fitness"
+      }
+    },
+    {
+      "displayName": "cult.fit",
+      "id": "cultfit-111905",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "cult.fit",
+        "brand:wikidata": "Q121289250",
+        "leisure": "fitness_centre",
+        "name": "cult.fit"
+      }
+    },
+    {
+      "displayName": "Curves",
+      "id": "curves-c8777b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Curves",
+        "brand:wikidata": "Q5196080",
+        "leisure": "fitness_centre",
+        "name": "Curves"
+      }
+    },
+    {
+      "displayName": "EasyFitness",
+      "id": "easyfitness-d6de51",
+      "locationSet": {
+        "include": ["at", "de", "es"]
+      },
+      "tags": {
+        "brand": "EasyFitness",
+        "brand:wikidata": "Q106166703",
+        "leisure": "fitness_centre",
+        "name": "EasyFitness"
+      }
+    },
+    {
+      "displayName": "Éconofitness",
+      "id": "econofitness-122858",
+      "locationSet": {
+        "include": [
+          "ca-on.geojson",
+          "ca-qc.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Éconofitness",
+        "brand:wikidata": "Q123073582",
+        "leisure": "fitness_centre",
+        "name": "Éconofitness"
+      }
+    },
+    {
+      "displayName": "énergie Fitness",
+      "id": "energiefitness-db9195",
+      "locationSet": {
+        "include": ["bh", "es", "gb", "ie"]
+      },
+      "tags": {
+        "brand": "énergie Fitness",
+        "brand:wikidata": "Q109855553",
+        "leisure": "fitness_centre",
+        "name": "énergie Fitness"
+      }
+    },
+    {
+      "displayName": "Equinox",
+      "id": "equinox-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Equinox",
+        "brand:wikidata": "Q5384535",
+        "leisure": "fitness_centre",
+        "name": "Equinox"
+      }
+    },
+    {
+      "displayName": "Esporta Fitness",
+      "id": "esportafitness-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Esporta Fitness",
+        "brand:wikidata": "Q109354882",
+        "leisure": "fitness_centre",
+        "name": "Esporta Fitness"
+      }
+    },
+    {
+      "displayName": "Everlast Gyms",
+      "id": "everlastgyms-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "alt_name": "Everlast Fitness Club",
+        "brand": "Everlast Gyms",
+        "brand:wikidata": "Q112947134",
+        "leisure": "fitness_centre",
+        "name": "Everlast Gyms"
+      }
+    },
+    {
+      "displayName": "F45 Training",
+      "id": "f45training-e76881",
+      "locationSet": {
+        "include": ["au", "ca", "gb", "nz", "us"]
+      },
+      "tags": {
+        "brand": "F45 Training",
+        "brand:wikidata": "Q64390973",
+        "leisure": "fitness_centre",
+        "name": "F45 Training",
+        "short_name": "F45"
+      }
+    },
+    {
+      "displayName": "Fernwood Fitness",
+      "id": "fernwoodfitness-c88de3",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Fernwood Fitness",
+        "brand:wikidata": "Q115668528",
+        "female": "yes",
+        "leisure": "fitness_centre",
+        "name": "Fernwood Fitness"
+      }
+    },
+    {
+      "displayName": "Fit4Less (Canada)",
+      "id": "fit4less-aa8143",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Fit4Less",
+        "brand:wikidata": "Q64821050",
+        "leisure": "fitness_centre",
+        "name": "Fit4Less"
+      }
+    },
+    {
+      "displayName": "Fit4less (UK)",
+      "id": "fit4less-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Fit4less",
+        "brand:wikidata": "Q64821053",
+        "leisure": "fitness_centre",
+        "name": "Fit4less"
+      }
+    },
+    {
+      "displayName": "FITINN",
+      "id": "fitinn-48d938",
+      "locationSet": {"include": ["150"]},
+      "tags": {
+        "brand": "FITINN",
+        "brand:wikidata": "Q1245564",
+        "leisure": "fitness_centre",
+        "name": "FITINN"
+      }
+    },
+    {
+      "displayName": "Fitness First",
+      "id": "fitnessfirst-6ff977",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "de",
+          "gb",
+          "ph",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Fitness First",
+        "brand:wikidata": "Q127120",
+        "leisure": "fitness_centre",
+        "name": "Fitness First"
+      }
+    },
+    {
+      "displayName": "Fitness First Ladies",
+      "id": "fitnessfirstladies-6c61eb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Fitness First",
+        "brand:wikidata": "Q127120",
+        "female": "yes",
+        "leisure": "fitness_centre",
+        "name": "Fitness First Ladies"
+      }
+    },
+    {
+      "displayName": "Fitness House",
+      "id": "fitnesshouse-2b2465",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Fitness House",
+        "brand:wikidata": "Q104213893",
+        "leisure": "fitness_centre",
+        "name": "Fitness House"
+      }
+    },
+    {
+      "displayName": "Fitness Park",
+      "id": "fitnesspark-678d1b",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Fitness Park",
+        "brand:wikidata": "Q102351191",
+        "leisure": "fitness_centre",
+        "name": "Fitness Park"
+      }
+    },
+    {
+      "displayName": "Fitness24Seven",
+      "id": "fitness24seven-5fc685",
+      "locationSet": {"include": ["fi", "se"]},
+      "tags": {
+        "brand": "Fitness24Seven",
+        "brand:wikidata": "Q61112447",
+        "leisure": "fitness_centre",
+        "name": "Fitness24Seven"
+      }
+    },
+    {
+      "displayName": "FitX",
+      "id": "fitx-6c61eb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "FitX",
+        "brand:wikidata": "Q29031618",
+        "leisure": "fitness_centre",
+        "name": "FitX"
+      }
+    },
+    {
+      "displayName": "Frame",
+      "id": "frame-fd4e20",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "matchNames": ["frame fitness"],
+      "tags": {
+        "brand": "Frame",
+        "brand:wikidata": "Q110300356",
+        "leisure": "fitness_centre",
+        "name": "Frame"
+      }
+    },
+    {
+      "displayName": "Gold's Gym",
+      "id": "goldsgym-72c4b8",
+      "locationSet": {
+        "include": ["ae", "ca", "in", "ph", "us"]
+      },
+      "tags": {
+        "brand": "Gold's Gym",
+        "brand:wikidata": "Q1536234",
+        "leisure": "fitness_centre",
+        "name": "Gold's Gym"
+      }
+    },
+    {
+      "displayName": "GoodLife Fitness",
+      "id": "goodlifefitness-aa8143",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "GoodLife Fitness",
+        "brand:wikidata": "Q3110654",
+        "leisure": "fitness_centre",
+        "name": "GoodLife Fitness"
+      }
+    },
+    {
+      "displayName": "High5",
+      "id": "high5-6c61eb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "High5",
+        "brand:wikidata": "Q116183459",
+        "leisure": "fitness_centre",
+        "name": "High5"
+      }
+    },
+    {
+      "displayName": "Holmes Place",
+      "id": "holmesplace-901199",
+      "locationSet": {"include": ["150", "il"]},
+      "tags": {
+        "brand": "Holmes Place",
+        "brand:wikidata": "Q15815819",
+        "leisure": "fitness_centre",
+        "name": "Holmes Place"
+      }
+    },
+    {
+      "displayName": "Hotworx",
+      "id": "hotworx-cee411",
+      "locationSet": {
+        "include": ["au", "ie", "us"]
+      },
+      "tags": {
+        "brand": "Hotworx",
+        "brand:wikidata": "Q115527690",
+        "leisure": "fitness_centre",
+        "name": "Hotworx"
+      }
+    },
+    {
+      "displayName": "iLoveKickboxing",
+      "id": "ilovekickboxing-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "iLoveKickboxing",
+        "brand:wikidata": "Q122433514",
+        "leisure": "fitness_centre",
+        "name": "iLoveKickboxing"
+      }
+    },
+    {
+      "displayName": "INJOY",
+      "id": "injoy-c83d0c",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "INJOY Fitness",
+        "brand:wikidata": "Q1663622",
+        "leisure": "fitness_centre",
+        "name": "INJOY"
+      }
+    },
+    {
+      "displayName": "Jazzercise",
+      "id": "jazzercise-809afb",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["leisure/dance"],
+      "tags": {
+        "brand": "Jazzercise",
+        "brand:wikidata": "Q6168434",
+        "leisure": "fitness_centre",
+        "name": "Jazzercise"
+      }
+    },
+    {
+      "displayName": "JD Gyms",
+      "id": "jdgyms-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "JD Gyms",
+        "brand:wikidata": "Q112947108",
+        "leisure": "fitness_centre",
+        "name": "JD Gyms"
+      }
+    },
+    {
+      "displayName": "Jetts Fitness",
+      "id": "jettsfitness-8f2b5b",
+      "locationSet": {
+        "include": ["au", "gb", "nl", "nz", "th"]
+      },
+      "tags": {
+        "brand": "Jetts Fitness",
+        "brand:wikidata": "Q24185346",
+        "leisure": "fitness_centre",
+        "name": "Jetts Fitness",
+        "short_name": "Jetts"
+      }
+    },
+    {
+      "displayName": "JOHN REED Fitness",
+      "id": "johnreedfitness-c8777b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "JOHN REED Fitness",
+        "brand:wikidata": "Q106434148",
+        "leisure": "fitness_centre",
+        "name": "JOHN REED Fitness"
+      }
+    },
+    {
+      "displayName": "KeepCool",
+      "id": "keepcool-a3e665",
+      "locationSet": {
+        "include": ["be", "fr", "lu"]
+      },
+      "tags": {
+        "brand": "KeepCool",
+        "brand:wikidata": "Q100146251",
+        "leisure": "fitness_centre",
+        "name": "KeepCool"
+      }
+    },
+    {
+      "displayName": "Kieser Training",
+      "id": "kiesertraining-a70e35",
+      "locationSet": {
+        "include": ["at", "au", "ch", "de", "lu"]
+      },
+      "tags": {
+        "brand": "Kieser Training",
+        "brand:wikidata": "Q1112367",
+        "leisure": "fitness_centre",
+        "name": "Kieser Training"
+      }
+    },
+    {
+      "displayName": "Körperformen",
+      "id": "korperformen-d924c7",
+      "locationSet": {
+        "include": ["at", "ch", "de", "it"]
+      },
+      "tags": {
+        "brand": "Körperformen",
+        "brand:wikidata": "Q117455940",
+        "leisure": "fitness_centre",
+        "name": "Körperformen"
+      }
+    },
+    {
+      "displayName": "Kuntokeskus Liikku",
+      "id": "kuntokeskusliikku-a9beea",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "brand": "Kuntokeskus Liikku",
+        "brand:wikidata": "Q28721474",
+        "leisure": "fitness_centre",
+        "name": "Kuntokeskus Liikku"
+      }
+    },
+    {
+      "displayName": "L'Orange Bleue",
+      "id": "lorangebleue-5ce32b",
+      "locationSet": {
+        "include": ["es", "fr", "ma"]
+      },
+      "tags": {
+        "brand": "L'Orange Bleue",
+        "brand:wikidata": "Q3204640",
+        "leisure": "fitness_centre",
+        "name": "L'Orange Bleue"
+      }
+    },
+    {
+      "displayName": "LA Fitness",
+      "id": "lafitness-34886f",
+      "locationSet": {
+        "include": ["ca", "gb", "us"]
+      },
+      "tags": {
+        "brand": "LA Fitness",
+        "brand:wikidata": "Q6457180",
+        "leisure": "fitness_centre",
+        "name": "LA Fitness"
+      }
+    },
+    {
+      "displayName": "Liberty Gym",
+      "id": "libertygym-678d1b",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Liberty Gym",
+        "brand:wikidata": "Q101768284",
+        "leisure": "fitness_centre",
+        "name": "Liberty Gym"
+      }
+    },
+    {
+      "displayName": "Life Time",
+      "id": "lifetime-9a38b2",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": [
+        "life time athletic",
+        "life time fitness"
+      ],
+      "tags": {
+        "brand": "Life Time",
+        "brand:wikidata": "Q6545004",
+        "leisure": "fitness_centre",
+        "name": "Life Time"
+      }
+    },
+    {
+      "displayName": "LOOP Fitness",
+      "id": "loopfitness-a32a51",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "brand": "LOOP Fitness",
+        "brand:wikidata": "Q18647221",
+        "leisure": "fitness_centre",
+        "name": "LOOP Fitness"
+      }
+    },
+    {
+      "displayName": "MACFit",
+      "id": "macfit-a2f75d",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "MACFit",
+        "brand:wikidata": "Q106801022",
+        "leisure": "fitness_centre",
+        "name": "MACFit"
+      }
+    },
+    {
+      "displayName": "McFit",
+      "id": "mcfit-0ebac9",
+      "locationSet": {
+        "include": ["at", "de", "es", "it", "pl"]
+      },
+      "tags": {
+        "brand": "McFit",
+        "brand:wikidata": "Q871302",
+        "leisure": "fitness_centre",
+        "name": "McFit"
+      }
+    },
+    {
+      "displayName": "Mrs. Sporty",
+      "id": "mrssporty-658820",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "it",
+          "pl",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "Mrs. Sporty",
+        "brand:wikidata": "Q100718953",
+        "leisure": "fitness_centre",
+        "name": "Mrs. Sporty"
+      }
+    },
+    {
+      "displayName": "Neoness",
+      "id": "neoness-678d1b",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Neoness",
+        "brand:wikidata": "Q86668014",
+        "leisure": "fitness_centre",
+        "name": "Neoness"
+      }
+    },
+    {
+      "displayName": "Nordic Wellness",
+      "id": "nordicwellness-f113b7",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Nordic Wellness",
+        "brand:wikidata": "Q60970249",
+        "leisure": "fitness_centre",
+        "name": "Nordic Wellness"
+      }
+    },
+    {
+      "displayName": "Nuffield Health Fitness & Wellbeing",
+      "id": "nuffieldhealthfitnessandwellbeing-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["nuffield health"],
+      "tags": {
+        "brand": "Nuffield Health Fitness & Wellbeing",
+        "brand:wikidata": "Q7068711",
+        "leisure": "fitness_centre",
+        "name": "Nuffield Health Fitness & Wellbeing"
+      }
+    },
+    {
+      "displayName": "Orangetheory Fitness",
+      "id": "orangetheoryfitness-f1c5c5",
+      "locationSet": {
+        "include": ["ca", "es", "us"]
+      },
+      "matchNames": ["orangetheory"],
+      "tags": {
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness"
+      }
+    },
+    {
+      "displayName": "Planet Fitness",
+      "id": "planetfitness-9a38b2",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Planet Fitness",
+        "brand:wikidata": "Q7201095",
+        "leisure": "fitness_centre",
+        "name": "Planet Fitness"
+      }
+    },
+    {
+      "displayName": "Plus Fitness",
+      "id": "plusfitness-737f81",
+      "locationSet": {
+        "include": ["au", "in", "nz"]
+      },
+      "tags": {
+        "brand": "Plus Fitness",
+        "brand:wikidata": "Q118315364",
+        "leisure": "fitness_centre",
+        "name": "Plus Fitness"
+      }
+    },
+    {
+      "displayName": "Psycle",
+      "id": "psycle-fd4e20",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "matchNames": ["psycle london"],
+      "tags": {
+        "brand": "Psycle",
+        "brand:wikidata": "Q111470680",
+        "leisure": "fitness_centre",
+        "name": "Psycle"
+      }
+    },
+    {
+      "displayName": "Pure Barre",
+      "id": "purebarre-9a38b2",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Pure Barre",
+        "brand:wikidata": "Q86707084",
+        "leisure": "fitness_centre",
+        "name": "Pure Barre",
+        "sport": "barre"
+      }
+    },
+    {
+      "displayName": "Pure Fitness",
+      "id": "purefitness-4ac78e",
+      "locationSet": {"include": ["cn", "sg"]},
+      "tags": {
+        "brand": "Pure Fitness",
+        "brand:en": "Pure Fitness",
+        "brand:wikidata": "Q10852204",
+        "leisure": "fitness_centre",
+        "name": "Pure Fitness",
+        "name:en": "Pure Fitness"
+      }
+    },
+    {
+      "displayName": "PureGym Danmark",
+      "id": "puregym-a32a51",
+      "locationSet": {"include": ["dk"]},
+      "matchNames": ["fitness world", "fw"],
+      "tags": {
+        "brand": "PureGym",
+        "brand:wikidata": "Q12311466",
+        "leisure": "fitness_centre",
+        "name": "PureGym"
+      }
+    },
+    {
+      "displayName": "PureGym Swiss",
+      "id": "puregym-2831bb",
+      "locationSet": {"include": ["ch"]},
+      "matchNames": [
+        "basefit",
+        "basefit.ch",
+        "fitness world",
+        "fw"
+      ],
+      "tags": {
+        "brand": "PureGym",
+        "brand:wikidata": "Q119362759",
+        "leisure": "fitness_centre",
+        "name": "PureGym"
+      }
+    },
+    {
+      "displayName": "PureGym UK",
+      "id": "puregym-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "PureGym",
+        "brand:wikidata": "Q18345898",
+        "leisure": "fitness_centre",
+        "name": "PureGym"
+      }
+    },
+    {
+      "displayName": "Retro Fitness",
+      "id": "retrofitness-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Retro Fitness",
+        "brand:wikidata": "Q61994955",
+        "leisure": "fitness_centre",
+        "name": "Retro Fitness"
+      }
+    },
+    {
+      "displayName": "Sats",
+      "id": "sats-44c5d4",
+      "locationSet": {
+        "include": ["dk", "fi", "no", "se"]
+      },
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Sats",
+        "brand:wikidata": "Q4411496",
+        "leisure": "fitness_centre",
+        "name": "Sats"
+      }
+    },
+    {
+      "displayName": "Selfit",
+      "id": "selfit-777e0e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Selfit",
+        "brand:wikidata": "Q100274066",
+        "leisure": "fitness_centre",
+        "name": "Selfit"
+      }
+    },
+    {
+      "displayName": "Skyfit",
+      "id": "skyfit-777e0e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Skyfit",
+        "brand:wikidata": "Q120752155",
+        "leisure": "fitness_centre",
+        "name": "Skyfit"
+      }
+    },
+    {
+      "displayName": "Smart Fit",
+      "id": "smartfit-cd44e6",
+      "locationSet": {
+        "include": [
+          "br",
+          "cl",
+          "co",
+          "do",
+          "mx",
+          "pe"
+        ]
+      },
+      "tags": {
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      }
+    },
+    {
+      "displayName": "Snap Fitness",
+      "id": "snapfitness-551086",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "be",
+          "ca",
+          "es",
+          "gb",
+          "hk",
+          "id",
+          "ie",
+          "jp",
+          "mx",
+          "nl",
+          "nz",
+          "ph",
+          "tr",
+          "tw",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Snap Fitness",
+        "brand:wikidata": "Q7547254",
+        "leisure": "fitness_centre",
+        "name": "Snap Fitness"
+      }
+    },
+    {
+      "displayName": "SoulCycle",
+      "id": "soulcycle-895212",
+      "locationSet": {"include": ["gb", "us"]},
+      "tags": {
+        "brand": "SoulCycle",
+        "brand:wikidata": "Q17084730",
+        "leisure": "fitness_centre",
+        "name": "SoulCycle",
+        "sport": "cycling"
+      }
+    },
+    {
+      "displayName": "Sport Life (Україна)",
+      "id": "sportlife-d4e539",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["спорт лайф"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Sport Life",
+        "brand:wikidata": "Q56356180",
+        "leisure": "fitness_centre",
+        "name": "Sport Life"
+      }
+    },
+    {
+      "displayName": "SportClub",
+      "id": "sportclub-9c6809",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "brand": "SportClub",
+        "brand:wikidata": "Q118314171",
+        "leisure": "fitness_centre",
+        "name": "SportClub"
+      }
+    },
+    {
+      "displayName": "SPORTLIFE",
+      "id": "sportlife-2b2465",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "SPORTLIFE",
+        "brand:wikidata": "Q110300484",
+        "leisure": "fitness_centre",
+        "name": "SPORTLIFE"
+      }
+    },
+    {
+      "displayName": "Starting Strength",
+      "id": "startingstrength-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Starting Strength Gyms",
+        "brand:wikidata": "Q110761553",
+        "leisure": "fitness_centre",
+        "name": "Starting Strength"
+      }
+    },
+    {
+      "displayName": "Station 24",
+      "id": "station24-8dcb39",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Station 24",
+        "leisure": "fitness_centre",
+        "name": "Station 24"
+      }
+    },
+    {
+      "displayName": "Stretch Zone",
+      "id": "stretchzone-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Stretch Zone",
+        "brand:wikidata": "Q108863105",
+        "leisure": "fitness_centre",
+        "name": "Stretch Zone"
+      }
+    },
+    {
+      "displayName": "Talwalkars",
+      "id": "talwalkars-111905",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Talkwalkars",
+        "brand:wikidata": "Q7680402",
+        "leisure": "fitness_centre",
+        "name": "Talwalkars"
+      }
+    },
+    {
+      "displayName": "The Bar Method",
+      "id": "thebarmethod-9a38b2",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "The Bar Method",
+        "brand:wikidata": "Q117599728",
+        "leisure": "fitness_centre",
+        "name": "The Bar Method",
+        "sport": "barre"
+      }
+    },
+    {
+      "displayName": "The Edge Fitness Club",
+      "id": "theedgefitnessclub-773501",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-de.geojson",
+          "us-il.geojson",
+          "us-mi.geojson",
+          "us-mo.geojson",
+          "us-nj.geojson",
+          "us-pa.geojson",
+          "us-ri.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "The Edge Fitness Club",
+        "brand:wikidata": "Q109339519",
+        "leisure": "fitness_centre",
+        "name": "The Edge Fitness Club"
+      }
+    },
+    {
+      "displayName": "The Gym",
+      "id": "thegym-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["the gym group"],
+      "tags": {
+        "brand": "The Gym",
+        "brand:wikidata": "Q48815022",
+        "leisure": "fitness_centre",
+        "name": "The Gym"
+      }
+    },
+    {
+      "displayName": "Third Space",
+      "id": "thirdspace-fd4e20",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "tags": {
+        "brand": "Third Space",
+        "brand:wikidata": "Q112671088",
+        "leisure": "fitness_centre",
+        "name": "Third Space"
+      }
+    },
+    {
+      "displayName": "Total Fitness",
+      "id": "totalfitness-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Total Fitness",
+        "brand:wikidata": "Q7828019",
+        "leisure": "fitness_centre",
+        "name": "Total Fitness"
+      }
+    },
+    {
+      "displayName": "update Fitness",
+      "id": "updatefitness-2831bb",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "update Fitness",
+        "brand:wikidata": "Q117406567",
+        "leisure": "fitness_centre",
+        "name": "update Fitness"
+      }
+    },
+    {
+      "displayName": "VASA Fitness",
+      "id": "vasafitness-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "VASA Fitness",
+        "brand:wikidata": "Q108816909",
+        "leisure": "fitness_centre",
+        "name": "VASA Fitness"
+      }
+    },
+    {
+      "displayName": "Virgin Active",
+      "id": "virginactive-4a682e",
+      "locationSet": {
+        "include": [
+          "au",
+          "bw",
+          "gb",
+          "it",
+          "na",
+          "sg",
+          "th",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Virgin Active",
+        "brand:wikidata": "Q4013942",
+        "leisure": "fitness_centre",
+        "name": "Virgin Active"
+      }
+    },
+    {
+      "displayName": "Vita Liberté",
+      "id": "vitaliberte-678d1b",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Vita Liberté",
+        "brand:wikidata": "Q120304528",
+        "leisure": "fitness_centre",
+        "name": "Vita Liberté"
+      }
+    },
+    {
+      "displayName": "VivaGym",
+      "id": "vivagym-14abfa",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "brand": "VivaGym",
+        "brand:wikidata": "Q123378009",
+        "leisure": "fitness_centre",
+        "name": "VivaGym"
+      }
+    },
+    {
+      "displayName": "Workout Anytime",
+      "id": "workoutanytime-809afb",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Workout Anytime",
+        "brand:wikidata": "Q120652638",
+        "leisure": "fitness_centre",
+        "name": "Workout Anytime"
+      }
+    },
+    {
+      "displayName": "World Class (Ísland)",
+      "id": "worldclass-eed3df",
+      "locationSet": {"include": ["is"]},
+      "tags": {
+        "brand": "World Class",
+        "brand:wikidata": "Q102350789",
+        "leisure": "fitness_centre",
+        "name": "World Class"
+      }
+    },
+    {
+      "displayName": "World Class (România)",
+      "id": "worldclass-fa50b9",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "brand": "World Class",
+        "brand:wikidata": "Q102350621",
+        "leisure": "fitness_centre",
+        "name": "World Class"
+      }
+    },
+    {
+      "displayName": "World Class (Россия)",
+      "id": "worldclass-2b2465",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "World Class",
+        "brand:wikidata": "Q102350852",
+        "leisure": "fitness_centre",
+        "name": "World Class"
+      }
+    },
+    {
+      "displayName": "World Gym",
+      "id": "worldgym-4c1ca3",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["tw"]
+      },
+      "tags": {
+        "brand": "World Gym",
+        "brand:wikidata": "Q8035794",
+        "leisure": "fitness_centre",
+        "name": "World Gym"
+      }
+    },
+    {
+      "displayName": "World Gym (臺灣)",
+      "id": "worldgym-4fed0f",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "World Gym健身俱樂部",
+        "brand:en": "World Gym",
+        "brand:wikidata": "Q8035794",
+        "brand:zh": "世界健身俱樂部",
+        "leisure": "fitness_centre",
+        "name": "World Gym健身俱樂部",
+        "name:en": "World Gym",
+        "name:zh": "世界健身俱樂部"
+      }
+    },
+    {
+      "displayName": "Xercise4Less",
+      "id": "xercise4less-2770cb",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Xercise4Less",
+        "brand:wikidata": "Q79244612",
+        "leisure": "fitness_centre",
+        "name": "Xercise4Less"
+      }
+    },
+    {
+      "displayName": "Zap Fitness",
+      "id": "zapfitness-c88de3",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Zap Fitness",
+        "brand:wikidata": "Q106119874",
+        "leisure": "fitness_centre",
+        "name": "Zap Fitness"
+      }
+    },
+    {
+      "displayName": "Zdrofit",
+      "id": "zdrofit-78c701",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Zdrofit",
+        "brand:wikidata": "Q113457353",
+        "leisure": "fitness_centre",
+        "name": "Zdrofit"
+      }
+    },
+    {
+      "displayName": "بودي ماسترز",
+      "id": "bodymasters-eac6d0",
+      "locationSet": {"include": ["sa"]},
+      "tags": {
+        "brand": "بودي ماسترز",
+        "brand:ar": "بودي ماسترز",
+        "brand:en": "Body Masters",
+        "brand:wikidata": "Q105713910",
+        "leisure": "fitness_centre",
+        "name": "بودي ماسترز",
+        "name:ar": "بودي ماسترز",
+        "name:en": "Body Masters"
+      }
+    },
+    {
+      "displayName": "وقت اللياقة",
+      "id": "fitnesstime-2210cf",
+      "locationSet": {"include": ["ae", "sa"]},
+      "tags": {
+        "brand": "وقت اللياقة",
+        "brand:ar": "وقت اللياقة",
+        "brand:en": "Fitness Time",
+        "brand:wikidata": "Q105710068",
+        "leisure": "fitness_centre",
+        "name": "وقت اللياقة",
+        "name:ar": "وقت اللياقة",
+        "name:en": "Fitness Time"
+      }
+    },
+    {
+      "displayName": "エニタイムフィットネス",
+      "id": "anytimefitness-1008e2",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "alt_name:en": "Fast Fitness",
+        "brand": "エニタイムフィットネス",
+        "brand:en": "Anytime Fitness",
+        "brand:ja": "エニタイムフィットネス",
+        "brand:wikidata": "Q4778364",
+        "leisure": "fitness_centre",
+        "name": "エニタイムフィットネス",
+        "name:en": "Anytime Fitness",
+        "name:ja": "エニタイムフィットネス"
+      }
+    },
+    {
+      "displayName": "カーブス",
+      "id": "curves-1008e2",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "カーブス",
+        "brand:en": "Curves",
+        "brand:ja": "カーブス",
+        "brand:wikidata": "Q5196080",
+        "leisure": "fitness_centre",
+        "name": "カーブス",
+        "name:en": "Curves",
+        "name:ja": "カーブス"
+      }
+    },
+    {
+      "displayName": "コナミスポーツクラブ",
+      "id": "konamisportsclub-1008e2",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "コナミスポーツクラブ",
+        "brand:en": "Konami Sports Club",
+        "brand:ja": "コナミスポーツクラブ",
+        "brand:wikidata": "Q11302286",
+        "leisure": "fitness_centre",
+        "name": "コナミスポーツクラブ",
+        "name:en": "Konami Sports Club",
+        "name:ja": "コナミスポーツクラブ"
+      }
+    },
+    {
+      "displayName": "ジョイフィット",
+      "id": "joyfit-1008e2",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ジョイフィット",
+        "brand:en": "JOYFIT",
+        "brand:ja": "ジョイフィット",
+        "brand:wikidata": "Q11310515",
+        "leisure": "fitness_centre",
+        "name": "ジョイフィット",
+        "name:en": "JOYFIT",
+        "name:ja": "ジョイフィット"
+      }
+    },
+    {
+      "displayName": "ティップネス",
+      "id": "tipness-1008e2",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ティップネス",
+        "brand:en": "Tipness",
+        "brand:ja": "ティップネス",
+        "brand:wikidata": "Q11318940",
+        "leisure": "fitness_centre",
+        "name": "ティップネス",
+        "name:en": "Tipness",
+        "name:ja": "ティップネス"
+      }
+    },
+    {
+      "displayName": "メガロス",
+      "id": "megalos-1008e2",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "メガロス",
+        "brand:en": "MEGALOS",
+        "brand:ja": "メガロス",
+        "brand:wikidata": "Q11343532",
+        "leisure": "fitness_centre",
+        "name": "メガロス",
+        "name:en": "MEGALOS",
+        "name:ja": "メガロス"
+      }
+    },
+    {
+      "displayName": "健身工廠",
+      "id": "fitnessfactory-4fed0f",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "健身工廠",
+        "brand:en": "Fitness Factory",
+        "brand:wikidata": "Q108167311",
+        "brand:zh": "健身工廠",
+        "leisure": "fitness_centre",
+        "name": "健身工廠",
+        "name:en": "Fitness Factory",
+        "name:zh": "健身工廠"
+      }
+    },
+    {
+      "displayName": "兰瑜伽",
+      "id": "lanyoga-8945e0",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["蘭瑜伽"],
+      "matchTags": ["club/sport"],
+      "tags": {
+        "brand": "兰瑜伽",
+        "brand:en": "Lan Yoga",
+        "brand:wikidata": "Q108167358",
+        "brand:zh": "兰瑜伽",
+        "leisure": "fitness_centre",
+        "name": "兰瑜伽",
+        "name:en": "Lan Yoga",
+        "name:zh": "兰瑜伽",
+        "sport": "yoga"
+      }
+    },
+    {
+      "displayName": "成吉思汗健身俱樂部",
+      "id": "genghiskhanfitnessclub-4fed0f",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "成吉思汗健身俱樂部",
+        "brand:en": "Genghis Khan Fitness Club",
+        "brand:wikidata": "Q109345206",
+        "brand:zh": "成吉思汗健身俱樂部",
+        "leisure": "fitness_centre",
+        "name": "成吉思汗健身俱樂部",
+        "name:en": "Genghis Khan Fitness Club",
+        "name:zh": "成吉思汗健身俱樂部"
+      }
+    },
+    {
+      "displayName": "舒適堡 Physical Fitness & Beauty",
+      "id": "physicalfitnessandbeauty-68bf34",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "舒適堡 Physical Fitness & Beauty",
+        "brand:en": "Physical Fitness & Beauty",
+        "brand:wikidata": "Q15897842",
+        "brand:zh": "舒適堡",
+        "brand:zh-Hans": "舒适堡",
+        "brand:zh-Hant": "舒適堡",
+        "leisure": "fitness_centre",
+        "name": "舒適堡 Physical Fitness & Beauty",
+        "name:en": "Physical Fitness & Beauty",
+        "name:zh": "舒適堡",
+        "name:zh-Hans": "舒适堡",
+        "name:zh-Hant": "舒適堡"
+      }
+    }
+  ]
+}

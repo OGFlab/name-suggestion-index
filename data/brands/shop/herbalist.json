@@ -1,0 +1,90 @@
+{
+  "properties": {
+    "path": "brands/shop/herbalist",
+    "exclude": {"generic": ["^herbalist$"]}
+  },
+  "items": [
+    {
+      "displayName": "arbre",
+      "id": "arbre-1be067",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "arbre",
+        "name": "arbre",
+        "shop": "herbalist"
+      }
+    },
+    {
+      "displayName": "Eu Yan Sang",
+      "id": "euyansang-7be159",
+      "locationSet": {
+        "include": ["au", "ca", "my", "sg", "us"]
+      },
+      "tags": {
+        "brand": "Eu Yan Sang",
+        "brand:en": "Eu Yan Sang",
+        "brand:wikidata": "Q4207246",
+        "brand:zh": "余仁生",
+        "name": "Eu Yan Sang",
+        "name:en": "Eu Yan Sang",
+        "name:zh": "余仁生",
+        "shop": "herbalist"
+      }
+    },
+    {
+      "displayName": "L'Erbolario",
+      "id": "lerbolario-ed4a79",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "L'Erbolario",
+        "brand:wikidata": "Q116304294",
+        "name": "L'Erbolario",
+        "shop": "herbalist"
+      }
+    },
+    {
+      "displayName": "Revive Herbal Health",
+      "id": "reviveherbalhealth-455c0f",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Revive Herbal Health",
+        "brand:wikidata": "Q116498098",
+        "name": "Revive Herbal Health",
+        "shop": "herbalist"
+      }
+    },
+    {
+      "displayName": "余仁生",
+      "id": "euyansang-5606dd",
+      "locationSet": {
+        "include": ["cn", "tw"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "余仁生",
+        "brand:en": "Eu Yan Sang",
+        "brand:wikidata": "Q4207246",
+        "brand:zh": "余仁生",
+        "name": "余仁生",
+        "name:en": "Eu Yan Sang",
+        "name:zh": "余仁生",
+        "shop": "herbalist"
+      }
+    },
+    {
+      "displayName": "余仁生 Eu Yan Sang",
+      "id": "euyansang-ed4bac",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "余仁生 Eu Yan Sang",
+        "brand:en": "Eu Yan Sang",
+        "brand:wikidata": "Q4207246",
+        "brand:zh": "余仁生",
+        "name": "余仁生 Eu Yan Sang",
+        "name:en": "Eu Yan Sang",
+        "name:zh": "余仁生",
+        "shop": "herbalist"
+      }
+    }
+  ]
+}

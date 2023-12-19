@@ -1,0 +1,383 @@
+{
+  "properties": {
+    "path": "brands/shop/interior_decoration",
+    "exclude": {
+      "generic": ["^interior decoration$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bouclair",
+      "id": "bouclair-aa1ae6",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Bouclair",
+        "brand:wikidata": "Q20638837",
+        "name": "Bouclair",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Bouclair Home",
+      "id": "bouclairhome-8155e5",
+      "locationSet": {
+        "include": ["ca"],
+        "exclude": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "brand": "Bouclair",
+        "brand:wikidata": "Q20638837",
+        "name": "Bouclair Home",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Bouclair Maison",
+      "id": "bouclairmaison-531f1a",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "brand": "Bouclair",
+        "brand:wikidata": "Q20638837",
+        "name": "Bouclair Maison",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Butlers",
+      "id": "butlers-85b078",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "gb",
+          "hu",
+          "lu",
+          "mt",
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "Butlers",
+        "brand:wikidata": "Q1017972",
+        "name": "Butlers",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "CASA",
+      "id": "casa-ecb23b",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "CASA",
+        "brand:wikidata": "Q1991755",
+        "name": "CASA",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Centrakor",
+      "id": "centrakor-c45f99",
+      "locationSet": {"include": ["fr"]},
+      "matchTags": ["shop/variety_store"],
+      "tags": {
+        "brand": "Centrakor",
+        "brand:wikidata": "Q64079345",
+        "name": "Centrakor",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Coincasa",
+      "id": "coincasa-368f99",
+      "locationSet": {"include": ["it"]},
+      "matchTags": ["shop/furniture"],
+      "tags": {
+        "brand": "Coin",
+        "brand:wikidata": "Q1107215",
+        "name": "Coincasa",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Demmoksi",
+      "id": "demmoksi-9e51b3",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Demmoksi",
+        "name": "Demmoksi",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Depot",
+      "id": "depot-5f264c",
+      "locationSet": {
+        "include": ["at", "ch", "de"]
+      },
+      "tags": {
+        "brand": "Depot",
+        "brand:wikidata": "Q1191740",
+        "name": "Depot",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Dunelm",
+      "id": "dunelm-839895",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["dunelm hill"],
+      "tags": {
+        "brand": "Dunelm",
+        "brand:wikidata": "Q5315020",
+        "name": "Dunelm",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "English Home",
+      "id": "englishhome-bd3698",
+      "locationSet": {
+        "include": [
+          "ba",
+          "bg",
+          "ch",
+          "kw",
+          "ro",
+          "tr",
+          "ua"
+        ]
+      },
+      "tags": {
+        "brand": "English Home",
+        "brand:wikidata": "Q106803513",
+        "name": "English Home",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Fired Earth",
+      "id": "firedearth-839895",
+      "locationSet": {"include": ["gb"]},
+      "matchTags": [
+        "shop/bathroom_furnishing",
+        "shop/tiles"
+      ],
+      "tags": {
+        "brand": "Fired Earth",
+        "brand:wikidata": "Q20594569",
+        "name": "Fired Earth",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "H&M HOME",
+      "id": "handmhome-0f41f2",
+      "locationSet": {"include": ["001"]},
+      "matchTags": ["shop/furniture"],
+      "tags": {
+        "brand": "H&M HOME",
+        "brand:wikidata": "Q110226474",
+        "name": "H&M HOME",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Harry Corry",
+      "id": "harrycorry-567cc8",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "brand": "Harry Corry",
+        "brand:wikidata": "Q5668069",
+        "name": "Harry Corry",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Hemtex",
+      "id": "hemtex-056dae",
+      "locationSet": {
+        "include": ["ee", "fi", "se"]
+      },
+      "tags": {
+        "brand": "Hemtex",
+        "brand:wikidata": "Q10521868",
+        "name": "Hemtex",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "home&you",
+      "id": "homeandyou-e9ee18",
+      "locationSet": {
+        "include": ["cz", "pl", "sk"]
+      },
+      "matchTags": ["shop/furniture"],
+      "tags": {
+        "brand": "home&you",
+        "brand:wikidata": "Q116884264",
+        "name": "home&you",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "HomeSense",
+      "id": "homesense-d842e9",
+      "locationSet": {
+        "include": ["ca", "gb", "ie", "us"]
+      },
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "HomeSense",
+        "brand:wikidata": "Q16844433",
+        "name": "HomeSense",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Iittala",
+      "id": "iittala-a7e00a",
+      "locationSet": {
+        "include": ["be", "de", "fi", "nl", "se"]
+      },
+      "tags": {
+        "brand": "Iittala",
+        "brand:wikidata": "Q1658018",
+        "name": "Iittala",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Kid interiør",
+      "id": "kidinterior-d55252",
+      "locationSet": {"include": ["no"]},
+      "matchTags": ["shop/household_linen"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Kid interiør",
+        "brand:wikidata": "Q109628199",
+        "name": "Kid interiør",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Kirkland's",
+      "id": "kirklands-18147c",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["kirklands home"],
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Kirkland's",
+        "brand:wikidata": "Q6415714",
+        "name": "Kirkland's",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Madura",
+      "id": "madura-b1f9e3",
+      "locationSet": {
+        "include": ["be", "fr", "lu", "tn"]
+      },
+      "matchTags": [
+        "shop/curtain",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Madura",
+        "brand:wikidata": "Q3276259",
+        "name": "Madura",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Pier 1 Imports",
+      "id": "pier1imports-10e33c",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchTags": ["shop/furniture"],
+      "tags": {
+        "brand": "Pier 1 Imports",
+        "brand:wikidata": "Q7191691",
+        "name": "Pier 1 Imports",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Søstrene Grene",
+      "id": "sostrenegrene-0f41f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Søstrene Grene",
+        "brand:wikidata": "Q10730152",
+        "name": "Søstrene Grene",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Ten Thousand Villages",
+      "id": "tenthousandvillages-10e33c",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": [
+        "10 thousand villages",
+        "10,000 villages"
+      ],
+      "matchTags": ["shop/boutique", "shop/gift"],
+      "tags": {
+        "brand": "Ten Thousand Villages",
+        "brand:wikidata": "Q2403252",
+        "fair_trade": "only",
+        "name": "Ten Thousand Villages",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "World Market",
+      "id": "worldmarket-18147c",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["cost plus"],
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture",
+        "shop/supermarket"
+      ],
+      "tags": {
+        "brand": "World Market",
+        "brand:wikidata": "Q5174750",
+        "name": "World Market",
+        "official_name": "Cost Plus World Market",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Zara Home",
+      "id": "zarahome-0f41f2",
+      "locationSet": {"include": ["001"]},
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Zara Home",
+        "brand:wikidata": "Q3114054",
+        "name": "Zara Home",
+        "shop": "interior_decoration"
+      }
+    }
+  ]
+}

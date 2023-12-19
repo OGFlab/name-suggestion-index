@@ -1,0 +1,194 @@
+{
+  "properties": {
+    "path": "brands/amenity/bureau_de_change",
+    "exclude": {
+      "generic": [
+        "^(bureau de )?change$",
+        "^(currency|money) exchange$",
+        "^(exchange|kantor)$",
+        "^обмін( валют)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Bitcoin of America Bitcoin ATM",
+      "id": "bitcoinofamericabitcoinatm-cf8eee",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Bitcoin of America Bitcoin ATM",
+        "name": "Bitcoin of America Bitcoin ATM"
+      }
+    },
+    {
+      "displayName": "CADECA",
+      "id": "cadeca-bd5e7d",
+      "locationSet": {"include": ["cu"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "CADECA",
+        "brand:wikidata": "Q62122716",
+        "name": "CADECA"
+      }
+    },
+    {
+      "displayName": "Confidence Câmbio",
+      "id": "confidencecambio-b1f712",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Confidence Câmbio",
+        "brand:wikidata": "Q20055927",
+        "name": "Confidence Câmbio"
+      }
+    },
+    {
+      "displayName": "DayCâmbio",
+      "id": "daycambio-b1f712",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "DayCâmbio",
+        "brand:wikidata": "Q110038882",
+        "name": "DayCâmbio"
+      }
+    },
+    {
+      "displayName": "Eurochange",
+      "id": "eurochange-236adc",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["eurochange plc"],
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Eurochange",
+        "brand:wikidata": "Q86525249",
+        "name": "Eurochange"
+      }
+    },
+    {
+      "displayName": "Exclusive Change",
+      "id": "exclusivechange-68a7b7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Exclusive Change",
+        "name": "Exclusive Change"
+      }
+    },
+    {
+      "displayName": "KIT Group",
+      "id": "kitgroup-dba32e",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "кит group",
+        "кит групп",
+        "кіт group",
+        "кіт груп",
+        "обмен валют кит group"
+      ],
+      "matchTags": ["amenity/bank"],
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "KIT Group",
+        "brand:wikidata": "Q119155974",
+        "name": "KIT Group"
+      }
+    },
+    {
+      "displayName": "NM Money",
+      "id": "nmmoney-236adc",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "NM Money",
+        "brand:wikidata": "Q86529747",
+        "name": "NM Money"
+      }
+    },
+    {
+      "displayName": "No1 Currency",
+      "id": "no1currency-f53601",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "No1 Currency",
+        "brand:wikidata": "Q87139463",
+        "name": "No1 Currency"
+      }
+    },
+    {
+      "displayName": "PocketChange",
+      "id": "pocketchange-f742ee",
+      "locationSet": {"include": ["jp", "tw"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "PocketChange",
+        "brand:ja": "ポケットチェンジ",
+        "brand:wikidata": "Q96182316",
+        "name": "PocketChange",
+        "name:ja": "ポケットチェンジ"
+      }
+    },
+    {
+      "displayName": "Reisebank",
+      "id": "reisebank-442fa6",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Reisebank",
+        "brand:wikidata": "Q1421107",
+        "name": "Reisebank"
+      }
+    },
+    {
+      "displayName": "Travel Money Oz",
+      "id": "travelmoneyoz-840d20",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Travel Money Oz",
+        "brand:wikidata": "Q123437458",
+        "name": "Travel Money Oz"
+      }
+    },
+    {
+      "displayName": "Travelex",
+      "id": "travelex-fab709",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Travelex",
+        "brand:wikidata": "Q2337964",
+        "name": "Travelex"
+      }
+    },
+    {
+      "displayName": "Unimoni",
+      "id": "unimoni-ebe0cc",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Unimoni",
+        "brand:wikidata": "Q7863721",
+        "name": "Unimoni"
+      }
+    },
+    {
+      "displayName": "Беларусбанк",
+      "id": "belarusbank-126d17",
+      "locationSet": {"include": ["by"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Беларусбанк",
+        "brand:en": "Belarusbank",
+        "brand:wikidata": "Q1997334",
+        "name": "Беларусбанк",
+        "name:en": "Belarusbank"
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "properties": {
+    "path": "brands/shop/mall",
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": ["^(mall|торговый центр)$"],
+      "named": ["^цум$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "CityMall",
+      "id": "citymall-ff995d",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "alt_name": "City Mall",
+        "brand": "CityMall",
+        "brand:wikidata": "Q22080333",
+        "name": "CityMall",
+        "operator": "DoubleDragon Properties",
+        "operator:wikidata": "Q30640951",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "Direct Factory Outlets",
+      "id": "directfactoryoutlets-3fb812",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Direct Factory Outlets",
+        "brand:wikidata": "Q5280270",
+        "name": "Direct Factory Outlets",
+        "shop": "mall",
+        "short_name": "DFO"
+      }
+    },
+    {
+      "displayName": "GPT Group",
+      "id": "gptgroup-3fb812",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "GPT Group",
+        "brand:wikidata": "Q3100507",
+        "name": "GPT Group",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "HomeCo",
+      "id": "homeco-3fb812",
+      "locationSet": {"include": ["au"]},
+      "matchNames": ["home consortium"],
+      "tags": {
+        "brand": "HomeCo",
+        "brand:wikidata": "Q106773031",
+        "name": "HomeCo",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "McArthurGlen Designer Outlet",
+      "id": "mcarthurglendesigneroutlet-c5d183",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "McArthurGlen",
+        "brand:wikidata": "Q2296078",
+        "name": "McArthurGlen Designer Outlet",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "Tanger Outlets",
+      "id": "tangeroutlets-7adb3b",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Tanger Outlets",
+        "brand:wikidata": "Q7682888",
+        "name": "Tanger Outlets",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "The Mall Group",
+      "id": "themallgroup-13d253",
+      "locationSet": {"include": ["th"]},
+      "tags": {
+        "brand": "The Mall Group",
+        "brand:en": "The Mall Group",
+        "brand:th": "เดอะมอลล์กรุ๊ป",
+        "brand:wikidata": "Q4924063",
+        "name": "The Mall Group",
+        "name:en": "The Mall Group",
+        "name:th": "เดอะมอลล์กรุ๊ป",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "Vicinity Centres",
+      "id": "vicinitycentres-3fb812",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Vicinity Centres",
+        "brand:wikidata": "Q1054327",
+        "name": "Vicinity Centres",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "WalterMart",
+      "id": "waltermart-ff995d",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "WalterMart",
+        "brand:wikidata": "Q39052914",
+        "name": "WalterMart",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "Westfield",
+      "id": "westfield-24bee6",
+      "locationSet": {
+        "include": ["eu", "gb", "us"]
+      },
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Westfield",
+        "brand:wikidata": "Q106623253",
+        "name": "Westfield",
+        "operator": "Unibail-Rodamco-Westfield",
+        "operator:wikidata": "Q608518",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "Westfield (Australia/NZ)",
+      "id": "westfield-1e4415",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Westfield",
+        "brand:wikidata": "Q106623253",
+        "name": "Westfield",
+        "operator": "Scentre Group",
+        "operator:wikidata": "Q18378048",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "МЕГА",
+      "id": "mega-d413e2",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": ["тц мега"],
+      "tags": {
+        "brand": "МЕГА",
+        "brand:en": "MEGA",
+        "brand:ru": "МЕГА",
+        "brand:wikidata": "Q624897",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "アリオ",
+      "id": "ario-ee1aa0",
+      "locationSet": {"include": ["jp"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "アリオ",
+        "brand:en": "Ario",
+        "brand:ja": "アリオ",
+        "brand:wikidata": "Q16143182",
+        "name": "アリオ",
+        "name:en": "Ario",
+        "name:ja": "アリオ",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "イオンモール",
+      "id": "aeonmall-ee1aa0",
+      "locationSet": {"include": ["jp"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "イオンモール",
+        "brand:en": "AEON MALL",
+        "brand:ja": "イオンモール",
+        "brand:wikidata": "Q11286068",
+        "name": "イオンモール",
+        "name:en": "AEON MALL",
+        "name:ja": "イオンモール",
+        "shop": "mall"
+      }
+    },
+    {
+      "displayName": "万达广场",
+      "id": "2e5145-3db63f",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "万达广场",
+        "name": "万达广场",
+        "shop": "mall"
+      }
+    }
+  ]
+}

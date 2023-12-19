@@ -1,0 +1,723 @@
+{
+  "properties": {
+    "path": "brands/shop/beauty",
+    "exclude": {
+      "generic": [
+        "^((le|the) )?salo{1,2}n( de)?\\s?(coiffure|fryzjerski|beauté)?\\s?(homme|dame)?$",
+        "^(beauty|nails|nagelstudio|solarium)$",
+        "^beauty salon$",
+        "^coiff(eur|ure)\\s?(homme|dame)?$",
+        "^elegant nails$",
+        "^hair\\s?(design|dresser|lounge|salon|studio)$",
+        "^nail(s)? (& )?spa$",
+        "^салон красоты$"
+      ],
+      "named": [
+        "^(american|angel|beauty|happy|hollywood|lovely|new york|perfect|pretty|queen|star|top) nails$",
+        "^beauty lounge$",
+        "^glamour$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Amazing Lash Studio",
+      "id": "amazinglashstudio-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "eyelash",
+        "brand": "Amazing Lash Studio",
+        "brand:wikidata": "Q108469240",
+        "name": "Amazing Lash Studio",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Anthony Vincé Nail Spa",
+      "id": "anthonyvincenailspa-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "nails",
+        "brand": "Anthony Vincé Nail Spa",
+        "brand:wikidata": "Q110972931",
+        "name": "Anthony Vincé Nail Spa",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "AYK Sonnenstudio",
+      "id": "ayksonnenstudio-fc55f7",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["ayk"],
+      "matchTags": [
+        "leisure/tanning_salon",
+        "shop/solarium"
+      ],
+      "tags": {
+        "beauty": "tanning",
+        "brand": "AYK Sonnenstudio",
+        "name": "AYK Sonnenstudio",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Benefit Brow Bar",
+      "id": "benefitbrowbar-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["ulta brow bar"],
+      "tags": {
+        "beauty": "eyebrow;eyelash;waxing",
+        "brand": "Benefit",
+        "brand:wikidata": "Q2895769",
+        "name": "Benefit Brow Bar",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Body Details",
+      "id": "bodydetails-5c9c48",
+      "locationSet": {
+        "include": [
+          "us-fl.geojson",
+          "us-ga.geojson"
+        ]
+      },
+      "tags": {
+        "beauty": "hair_removal;tattoo_removal",
+        "brand": "Body Details",
+        "brand:wikidata": "Q119982718",
+        "name": "Body Details",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Body Minute",
+      "id": "bodyminute-e85977",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "beauty": "cosmetics",
+        "brand": "Body Minute",
+        "brand:wikidata": "Q104972220",
+        "name": "Body Minute",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Brow Art 23",
+      "id": "browart23-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "skin_care;eyebrow;eyelash",
+        "brand": "Brow Art 23",
+        "brand:wikidata": "Q115675881",
+        "name": "Brow Art 23",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Brow Studio 7",
+      "id": "browstudio7-4be8e1",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "beauty": "skin_care;waxing;eyebrow;eyelash",
+        "brand": "Brow Studio 7",
+        "brand:wikidata": "Q108410558",
+        "name": "Brow Studio 7",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Carlance",
+      "id": "carlance-e85977",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "beauty": "hair;nails;skin_care;massage",
+        "brand": "Carlance",
+        "brand:wikidata": "Q91601625",
+        "name": "Carlance",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Citron Vert",
+      "id": "citronvert-e85977",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "beauty": "hair;nails;skin_care;massage",
+        "brand": "Citron Vert",
+        "brand:wikidata": "Q89503945",
+        "name": "Citron Vert",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "DaVi Nails",
+      "id": "davinails-4be8e1",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "beauty": "nails",
+        "brand": "DaVi Nails",
+        "brand:wikidata": "Q108726836",
+        "name": "DaVi Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Deka Lash",
+      "id": "dekalash-4be8e1",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "beauty": "eyelash;eyebrow;sugaring",
+        "brand": "Deka Lash",
+        "brand:wikidata": "Q120505973",
+        "name": "deka lash",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Dépil Tech",
+      "id": "depiltech-b52040",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "beauty": "hair_removal",
+        "brand": "Dépil Tech",
+        "brand:wikidata": "Q120762716",
+        "name": "Dépil Tech",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Depyl Action",
+      "id": "depylaction-69a669",
+      "locationSet": {"include": ["br", "ve"]},
+      "tags": {
+        "beauty": "hair_removal",
+        "brand": "Depyl Action",
+        "brand:wikidata": "Q115728327",
+        "name": "Depyl Action",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Diamond Nails",
+      "id": "diamondnails-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "beauty": "nails",
+        "brand": "Diamond Nails",
+        "name": "Diamond Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Endlich Ohne Tattooentfernung",
+      "id": "endlichohne-fc55f7",
+      "locationSet": {"include": ["de"]},
+      "matchTags": ["shop/tattoo_removal"],
+      "tags": {
+        "beauty": "tattoo_removal",
+        "brand": "Endlich Ohne",
+        "brand:wikidata": "Q119982663",
+        "name": "Endlich Ohne",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Espaçolaser",
+      "id": "espacolaser-751030",
+      "locationSet": {"include": ["br", "co"]},
+      "tags": {
+        "beauty": "hair_removal",
+        "brand": "Espaçolaser",
+        "brand:wikidata": "Q112326409",
+        "name": "Espaçolaser",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Esthetic Center",
+      "id": "estheticcenter-bc649c",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "fx",
+          "gf",
+          "gp",
+          "re"
+        ]
+      },
+      "tags": {
+        "beauty": "skin_care;hair_removal",
+        "brand": "Esthetic Center",
+        "brand:wikidata": "Q123321775",
+        "name": "Esthetic Center",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "European Wax Center",
+      "id": "europeanwaxcenter-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "waxing",
+        "brand": "European Wax Center",
+        "brand:wikidata": "Q5413426",
+        "name": "European Wax Center",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Eyebrow Plus",
+      "id": "eyebrowplus-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "eyebrow;hair_removal",
+        "brand": "Eyebrow Plus",
+        "brand:wikidata": "Q108412880",
+        "name": "Eyebrow Plus",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Fabutan",
+      "id": "fabutan-8ad523",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "beauty": "tanning",
+        "brand": "Fabutan",
+        "brand:wikidata": "Q120765494",
+        "name": "Fabutan",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Guinot",
+      "id": "guinot-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "beauty": "skin_care",
+        "brand": "Guinot",
+        "brand:wikidata": "Q123408957",
+        "name": "Guinot",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Indigo Sun",
+      "id": "indigosun-b1b019",
+      "locationSet": {"include": ["gb"]},
+      "matchTags": [
+        "leisure/tanning_salon",
+        "shop/solarium"
+      ],
+      "tags": {
+        "beauty": "tanning",
+        "brand": "Indigo Sun",
+        "brand:wikidata": "Q63436906",
+        "name": "Indigo Sun",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "LaserAway",
+      "id": "laseraway-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "hair_removal;skin_care",
+        "brand": "LaserAway",
+        "brand:wikidata": "Q119982751",
+        "name": "LaserAway",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Madison Reed Color Bar",
+      "id": "madisonreed-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["shop/hairdresser"],
+      "tags": {
+        "beauty": "hair_colour",
+        "brand": "Madison Reed",
+        "brand:wikidata": "Q60770929",
+        "name": "Madison Reed",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Magic Nails",
+      "id": "magicnails-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "beauty": "nails",
+        "brand": "Magic Nails",
+        "name": "Magic Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "McSun",
+      "id": "mcsun-fc55f7",
+      "locationSet": {"include": ["de"]},
+      "matchTags": [
+        "leisure/tanning_salon",
+        "shop/solarium"
+      ],
+      "tags": {
+        "beauty": "tanning",
+        "brand": "McSun",
+        "name": "McSun",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Me Spa",
+      "id": "mespa-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "spa",
+        "brand": "Me Spa",
+        "brand:wikidata": "Q110972988",
+        "name": "Me Spa",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Nails for You",
+      "id": "nailsforyou-8ad523",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "beauty": "nails",
+        "brand": "Nails for You",
+        "brand:wikidata": "Q123410053",
+        "name": "Nails for You",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Palm Beach Tan",
+      "id": "palmbeachtan-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchTags": [
+        "leisure/tanning_salon",
+        "shop/solarium"
+      ],
+      "tags": {
+        "beauty": "tanning",
+        "brand": "Palm Beach Tan",
+        "brand:wikidata": "Q64027086",
+        "name": "Palm Beach Tan",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Perfect Brows NYC",
+      "id": "perfectbrowsnyc-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["perfect brows"],
+      "tags": {
+        "beauty": "eyebrow;eyelash;waxing",
+        "brand": "Perfect Brows NYC",
+        "name": "Perfect Brows NYC",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Pro Nails",
+      "id": "pronails-718fee",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["us"]
+      },
+      "tags": {
+        "beauty": "nails",
+        "brand": "Pro Nails",
+        "brand:wikidata": "Q109570250",
+        "name": "Pro Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Pro Nails (USA)",
+      "id": "pronails-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["gopronails"],
+      "tags": {
+        "beauty": "nails",
+        "brand": "Pro Nails",
+        "brand:wikidata": "Q113362663",
+        "name": "Pro Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Regal Nails",
+      "id": "regalnails-4be8e1",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": ["regal nails, salon & spa"],
+      "tags": {
+        "beauty": "nails",
+        "brand": "Regal Nails",
+        "brand:wikidata": "Q108918028",
+        "name": "Regal Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Removery",
+      "id": "removery-3175dd",
+      "locationSet": {
+        "include": ["au", "ca", "us"]
+      },
+      "matchNames": [
+        "fresh start laser clinic",
+        "inkoff.me",
+        "removery tattoo removal & fading"
+      ],
+      "matchTags": ["shop/tattoo_removal"],
+      "tags": {
+        "beauty": "tattoo_removal",
+        "brand": "Removery",
+        "brand:wikidata": "Q119982405",
+        "name": "Removery",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Seva Beauty",
+      "id": "sevabeauty-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "hair;skin_care;waxing;eyebrow;eyelash;cosmetics;makeup",
+        "brand": "Seva Beauty",
+        "brand:wikidata": "Q109329648",
+        "name": "Seva Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Skin Laundry",
+      "id": "skinlaundry-85c569",
+      "locationSet": {
+        "include": ["ae", "gb", "hk", "kw", "us"]
+      },
+      "tags": {
+        "beauty": "skin_care",
+        "brand": "Skin Laundry",
+        "brand:wikidata": "Q113513202",
+        "name": "Skin Laundry",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Sola Salons",
+      "id": "solasalons-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "sola",
+        "sola salon studios"
+      ],
+      "tags": {
+        "beauty": "hair;nails;skin_care;massage",
+        "brand": "Sola Salons",
+        "brand:wikidata": "Q64337426",
+        "name": "Sola Salons",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Sun Tan City",
+      "id": "suntancity-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchTags": [
+        "leisure/tanning_salon",
+        "shop/solarium"
+      ],
+      "tags": {
+        "beauty": "tanning",
+        "brand": "Sun Tan City",
+        "brand:wikidata": "Q120733136",
+        "name": "Sun Tan City",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Sunpoint",
+      "id": "sunpoint-fc55f7",
+      "locationSet": {"include": ["de"]},
+      "matchTags": [
+        "leisure/tanning_salon",
+        "shop/solarium"
+      ],
+      "tags": {
+        "beauty": "tanning",
+        "brand": "Sunpoint",
+        "brand:wikidata": "Q2366612",
+        "name": "Sunpoint",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Tan Republic",
+      "id": "tanrepublic-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["leisure/tanning_salon"],
+      "tags": {
+        "beauty": "tanning",
+        "brand": "Tan Republic",
+        "brand:wikidata": "Q84112774",
+        "name": "Tan Republic",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Tanning Shop",
+      "id": "tanningshop-2786f9",
+      "locationSet": {
+        "include": ["gb-eng", "ie"]
+      },
+      "tags": {
+        "beauty": "tanning",
+        "brand": "Tanning Shop",
+        "brand:wikidata": "Q123101132",
+        "name": "Tanning Shop",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "The Lash Lounge",
+      "id": "thelashlounge-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "eyebrow;eyelash",
+        "brand": "The Lash Lounge",
+        "brand:wikidata": "Q112765439",
+        "name": "The Lash Lounge",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "The Skin Bar at Ulta Beauty",
+      "id": "theskinbaratultabeauty-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "alt_name": "Ulta Skin Bar",
+        "beauty": "skin_care",
+        "brand": "Ulta Beauty",
+        "brand:wikidata": "Q7880076",
+        "name": "The Skin Bar at Ulta Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Thérapie Clinic",
+      "id": "therapieclinic-a549e8",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "beauty": "aesthetic;hair_removal",
+        "brand": "Thérapie Clinic",
+        "brand:wikidata": "Q123034602",
+        "name": "Thérapie Clinic",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Waxing the City",
+      "id": "waxingthecity-cc0daa",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "beauty": "waxing;eyebrow;eyelash",
+        "brand": "Waxing the City",
+        "brand:wikidata": "Q120599883",
+        "name": "Waxing the City",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Yves Rocher",
+      "id": "yvesrocher-413ef0",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn", "hk", "tw"]
+      },
+      "matchNames": ["ив роше"],
+      "tags": {
+        "beauty": "cosmetics",
+        "brand": "Yves Rocher",
+        "brand:wikidata": "Q28496595",
+        "name": "Yves Rocher",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Персона",
+      "id": "a378c7-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Персона",
+        "name": "Персона",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Сахар",
+      "id": "580dc8-69d6f1",
+      "locationSet": {"include": ["ae", "ru"]},
+      "note": "https://салонсахар.рф/",
+      "tags": {
+        "beauty": "hair;hair_removal",
+        "brand": "Сахар",
+        "name": "Сахар",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "伊夫黎雪",
+      "id": "yvesrocher-a8af93",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "beauty": "cosmetics",
+        "brand": "伊夫黎雪",
+        "brand:en": "Yves Rocher",
+        "brand:wikidata": "Q28496595",
+        "brand:zh": "伊夫黎雪",
+        "name": "伊夫黎雪",
+        "name:en": "Yves Rocher",
+        "name:zh": "伊夫黎雪",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "葉露芝",
+      "id": "yvesrocher-502b93",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "beauty": "cosmetics",
+        "brand": "葉露芝",
+        "brand:en": "Yves Rocher",
+        "brand:wikidata": "Q28496595",
+        "brand:zh": "葉露芝",
+        "name": "葉露芝",
+        "name:en": "Yves Rocher",
+        "name:zh": "葉露芝",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "葉露芝 Yves Rocher",
+      "id": "yvesrocher-1744e8",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "beauty": "cosmetics",
+        "brand": "葉露芝 Yves Rocher",
+        "brand:en": "Yves Rocher",
+        "brand:wikidata": "Q28496595",
+        "brand:zh": "葉露芝",
+        "name": "葉露芝 Yves Rocher",
+        "name:en": "Yves Rocher",
+        "name:zh": "葉露芝",
+        "shop": "beauty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "properties": {
+    "path": "brands/shop/storage_rental",
+    "exclude": {
+      "generic": ["^(self )?storage( rental)?$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "A-1 Self Storage",
+      "id": "a1selfstorage-a05958",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "brand": "A-1 Self Storage",
+        "brand:wikidata": "Q105078150",
+        "name": "A-1 Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Access Self Storage",
+      "id": "accessselfstorage-93b48c",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["access storage solutions"],
+      "tags": {
+        "brand": "Access",
+        "brand:wikidata": "Q122022507",
+        "name": "Access Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Access Storage",
+      "id": "accessstorage-9d4abf",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Access Storage",
+        "brand:wikidata": "Q123409757",
+        "name": "Access Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "ALLSAFE Mini Opslag",
+      "id": "allsafeminiopslag-43269c",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "ALLSAFE",
+        "brand:wikidata": "Q106581638",
+        "name": "ALLSAFE Mini Opslag",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Big Yellow Self Storage",
+      "id": "bigyellowselfstorage-93b48c",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "the big yellow self storage company"
+      ],
+      "tags": {
+        "brand": "Big Yellow Self Storage",
+        "brand:wikidata": "Q4906703",
+        "name": "Big Yellow Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Compass Self Storage",
+      "id": "compassselfstorage-7879a0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Compass Self Storage",
+        "brand:wikidata": "Q120719704",
+        "name": "Compass Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "CubeSmart",
+      "id": "cubesmart-7879a0",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["cubesmart self storage"],
+      "tags": {
+        "brand": "CubeSmart",
+        "brand:wikidata": "Q5192200",
+        "name": "CubeSmart",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Extra Space Storage",
+      "id": "extraspacestorage-7879a0",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["extra space"],
+      "tags": {
+        "brand": "Extra Space Storage",
+        "brand:wikidata": "Q5422162",
+        "name": "Extra Space Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "iStorage",
+      "id": "istorage-7879a0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "iStorage",
+        "brand:wikidata": "Q122721929",
+        "name": "iStorage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Kennards Storage",
+      "id": "kennardsstorage-e49450",
+      "locationSet": {"include": ["au", "nz"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Kennards Storage",
+        "brand:wikidata": "Q115565997",
+        "name": "Kennards Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Life Storage",
+      "id": "lifestorage-7879a0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Life Storage",
+        "brand:wikidata": "Q7882701",
+        "name": "Life Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Lok'nStore",
+      "id": "loknstore-93b48c",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Lok'nStore",
+        "brand:wikidata": "Q6668484",
+        "name": "Lok'nStore",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Metro Self Storage",
+      "id": "metroselfstorage-5b962b",
+      "locationSet": {
+        "include": [
+          "us-al.geojson",
+          "us-ct.geojson",
+          "us-fl.geojson",
+          "us-ga.geojson",
+          "us-il.geojson",
+          "us-mn.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson",
+          "us-pa.geojson",
+          "us-tn.geojson",
+          "us-tx.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Metro Self Storage",
+        "brand:wikidata": "Q114515454",
+        "name": "Metro Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Mini Mall Storage",
+      "id": "minimallstorage-51c575",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Mini Mall Storage",
+        "brand:wikidata": "Q121599029",
+        "name": "Mini Mall Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Mini Storage Depot",
+      "id": "ministoragedepot-7879a0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Mini Storage Depot",
+        "brand:wikidata": "Q112833014",
+        "name": "Mini Storage Depot",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "MyPlace-SelfStorage",
+      "id": "myplaceselfstorage-7d575b",
+      "locationSet": {
+        "include": ["at", "ch", "de"]
+      },
+      "matchNames": ["my place"],
+      "tags": {
+        "brand": "MyPlace-SelfStorage",
+        "brand:wikidata": "Q109659129",
+        "name": "MyPlace-SelfStorage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "National Mini Storage",
+      "id": "nationalministorage-8edc81",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "National Mini Storage",
+        "brand:wikidata": "Q114353224",
+        "name": "National Mini Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "National Storage",
+      "id": "nationalstorage-e49450",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "National Storage",
+        "brand:wikidata": "Q21178908",
+        "name": "National Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Northwest Self Storage",
+      "id": "northwestselfstorage-6af07e",
+      "locationSet": {
+        "include": [
+          "us-id.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "matchNames": ["nw self storage"],
+      "tags": {
+        "brand": "Northwest Self Storage",
+        "brand:wikidata": "Q108576211",
+        "name": "Northwest Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Public Storage",
+      "id": "publicstorage-51c575",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Public Storage",
+        "brand:wikidata": "Q1156045",
+        "name": "Public Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Safestore",
+      "id": "safestore-93b48c",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["safestore self storage"],
+      "tags": {
+        "brand": "Safestore",
+        "brand:wikidata": "Q20713915",
+        "name": "Safestore",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "SecureSpace Self Storage",
+      "id": "securespaceselfstorage-7879a0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "SecureSpace Self Storage",
+        "brand:wikidata": "Q122485558",
+        "name": "SecureSpace Self Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Shurgard Self-Storage",
+      "id": "shurgardselfstorage-9d6bb9",
+      "locationSet": {
+        "include": ["be", "de", "fr", "nl"]
+      },
+      "tags": {
+        "brand": "Shurgard Storage Centers",
+        "brand:wikidata": "Q3482670",
+        "name": "Shurgard Self-Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Storage King",
+      "id": "storageking-e49450",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Storage King",
+        "brand:wikidata": "Q114353097",
+        "name": "Storage King",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Storage Rentals of America",
+      "id": "storagerentalsofamerica-7879a0",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["sroa"],
+      "tags": {
+        "brand": "Storage Rentals of America",
+        "brand:wikidata": "Q120733770",
+        "name": "Storage Rentals of America",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "StorageMart",
+      "id": "storagemart-3ec4f5",
+      "locationSet": {
+        "include": ["ca", "gb", "us"]
+      },
+      "tags": {
+        "brand": "StorageMart",
+        "brand:wikidata": "Q16226585",
+        "name": "StorageMart",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Store Space Self Storage",
+      "id": "storespace-7879a0",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["store space self storage"],
+      "tags": {
+        "brand": "Store Space",
+        "brand:wikidata": "Q121464701",
+        "name": "Store Space",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Storebox",
+      "id": "storebox-3e45ed",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "Storebox",
+        "brand:wikidata": "Q117430004",
+        "name": "Storebox",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "StorQuest Self Storage",
+      "id": "storquest-7879a0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "StorQuest Self Storage",
+        "brand:wikidata": "Q109337134",
+        "name": "StorQuest",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "The Lock Up",
+      "id": "thelockup-b15f96",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-fl.geojson",
+          "us-hi.geojson",
+          "us-il.geojson",
+          "us-ma.geojson",
+          "us-mn.geojson",
+          "us-nj.geojson",
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "The Lock Up",
+        "brand:wikidata": "Q17089825",
+        "name": "The Lock Up",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "Trojan Storage",
+      "id": "trojanstorage-7879a0",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["trojan"],
+      "tags": {
+        "brand": "Trojan Storage",
+        "brand:wikidata": "Q108917137",
+        "name": "Trojan Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "U-Haul",
+      "id": "uhaul-51c575",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": ["uhaul neighborhood dealer"],
+      "tags": {
+        "brand": "U-Haul",
+        "brand:wikidata": "Q7862902",
+        "name": "U-Haul",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "U-SPACE",
+      "id": "uspace-40a7f7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "U-SPACE",
+        "brand:en": "U-SPACE",
+        "brand:ja": "ユースペース",
+        "brand:wikidata": "Q93909725",
+        "name": "U-SPACE",
+        "name:en": "U-SPACE",
+        "name:ja": "ユースペース",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "U-Stor-It",
+      "id": "ustorit-a1f08e",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-il.geojson",
+          "us-in.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "U-Stor-It",
+        "brand:wikidata": "Q116225856",
+        "name": "U-Stor-It",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "UK Storage Company",
+      "id": "ukstoragecompany-93b48c",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "UK Storage Company",
+        "brand:wikidata": "Q87411468",
+        "name": "UK Storage Company",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "West Coast Self-Storage",
+      "id": "westcoastselfstorage-8e2904",
+      "locationSet": {
+        "include": [
+          "us-ca.geojson",
+          "us-nv.geojson",
+          "us-or.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "West Coast Self-Storage",
+        "brand:wikidata": "Q110084888",
+        "name": "West Coast Self-Storage",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "ハローストレージ",
+      "id": "hellostorage-40a7f7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ハローストレージ",
+        "brand:en": "Hello Storage",
+        "brand:ja": "ハローストレージ",
+        "brand:wikidata": "Q93908236",
+        "name": "ハローストレージ",
+        "name:en": "Hello Storage",
+        "name:ja": "ハローストレージ",
+        "shop": "storage_rental"
+      }
+    },
+    {
+      "displayName": "ライゼボックス",
+      "id": "reisebox-40a7f7",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["ライゼ"],
+      "tags": {
+        "brand": "ライゼボックス",
+        "brand:en": "Reise Box",
+        "brand:ja": "ライゼボックス",
+        "brand:wikidata": "Q11346377",
+        "name": "ライゼボックス",
+        "name:en": "Reise Box",
+        "name:ja": "ライゼボックス",
+        "shop": "storage_rental"
+      }
+    }
+  ]
+}

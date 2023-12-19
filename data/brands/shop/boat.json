@@ -1,0 +1,45 @@
+{
+  "properties": {
+    "path": "brands/shop/boat",
+    "exclude": {"generic": ["^boat$", "^港口$"]}
+  },
+  "items": [
+    {
+      "displayName": "Burnsco",
+      "id": "burnsco-bc4d2d",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Burnsco",
+        "brand:wikidata": "Q116825899",
+        "name": "Burnsco",
+        "seamark:small_craft_facility:category": "chandler",
+        "seamark:type": "small_craft_facility",
+        "shop": "boat"
+      }
+    },
+    {
+      "displayName": "MarineMax",
+      "id": "marinemax-db06dd",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "MarineMax",
+        "brand:wikidata": "Q119140995",
+        "name": "MarineMax",
+        "shop": "boat"
+      }
+    },
+    {
+      "displayName": "West Marine",
+      "id": "westmarine-db06dd",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "West Marine",
+        "brand:wikidata": "Q7985852",
+        "name": "West Marine",
+        "seamark:small_craft_facility:category": "chandler",
+        "seamark:type": "small_craft_facility",
+        "shop": "boat"
+      }
+    }
+  ]
+}

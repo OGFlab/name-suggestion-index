@@ -1,0 +1,53 @@
+{
+  "properties": {
+    "path": "brands/shop/art",
+    "exclude": {"generic": ["^art$"]}
+  },
+  "items": [
+    {
+      "displayName": "DeSerres",
+      "id": "deserres-52ba64",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "DeSerres",
+        "brand:wikidata": "Q3020049",
+        "name": "DeSerres",
+        "shop": "art"
+      }
+    },
+    {
+      "displayName": "Lumas",
+      "id": "lumas-60f999",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "ca",
+          "ch",
+          "de",
+          "fr",
+          "gb-eng",
+          "hu",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Lumas",
+        "brand:wikidata": "Q1452381",
+        "name": "Lumas",
+        "shop": "art"
+      }
+    },
+    {
+      "displayName": "YellowKorner",
+      "id": "yellowkorner-160161",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "YellowKorner",
+        "brand:wikidata": "Q3572115",
+        "name": "YellowKorner",
+        "shop": "art"
+      }
+    }
+  ]
+}

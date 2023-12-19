@@ -1,0 +1,123 @@
+{
+  "properties": {
+    "path": "brands/shop/nutrition_supplements",
+    "exclude": {
+      "generic": ["^nutrition supplements$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "BioTechUSA",
+      "id": "biotechusa-8d859c",
+      "locationSet": {"include": ["hu", "sk"]},
+      "tags": {
+        "brand": "BioTechUSA",
+        "brand:wikidata": "Q116861247",
+        "name": "BioTechUSA",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "Body Attack",
+      "id": "bodyattack-65126f",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Body Attack",
+        "brand:wikidata": "Q119991519",
+        "name": "Body Attack",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "GNC",
+      "id": "gnc-699d49",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["gnc live well"],
+      "tags": {
+        "brand": "GNC",
+        "brand:wikidata": "Q4808595",
+        "name": "GNC",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "HERC'S Nutrition",
+      "id": "hercsnutrition-be7a88",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "HERC'S Nutrition",
+        "brand:wikidata": "Q110957646",
+        "name": "HERC'S Nutrition",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "Natur House",
+      "id": "naturhouse-699d49",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Natur House",
+        "brand:wikidata": "Q6038807",
+        "name": "Natur House",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "Popeye's Supplements",
+      "id": "popeyessupplements-be7a88",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["popeye's"],
+      "tags": {
+        "brand": "Popeye's Supplements",
+        "brand:wikidata": "Q71096495",
+        "name": "Popeye's Supplements",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "Super Supplements",
+      "id": "supersupplements-8feed0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Super Supplements",
+        "brand:wikidata": "Q108606605",
+        "name": "Super Supplements",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "The Vitamin Shoppe",
+      "id": "thevitaminshoppe-8feed0",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["shop/chemist"],
+      "tags": {
+        "brand": "The Vitamin Shoppe",
+        "brand:wikidata": "Q7772938",
+        "name": "The Vitamin Shoppe",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "Vitamin World",
+      "id": "vitaminworld-8feed0",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Vitamin World",
+        "brand:wikidata": "Q7936979",
+        "name": "Vitamin World",
+        "shop": "nutrition_supplements"
+      }
+    },
+    {
+      "displayName": "Vitaminstore",
+      "id": "vitaminstore-e87d47",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Vitaminstore",
+        "brand:wikidata": "Q123535847",
+        "name": "Vitaminstore",
+        "shop": "nutrition_supplements"
+      }
+    }
+  ]
+}

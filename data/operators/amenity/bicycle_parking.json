@@ -1,0 +1,130 @@
+{
+  "properties": {
+    "path": "operators/amenity/bicycle_parking",
+    "skipCollection": true,
+    "exclude": {"generic": ["^bicycle parking$"]}
+  },
+  "items": [
+    {
+      "displayName": "Ace Parking",
+      "id": "aceparking-93cfc3",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "bicycle_parking",
+        "brand": "Ace Parking",
+        "brand:wikidata": "Q108274179",
+        "fee": "yes",
+        "name": "Ace Parking",
+        "operator": "Ace Parking",
+        "operator:wikidata": "Q108274179"
+      }
+    },
+    {
+      "displayName": "Ayuntamiento de Zaragoza",
+      "id": "ayuntamientodezaragoza-d235e6",
+      "locationSet": {"include": ["es"]},
+      "matchNames": [
+        "ayto de zaragoza",
+        "ayto zaragoza",
+        "ayuntamiento zaragoza",
+        "zaragoza city council"
+      ],
+      "tags": {
+        "amenity": "bicycle_parking",
+        "operator": "Ayuntamiento de Zaragoza",
+        "operator:wikidata": "Q8210811"
+      }
+    },
+    {
+      "displayName": "BikeAway",
+      "id": "bikeaway-46d76d",
+      "locationSet": {
+        "include": ["gb-eng", "ie"]
+      },
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "lockers",
+        "fee": "yes",
+        "name": "BikeAway",
+        "operator": "BikeAway",
+        "operator:wikidata": "Q112136998"
+      }
+    },
+    {
+      "displayName": "RTD Bike-n-Ride",
+      "id": "regionaltransportationdistrict-8adeca",
+      "locationSet": {
+        "include": ["us-co.geojson"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bike_ride": "yes",
+        "name": "RTD Bike-n-Ride",
+        "operator": "Regional Transportation District",
+        "operator:short": "RTD",
+        "operator:wikidata": "Q7309183"
+      }
+    },
+    {
+      "displayName": "TriMet Bike & Ride",
+      "id": "trimet-b008ab",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bike_ride": "yes",
+        "name": "TriMet Bike & Ride",
+        "operator": "TriMet",
+        "operator:wikidata": "Q1766623"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Vorarlberg",
+      "id": "verkehrsverbundvorarlberggmbh-e33f54",
+      "locationSet": {"include": ["at"]},
+      "matchNames": ["clevvver", "vmobil"],
+      "tags": {
+        "amenity": "bicycle_parking",
+        "name": "Verkehrsverbund Vorarlberg",
+        "operator": "Verkehrsverbund Vorarlberg GmbH",
+        "operator:short": "VVV",
+        "operator:wikidata": "Q2516495"
+      }
+    },
+    {
+      "displayName": "サイクルタイムズ",
+      "id": "times-5a9b3d",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["タイムズ24"],
+      "tags": {
+        "amenity": "bicycle_parking",
+        "fee": "yes",
+        "name": "サイクルタイムズ",
+        "name:en": "Cycle Times",
+        "name:ja": "サイクルタイムズ",
+        "operator": "タイムズ",
+        "operator:en": "Times",
+        "operator:ja": "タイムズ",
+        "operator:wikidata": "Q11089693"
+      }
+    },
+    {
+      "displayName": "運輸署 Transport Department",
+      "id": "transportdepartment-a5168d",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["td"],
+      "tags": {
+        "amenity": "bicycle_parking",
+        "operator": "運輸署 Transport Department",
+        "operator:en": "Transport Department",
+        "operator:short:en": "TD",
+        "operator:type": "government",
+        "operator:wikidata": "Q2355889",
+        "operator:zh": "運輸署"
+      }
+    }
+  ]
+}

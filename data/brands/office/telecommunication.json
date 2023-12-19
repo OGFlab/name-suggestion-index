@@ -1,0 +1,437 @@
+{
+  "properties": {
+    "path": "brands/office/telecommunication",
+    "exclude": {
+      "generic": [
+        "^tele(c|k)ommuni(c|k)ation$",
+        "^атс$",
+        "^مخابرات$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "ACTEL",
+      "id": "actel-c9e0b0",
+      "locationSet": {"include": ["dz"]},
+      "tags": {
+        "brand": "ACTEL",
+        "name": "ACTEL",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Antik Telecom",
+      "id": "antiktelecom-dd32b3",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "Antik Telecom",
+        "brand:wikidata": "Q30297477",
+        "name": "Antik Telecom",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "AT&T",
+      "id": "atandt-d4bcbe",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["att"],
+      "tags": {
+        "brand": "AT&T",
+        "brand:wikidata": "Q35476",
+        "name": "AT&T",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Azercell",
+      "id": "azercell-898395",
+      "locationSet": {"include": ["az"]},
+      "matchNames": ["azərcell"],
+      "tags": {
+        "brand": "Azercell",
+        "brand:wikidata": "Q2639931",
+        "name": "Azercell",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Beeline",
+      "id": "beeline-2f71de",
+      "locationSet": {
+        "include": ["au", "la", "vn"]
+      },
+      "tags": {
+        "brand": "Beeline",
+        "brand:wikidata": "Q402880",
+        "name": "Beeline",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "CH L3T",
+      "id": "chl3t-d4bcbe",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "CH L3T",
+        "name": "CH L3T",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "du",
+      "id": "du-0eff00",
+      "locationSet": {"include": ["ae"]},
+      "tags": {
+        "brand": "du",
+        "brand:wikidata": "Q120885009",
+        "name": "du",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "ETECSA",
+      "id": "etecsa-0b19c8",
+      "locationSet": {"include": ["cu"]},
+      "tags": {
+        "brand": "ETECSA",
+        "brand:wikidata": "Q490323",
+        "name": "ETECSA",
+        "office": "telecommunication",
+        "official_name": "Empresa de Telecomunicaciones de Cuba"
+      }
+    },
+    {
+      "displayName": "Indosat Ooredoo",
+      "id": "indosatooredoo-89d943",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "alt_name": "Indosat",
+        "brand": "Indosat Ooredoo",
+        "brand:wikidata": "Q2393592",
+        "name": "Indosat Ooredoo",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "izzi",
+      "id": "izzi-66ddc0",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "izzi",
+        "brand:wikidata": "Q11680385",
+        "name": "izzi",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Kcell",
+      "id": "kcell-4679e0",
+      "locationSet": {"include": ["kz"]},
+      "tags": {
+        "brand": "Kcell",
+        "brand:wikidata": "Q1737636",
+        "name": "Kcell",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Mega",
+      "id": "mega-d4bcbe",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mega",
+        "name": "Mega",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "NTT",
+      "id": "ntt-54abba",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "alt_name": "エヌ・ティ・ティ",
+        "brand": "NTT",
+        "brand:wikidata": "Q1054787",
+        "name": "NTT",
+        "office": "telecommunication",
+        "official_name": "日本電信電話",
+        "official_name:en": "Nippon Telegraph and Telephone",
+        "official_name:ja": "日本電信電話",
+        "official_name:ja-Latn": "Nippon Denshin Denwa"
+      }
+    },
+    {
+      "displayName": "O!Store",
+      "id": "ostore-d4bcbe",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "O!Store",
+        "name": "O!Store",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "One",
+      "id": "one-d4bcbe",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "One",
+        "name": "One",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "R",
+      "id": "r-b26dcd",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "brand": "R",
+        "brand:wikidata": "Q3326234",
+        "name": "R",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Rostelecom",
+      "id": "rostelecom-2921eb",
+      "locationSet": {"include": ["am"]},
+      "tags": {
+        "brand": "Ռոստելեկոմ",
+        "brand:en": "Rostelecom",
+        "brand:hy": "Ռոստելեկոմ",
+        "brand:ru": "Ростелеком",
+        "brand:wikidata": "Q1477012",
+        "name": "Ռոստելեկոմ",
+        "name:en": "Rostelecom",
+        "name:hy": "Ռոստելեկոմ",
+        "name:ru": "Ростелеком",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Team Telecom Armenia",
+      "id": "teamtelecomarmenia-2921eb",
+      "locationSet": {"include": ["am"]},
+      "matchNames": ["team telecom"],
+      "tags": {
+        "brand": "Թիմ Տելեկոմ Արմենիա",
+        "brand:en": "Team Telecom Armenia",
+        "brand:hy": "Թիմ Տելեկոմ Արմենիա",
+        "brand:ru": "Тим Телеком Армения",
+        "brand:wikidata": "Q97125249",
+        "name": "Թիմ Տելեկոմ Արմենիա",
+        "name:en": "Team Telecom Armenia",
+        "name:hy": "Թիմ Տելեկոմ Արմենիա",
+        "name:ru": "Тим Телеком Армения",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Telecomm-Telégrafos",
+      "id": "telecommtelegrafos-66ddc0",
+      "locationSet": {"include": ["mx"]},
+      "matchNames": ["telecomm"],
+      "tags": {
+        "brand": "Telecomm-Telégrafos",
+        "brand:wikidata": "Q9082442",
+        "name": "Telecomm-Telégrafos",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Telkomsel",
+      "id": "telkomsel-89d943",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "brand": "Telkomsel",
+        "brand:wikidata": "Q1786124",
+        "name": "Telkomsel",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Telmex",
+      "id": "telmex-66ddc0",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Telmex",
+        "brand:wikidata": "Q1420164",
+        "name": "Telmex",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Totalplay",
+      "id": "totalplay-66ddc0",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Totalplay",
+        "brand:wikidata": "Q6151102",
+        "name": "Totalplay",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Ucom",
+      "id": "ucom-2921eb",
+      "locationSet": {"include": ["am"]},
+      "tags": {
+        "brand": "Յուքոմ",
+        "brand:en": "Ucom",
+        "brand:hy": "Յուքոմ",
+        "brand:ru": "Юком",
+        "brand:wikidata": "Q13054189",
+        "name": "Յուքոմ",
+        "name:en": "Ucom",
+        "name:hy": "Յուքոմ",
+        "name:ru": "Юком",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Viva MTS",
+      "id": "vivamts-2921eb",
+      "locationSet": {"include": ["am"]},
+      "tags": {
+        "brand": "Վիվա ՄՏՍ",
+        "brand:en": "Viva MTS",
+        "brand:hy": "Վիվա ՄՏՍ",
+        "brand:ru": "Вива МТС",
+        "brand:wikidata": "Q16486896",
+        "name": "Վիվա ՄՏՍ",
+        "name:en": "Viva MTS",
+        "name:hy": "Վիվա ՄՏՍ",
+        "name:ru": "Вива МТС",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "XL Axiata",
+      "id": "xlaxiata-89d943",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "alt_name": "XL",
+        "brand": "XL Axiata",
+        "brand:wikidata": "Q3482752",
+        "name": "XL Axiata",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Билайн",
+      "id": "beeline-f03186",
+      "locationSet": {
+        "include": ["kg", "kz", "ru"]
+      },
+      "tags": {
+        "brand": "Билайн",
+        "brand:en": "Beeline",
+        "brand:ru": "Билайн",
+        "brand:wikidata": "Q402880",
+        "name": "Билайн",
+        "name:en": "Beeline",
+        "name:ru": "Билайн",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "زين السعودية",
+      "id": "zainsaudiarabia-d23a06",
+      "locationSet": {"include": ["sa"]},
+      "matchNames": [
+        "zain",
+        "زين",
+        "شركة الاتصالات المتنقلة السعودية",
+        "شركة زين السعودية"
+      ],
+      "tags": {
+        "brand": "زين السعودية",
+        "brand:ar": "زين السعودية",
+        "brand:en": "Zain Saudi Arabia",
+        "brand:ja": "زين السعودية",
+        "brand:wikidata": "Q12218575",
+        "name": "زين السعودية",
+        "name:en": "Zain Saudi Arabia",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "شركة اتحاد عذيب للاتصالات",
+      "id": "etihadatheebtelecom-d23a06",
+      "locationSet": {"include": ["sa"]},
+      "matchNames": [
+        "atheeb",
+        "go",
+        "جو",
+        "عذيب",
+        "عذيب للاتصالات"
+      ],
+      "tags": {
+        "brand": "شركة اتحاد عذيب للاتصالات",
+        "brand:ar": "شركة اتحاد عذيب للاتصالات",
+        "brand:en": "Etihad Atheeb Telecom",
+        "brand:ja": "شركة اتحاد عذيب للاتصالات",
+        "brand:wikidata": "Q5404584",
+        "name": "شركة اتحاد عذيب للاتصالات",
+        "name:en": "Etihad Atheeb Telecom",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "شركة الاتصالات السعودية",
+      "id": "sauditelecomcompany-d23a06",
+      "locationSet": {"include": ["sa"]},
+      "matchNames": [
+        "stc",
+        "إس تي سي",
+        "الاتصالات السعودية"
+      ],
+      "tags": {
+        "brand": "شركة الاتصالات السعودية",
+        "brand:ar": "شركة الاتصالات السعودية",
+        "brand:en": "Saudi Telecom Company",
+        "brand:ja": "شركة الاتصالات السعودية",
+        "brand:wikidata": "Q1535171",
+        "name": "شركة الاتصالات السعودية",
+        "name:en": "Saudi Telecom Company",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "موبايلي",
+      "id": "mobily-d23a06",
+      "locationSet": {"include": ["sa"]},
+      "matchNames": [
+        "etihad etisalat company",
+        "mobily telecom",
+        "إتحاد إتصالات",
+        "شركة اتحاد اتصالات"
+      ],
+      "tags": {
+        "brand": "موبايلي",
+        "brand:ar": "موبايلي",
+        "brand:en": "Mobily",
+        "brand:ja": "موبايلي",
+        "brand:wikidata": "Q6887331",
+        "name": "موبايلي",
+        "name:en": "Mobily",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "displayName": "موبيليس",
+      "id": "mobilis-c9e0b0",
+      "locationSet": {"include": ["dz"]},
+      "matchNames": ["mobilis موبيليس"],
+      "tags": {
+        "brand": "موبيليس",
+        "brand:en": "Mobilis",
+        "brand:wikidata": "Q2819545",
+        "name": "موبيليس",
+        "name:en": "Mobilis",
+        "office": "telecommunication"
+      }
+    }
+  ]
+}

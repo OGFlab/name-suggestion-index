@@ -1,0 +1,1138 @@
+{
+  "properties": {
+    "path": "brands/amenity/ice_cream",
+    "exclude": {
+      "generic": [
+        "^(ice cream|fagyizó)$",
+        "^мороженое$"
+      ],
+      "named": [
+        "^(gelateria|venezia)$",
+        "eiscafé venezia"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "31冰淇淋",
+      "id": "baskinrobbins-cc8b8b",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "31冰淇淋",
+        "brand:en": "Baskin-Robbins",
+        "brand:ja": "バスキン・ロビンス",
+        "brand:wikidata": "Q584601",
+        "brand:zh": "31冰淇淋",
+        "cuisine": "ice_cream",
+        "name": "31冰淇淋",
+        "name:en": "Baskin-Robbins",
+        "name:ja": "サーティワンアイスクリーム",
+        "name:zh": "31冰淇淋"
+      }
+    },
+    {
+      "displayName": "33 пингвина",
+      "id": "fd1d7e-3c9560",
+      "locationSet": {
+        "include": ["by", "kg", "kz", "ru", "uz"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "33 пингвина",
+        "brand:wikidata": "Q110147993",
+        "name": "33 пингвина"
+      }
+    },
+    {
+      "displayName": "Abbott's Frozen Custard",
+      "id": "abbottsfrozencustard-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Abbott's Frozen Custard",
+        "brand:wikidata": "Q4664334",
+        "name": "Abbott's Frozen Custard",
+        "short_name": "Abbott's"
+      }
+    },
+    {
+      "displayName": "Afters Original",
+      "id": "aftersoriginal-22b8b7",
+      "locationSet": {"include": ["ae", "gb"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Afters",
+        "brand:wikidata": "Q111811913",
+        "name": "Afters Original"
+      }
+    },
+    {
+      "displayName": "Amorino",
+      "id": "amorino-6cf168",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "gr",
+          "ie",
+          "it",
+          "lu",
+          "ma",
+          "mt",
+          "mx",
+          "nc",
+          "pt",
+          "qa",
+          "re",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Amorino",
+        "brand:wikidata": "Q2843884",
+        "name": "Amorino"
+      }
+    },
+    {
+      "displayName": "Amy's Ice Creams",
+      "id": "amysicecreams-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Amy's Ice Creams",
+        "brand:wikidata": "Q4749045",
+        "name": "Amy's Ice Creams"
+      }
+    },
+    {
+      "displayName": "Andy's Frozen Custard",
+      "id": "andysfrozencustard-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Andy's Frozen Custard",
+        "brand:wikidata": "Q4760327",
+        "name": "Andy's Frozen Custard",
+        "short_name": "Andy's"
+      }
+    },
+    {
+      "displayName": "Bacio di Latte",
+      "id": "baciodilatte-46659e",
+      "locationSet": {"include": ["br", "us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Bacio di Latte",
+        "brand:wikidata": "Q110249379",
+        "coffee": "yes",
+        "diet:vegan": "yes",
+        "name": "Bacio di Latte"
+      }
+    },
+    {
+      "displayName": "Baskin-Robbins",
+      "id": "baskinrobbins-6ae11c",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["jp", "tw"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Baskin-Robbins",
+        "brand:wikidata": "Q584601",
+        "cuisine": "ice_cream",
+        "name": "Baskin-Robbins"
+      }
+    },
+    {
+      "displayName": "Ben & Jerry's",
+      "id": "benandjerrys-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Ben & Jerry's",
+        "brand:wikidata": "Q816412",
+        "cuisine": "ice_cream",
+        "name": "Ben & Jerry's"
+      }
+    },
+    {
+      "displayName": "Bico de Xeado",
+      "id": "bicodexeado-2a89e9",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Bico de Xeado",
+        "brand:wikidata": "Q94575629",
+        "name": "Bico de Xeado"
+      }
+    },
+    {
+      "displayName": "Bruster's Ice Cream",
+      "id": "brustersicecream-8697a4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "brusters",
+        "brusters real ice cream"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Bruster's Ice Cream",
+        "brand:wikidata": "Q4979810",
+        "cuisine": "ice_cream",
+        "name": "Bruster's Ice Cream"
+      }
+    },
+    {
+      "displayName": "Carvel",
+      "id": "carvel-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Carvel",
+        "brand:wikidata": "Q5047520",
+        "cuisine": "ice_cream",
+        "name": "Carvel",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Chiquinho Sorvetes",
+      "id": "chiquinhosorvetes-9359b6",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Chiquinho Sorvetes",
+        "brand:wikidata": "Q65164356",
+        "name": "Chiquinho Sorvetes"
+      }
+    },
+    {
+      "displayName": "Cold Rock Ice Creamery",
+      "id": "coldrockicecreamery-e699dd",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Cold Rock Ice Creamery",
+        "brand:wikidata": "Q2982390",
+        "cuisine": "ice_cream",
+        "name": "Cold Rock Ice Creamery",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Cold Stone Creamery",
+      "id": "coldstonecreamery-87d971",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["cold stone"],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Cold Stone Creamery",
+        "brand:wikidata": "Q1094923",
+        "cuisine": "ice_cream",
+        "name": "Cold Stone Creamery"
+      }
+    },
+    {
+      "displayName": "Creams",
+      "id": "creams-546be0",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Creams",
+        "brand:wikidata": "Q111811895",
+        "cuisine": "ice_cream",
+        "name": "Creams"
+      }
+    },
+    {
+      "displayName": "D'Onofrio",
+      "id": "donofrio-93a72a",
+      "locationSet": {"include": ["pe"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "D'Onofrio",
+        "brand:wikidata": "Q5203166",
+        "cuisine": "ice_cream",
+        "name": "D'Onofrio"
+      }
+    },
+    {
+      "displayName": "De IJswinckel",
+      "id": "deijswinckel-e6af0f",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "De IJswinckel",
+        "brand:wikidata": "Q121742239",
+        "name": "De IJswinckel"
+      }
+    },
+    {
+      "displayName": "Dippin' Dots",
+      "id": "dippindots-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Dippin' Dots",
+        "brand:wikidata": "Q3029195",
+        "name": "Dippin' Dots"
+      }
+    },
+    {
+      "displayName": "Freddo",
+      "id": "freddo-3a94a6",
+      "locationSet": {
+        "include": [
+          "ar",
+          "bo",
+          "br",
+          "cl",
+          "gb",
+          "it",
+          "us",
+          "uy"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Freddo",
+        "brand:wikidata": "Q28823999",
+        "cuisine": "ice_cream",
+        "name": "Freddo"
+      }
+    },
+    {
+      "displayName": "Gelateria di Berna",
+      "id": "gelateriadiberna-656c68",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Gelateria di Berna",
+        "brand:wikidata": "Q111714021",
+        "cuisine": "ice_cream",
+        "name": "Gelateria di Berna",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Gelatissimo",
+      "id": "gelatissimo-17af97",
+      "locationSet": {
+        "include": [
+          "au",
+          "bd",
+          "cn",
+          "in",
+          "ph",
+          "sa",
+          "sg"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Gelatissimo",
+        "brand:wikidata": "Q105270111",
+        "cuisine": "ice_cream",
+        "name": "Gelatissimo",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Good Lood",
+      "id": "goodlood-944e1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Good Lood",
+        "brand:wikidata": "Q122978001",
+        "name": "Good Lood"
+      }
+    },
+    {
+      "displayName": "Graeter's",
+      "id": "graeters-8697a4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["greaters"],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Graeter's",
+        "brand:wikidata": "Q5592430",
+        "cuisine": "ice_cream",
+        "name": "Graeter's",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Grido",
+      "id": "grido-1a8176",
+      "locationSet": {"include": ["ar"]},
+      "matchNames": ["grido helado"],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Grido",
+        "brand:wikidata": "Q5885724",
+        "cuisine": "ice_cream",
+        "name": "Grido"
+      }
+    },
+    {
+      "displayName": "Grom",
+      "id": "grom-48073a",
+      "locationSet": {
+        "include": [
+          "cn",
+          "cz",
+          "fr",
+          "gb",
+          "id",
+          "it",
+          "pt"
+        ]
+      },
+      "matchNames": [
+        "grom gelaterie artigianali",
+        "grom gelato"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Grom",
+        "brand:wikidata": "Q3776892",
+        "cuisine": "ice_cream",
+        "name": "Grom",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Grycan",
+      "id": "grycan-944e1d",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Grycan",
+        "brand:wikidata": "Q97372889",
+        "name": "Grycan"
+      }
+    },
+    {
+      "displayName": "Häagen-Dazs",
+      "id": "haagendazs-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Häagen-Dazs",
+        "brand:wikidata": "Q1143333",
+        "name": "Häagen-Dazs"
+      }
+    },
+    {
+      "displayName": "Handel's Homemade Ice Cream",
+      "id": "handelshomemadeicecream-8697a4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["handel's ice cream"],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Handel's Homemade Ice Cream",
+        "brand:wikidata": "Q16983222",
+        "name": "Handel's Homemade Ice Cream",
+        "short_name": "Handel's"
+      }
+    },
+    {
+      "displayName": "Jeni's Splendid Ice Cream",
+      "id": "jenissplendidicecreams-53b2e0",
+      "locationSet": {
+        "include": [
+          "us-al.geojson",
+          "us-ca.geojson",
+          "us-dc.geojson",
+          "us-fl.geojson",
+          "us-ga.geojson",
+          "us-il.geojson",
+          "us-mo.geojson",
+          "us-nc.geojson",
+          "us-oh.geojson",
+          "us-pa.geojson",
+          "us-sc.geojson",
+          "us-tn.geojson",
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Jeni's Splendid Ice Creams",
+        "brand:wikidata": "Q16851196",
+        "name": "Jeni's Splendid Ice Creams",
+        "short_name": "Jeni's"
+      }
+    },
+    {
+      "displayName": "Jijonenca",
+      "id": "jijonenca-f20d3f",
+      "locationSet": {"include": ["ad", "es"]},
+      "matchNames": [
+        "heladería jijonenca",
+        "la jijonenca",
+        "la xixonenca",
+        "xixonenca"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Jijonenca",
+        "brand:wikidata": "Q109332228",
+        "name": "Jijonenca"
+      }
+    },
+    {
+      "displayName": "La Michoacana",
+      "id": "lamichoacana-7f1444",
+      "locationSet": {"include": ["mx"]},
+      "matchNames": ["paleteria la michoacana"],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "La Michoacana",
+        "brand:wikidata": "Q17118857",
+        "name": "La Michoacana"
+      }
+    },
+    {
+      "displayName": "Llaollao",
+      "id": "llaollao-dd9462",
+      "locationSet": {
+        "include": [
+          "au",
+          "ch",
+          "cl",
+          "co",
+          "ec",
+          "es",
+          "fr",
+          "gt",
+          "hr",
+          "id",
+          "iq",
+          "kw",
+          "ma",
+          "my",
+          "ph",
+          "pt",
+          "sa",
+          "sg",
+          "si",
+          "sv",
+          "us",
+          "vn"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Llaollao",
+        "brand:wikidata": "Q12163048",
+        "cuisine": "frozen_yogurt",
+        "name": "Llaollao"
+      }
+    },
+    {
+      "displayName": "Luciano",
+      "id": "luciano-e6af0f",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Luciano",
+        "brand:wikidata": "Q23978250",
+        "name": "Luciano"
+      }
+    },
+    {
+      "displayName": "Marble Slab Creamery",
+      "id": "marbleslabcreamery-5880a0",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Marble Slab Creamery",
+        "brand:wikidata": "Q17020087",
+        "cuisine": "ice_cream",
+        "name": "Marble Slab Creamery"
+      }
+    },
+    {
+      "displayName": "Menchie's",
+      "id": "menchies-411174",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "bs",
+          "ca",
+          "cn",
+          "gb",
+          "in",
+          "jp",
+          "kw",
+          "qa",
+          "sa",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "menchie's frozen yoghurt",
+        "menchie's frozen yogurt"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Menchie's",
+        "brand:wikidata": "Q6816528",
+        "cuisine": "frozen_yogurt",
+        "name": "Menchie's"
+      }
+    },
+    {
+      "displayName": "Messina",
+      "id": "messina-e699dd",
+      "locationSet": {"include": ["au"]},
+      "matchNames": ["gelato messina"],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Messina",
+        "brand:wikidata": "Q120668671",
+        "cuisine": "ice_cream",
+        "name": "Messina"
+      }
+    },
+    {
+      "displayName": "Naturals",
+      "id": "naturals-c284d9",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Naturals",
+        "brand:wikidata": "Q24439154",
+        "cuisine": "ice_cream",
+        "name": "Naturals"
+      }
+    },
+    {
+      "displayName": "Nutrisa",
+      "id": "nutrisa-7f1444",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Nutrisa",
+        "brand:wikidata": "Q113204689",
+        "name": "Nutrisa"
+      }
+    },
+    {
+      "displayName": "Oggi Sorvetes",
+      "id": "oggisorvetes-9359b6",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Oggi Sorvetes",
+        "brand:wikidata": "Q118946030",
+        "name": "Oggi Sorvetes"
+      }
+    },
+    {
+      "displayName": "Orange Leaf",
+      "id": "orangeleaffrozenyogurt-4cfb80",
+      "locationSet": {
+        "include": ["au", "cn", "us"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Orange Leaf Frozen Yogurt",
+        "brand:wikidata": "Q18155467",
+        "cuisine": "ice_cream",
+        "name": "Orange Leaf Frozen Yogurt"
+      }
+    },
+    {
+      "displayName": "Peachwave",
+      "id": "peachwave-8697a4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "peachwave frozen yogurt & gelato",
+        "peachwave self serve frozen yogurt"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Peachwave",
+        "brand:wikidata": "Q109329113",
+        "cuisine": "frozen_yogurt",
+        "name": "Peachwave"
+      }
+    },
+    {
+      "displayName": "Pinkberry",
+      "id": "pinkberry-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Pinkberry",
+        "brand:wikidata": "Q2904053",
+        "cuisine": "frozen_yogurt",
+        "name": "Pinkberry",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Pops",
+      "id": "pops-74244e",
+      "locationSet": {"include": ["cr"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Pops",
+        "brand:wikidata": "Q119104181",
+        "name": "Pops"
+      }
+    },
+    {
+      "displayName": "Popsy",
+      "id": "popsy-d81526",
+      "locationSet": {"include": ["co"]},
+      "matchNames": [
+        "heladeria popsi",
+        "heladeria popsy",
+        "popsi",
+        "potsi"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Popsy",
+        "brand:wikidata": "Q100156171",
+        "cuisine": "ice_cream",
+        "name": "Popsy",
+        "official_name": "Helados Gourmet Popsy",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Ralph's Italian Ices",
+      "id": "ralphsitalianices-8697a4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "ralphs famous italian ices and ice cream",
+        "ralphs italian ice",
+        "ralphs italian ices and ice cream"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Ralph's Italian Ices",
+        "brand:wikidata": "Q62576909",
+        "cuisine": "ice_cream",
+        "name": "Ralph's Italian Ices",
+        "official_name": "Ralph's Famous Italian Ices"
+      }
+    },
+    {
+      "displayName": "Red Mango",
+      "id": "redmango-73fcc9",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "eg",
+          "kw",
+          "mx",
+          "qa",
+          "sa",
+          "sv",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Red Mango",
+        "brand:wikidata": "Q7304565",
+        "name": "Red Mango"
+      }
+    },
+    {
+      "displayName": "Regma",
+      "id": "regma-2a89e9",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Regma",
+        "brand:wikidata": "Q108135319",
+        "cuisine": "ice_cream",
+        "name": "Regma"
+      }
+    },
+    {
+      "displayName": "Rita's Italian Ice",
+      "id": "ritasitalianice-8697a4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "rita's italian ice & frozen custard",
+        "ritas",
+        "ritas water ice"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Rita's Italian Ice",
+        "brand:wikidata": "Q7336456",
+        "cuisine": "ice_cream",
+        "name": "Rita's Italian Ice"
+      }
+    },
+    {
+      "displayName": "Salt & Straw",
+      "id": "saltandstraw-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Salt & Straw",
+        "brand:wikidata": "Q18157659",
+        "name": "Salt & Straw"
+      }
+    },
+    {
+      "displayName": "Shake's",
+      "id": "shakes-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Shake's",
+        "brand:wikidata": "Q17032842",
+        "name": "Shake's",
+        "official_name": "Shake’s Frozen Custard"
+      }
+    },
+    {
+      "displayName": "smöoy",
+      "id": "smooy-bac155",
+      "locationSet": {
+        "include": [
+          "ao",
+          "ci",
+          "cn",
+          "dz",
+          "ec",
+          "es",
+          "fr",
+          "gb",
+          "gn",
+          "it",
+          "ma",
+          "pa",
+          "pe",
+          "pt",
+          "re",
+          "sa"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "smöoy",
+        "brand:wikidata": "Q21573945",
+        "name": "smöoy",
+        "official_name": "Softy Cream"
+      }
+    },
+    {
+      "displayName": "SomiSomi",
+      "id": "somisomi-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "SomiSomi",
+        "brand:wikidata": "Q104879354",
+        "cuisine": "soft_serve;taiyaki;bungeoppang",
+        "name": "SomiSomi",
+        "official_name": "SomiSomi Soft Serve & Taiyaki"
+      }
+    },
+    {
+      "displayName": "Sub Zero",
+      "id": "subzero-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Sub Zero",
+        "brand:wikidata": "Q108413623",
+        "name": "Sub Zero",
+        "official_name": "Sub Zero Nitrogen Ice Cream"
+      }
+    },
+    {
+      "displayName": "sweetFrog",
+      "id": "sweetfrog-8697a4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "sweetfrog frozen yogurt",
+        "sweetfrog premium frozen yogurt"
+      ],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "sweetFrog",
+        "brand:wikidata": "Q16952110",
+        "cuisine": "frozen_yogurt",
+        "name": "sweetFrog"
+      }
+    },
+    {
+      "displayName": "TCBY",
+      "id": "tcby-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "TCBY",
+        "brand:wikidata": "Q7669631",
+        "cuisine": "frozen_yogurt",
+        "name": "TCBY",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "The Baked Bear",
+      "id": "thebakedbear-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "The Baked Bear",
+        "brand:wikidata": "Q110714390",
+        "cuisine": "ice_cream",
+        "name": "The Baked Bear",
+        "short_name": "Baked Bear",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Toscana",
+      "id": "toscana-e6af0f",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Toscana",
+        "brand:wikidata": "Q92555442",
+        "name": "Toscana"
+      }
+    },
+    {
+      "displayName": "Twistee Treat",
+      "id": "twisteetreat-a9be0b",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Twistee Treat",
+        "brand:wikidata": "Q7858562",
+        "name": "Twistee Treat"
+      }
+    },
+    {
+      "displayName": "Van Leeuwen Ice Cream",
+      "id": "vanleeuwenicecream-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Van Leeuwen Ice Cream",
+        "brand:wikidata": "Q113632545",
+        "diet:vegan": "yes",
+        "name": "Van Leeuwen Ice Cream",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Veganista",
+      "id": "veganista-131346",
+      "locationSet": {"include": ["at"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Veganista",
+        "brand:wikidata": "Q106351886",
+        "diet:vegan": "only",
+        "name": "Veganista"
+      }
+    },
+    {
+      "displayName": "Yogen Früz",
+      "id": "yogenfruz-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogen Früz",
+        "brand:wikidata": "Q8054358",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogen Früz",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Yogurt Factory",
+      "id": "yogurtfactory-321c46",
+      "locationSet": {
+        "include": ["be", "fr", "lu"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogurt Factory",
+        "brand:wikidata": "Q104600544",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogurt Factory",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Yogurt Mountain",
+      "id": "yogurtmountain-8697a4",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogurt Mountain",
+        "brand:wikidata": "Q8054427",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogurt Mountain",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Yogurtland",
+      "id": "yogurtland-4111ef",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "bh",
+          "kw",
+          "mm",
+          "qa",
+          "sa",
+          "sg",
+          "th",
+          "us",
+          "ve"
+        ]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yogurtland",
+        "brand:wikidata": "Q8054428",
+        "cuisine": "frozen_yogurt",
+        "name": "Yogurtland",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Yumilicious",
+      "id": "yumilicious-0da7a6",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yumilicious",
+        "brand:wikidata": "Q8061133",
+        "cuisine": "frozen_yogurt",
+        "name": "Yumilicious",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Славица",
+      "id": "slavica-ee0efa",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Славица",
+        "name": "Славица",
+        "name:en": "Slavica"
+      }
+    },
+    {
+      "displayName": "サーティワンアイスクリーム",
+      "id": "baskinrobbins-7ba154",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["31アイスクリーム", "サーティーワン"],
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "バスキン・ロビンス",
+        "brand:en": "Baskin-Robbins",
+        "brand:ja": "バスキン・ロビンス",
+        "brand:wikidata": "Q584601",
+        "cuisine": "ice_cream",
+        "name": "サーティワンアイスクリーム",
+        "name:en": "Baskin-Robbins",
+        "name:ja": "サーティワンアイスクリーム"
+      }
+    },
+    {
+      "displayName": "鮮芋仙",
+      "id": "meetfresh-cc8b8b",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "鮮芋仙",
+        "brand:en": "Meet Fresh",
+        "brand:wikidata": "Q11172707",
+        "brand:zh": "鮮芋仙",
+        "cuisine": "taiwanese",
+        "name": "鮮芋仙",
+        "name:en": "Meet Fresh",
+        "name:zh": "鮮芋仙"
+      }
+    },
+    {
+      "displayName": "鮮芋仙 Meet Fresh",
+      "id": "meetfresh-cccbe8",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "鮮芋仙 Meet Fresh",
+        "brand:en": "Meet Fresh",
+        "brand:wikidata": "Q11172707",
+        "brand:zh": "鮮芋仙",
+        "cuisine": "taiwanese",
+        "name": "鮮芋仙 Meet Fresh",
+        "name:en": "Meet Fresh",
+        "name:zh": "鮮芋仙"
+      }
+    },
+    {
+      "displayName": "鲜芋仙",
+      "id": "meetfresh-136fc8",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "鲜芋仙",
+        "brand:en": "Meet Fresh",
+        "brand:wikidata": "Q11172707",
+        "brand:zh": "鲜芋仙",
+        "cuisine": "taiwanese",
+        "name": "鲜芋仙",
+        "name:en": "Meet Fresh",
+        "name:zh": "鲜芋仙"
+      }
+    },
+    {
+      "displayName": "麦甜艾斯",
+      "id": "myteaice-460b92",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "麦甜艾斯",
+        "brand:en": "My-Teaice",
+        "brand:wikidata": "Q111744761",
+        "brand:zh": "麦甜艾斯",
+        "cuisine": "ice_cream",
+        "name": "麦甜艾斯",
+        "name:en": "My-Teaice",
+        "name:zh": "麦甜艾斯"
+      }
+    }
+  ]
+}

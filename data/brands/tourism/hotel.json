@@ -1,0 +1,4043 @@
+{
+  "properties": {
+    "path": "brands/tourism/hotel",
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": [
+        "^(commercial )?hotel$",
+        "^hospedaje$",
+        "^гостиница$"
+      ],
+      "named": [
+        "^(h[oô]tel )?((zur )?post|de france|de la gare|строитель)$",
+        "^(h[oô]tel )?(astoria|belvedere|central|city|colonial|continental|europa)\\s?(h[oô]tel)?$",
+        "^(h[oô]tel )?(grand|imperial|krone|palace|panorama|park|plaza|royal|victoria)\\s?(h[oô]tel)?$",
+        "^(酒店|旅馆)$",
+        "^budget inn$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "7天酒店",
+      "id": "7daysinn-af4cd2",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["7天快捷酒店"],
+      "tags": {
+        "brand": "7天酒店",
+        "brand:en": "7 Days Inn",
+        "brand:wikidata": "Q4643844",
+        "brand:zh": "7天酒店",
+        "name": "7天酒店",
+        "name:en": "7 Days Inn",
+        "name:zh": "7天酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "A&O",
+      "id": "aando-7ebc01",
+      "locationSet": {
+        "include": [
+          "at",
+          "cz",
+          "de",
+          "dk",
+          "gb",
+          "hu",
+          "it",
+          "nl",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "A&O",
+        "brand:wikidata": "Q15890910",
+        "name": "A&O",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "AC Hotel",
+      "id": "achotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "AC Hotel",
+        "brand:wikidata": "Q5653536",
+        "name": "AC Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Accor",
+      "id": "accor-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Accor",
+        "brand:wikidata": "Q212599",
+        "name": "Accor",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Adagio",
+      "id": "adagio-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Adagio",
+        "brand:wikidata": "Q2823880",
+        "name": "Adagio",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Adina Hotels",
+      "id": "adinaapartmenthotel-a6b67a",
+      "locationSet": {
+        "include": [
+          "at",
+          "au",
+          "ch",
+          "de",
+          "dk",
+          "hu",
+          "nz",
+          "sg"
+        ]
+      },
+      "matchNames": ["adina"],
+      "tags": {
+        "brand": "Adina Hotels",
+        "brand:wikidata": "Q50406079",
+        "name": "Adina Apartment Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Aiden by Best Western",
+      "id": "aiden-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["aiden hotel"],
+      "tags": {
+        "brand": "Aiden",
+        "brand:wikidata": "Q830334",
+        "name": "Aiden",
+        "official_name": "Aiden by Best Western",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Akena",
+      "id": "akena-612c69",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Akena",
+        "brand:wikidata": "Q101848499",
+        "name": "Akena",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "ALH Hotels",
+      "id": "alhhotels-dfe3ab",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "ALH Hotels",
+        "brand:wikidata": "Q119159708",
+        "name": "ALH Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Alila",
+      "id": "alila-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Alila",
+        "brand:wikidata": "Q12471508",
+        "name": "Alila",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Allegro Hotels",
+      "id": "allegrohotels-ba2369",
+      "locationSet": {
+        "include": ["cu", "es", "ma", "mx", "pt"]
+      },
+      "tags": {
+        "brand": "Allegro Hotels",
+        "brand:wikidata": "Q15148996",
+        "name": "Allegro Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Aloft",
+      "id": "aloft-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Aloft",
+        "brand:wikidata": "Q4734166",
+        "name": "Aloft",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "AmericInn",
+      "id": "americinn-6ac210",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "americinn lodge and suites"
+      ],
+      "tags": {
+        "brand": "AmericInn",
+        "brand:wikidata": "Q4742493",
+        "name": "AmericInn",
+        "official_name": "AmericInn by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Anantara",
+      "id": "anantara-e8534c",
+      "locationSet": {
+        "include": [
+          "ae",
+          "br",
+          "cn",
+          "es",
+          "fr",
+          "hu",
+          "id",
+          "ie",
+          "it",
+          "kh",
+          "mu",
+          "mv",
+          "my",
+          "mz",
+          "nl",
+          "om",
+          "pt",
+          "qa",
+          "sc",
+          "th",
+          "tn",
+          "vn",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "Anantara",
+        "brand:wikidata": "Q112671781",
+        "name": "Anantara",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "ANdAZ",
+      "id": "andaz-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "ANdAZ",
+        "brand:wikidata": "Q48836304",
+        "name": "ANdAZ",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Appart'City",
+      "id": "appartcity-9faf0b",
+      "locationSet": {
+        "include": ["be", "ch", "fr", "lu"]
+      },
+      "tags": {
+        "brand": "Appart'City",
+        "brand:wikidata": "Q101850226",
+        "name": "Appart'City",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Ascend Hotel Collection",
+      "id": "ascendhotelcollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ascend Hotel Collection",
+        "brand:wikidata": "Q113152464",
+        "name": "Ascend Hotel Collection",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Atura Hotels",
+      "id": "aturahotels-a311b9",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Atura Hotels",
+        "brand:wikidata": "Q110168350",
+        "name": "Atura Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Autograph Collection",
+      "id": "autographcollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Autograph Collection",
+        "brand:wikidata": "Q19872869",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "AVANI",
+      "id": "avanihotelsandresorts-e9c192",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "bw",
+          "id",
+          "kh",
+          "kr",
+          "la",
+          "lk",
+          "ls",
+          "my",
+          "mz",
+          "na",
+          "nz",
+          "om",
+          "pt",
+          "sc",
+          "th",
+          "vn",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "Avani Hotels & Resorts",
+        "brand:wikidata": "Q48989823",
+        "name": "Avani Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "avid Hotel",
+      "id": "avidhotel-29a1d7",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "brand": "avid Hotel",
+        "brand:wikidata": "Q60749907",
+        "name": "avid Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Ayenda",
+      "id": "ayenda-a895b0",
+      "locationSet": {
+        "include": ["co", "mx", "pe"]
+      },
+      "tags": {
+        "brand": "Ayenda",
+        "brand:wikidata": "Q122723982",
+        "name": "Ayenda",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "B&B Hotel",
+      "id": "bandbhotel-fc8c2c",
+      "locationSet": {"include": ["150", "br"]},
+      "tags": {
+        "brand": "B&B Hotels",
+        "brand:wikidata": "Q794939",
+        "name": "B&B Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Balladins",
+      "id": "balladins-612c69",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Balladins",
+        "brand:wikidata": "Q2881119",
+        "name": "Balladins",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Barceló",
+      "id": "barcelohotelsandresorts-302c40",
+      "locationSet": {
+        "include": [
+          "ae",
+          "aw",
+          "bg",
+          "cr",
+          "cu",
+          "cz",
+          "de",
+          "do",
+          "eg",
+          "es",
+          "gr",
+          "gt",
+          "hu",
+          "it",
+          "ma",
+          "mv",
+          "mx",
+          "ni",
+          "om",
+          "pt",
+          "sv",
+          "tn",
+          "tr",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Barceló Hotels & Resorts",
+        "brand:wikidata": "Q15148996",
+        "name": "Barceló Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Bastion Hotel",
+      "id": "bastionhotel-a4f814",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["bastion"],
+      "tags": {
+        "brand": "Bastion Hotel",
+        "brand:wikidata": "Q2356460",
+        "name": "Bastion Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Baymont",
+      "id": "baymont-29a1d7",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "matchNames": [
+        "baymont inn",
+        "baymont inn & suites"
+      ],
+      "tags": {
+        "brand": "Baymont",
+        "brand:wikidata": "Q4874634",
+        "name": "Baymont",
+        "official_name": "Baymont by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Bellevue",
+      "id": "bellevue-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Bellevue",
+        "name": "Bellevue",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Belmond",
+      "id": "belmond-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Belmond",
+        "brand:wikidata": "Q4045977",
+        "name": "Belmond",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Best Western",
+      "id": "bestwestern-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "best western hotels & resorts"
+      ],
+      "tags": {
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "name": "Best Western",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Best Western Plus",
+      "id": "bestwesternplus-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Best Western Plus",
+        "brand:wikidata": "Q830334",
+        "name": "Best Western Plus",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Best Western Premier",
+      "id": "bestwesternpremier-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Best Western Premier",
+        "brand:wikidata": "Q830334",
+        "name": "Best Western Premier",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Boarders",
+      "id": "boardersbycobblestone-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Boarders by Cobblestone",
+        "brand:wikidata": "Q20711084",
+        "name": "Boarders by Cobblestone",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Brit Hotel",
+      "id": "brithotel-89858b",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Brit Hotel",
+        "brand:wikidata": "Q2925673",
+        "name": "Brit Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Bulgari",
+      "id": "bulgari-a1f85a",
+      "locationSet": {
+        "include": [
+          "ae",
+          "cn",
+          "fx",
+          "gb-eng",
+          "id",
+          "it",
+          "jp",
+          "ru",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Bulgari",
+        "brand:wikidata": "Q752515",
+        "name": "Bulgari",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "BW Premier Collection",
+      "id": "bwpremiercollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "BW Premier Collection",
+        "brand:wikidata": "Q830334",
+        "name": "BW Premier Collection",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "BW Signature Collection",
+      "id": "bwsignaturecollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "BW Signature Collection",
+        "brand:wikidata": "Q830334",
+        "name": "BW Signature Collection",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Cambria Hotel",
+      "id": "cambriahotel-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Cambria Hotel",
+        "brand:wikidata": "Q113152476",
+        "name": "Cambria Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Campanile",
+      "id": "campanile-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Campanile",
+        "brand:wikidata": "Q2412064",
+        "name": "Campanile",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Candlewood Suites",
+      "id": "candlewoodsuites-29a1d7",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Candlewood Suites",
+        "brand:wikidata": "Q5032010",
+        "name": "Candlewood Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Canopy",
+      "id": "canopy-523ceb",
+      "locationSet": {
+        "include": [
+          "ae",
+          "br",
+          "cn",
+          "es",
+          "fx",
+          "gb-eng",
+          "hr",
+          "is",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Canopy",
+        "brand:wikidata": "Q30632909",
+        "name": "Canopy",
+        "official_name": "Canopy by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Centerstone",
+      "id": "centerstone-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Centerstone",
+        "brand:wikidata": "Q20711084",
+        "name": "Centerstone",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Centro Hotels",
+      "id": "centrohotel-2d87b5",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Centro Hotels",
+        "brand:wikidata": "Q73645443",
+        "name": "Centro Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "citizenM",
+      "id": "citizenm-b4d29c",
+      "locationSet": {
+        "include": [
+          "ch",
+          "dk",
+          "fr",
+          "gb",
+          "it",
+          "my",
+          "nl",
+          "tw",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "citizenM",
+        "brand:wikidata": "Q5122531",
+        "name": "citizenM",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "City Express",
+      "id": "cityexpress-c4ac5a",
+      "locationSet": {
+        "include": ["cl", "co", "cr", "mx"]
+      },
+      "tags": {
+        "brand": "City Express",
+        "brand:wikidata": "Q109329542",
+        "name": "City Express",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Clarion",
+      "id": "clarion-f371eb",
+      "locationSet": {
+        "include": ["dk", "fi", "no", "se", "us"]
+      },
+      "tags": {
+        "brand": "Clarion",
+        "brand:wikidata": "Q10454567",
+        "name": "Clarion",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Clarion Pointe",
+      "id": "clarionpointe-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Clarion Pointe",
+        "brand:wikidata": "Q1075788",
+        "name": "Clarion Pointe",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Club Med",
+      "id": "clubmed-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Club Med",
+        "brand:wikidata": "Q1076645",
+        "name": "Club Med",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Club Wyndham",
+      "id": "clubwyndham-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Club Wyndham",
+        "brand:wikidata": "Q112144845",
+        "name": "Club Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Cobblestone Hotel & Suites",
+      "id": "cobblestonehotelandsuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Cobblestone Hotels",
+        "brand:wikidata": "Q20711084",
+        "name": "Cobblestone Hotel & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Cobblestone Inn & Suites",
+      "id": "cobblestoneinnandsuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Cobblestone Inn & Suites",
+        "brand:wikidata": "Q20711084",
+        "name": "Cobblestone Inn & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Comfort Inn",
+      "id": "comfortinn-134d5e",
+      "locationSet": {
+        "include": ["ca", "gb", "us"]
+      },
+      "tags": {
+        "brand": "Comfort Inn",
+        "brand:wikidata": "Q113152349",
+        "name": "Comfort Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Comfort Inn & Suites",
+      "id": "comfortinnandsuites-cf4e07",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Comfort Inn & Suites",
+        "brand:wikidata": "Q113152349",
+        "name": "Comfort Inn & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Comfort Suites",
+      "id": "comfortsuites-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Comfort Suites",
+        "brand:wikidata": "Q55525150",
+        "name": "Comfort Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Conrad Hotels & Resorts",
+      "id": "conrad-ee1a43",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ca",
+          "cn",
+          "eg",
+          "gb-eng",
+          "id",
+          "ie",
+          "in",
+          "jp",
+          "kr",
+          "mv",
+          "pf",
+          "ph",
+          "pt",
+          "sa",
+          "sg",
+          "th",
+          "tr",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Conrad",
+        "brand:wikidata": "Q855525",
+        "name": "Conrad",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Country Inn & Suites",
+      "id": "countryinnandsuites-aef9ff",
+      "locationSet": {
+        "include": ["ca", "in", "us"]
+      },
+      "tags": {
+        "brand": "Country Inn & Suites",
+        "brand:wikidata": "Q5177332",
+        "name": "Country Inn & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Courtyard",
+      "id": "courtyard-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["courtyard marriott"],
+      "tags": {
+        "brand": "Courtyard",
+        "brand:wikidata": "Q1053170",
+        "name": "Courtyard",
+        "official_name": "Courtyard by Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Crowne Plaza",
+      "id": "crowneplaza-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Crowne Plaza",
+        "brand:wikidata": "Q2746220",
+        "name": "Crowne Plaza",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Curio Collection by Hilton",
+      "id": "curiocollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "curio collection by hilton"
+      ],
+      "tags": {
+        "brand": "Curio Collection",
+        "brand:wikidata": "Q19903229",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Days Inn",
+      "id": "daysinn-a89235",
+      "locationSet": {
+        "include": [
+          "ca",
+          "ch",
+          "gb",
+          "id",
+          "in",
+          "kr",
+          "mx",
+          "my",
+          "ph",
+          "sg",
+          "sn",
+          "th",
+          "us"
+        ]
+      },
+      "matchNames": ["days inn by wyndham"],
+      "tags": {
+        "brand": "Days Inn",
+        "brand:wikidata": "Q1047239",
+        "name": "Days Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Delta Hotels",
+      "id": "deltahotels-c8d055",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ca",
+          "cn",
+          "de",
+          "gb",
+          "tr",
+          "us"
+        ]
+      },
+      "matchNames": ["delta"],
+      "tags": {
+        "brand": "Delta Hotels",
+        "brand:wikidata": "Q5254663",
+        "name": "Delta Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Design Hotels",
+      "id": "designhotels-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Design Hotels",
+        "brand:wikidata": "Q5264274",
+        "name": "Design Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Destination by Hyatt",
+      "id": "destinationbyhyatt-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Destination by Hyatt",
+        "brand:wikidata": "Q5265133",
+        "name": "Destination by Hyatt",
+        "official_name": "Destination Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Diamond Resorts",
+      "id": "diamondresorts-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Diamond Resorts",
+        "brand:wikidata": "Q5270905",
+        "name": "Diamond Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Dorint",
+      "id": "dorint-be5b30",
+      "locationSet": {
+        "include": ["at", "ch", "de"]
+      },
+      "tags": {
+        "brand": "Dorint",
+        "brand:wikidata": "Q1700015",
+        "name": "Dorint",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "DoubleTree",
+      "id": "doubletree-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "DoubleTree",
+        "brand:wikidata": "Q2504643",
+        "name": "DoubleTree",
+        "official_name": "DoubleTree by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Drury Inn & Suites",
+      "id": "druryinnandsuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Drury Inn & Suites",
+        "brand:wikidata": "Q5309391",
+        "name": "Drury Inn & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "easyHotel",
+      "id": "easyhotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "easyHotel",
+        "brand:wikidata": "Q17011598",
+        "name": "easyHotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Edition",
+      "id": "edition-24940c",
+      "locationSet": {
+        "include": [
+          "ae",
+          "cn",
+          "es",
+          "gb-eng",
+          "is",
+          "it",
+          "jp",
+          "mx",
+          "my",
+          "qa",
+          "sg",
+          "tr",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Edition",
+        "brand:wikidata": "Q91218404",
+        "name": "Edition",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Eko Hotels and Suites",
+      "id": "ekohotels-3e7857",
+      "locationSet": {"include": ["ng"]},
+      "tags": {
+        "brand": "Eko Hotels and Suites",
+        "brand:wikidata": "Q23777901",
+        "name": "Eko Hotels",
+        "official_name": "Eko Hotels and Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Element by Westin",
+      "id": "element-6dd642",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "ca",
+          "cn",
+          "id",
+          "my",
+          "nl",
+          "tz",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Element",
+        "brand:wikidata": "Q91948072",
+        "name": "Element",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Embassy Suites",
+      "id": "embassysuites-7ef1cc",
+      "locationSet": {
+        "include": [
+          "aw",
+          "ca",
+          "co",
+          "do",
+          "pr",
+          "qa",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Embassy Suites",
+        "brand:wikidata": "Q5369524",
+        "name": "Embassy Suites",
+        "official_name": "Embassy Suites by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "EVEN Hotels",
+      "id": "evenhotel-a857f2",
+      "locationSet": {"include": ["cn", "us"]},
+      "tags": {
+        "brand": "EVEN Hotels",
+        "brand:wikidata": "Q5416522",
+        "name": "EVEN Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Extended Stay America",
+      "id": "extendedstayamerica-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Extended Stay America",
+        "brand:wikidata": "Q5421850",
+        "name": "Extended Stay America",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "FabHotels",
+      "id": "fabhotels-b22a38",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "FabHotels",
+        "brand:wikidata": "Q55611387",
+        "name": "FabHotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Fairfield Inn",
+      "id": "fairfieldinn-b80dae",
+      "locationSet": {
+        "include": [
+          "ca",
+          "cn",
+          "id",
+          "in",
+          "jp",
+          "kr",
+          "mx",
+          "my",
+          "sv",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Fairfield Inn",
+        "brand:wikidata": "Q5430314",
+        "name": "Fairfield Inn",
+        "official_name": "Fairfield by Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Fairfield Inn & Suites",
+      "id": "fairfieldinnandsuites-29a1d7",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Fairfield Inn & Suites",
+        "brand:wikidata": "Q5430314",
+        "name": "Fairfield Inn & Suites",
+        "official_name": "Fairfield Inn & Suites by Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Fairmont",
+      "id": "fairmont-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Fairmont",
+        "brand:wikidata": "Q1393345",
+        "name": "Fairmont",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Fasthôtel",
+      "id": "fasthotel-612c69",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Fasthôtel",
+        "brand:wikidata": "Q101847437",
+        "name": "Fasthôtel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "First Hotels",
+      "id": "firsthotels-ed076a",
+      "locationSet": {
+        "include": ["dk", "no", "se"]
+      },
+      "tags": {
+        "brand": "First Hotels",
+        "brand:wikidata": "Q11969007",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Fletcher Hotel",
+      "id": "fletcherhotel-a4f814",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Fletcher Hotel",
+        "brand:wikidata": "Q67203020",
+        "name": "Fletcher Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Formule 1",
+      "id": "formule1-612c69",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Formule 1",
+        "brand:wikidata": "Q1630895",
+        "name": "Formule 1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Four Points by Sheraton",
+      "id": "fourpointsbysheraton-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Four Points by Sheraton",
+        "brand:wikidata": "Q1439966",
+        "name": "Four Points by Sheraton",
+        "short_name": "Four Points",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Four Seasons",
+      "id": "fourseasons-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Four Seasons",
+        "brand:wikidata": "Q1424786",
+        "name": "Four Seasons",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Fuller's",
+      "id": "fullers-3fca16",
+      "locationSet": {"include": ["gb"]},
+      "note": "No name for Fuller's brand as each hotel is named differently.",
+      "tags": {
+        "brand": "Fuller's",
+        "brand:wikidata": "Q5253950",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Gaylord",
+      "id": "gaylord-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Gaylord",
+        "brand:wikidata": "Q3099664",
+        "name": "Gaylord",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "GLō",
+      "id": "glo-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Glo",
+        "brand:wikidata": "Q830334",
+        "name": "Glo",
+        "official_name": "Glo Best Western",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Graduate",
+      "id": "graduate-7e47e0",
+      "locationSet": {"include": ["gb", "us"]},
+      "tags": {
+        "brand": "Graduate",
+        "brand:wikidata": "Q85846030",
+        "name": "Graduate",
+        "official_name": "Graduate Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Grand Hyatt",
+      "id": "grandhyatt-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Grand Hyatt",
+        "brand:wikidata": "Q1425063",
+        "name": "Grand Hyatt",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Greene King",
+      "id": "greeneking-3fca16",
+      "locationSet": {"include": ["gb"]},
+      "note": "No name for Greene King's brand as each hotel is named differently.",
+      "tags": {
+        "brand": "Greene King",
+        "brand:wikidata": "Q5564162",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "greet",
+      "id": "greet-046fe6",
+      "locationSet": {"include": ["150"]},
+      "tags": {
+        "brand": "greet",
+        "brand:wikidata": "Q115489066",
+        "name": "Greet",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Grupo Barceló",
+      "id": "grupobarcelo-a464b1",
+      "locationSet": {"include": ["es", "us"]},
+      "tags": {
+        "brand": "Grupo Barceló",
+        "brand:wikidata": "Q15148996",
+        "name": "Grupo Barceló",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hampton",
+      "id": "hampton-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "alt_name": "Hampton Inn",
+        "brand": "Hampton",
+        "brand:wikidata": "Q5646230",
+        "name": "Hampton",
+        "official_name": "Hampton by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hampton Inn & Suites",
+      "id": "hamptoninnandsuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Hampton Inn & Suites",
+        "brand:wikidata": "Q5646230",
+        "name": "Hampton Inn & Suites",
+        "official_name": "Hampton Inn & Suites by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hard Rock Hotel",
+      "id": "hardrockhotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hard Rock Hotel",
+        "brand:wikidata": "Q109275902",
+        "name": "Hard Rock Hotel",
+        "official_name": "Hard Rock Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hawthorn Suites",
+      "id": "hawthornsuites-1591e1",
+      "locationSet": {
+        "include": [
+          "ae",
+          "in",
+          "ng",
+          "sa",
+          "tr",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Hawthorn Suites",
+        "brand:wikidata": "Q5685511",
+        "name": "Hawthorn Suites",
+        "official_name": "Hawthorn Suites by Wyndham",
+        "short_name": "Hawthorn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "HF Hotels",
+      "id": "hf-599262",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "brand": "HF Hotels",
+        "brand:wikidata": "Q112650431",
+        "name": "HF",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hilton",
+      "id": "hilton-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["hilton hotels & resorts"],
+      "matchTags": ["leisure/resort"],
+      "tags": {
+        "brand": "Hilton",
+        "brand:wikidata": "Q598884",
+        "name": "Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hilton Garden Inn",
+      "id": "hiltongardeninn-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hilton Garden Inn",
+        "brand:wikidata": "Q1162859",
+        "name": "Hilton Garden Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hilton Grand Vacations",
+      "id": "hiltongrandvacations-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hilton Grand Vacations",
+        "brand:wikidata": "Q13636126",
+        "name": "Hilton Grand Vacations",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Holiday Inn",
+      "id": "holidayinn-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Holiday Inn",
+        "brand:wikidata": "Q2717882",
+        "name": "Holiday Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Holiday Inn Club Vacations",
+      "id": "holidayinnclubvacations-27a8cb",
+      "locationSet": {"include": ["mx", "us"]},
+      "tags": {
+        "brand": "Holiday Inn Club Vacations",
+        "brand:wikidata": "Q111485843",
+        "name": "Holiday Inn Club Vacations",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Holiday Inn Express",
+      "id": "holidayinnexpress-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Holiday Inn Express",
+        "brand:wikidata": "Q5880423",
+        "name": "Holiday Inn Express",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Holiday Inn Express & Suites",
+      "id": "holidayinnexpressandsuites-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Holiday Inn Express & Suites",
+        "brand:wikidata": "Q5880423",
+        "name": "Holiday Inn Express & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Home2 Suites",
+      "id": "home2suites-8729f6",
+      "locationSet": {
+        "include": ["ca", "cn", "mx", "us"]
+      },
+      "matchNames": ["home2"],
+      "tags": {
+        "brand": "Home2 Suites",
+        "brand:wikidata": "Q5887912",
+        "name": "Home2 Suites",
+        "official_name": "Home2 Suites by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Homes & Villas by Marriott",
+      "id": "homesandvillas-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Homes & Villas",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Homewood Suites",
+      "id": "homewoodsuites-a1b516",
+      "locationSet": {
+        "include": ["ca", "do", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Homewood Suites",
+        "brand:wikidata": "Q5890701",
+        "name": "Homewood Suites",
+        "official_name": "Homewood Suites by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hotel Avenida",
+      "id": "hotelavenida-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hotel Avenida",
+        "name": "Hotel Avenida",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hôtel du Parc",
+      "id": "hotelduparc-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hôtel du Parc",
+        "name": "Hôtel du Parc",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hotel Indigo",
+      "id": "hotelindigo-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hotel Indigo",
+        "brand:wikidata": "Q5911596",
+        "name": "Hotel Indigo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hotel Seri Malaysia",
+      "id": "hotelserimalaysia-fd56b0",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Hotel Seri Malaysia",
+        "brand:wikidata": "Q107295543",
+        "name": "Hotel Seri Malaysia",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hotel Sunroute",
+      "id": "hotelsunroute-0fd8df",
+      "locationSet": {"include": ["jp", "tw"]},
+      "tags": {
+        "brand": "Hotel Sunroute",
+        "brand:en": "Hotel Sunroute",
+        "brand:ja": "ホテルサンルート",
+        "brand:wikidata": "Q11306081",
+        "name": "Hotel Sunroute",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "hotelF1",
+      "id": "hotelf1-612c69",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "hotelF1",
+        "brand:wikidata": "Q1630895",
+        "name": "hotelF1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Howard Johnson",
+      "id": "howardjohnson-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Howard Johnson",
+        "brand:wikidata": "Q5919997",
+        "name": "Howard Johnson",
+        "official_name": "Howard Johnson by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hyatt",
+      "id": "hyatt-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hyatt",
+        "brand:wikidata": "Q1425063",
+        "name": "Hyatt",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hyatt Centric",
+      "id": "hyattcentric-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hyatt Centric",
+        "brand:wikidata": "Q109277705",
+        "name": "Hyatt Centric",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hyatt House",
+      "id": "hyatthouse-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hyatt House",
+        "brand:wikidata": "Q109292191",
+        "name": "Hyatt House",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hyatt Place",
+      "id": "hyattplace-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hyatt Place",
+        "brand:wikidata": "Q72629292",
+        "name": "Hyatt Place",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hyatt Regency",
+      "id": "hyattregency-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hyatt Regency",
+        "brand:wikidata": "Q1425063",
+        "name": "Hyatt Regency",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Hyatt Residence Club",
+      "id": "hyattresidenceclub-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Hyatt Residence Club",
+        "brand:wikidata": "Q109871442",
+        "name": "Hyatt Residence Club",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Iberostar Hotels & Resorts",
+      "id": "iberostarhotelsandresorts-e0d9de",
+      "locationSet": {
+        "include": [
+          "br",
+          "cv",
+          "do",
+          "es",
+          "gr",
+          "jm",
+          "ma",
+          "me",
+          "mx",
+          "pe",
+          "pt",
+          "tn",
+          "us"
+        ]
+      },
+      "matchNames": ["iberostar"],
+      "tags": {
+        "brand": "Iberostar Hotels & Resorts",
+        "brand:wikidata": "Q2035939",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Ibis",
+      "id": "ibis-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["hotel ibis", "ibis hotel"],
+      "tags": {
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "name": "Ibis",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Ibis Budget",
+      "id": "ibisbudget-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ibis Budget",
+        "brand:wikidata": "Q1458135",
+        "name": "Ibis Budget",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Ibis Styles",
+      "id": "ibisstyles-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ibis Styles",
+        "brand:wikidata": "Q3147425",
+        "name": "Ibis Styles",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "INNSiDE by Meliá",
+      "id": "innsidebymelia-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["innside hotel"],
+      "tags": {
+        "brand": "INNSiDE by Meliá",
+        "brand:wikidata": "Q115794915",
+        "name": "INNSiDE by Meliá",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "IntercityHotel",
+      "id": "intercityhotel-360354",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "cn",
+          "de",
+          "nl",
+          "om",
+          "sa"
+        ]
+      },
+      "tags": {
+        "brand": "IntercityHotel",
+        "brand:wikidata": "Q73642490",
+        "name": "IntercityHotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "InterContinental",
+      "id": "intercontinental-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "intercontinental hotels & resorts"
+      ],
+      "tags": {
+        "brand": "InterContinental",
+        "brand:wikidata": "Q1825730",
+        "name": "InterContinental",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Itsy by Treebo",
+      "id": "itsybytreebo-b22a38",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Itsy by Treebo",
+        "brand:wikidata": "Q122214006",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "JdV by Hyatt",
+      "id": "jdvbyhyatt-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "JdV by Hyatt",
+        "brand:wikidata": "Q6268973",
+        "name": "JdV by Hyatt",
+        "official_name": "Joie de Vivre Hospitality",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "JO&JOE",
+      "id": "joandjoe-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "JO&JOE",
+        "brand:wikidata": "Q84600897",
+        "name": "JO&JOE",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "JW Marriott",
+      "id": "jwmarriott-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["jw marriott hotels"],
+      "tags": {
+        "brand": "JW Marriott",
+        "brand:wikidata": "Q1067636",
+        "name": "JW Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Kempinski",
+      "id": "kempinski-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Kempinski",
+        "brand:wikidata": "Q671990",
+        "name": "Kempinski",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Kimpton",
+      "id": "kimpton-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Kimpton",
+        "brand:wikidata": "Q6410248",
+        "name": "Kimpton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Kyriad",
+      "id": "kyriad-e6de24",
+      "locationSet": {
+        "include": [
+          "at",
+          "cn",
+          "es",
+          "fr",
+          "id",
+          "ma",
+          "pl",
+          "qa"
+        ]
+      },
+      "tags": {
+        "brand": "Kyriad",
+        "brand:wikidata": "Q11751808",
+        "name": "Kyriad",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "La Quinta Inn",
+      "id": "laquintainn-a0e6b5",
+      "locationSet": {
+        "include": [
+          "ca",
+          "cl",
+          "co",
+          "hn",
+          "mx",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "la quinta",
+        "la quinta by wyndham"
+      ],
+      "tags": {
+        "brand": "La Quinta Inn",
+        "brand:wikidata": "Q6464734",
+        "name": "La Quinta Inn",
+        "official_name": "La Quinta Inn by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "La Quinta Inn & Suites",
+      "id": "laquintainnandsuites-cf4e07",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": ["la quinta inns and suites"],
+      "tags": {
+        "brand": "La Quinta Inn & Suites",
+        "brand:wikidata": "Q6464734",
+        "name": "La Quinta Inn & Suites",
+        "official_name": "La Quinta Inn & Suites by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Le Méridien",
+      "id": "lemeridien-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Le Méridien",
+        "brand:wikidata": "Q261077",
+        "name": "Le Méridien",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Leonardo Boutique",
+      "id": "leonardoboutique-97784d",
+      "locationSet": {
+        "include": [
+          "ch",
+          "de",
+          "es",
+          "hu",
+          "il",
+          "nl"
+        ]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Leonardo Boutique",
+        "brand:wikidata": "Q1819101",
+        "name": "Leonardo Boutique",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Leonardo Hotels",
+      "id": "leonardohotels-e45a92",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "de",
+          "es",
+          "hu",
+          "it",
+          "nl"
+        ]
+      },
+      "matchNames": ["jurys", "jurys inn"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Leonardo Hotels",
+        "brand:wikidata": "Q1819101",
+        "name": "Leonardo Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Leonardo Hotels (UK & Ire)",
+      "id": "leonardohotels-f8f6ae",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchNames": ["jurys", "jurys inn"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Leonardo Hotels",
+        "brand:wikidata": "Q12060924",
+        "name": "Leonardo Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Leonardo Royal Hotel",
+      "id": "leonardoroyalhotel-220d87",
+      "locationSet": {
+        "include": ["de", "gb", "it", "nl", "pl"]
+      },
+      "matchNames": ["jurys", "jurys inn"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Leonardo Royal Hotel",
+        "brand:wikidata": "Q1819101",
+        "name": "Leonardo Royal Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Locke",
+      "id": "locke-34f092",
+      "locationSet": {
+        "include": ["de", "gb", "ie"]
+      },
+      "tags": {
+        "brand": "Locke",
+        "brand:wikidata": "Q111363127",
+        "name": "Locke",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Lotte Hotel",
+      "id": "lottehotel-304b57",
+      "locationSet": {
+        "include": [
+          "jp",
+          "kr",
+          "mm",
+          "ru",
+          "us",
+          "uz",
+          "vn"
+        ]
+      },
+      "tags": {
+        "brand": "Lotte Hotels & Resorts",
+        "brand:wikidata": "Q326720",
+        "name": "Lotte Hotel",
+        "short_name": "Lotte",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "LXR Hotels & Resorts",
+      "id": "lxr-c9a464",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ai",
+          "gb-eng",
+          "jp",
+          "sc",
+          "tr",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "LXR",
+        "brand:wikidata": "Q64605184",
+        "name": "LXR",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "MainStay Suites",
+      "id": "mainstaysuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "MainStay Suites",
+        "brand:wikidata": "Q113152432",
+        "name": "MainStay Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Malmaison",
+      "id": "malmaison-3fca16",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Malmaison",
+        "brand:wikidata": "Q6744343",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Mama Shelter",
+      "id": "mamashelter-0d5f7f",
+      "locationSet": {
+        "include": [
+          "ae",
+          "cz",
+          "fx",
+          "gb-lon.geojson",
+          "it",
+          "lu",
+          "pt",
+          "rs",
+          "us-ca.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Mama Shelter",
+        "brand:wikidata": "Q12716714",
+        "name": "Mama Shelter",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Mandarin Oriental Hotel",
+      "id": "mandarinorientalhotel-428a55",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn", "hk", "mo", "tw"]
+      },
+      "tags": {
+        "brand": "Mandarin Oriental Hotel",
+        "brand:wikidata": "Q1236521",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Marriott",
+      "id": "marriott-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Marriott",
+        "brand:wikidata": "Q3918608",
+        "name": "Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Marriott Autograph Collection",
+      "id": "marriottautographcollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Marriott Autograph Collection",
+        "brand:wikidata": "Q19872869",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Marriott Executive Apartments",
+      "id": "marriottexecutiveapartments-b2f419",
+      "locationSet": {
+        "include": [
+          "ae",
+          "be",
+          "bh",
+          "br",
+          "cn",
+          "et",
+          "gb-eng",
+          "hu",
+          "id",
+          "in",
+          "kr",
+          "kz",
+          "pa",
+          "sa",
+          "th",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Marriott Executive Apartments",
+        "brand:wikidata": "Q72636824",
+        "name": "Marriott Executive Apartments",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Marriott Vacation Club",
+      "id": "marriottvacationclub-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Marriott Vacation Club",
+        "brand:wikidata": "Q6772996",
+        "name": "Marriott Vacation Club",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "McMenamins",
+      "id": "mcmenamins-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "McMenamins",
+        "brand:wikidata": "Q6802345",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "ME",
+      "id": "mebymelia-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["me hotel", "me melia"],
+      "tags": {
+        "brand": "ME by Meliá",
+        "brand:wikidata": "Q6715550",
+        "name": "ME by Meliá",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Meininger",
+      "id": "meininger-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["hoteles meininger"],
+      "tags": {
+        "brand": "Meininger",
+        "brand:wikidata": "Q42773330",
+        "name": "Meininger",
+        "official_name": "Meininger Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Meliá",
+      "id": "melia-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Meliá",
+        "brand:wikidata": "Q1815030",
+        "name": "Meliá",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Mercure",
+      "id": "mercure-8a2ff3",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "matchNames": ["mercure hotels"],
+      "tags": {
+        "brand": "Mercure",
+        "brand:wikidata": "Q1709809",
+        "name": "Mercure",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "MGallery",
+      "id": "mgallery-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "MGallery",
+        "brand:wikidata": "Q25419207",
+        "name": "MGallery",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Microtel",
+      "id": "microtel-1638bb",
+      "locationSet": {
+        "include": [
+          "ca",
+          "cn",
+          "mx",
+          "nz",
+          "ph",
+          "us"
+        ]
+      },
+      "matchNames": ["microtel inn"],
+      "tags": {
+        "brand": "Microtel",
+        "brand:wikidata": "Q6840402",
+        "name": "Microtel",
+        "official_name": "Microtel by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Microtel Inn & Suites",
+      "id": "microtelinnandsuites-29a1d7",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Microtel Inn & Suites",
+        "brand:wikidata": "Q6840402",
+        "name": "Microtel Inn & Suites",
+        "official_name": "Microtel Inn & Suites by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Millennium",
+      "id": "millennium-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Millennium",
+        "brand:wikidata": "Q6858774",
+        "name": "Millennium",
+        "official_name": "Millennium Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "MIMARU Apartment Hotel",
+      "id": "mimaruapartmenthotel-663ee5",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "MIMARU Apartment Hotel",
+        "brand:en": "MIMARU Apartment Hotel",
+        "brand:ja": "アパートメントホテルミマル",
+        "brand:wikidata": "Q120988314",
+        "name": "MIMARU Apartment Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Motel One",
+      "id": "motelone-1fc1b4",
+      "locationSet": {
+        "include": ["150", "us-ny.geojson"]
+      },
+      "tags": {
+        "brand": "Motel One",
+        "brand:wikidata": "Q391080",
+        "name": "Motel One",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Motto by Hilton",
+      "id": "motto-f20008",
+      "locationSet": {
+        "include": ["mx", "nl", "pe", "us"]
+      },
+      "tags": {
+        "brand": "Motto",
+        "brand:wikidata": "Q112144350",
+        "name": "Motto",
+        "official_name": "Motto by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Mövenpick",
+      "id": "movenpick-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["moevenpick"],
+      "tags": {
+        "brand": "Mövenpick",
+        "brand:wikidata": "Q691162",
+        "name": "Mövenpick",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Moxy",
+      "id": "moxy-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Moxy",
+        "brand:wikidata": "Q70287020",
+        "name": "Moxy",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "My Place Hotels",
+      "id": "myplacehotel-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "My Place Hotels",
+        "brand:wikidata": "Q108738340",
+        "name": "My Place Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "NH Collection Hotels",
+      "id": "nhcollectionhotels-f05c75",
+      "locationSet": {
+        "include": [
+          "ad",
+          "ar",
+          "at",
+          "be",
+          "cl",
+          "co",
+          "cu",
+          "cz",
+          "de",
+          "dk",
+          "ec",
+          "es",
+          "fr",
+          "hu",
+          "it",
+          "mx",
+          "nl",
+          "pt",
+          "qa",
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "NH Collection Hotels",
+        "brand:wikidata": "Q1604631",
+        "name": "NH Collection Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "NH Hotels",
+      "id": "nhhotel-e9b4fb",
+      "locationSet": {
+        "include": [
+          "ad",
+          "ar",
+          "at",
+          "be",
+          "br",
+          "ch",
+          "cl",
+          "co",
+          "cu",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hu",
+          "it",
+          "lu",
+          "mx",
+          "nl",
+          "pl",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "NH Hotels",
+        "brand:wikidata": "Q1604631",
+        "name": "NH Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "nhow",
+      "id": "nhow-e87c8c",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "fr",
+          "gb-eng",
+          "it",
+          "nl"
+        ]
+      },
+      "tags": {
+        "brand": "nhow",
+        "brand:wikidata": "Q1604631",
+        "name": "nhow",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Nobu",
+      "id": "nobu-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Nobu",
+        "brand:wikidata": "Q104840749",
+        "name": "Nobu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Novotel",
+      "id": "novotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Novotel",
+        "brand:wikidata": "Q420545",
+        "name": "Novotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Oaks Hotels",
+      "id": "oakshotelsresortsandsuites-bc2db3",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "cn",
+          "in",
+          "nz",
+          "qa"
+        ]
+      },
+      "tags": {
+        "brand": "Oaks Hotels, Resorts & Suites",
+        "brand:wikidata": "Q23073772",
+        "name": "Oaks Hotels, Resorts & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Occidental",
+      "id": "occidental-e4b4d8",
+      "locationSet": {
+        "include": [
+          "ae",
+          "cr",
+          "cu",
+          "cz",
+          "do",
+          "es",
+          "it",
+          "mx",
+          "tn",
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Occidental",
+        "brand:wikidata": "Q15148996",
+        "name": "Occidental",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "OYO",
+      "id": "oyo-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["oyo hotels", "oyo rooms"],
+      "matchTags": ["leisure/resort"],
+      "tags": {
+        "brand": "OYO",
+        "brand:wikidata": "Q24906315",
+        "name": "OYO",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Pan Pacific",
+      "id": "panpacific-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Pan Pacific",
+        "brand:wikidata": "Q4272131",
+        "name": "Pan Pacific",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Paradores",
+      "id": "paradores-2bddc3",
+      "locationSet": {"include": ["es", "pt"]},
+      "matchNames": [
+        "paradores de turismo de tspaña",
+        "paradores nacionales"
+      ],
+      "note": "No name for Paradores's brand as each hotel is named differently.",
+      "tags": {
+        "brand": "Paradores",
+        "brand:wikidata": "Q1476845",
+        "official_name": "Paradores de Turismo de España",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Park Hyatt",
+      "id": "parkhyatt-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Park Hyatt",
+        "brand:wikidata": "Q1425063",
+        "name": "Park Hyatt",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Park Inn",
+      "id": "parkinn-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Park Inn",
+        "brand:wikidata": "Q60711675",
+        "name": "Park Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Park Plaza",
+      "id": "parkplazahotels-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Park Plaza",
+        "brand:wikidata": "Q2052550",
+        "name": "Park Plaza Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "PARKROYAL",
+      "id": "parkroyal-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "PARKROYAL",
+        "brand:wikidata": "Q4272131",
+        "name": "PARKROYAL",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Pousadas de Portugal",
+      "id": "pousadasdeportugal-599262",
+      "locationSet": {"include": ["pt"]},
+      "note": "No name for Pousadas de Portugal's brand as each hotel is named differently.",
+      "tags": {
+        "brand": "Pousadas de Portugal",
+        "brand:wikidata": "Q2186274",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Premier Inn",
+      "id": "premierinn-a7b4e2",
+      "locationSet": {
+        "include": ["ae", "de", "gb", "ie", "qa"]
+      },
+      "tags": {
+        "brand": "Premier Inn",
+        "brand:wikidata": "Q2108626",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "internet_access:operator": "Virgin Media",
+        "internet_access:ssid": "Premier Inn Free Wi-Fi",
+        "name": "Premier Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Première Classe",
+      "id": "premiereclasse-a93346",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "fr",
+          "gb",
+          "ma",
+          "nl",
+          "pl"
+        ]
+      },
+      "tags": {
+        "brand": "Première Classe",
+        "brand:wikidata": "Q5964551",
+        "name": "Première Classe",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Protea Hotel",
+      "id": "proteahotel-dc927c",
+      "locationSet": {
+        "include": [
+          "bw",
+          "dz",
+          "mw",
+          "na",
+          "ng",
+          "tz",
+          "ug",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "Protea Hotel",
+        "brand:wikidata": "Q17092570",
+        "name": "Protea Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Pullman",
+      "id": "pullman-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Pullman",
+        "brand:wikidata": "Q3410757",
+        "name": "Pullman",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Quality Inn",
+      "id": "qualityinn-29a1d7",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Quality Inn",
+        "brand:wikidata": "Q113152195",
+        "name": "Quality Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Quality Inn & Suites",
+      "id": "qualityinnandsuites-cf4e07",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Quality Inn & Suites",
+        "brand:wikidata": "Q113152195",
+        "name": "Quality Inn & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Qubus",
+      "id": "qubus-e2655f",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Qubus",
+        "brand:wikidata": "Q11832868",
+        "name": "Qubus",
+        "official_name": "Qubus Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Radisson",
+      "id": "radisson-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "radisson hotels",
+        "radisson hotels americas"
+      ],
+      "tags": {
+        "brand": "Radisson",
+        "brand:wikidata": "Q1751979",
+        "name": "Radisson",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Radisson Blu",
+      "id": "radissonblu-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Radisson Blu",
+        "brand:wikidata": "Q7281341",
+        "name": "Radisson Blu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Radisson Collection",
+      "id": "radissoncollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Radisson Collection",
+        "brand:wikidata": "Q60716706",
+        "name": "Radisson Collection",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Radisson RED",
+      "id": "radissonred-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Radisson RED",
+        "brand:wikidata": "Q28233721",
+        "name": "Radisson RED",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Raffles",
+      "id": "raffles-771760",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "cn",
+          "fr",
+          "gb",
+          "id",
+          "in",
+          "kh",
+          "mv",
+          "ph",
+          "pl",
+          "qa",
+          "ru",
+          "sa",
+          "sc",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Raffles",
+        "brand:wikidata": "Q4306661",
+        "name": "Raffles",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Ramada",
+      "id": "ramada-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ramada",
+        "brand:wikidata": "Q1502859",
+        "name": "Ramada",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Red Lion Hotels",
+      "id": "redlionhotels-6ac210",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["red lion"],
+      "tags": {
+        "brand": "Red Lion Hotels",
+        "brand:wikidata": "Q25047720",
+        "name": "Red Lion Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Red Lion Inn & Suites",
+      "id": "redlioninnandsuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["red lion"],
+      "tags": {
+        "brand": "Red Lion Inn & Suites",
+        "brand:wikidata": "Q25047720",
+        "name": "Red Lion Inn & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Red Roof Inn",
+      "id": "redroofinn-6ac210",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["red roof"],
+      "tags": {
+        "brand": "Red Roof Inn",
+        "brand:wikidata": "Q7304949",
+        "name": "Red Roof Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "RedDoorz",
+      "id": "reddoorz-25d260",
+      "locationSet": {
+        "include": ["id", "ph", "sg", "vn"]
+      },
+      "tags": {
+        "brand": "RedDoorz",
+        "brand:wikidata": "Q78186049",
+        "name": "RedDoorz",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Relais & Châteaux",
+      "id": "relaisandchateaux-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Relais & Châteaux",
+        "brand:wikidata": "Q1432809",
+        "name": "Relais & Châteaux",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Renaissance",
+      "id": "renaissance-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["renaissance hotel"],
+      "tags": {
+        "brand": "Renaissance",
+        "brand:wikidata": "Q2143252",
+        "name": "Renaissance",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Residence Inn",
+      "id": "residenceinn-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Residence Inn",
+        "brand:wikidata": "Q7315394",
+        "name": "Residence Inn",
+        "official_name": "Residence Inn by Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "RIU",
+      "id": "riu-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "RIU",
+        "brand:wikidata": "Q2005557",
+        "name": "RIU",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Room Mate",
+      "id": "roommate-a3fb22",
+      "locationSet": {
+        "include": [
+          "es",
+          "fr",
+          "it",
+          "mx",
+          "nl",
+          "tr",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Room Mate",
+        "brand:wikidata": "Q26260849",
+        "name": "Room Mate",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Rosewood",
+      "id": "rosewood-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Rosewood",
+        "brand:wikidata": "Q7368777",
+        "name": "Rosewood",
+        "official_name": "Rosewood Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Royal Hideaway",
+      "id": "royalhideaway-1a48d0",
+      "locationSet": {
+        "include": ["ae", "do", "es", "id", "mx"]
+      },
+      "tags": {
+        "brand": "Royal Hideaway",
+        "brand:wikidata": "Q15148996",
+        "name": "Royal Hideaway",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Santika Indonesia Hotels & Resorts",
+      "id": "santikaindonesiahotelsandresorts-31e59e",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "brand": "Santika Indonesia Hotels & Resorts",
+        "brand:id": "Hotel Santika",
+        "brand:wikidata": "Q7420423",
+        "name": "Santika Indonesia Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Scandic Hotels",
+      "id": "scandichotels-f8f452",
+      "locationSet": {
+        "include": [
+          "de",
+          "dk",
+          "fi",
+          "no",
+          "pl",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Scandic Hotels",
+        "brand:wikidata": "Q129391",
+        "name": "Scandic Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Selina",
+      "id": "selina-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Selina",
+        "brand:wikidata": "Q110173599",
+        "name": "Selina",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Serena Hotels",
+      "id": "serenahotels-b76fe0",
+      "locationSet": {
+        "include": [
+          "af",
+          "cd",
+          "ke",
+          "pk",
+          "rw",
+          "tj",
+          "tz",
+          "ug"
+        ]
+      },
+      "tags": {
+        "brand": "Serena Hotels",
+        "brand:wikidata": "Q7453121",
+        "name": "Serena Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sheraton",
+      "id": "sheraton-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sheraton",
+        "brand:wikidata": "Q634831",
+        "name": "Sheraton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Shilo Inns",
+      "id": "shiloinns-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Shilo Inns",
+        "brand:wikidata": "Q7496689",
+        "name": "Shilo Inns",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Signia by Hilton",
+      "id": "signia-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Signia",
+        "brand:wikidata": "Q112144335",
+        "name": "Signia",
+        "official_name": "Signia by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Six Senses",
+      "id": "sixsenses-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Six Senses",
+        "brand:wikidata": "Q108049683",
+        "name": "Six Senses",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sleep Inn",
+      "id": "sleepinn-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Sleep Inn",
+        "brand:wikidata": "Q69588194",
+        "name": "Sleep Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sleep Inn & Suites",
+      "id": "sleepinnandsuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Sleep Inn & Suites",
+        "brand:wikidata": "Q1075788",
+        "name": "Sleep Inn & Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sofitel",
+      "id": "sofitel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sofitel",
+        "brand:wikidata": "Q749431",
+        "name": "Sofitel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sonder",
+      "id": "sonder-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sonder",
+        "brand:wikidata": "Q96419376",
+        "name": "Sonder",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sonesta",
+      "id": "sonesta-690134",
+      "locationSet": {
+        "include": [
+          "ca",
+          "cl",
+          "co",
+          "ec",
+          "eg",
+          "pe",
+          "sx",
+          "us"
+        ]
+      },
+      "tags": {
+        "alt_name": "Sonesta Hotel",
+        "brand": "Sonesta",
+        "brand:wikidata": "Q81003878",
+        "name": "Sonesta",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sonesta ES Suites",
+      "id": "sonestaessuites-cf4e07",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Sonesta ES Suites",
+        "brand:wikidata": "Q81007929",
+        "name": "Sonesta ES Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sonesta Select",
+      "id": "sonestaselect-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Sonesta Select",
+        "brand:wikidata": "Q109272530",
+        "name": "Sonesta Select",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sonesta Simply Suites",
+      "id": "sonestasimplysuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Sonesta Simply Suites",
+        "brand:wikidata": "Q109272879",
+        "name": "Sonesta Simply Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sotetsu Fresa Inn",
+      "id": "sotetsufresainn-fd1ce7",
+      "locationSet": {"include": ["jp", "kr"]},
+      "tags": {
+        "brand": "Sotetsu Fresa Inn",
+        "brand:en": "Sotetsu Fresa Inn",
+        "brand:ja": "相鉄フレッサイン",
+        "brand:wikidata": "Q11582448",
+        "name": "Sotetsu Fresa Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Southern Sun",
+      "id": "southernsun-891f5c",
+      "locationSet": {
+        "include": ["ae", "mz", "za", "zm"]
+      },
+      "tags": {
+        "brand": "Southern Sun",
+        "brand:wikidata": "Q7570526",
+        "name": "Southern Sun",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "SpringHill Suites",
+      "id": "springhillsuites-29a1d7",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "brand": "SpringHill Suites",
+        "brand:wikidata": "Q7580351",
+        "name": "SpringHill Suites",
+        "official_name": "SpringHill Suites by Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "St. Regis",
+      "id": "stregis-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "alt_name": "Saint Regis",
+        "brand": "St. Regis",
+        "brand:wikidata": "Q30715430",
+        "name": "St. Regis",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Staybridge Suites",
+      "id": "staybridgesuites-134d5e",
+      "locationSet": {
+        "include": ["ca", "gb", "us"]
+      },
+      "tags": {
+        "brand": "Staybridge Suites",
+        "brand:wikidata": "Q7605116",
+        "name": "Staybridge Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Suburban Studios",
+      "id": "suburbanstudios-6ac210",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "suburban extended stay hotel"
+      ],
+      "tags": {
+        "brand": "Suburban Studios",
+        "brand:wikidata": "Q113152401",
+        "name": "Suburban Studios",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Swissôtel",
+      "id": "swissotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "alt_name": "Swissotel",
+        "brand": "Swissôtel",
+        "brand:wikidata": "Q1635974",
+        "name": "Swissôtel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Taj",
+      "id": "taj-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Taj",
+        "brand:wikidata": "Q1521893",
+        "name": "Taj",
+        "official_name": "Taj Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Tapestry Collection by Hilton",
+      "id": "tapestrycollection-1c7927",
+      "locationSet": {
+        "include": [
+          "ae",
+          "br",
+          "ca",
+          "cn",
+          "es",
+          "fx",
+          "gb-eng",
+          "mx",
+          "pt",
+          "tw",
+          "us"
+        ]
+      },
+      "matchNames": [
+        "tapestry collection by hilton"
+      ],
+      "tags": {
+        "brand": "Tapestry Collection",
+        "brand:wikidata": "Q109275422",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Tempo by Hilton",
+      "id": "tempo-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Tempo",
+        "brand:wikidata": "Q112144357",
+        "name": "Tempo",
+        "official_name": "Tempo by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "The Hoxton",
+      "id": "thehoxton-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Hoxton",
+        "brand:wikidata": "Q24039229",
+        "name": "The Hoxton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "The Langham",
+      "id": "langhamhotelsandresorts-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Langham Hotels & Resorts",
+        "brand:wikidata": "Q8423751",
+        "name": "Langham Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "The Leela",
+      "id": "theleela-b22a38",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "The Leela",
+        "brand:wikidata": "Q7746610",
+        "name": "The Leela",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "The Luxury Collection",
+      "id": "theluxurycollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Luxury Collection",
+        "brand:wikidata": "Q2412604",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "the niu",
+      "id": "theniu-3dd84b",
+      "locationSet": {
+        "include": ["at", "de", "gb", "nl"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "the niu",
+        "brand:wikidata": "Q116486979",
+        "name": "the niu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "The Ritz-Carlton",
+      "id": "theritzcarlton-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "ritz",
+        "ritz carlton",
+        "the ritz"
+      ],
+      "tags": {
+        "brand": "The Ritz-Carlton",
+        "brand:wikidata": "Q782200",
+        "name": "The Ritz-Carlton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "The Sebel",
+      "id": "thesebel-a311b9",
+      "locationSet": {"include": ["au", "nz"]},
+      "matchNames": ["sebel"],
+      "tags": {
+        "brand": "The Sebel",
+        "brand:wikidata": "Q110888248",
+        "name": "The Sebel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "The Westin",
+      "id": "thewestin-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Westin",
+        "brand:wikidata": "Q1969162",
+        "name": "The Westin",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Tivoli",
+      "id": "tivolihotelsandresorts-0f28e2",
+      "locationSet": {
+        "include": ["br", "cn", "pt", "qa"]
+      },
+      "tags": {
+        "brand": "Tivoli Hotels & Resorts",
+        "brand:wikidata": "Q10382766",
+        "name": "Tivoli Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "TownePlace Suites",
+      "id": "towneplacesuites-cf4e07",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": [
+        "towneplace marriott",
+        "towneplace suites marriott"
+      ],
+      "tags": {
+        "brand": "TownePlace Suites",
+        "brand:wikidata": "Q7830092",
+        "name": "TownePlace Suites",
+        "official_name": "TownePlace Suites by Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Toyoko Inn",
+      "id": "toyokoinn-6b9be5",
+      "locationSet": {
+        "include": ["de", "fr", "kr", "mn", "ph"]
+      },
+      "tags": {
+        "brand": "Toyoko Inn",
+        "brand:wikidata": "Q1320541",
+        "name": "Toyoko Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Trademark Collection",
+      "id": "trademarkcollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "trademark",
+        "trademark by wyndham",
+        "trademark wyndham"
+      ],
+      "tags": {
+        "brand": "Trademark Collection",
+        "brand:wikidata": "Q112144846",
+        "name": "Trademark Collection",
+        "official_name": "Trademark Collection by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Travelodge (Asia/Oceania)",
+      "id": "travelodge-2e0dc6",
+      "locationSet": {
+        "include": [
+          "au",
+          "hk",
+          "id",
+          "kr",
+          "my",
+          "nz",
+          "sg",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Travelodge",
+        "brand:wikidata": "Q24997583",
+        "name": "Travelodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Travelodge (Europe)",
+      "id": "travelodge-dec11e",
+      "locationSet": {
+        "include": ["es", "gb", "ie"]
+      },
+      "tags": {
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "Travelodge WiFi",
+        "name": "Travelodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Travelodge (North America)",
+      "id": "travelodge-cf4e07",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Travelodge",
+        "brand:wikidata": "Q7836087",
+        "name": "Travelodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Treebo Trend",
+      "id": "treebotrend-b22a38",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Treebo Tryst",
+      "id": "treebotryst-b22a38",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "brand": "Treebo Tryst",
+        "brand:wikidata": "Q122214133",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "TRIBE",
+      "id": "tribe-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "TRIBE",
+        "brand:wikidata": "Q113694525",
+        "name": "TRIBE",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Tribute Portfolio",
+      "id": "tributeportfolio-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tribute Portfolio",
+        "brand:wikidata": "Q92021343",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Tru",
+      "id": "tru-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Tru",
+        "brand:wikidata": "Q24907770",
+        "name": "Tru",
+        "official_name": "Tru by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "TRYP",
+      "id": "tryp-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "TRYP",
+        "brand:wikidata": "Q6153452",
+        "name": "TRYP",
+        "official_name": "TRYP by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Unbound Collection",
+      "id": "unboundcollection-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "the unbound collection by hyatt",
+        "unbound",
+        "unbound hyatt"
+      ],
+      "tags": {
+        "brand": "Unbound Collection",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "UrCove by Hyatt",
+      "id": "urcovebyhyatt-af4cd2",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "UrCove by Hyatt",
+        "name": "UrCove by Hyatt",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Van der Valk Hotel",
+      "id": "vandervalkhotel-1676dc",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "es",
+          "fr",
+          "nl",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Van der Valk",
+        "brand:wikidata": "Q2802214",
+        "name": "Van der Valk Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Vīb",
+      "id": "vib-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Vib",
+        "brand:wikidata": "Q830334",
+        "name": "Vib",
+        "official_name": "Vib Best Western",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Vienna Hotels",
+      "id": "viennahotels-b22a38",
+      "locationSet": {"include": ["in"]},
+      "matchNames": ["vienna hotel"],
+      "tags": {
+        "brand": "Vienna Hotels",
+        "brand:wikidata": "Q7928333",
+        "name": "Vienna Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Virgin Hotel",
+      "id": "virginhotels-7e47e0",
+      "locationSet": {"include": ["gb", "us"]},
+      "tags": {
+        "brand": "Virgin Hotels",
+        "brand:wikidata": "Q17101817",
+        "name": "Virgin Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "voco",
+      "id": "voco-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "voco",
+        "brand:wikidata": "Q60750454",
+        "name": "voco",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "W Hotels",
+      "id": "whotels-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "W Hotels",
+        "brand:wikidata": "Q7958488",
+        "name": "W Hotels",
+        "short_name": "W",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Waldorf Astoria",
+      "id": "waldorfastoria-665f74",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "cn",
+          "de",
+          "eg",
+          "fx",
+          "gb-eng",
+          "gb-sct",
+          "il",
+          "it",
+          "kw",
+          "mv",
+          "mx",
+          "nl",
+          "pa",
+          "sa",
+          "th",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Waldorf Astoria",
+        "brand:wikidata": "Q3239392",
+        "name": "Waldorf Astoria",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Wingate",
+      "id": "wingate-ea697d",
+      "locationSet": {
+        "include": ["ca", "cn", "us"]
+      },
+      "matchNames": ["wingate inn"],
+      "tags": {
+        "brand": "Wingate",
+        "brand:wikidata": "Q8025144",
+        "name": "Wingate",
+        "official_name": "Wingate by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "WoodSpring Suites",
+      "id": "woodspringsuites-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "WoodSpring Suites",
+        "brand:wikidata": "Q30672853",
+        "name": "WoodSpring Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "WorldMark",
+      "id": "worldmarkbywyndham-6ac210",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "WorldMark by Wyndham",
+        "brand:wikidata": "Q8035301",
+        "name": "WorldMark by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Wyndham",
+      "id": "wyndham-779ccb",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["wyndham hotel"],
+      "tags": {
+        "brand": "Wyndham",
+        "brand:wikidata": "Q8040120",
+        "name": "Wyndham",
+        "official_name": "Wyndham Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Wyndham Garden",
+      "id": "wyndhamgarden-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Wyndham Garden",
+        "brand:wikidata": "Q112144847",
+        "name": "Wyndham Garden",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Wyndham Grand",
+      "id": "wyndhamgrand-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Wyndham Grand",
+        "brand:wikidata": "Q112144849",
+        "name": "Wyndham Grand",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "YOTEL",
+      "id": "yotel-ebcca5",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ch",
+          "fx",
+          "gb-eng",
+          "gb-sct",
+          "nl",
+          "pt",
+          "sg",
+          "tr",
+          "us-ca.geojson",
+          "us-dc.geojson",
+          "us-fl.geojson",
+          "us-ma.geojson",
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "YOTEL",
+        "brand:wikidata": "Q8046002",
+        "name": "YOTEL",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Zleep Hotel",
+      "id": "zleephotels-d726c7",
+      "locationSet": {
+        "include": [
+          "ch",
+          "cz",
+          "de",
+          "dk",
+          "es",
+          "se"
+        ]
+      },
+      "tags": {
+        "brand": "Zleep Hotels",
+        "brand:wikidata": "Q16325118",
+        "name": "Zleep Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Уют",
+      "id": "1ed809-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Уют",
+        "name": "Уют",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "アパホテル",
+      "id": "apahotel-663ee5",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["apaホテル"],
+      "tags": {
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "亚朵酒店",
+      "id": "atourhotel-af4cd2",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "亚朵酒店",
+        "brand:en": "Atour Hotel",
+        "brand:wikidata": "Q111081972",
+        "brand:zh": "亚朵酒店",
+        "name": "亚朵酒店",
+        "name:en": "Atour Hotel",
+        "name:zh": "亚朵酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "全季酒店",
+      "id": "jihotel-28932e",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "全季酒店",
+        "brand:en": "Ji Hotel",
+        "brand:wikidata": "Q116895638",
+        "brand:zh": "全季酒店",
+        "name": "全季酒店",
+        "name:en": "Ji Hotel",
+        "name:zh": "全季酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "如家酒店",
+      "id": "homeinn-af4cd2",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["如家", "如家快捷酒店"],
+      "tags": {
+        "brand": "如家酒店",
+        "brand:en": "Home Inn",
+        "brand:wikidata": "Q4980954",
+        "brand:zh": "如家酒店",
+        "name": "如家酒店",
+        "name:en": "Home Inn",
+        "name:zh": "如家酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "尚客优快捷酒店",
+      "id": "thankyouhotel-af4cd2",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "尚客优快捷酒店",
+        "brand:en": "Thankyou Hotel",
+        "brand:wikidata": "Q108167567",
+        "brand:zh": "尚客优快捷酒店",
+        "name": "尚客优快捷酒店",
+        "name:en": "Thankyou Hotel",
+        "name:zh": "尚客优快捷酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "文华东方酒店集团",
+      "id": "mandarinorientalhotel-28932e",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "文华东方酒店集团",
+        "brand:en": "Mandarin Oriental Hotel",
+        "brand:wikidata": "Q1236521",
+        "brand:zh": "文华东方酒店集团",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "文華東方酒店集團",
+      "id": "mandarinorientalhotel-e06ce0",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "文華東方酒店集團",
+        "brand:en": "Mandarin Oriental Hotel",
+        "brand:wikidata": "Q1236521",
+        "brand:zh": "文華東方酒店集團",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "文華東方酒店集團 Mandarin Oriental Hotel",
+      "id": "mandarinorientalhotel-6fa074",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "文華東方酒店集團 Mandarin Oriental Hotel",
+        "brand:en": "Mandarin Oriental Hotel",
+        "brand:wikidata": "Q1236521",
+        "brand:zh": "文華東方酒店集團",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "東横イン",
+      "id": "toyokoinn-663ee5",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["東横inn"],
+      "tags": {
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "name": "東横イン",
+        "name:en": "Toyoko Inn",
+        "name:ja": "東横イン",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "汉庭酒店",
+      "id": "hantinghotel-af4cd2",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["汉庭", "汉庭快捷酒店"],
+      "tags": {
+        "brand": "汉庭酒店",
+        "brand:en": "Hanting Hotel",
+        "brand:wikidata": "Q15926208",
+        "brand:zh": "汉庭酒店",
+        "name": "汉庭酒店",
+        "name:en": "Hanting Hotel",
+        "name:zh": "汉庭酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "秋果酒店",
+      "id": "qiuguohotel-28932e",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "秋果酒店",
+        "brand:en": "Qiuguo Hotel",
+        "brand:wikidata": "Q109415285",
+        "brand:zh": "秋果酒店",
+        "name": "秋果酒店",
+        "name:en": "Qiuguo Hotel",
+        "name:zh": "秋果酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "美居酒店",
+      "id": "mercure-28932e",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "美居酒店",
+        "brand:en": "Mercure",
+        "brand:wikidata": "Q1709809",
+        "name": "美居酒店",
+        "name:en": "Mercure",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "速8酒店",
+      "id": "super8-af4cd2",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["速8", "速8快捷酒店"],
+      "tags": {
+        "brand": "速8酒店",
+        "brand:en": "Super 8",
+        "brand:wikidata": "Q5364003",
+        "brand:zh": "速8酒店",
+        "name": "速8酒店",
+        "name:en": "Super 8",
+        "name:zh": "速8酒店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "锦江之星",
+      "id": "jinjianginn-28932e",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "锦江之星",
+        "brand:en": "Jinjiang Inn",
+        "brand:wikidata": "Q60712573",
+        "brand:zh": "锦江之星",
+        "name": "锦江之星",
+        "name:en": "Jinjiang Inn",
+        "name:zh": "锦江之星",
+        "tourism": "hotel"
+      }
+    }
+  ]
+}

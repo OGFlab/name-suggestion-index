@@ -1,0 +1,827 @@
+{
+  "properties": {
+    "path": "brands/shop/houseware",
+    "exclude": {"generic": ["^houseware$"]}
+  },
+  "items": [
+    {
+      "displayName": "@home",
+      "id": "home-dd60e2",
+      "locationSet": {
+        "include": ["bw", "gh", "mz", "na", "za"]
+      },
+      "tags": {
+        "brand": "@home",
+        "brand:wikidata": "Q116429887",
+        "name": "@home",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "@Home Livingspace",
+      "id": "homelivingspace-dd60e2",
+      "locationSet": {
+        "include": ["bw", "gh", "mz", "na", "za"]
+      },
+      "tags": {
+        "brand": "@Home Livingspace",
+        "brand:wikidata": "Q117406343",
+        "name": "@Home Livingspace",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Adairs",
+      "id": "adairs-bc6f54",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Adairs",
+        "brand:wikidata": "Q109626904",
+        "name": "Adairs",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Alice Délice",
+      "id": "alicedelice-1b912f",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Alice Délice",
+        "brand:wikidata": "Q105099543",
+        "name": "Alice Délice",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "At Home",
+      "id": "athome-d77d08",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["garden ridge"],
+      "tags": {
+        "brand": "At Home",
+        "brand:wikidata": "Q5522290",
+        "name": "At Home",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Bed Bath & Beyond",
+      "id": "bedbathandbeyond-76be9f",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Bed Bath & Beyond",
+        "brand:wikidata": "Q813782",
+        "name": "Bed Bath & Beyond",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Bed Bath & Beyond (New Zealand)",
+      "id": "bedbathandbeyond-1d32aa",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "Bed Bath & Beyond",
+        "brand:wikidata": "Q110295215",
+        "name": "Bed Bath & Beyond",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Bed Bath N' Table",
+      "id": "bedbathntable-299251",
+      "locationSet": {
+        "include": ["au", "nz", "sg"]
+      },
+      "tags": {
+        "brand": "Bed Bath N' Table",
+        "brand:wikidata": "Q118551276",
+        "name": "Bed Bath N' Table",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Blokker",
+      "id": "blokker-a48b12",
+      "locationSet": {"include": ["be", "nl"]},
+      "tags": {
+        "brand": "Blokker",
+        "brand:wikidata": "Q33903645",
+        "name": "Blokker",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Briscoes",
+      "id": "briscoes-1d32aa",
+      "locationSet": {"include": ["nz"]},
+      "matchTags": ["shop/department_store"],
+      "tags": {
+        "brand": "Briscoes",
+        "brand:wikidata": "Q110190653",
+        "name": "Briscoes",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "BSS Group",
+      "id": "bssgroup-81bc6e",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "brand": "BSS Group",
+        "brand:wikidata": "Q4836629",
+        "name": "BSS Group",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Camicado",
+      "id": "camicado-35237a",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Camicado",
+        "brand:wikidata": "Q108910180",
+        "name": "Camicado",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Cervera",
+      "id": "cervera-9b0747",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Cervera",
+        "brand:wikidata": "Q10447179",
+        "name": "Cervera",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Duka",
+      "id": "duka-699029",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "Duka",
+        "brand:wikidata": "Q20354074",
+        "name": "Duka",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "EH Smith",
+      "id": "ehsmith-06cdb1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "EH Smith",
+        "brand:wikidata": "Q100299126",
+        "name": "EH Smith",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Enza Home",
+      "id": "enzahome-19bb0d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Enza Home",
+        "brand:wikidata": "Q116919751",
+        "name": "Enza Home",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Fissler",
+      "id": "fissler-a5ce18",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Fissler",
+        "brand:wikidata": "Q1420964",
+        "name": "Fissler",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "FOX Home",
+      "id": "foxhome-a5093f",
+      "locationSet": {"include": ["il"]},
+      "tags": {
+        "brand": "FOX Home",
+        "name": "FOX Home",
+        "name:he": "פוקס הום",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Gipfel",
+      "id": "gipfel-4a99db",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Gipfel",
+        "brand:wikidata": "Q110083748",
+        "name": "Gipfel",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Guy Degrenne",
+      "id": "guydegrenne-1b912f",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Guy Degrenne",
+        "brand:wikidata": "Q3121712",
+        "name": "Guy Degrenne",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Home Store + More",
+      "id": "homestoremore-b52391",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "brand": "Home Store + More",
+        "brand:wikidata": "Q113471802",
+        "name": "Home Store + More",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "HomeGoods",
+      "id": "homegoods-d77d08",
+      "locationSet": {"include": ["us"]},
+      "matchTags": [
+        "shop/department_store",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "HomeGoods",
+        "brand:wikidata": "Q5887941",
+        "name": "HomeGoods",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "House",
+      "id": "house-9d9c4b",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "House",
+        "brand:wikidata": "Q117921987",
+        "name": "House",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "House Bed & Bath",
+      "id": "housebedandbath-9d9c4b",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "House",
+        "brand:wikidata": "Q117921987",
+        "name": "House Bed & Bath",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Howards Storage World",
+      "id": "howardsstorageworld-9d9c4b",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Howards Storage World",
+        "brand:wikidata": "Q106283555",
+        "name": "Howards Storage World",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Howarth Timber",
+      "id": "howarthtimber-06cdb1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Howarth Timber",
+        "brand:wikidata": "Q100298474",
+        "name": "Howarth Timber",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Imerco",
+      "id": "imerco-12dd8a",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "brand": "Imerco",
+        "brand:wikidata": "Q12318163",
+        "name": "Imerco",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Kasanova",
+      "id": "kasanova-6a1c4e",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Kasanova",
+        "brand:wikidata": "Q116214505",
+        "name": "Kasanova",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Kitchen Collection",
+      "id": "kitchencollection-d77d08",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Kitchen Collection",
+        "brand:wikidata": "Q64149036",
+        "name": "Kitchen Collection",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "KODi",
+      "id": "kodi-a5ce18",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "KODi",
+        "brand:wikidata": "Q1778216",
+        "name": "KODi",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Kuchenland",
+      "id": "kuchenland-4a99db",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Kuchenland",
+        "name": "Kuchenland",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Lagerhaus (Scandinavia)",
+      "id": "lagerhaus-8b5f66",
+      "locationSet": {"include": ["no", "se"]},
+      "matchTags": ["shop/doityourself"],
+      "tags": {
+        "brand": "Lagerhaus",
+        "brand:wikidata": "Q10553211",
+        "name": "Lagerhaus",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Lakeland",
+      "id": "lakeland-06cdb1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Lakeland",
+        "brand:wikidata": "Q16256199",
+        "name": "Lakeland",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Le Creuset",
+      "id": "lecreuset-19bb0d",
+      "locationSet": {"include": ["001"]},
+      "matchTags": ["shop/kitchen"],
+      "tags": {
+        "brand": "Le Creuset",
+        "brand:wikidata": "Q555861",
+        "name": "Le Creuset",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Linen Chest",
+      "id": "linenchest-2e9fd8",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Linen Chest",
+        "brand:wikidata": "Q112966601",
+        "name": "Linen Chest",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Madame Coco",
+      "id": "madamecoco-19bb0d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Madame Coco",
+        "brand:wikidata": "Q28605887",
+        "name": "Madame Coco",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Marskramer",
+      "id": "marskramer-c9ad4a",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Marskramer",
+        "brand:wikidata": "Q2305917",
+        "name": "Marskramer",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Metalac",
+      "id": "metalac-21e4ab",
+      "locationSet": {
+        "include": ["hr", "me", "rs"]
+      },
+      "matchNames": [
+        "metalac market",
+        "металац маркет",
+        "металац посуђе"
+      ],
+      "matchTags": ["shop/tableware"],
+      "tags": {
+        "brand": "Metalac",
+        "brand:wikidata": "Q116454960",
+        "name": "Metalac",
+        "name:sr": "Металац",
+        "name:sr-Latn": "Metalac",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Mr Price Home",
+      "id": "mrpricehome-4abcbe",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Mr Price Home",
+        "brand:wikidata": "Q6929120",
+        "name": "Mr Price Home",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "National Plastics",
+      "id": "nationalplastics-06cdb1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "National Plastics",
+        "brand:wikidata": "Q100297552",
+        "name": "National Plastics",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Old Time Pottery",
+      "id": "oldtimepottery-d77d08",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Old Time Pottery",
+        "brand:wikidata": "Q7085222",
+        "name": "Old Time Pottery",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "ORION",
+      "id": "orion-4991ba",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "ORION",
+        "brand:wikidata": "Q67806141",
+        "name": "ORION",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Pep Home",
+      "id": "pephome-4abcbe",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Pep Home",
+        "brand:wikidata": "Q7166182",
+        "name": "Pep Home",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Preçolandia",
+      "id": "precolandia-35237a",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Preçolandia",
+        "brand:wikidata": "Q62073183",
+        "name": "Preçolandia",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Prince Hypermart",
+      "id": "princehypermart-32fa4c",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "Prince Hypermart",
+        "brand:wikidata": "Q28405980",
+        "name": "Prince Hypermart",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "ProCook",
+      "id": "procook-06cdb1",
+      "locationSet": {"include": ["gb"]},
+      "note": "Former Wikidata entry was deleted (Q99736203)",
+      "tags": {
+        "brand": "ProCook",
+        "brand:wikidata": "Q101420301",
+        "name": "ProCook",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Sheet Street",
+      "id": "sheetstreet-4abcbe",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Sheet Street",
+        "brand:wikidata": "Q118185878",
+        "name": "Sheet Street",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Stokes",
+      "id": "stokes-2e9fd8",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Stokes",
+        "brand:wikidata": "Q66481382",
+        "name": "Stokes",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Sur La Table",
+      "id": "surlatable-d77d08",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Sur La Table",
+        "brand:wikidata": "Q7645220",
+        "name": "Sur La Table",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Tescoma",
+      "id": "tescoma-19bb0d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tescoma",
+        "brand:wikidata": "Q28962979",
+        "name": "Tescoma",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "The Conran Shop",
+      "id": "theconranshop-672f56",
+      "locationSet": {
+        "include": [
+          "fx",
+          "gb-lon.geojson",
+          "jp",
+          "kr"
+        ]
+      },
+      "tags": {
+        "brand": "The Conran Shop",
+        "brand:wikidata": "Q63959046",
+        "name": "The Conran Shop",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "The Container Store",
+      "id": "thecontainerstore-d77d08",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "The Container Store",
+        "brand:wikidata": "Q7727445",
+        "name": "The Container Store",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "The Range",
+      "id": "therange-81bc6e",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchTags": [
+        "shop/department_store",
+        "shop/doityourself",
+        "shop/furniture",
+        "shop/garden_centre",
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "The Range",
+        "brand:wikidata": "Q7759409",
+        "name": "The Range",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Think Kitchen",
+      "id": "thinkkitchen-2e9fd8",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Think Kitchen",
+        "brand:wikidata": "Q66481390",
+        "name": "Think Kitchen",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Tuesday Morning",
+      "id": "tuesdaymorning-d77d08",
+      "locationSet": {"include": ["us"]},
+      "matchTags": [
+        "shop/convenience",
+        "shop/department_store",
+        "shop/gift",
+        "shop/variety_store"
+      ],
+      "tags": {
+        "brand": "Tuesday Morning",
+        "brand:wikidata": "Q7851426",
+        "name": "Tuesday Morning",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Villeroy & Boch",
+      "id": "villeroyandboch-19bb0d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Villeroy & Boch",
+        "brand:wikidata": "Q705042",
+        "name": "Villeroy & Boch",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Williams-Sonoma",
+      "id": "williamssonoma-61ccca",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": ["william sonoma"],
+      "matchTags": ["shop/furniture"],
+      "tags": {
+        "brand": "Williams-Sonoma",
+        "brand:wikidata": "Q2581220",
+        "name": "Williams-Sonoma",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "WMF",
+      "id": "wmf-7553f4",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "WMF",
+        "brand:wikidata": "Q451423",
+        "name": "WMF",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Xenos",
+      "id": "xenos-06f910",
+      "locationSet": {"include": ["de", "nl"]},
+      "tags": {
+        "brand": "Xenos",
+        "brand:wikidata": "Q16547960",
+        "name": "Xenos",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Zwilling",
+      "id": "zwilling-a5ce18",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Zwilling",
+        "brand:wikidata": "Q244736",
+        "name": "Zwilling",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Домовой",
+      "id": "579b3e-4a99db",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Домовой",
+        "brand:wikidata": "Q110086700",
+        "name": "Домовой",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Еврочехол",
+      "id": "69105e-4a99db",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Еврочехол",
+        "name": "Еврочехол",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Императорский фарфоровый завод",
+      "id": "imperialporcelainfactory-4a99db",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": ["императорский фарфор"],
+      "tags": {
+        "brand": "Императорский фарфоровый завод",
+        "brand:ar": "مصنع الخزف الإمبراطوري",
+        "brand:be": "Імператарскі фарфоравы завод",
+        "brand:en": "Imperial Porcelain Factory",
+        "brand:es": "Fábrica Imperial de Porcelana",
+        "brand:fr": "Manufacture de Lomonossov",
+        "brand:he": "בית החרושת הקיסרי לחרסינה",
+        "brand:it": "Porcellana di San Pietroburgo",
+        "brand:ja": "帝国磁器工場",
+        "brand:ru": "Императорский фарфоровый завод",
+        "brand:uk": "Імператорський порцеляновий завод",
+        "brand:wikidata": "Q1303887",
+        "name": "Императорский фарфоровый завод",
+        "name:ar": "مصنع الخزف الإمبراطوري",
+        "name:be": "Імператарскі фарфоравы завод",
+        "name:en": "Imperial Porcelain Factory",
+        "name:es": "Fábrica Imperial de Porcelana",
+        "name:fr": "Manufacture de Lomonossov",
+        "name:he": "בית החרושת הקיסרי לחרסינה",
+        "name:it": "Porcellana di San Pietroburgo",
+        "name:ja": "帝国磁器工場",
+        "name:ru": "Императорский фарфоровый завод",
+        "name:uk": "Імператорський порцеляновий завод",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Немски център",
+      "id": "d48ea9-61477e",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Немски център",
+        "brand:wikidata": "Q115656593",
+        "name": "Немски център",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Хозтовары",
+      "id": "5c2746-19bb0d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Хозтовары",
+        "name": "Хозтовары",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "京王アートマン",
+      "id": "keioatman-fb0740",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["アートマン"],
+      "matchTags": ["shop/variety_store"],
+      "tags": {
+        "brand": "京王アートマン",
+        "brand:en": "Keio Atman",
+        "brand:ja": "京王アートマン",
+        "brand:wikidata": "Q11374580",
+        "name": "京王アートマン",
+        "name:en": "Keio Atman",
+        "name:ja": "京王アートマン",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "日本城 JHC",
+      "id": "jhc-067b48",
+      "locationSet": {"include": ["hk", "mo"]},
+      "matchNames": [
+        "japan home",
+        "japan home centre"
+      ],
+      "tags": {
+        "brand": "日本城 JHC",
+        "brand:en": "JHC",
+        "brand:wikidata": "Q11507765",
+        "brand:zh": "日本城",
+        "name": "日本城 JHC",
+        "name:en": "JHC",
+        "name:zh": "日本城",
+        "shop": "houseware"
+      }
+    }
+  ]
+}

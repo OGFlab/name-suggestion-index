@@ -1,0 +1,694 @@
+{
+  "properties": {
+    "path": "transit/route/ferry",
+    "exclude": {
+      "generic": ["^ferry$"],
+      "named": [
+        "^(city|international|local|mtb|municipal|national|rail|regional|urban)$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ålandstrafiken",
+      "id": "alandstrafiken-8482fb",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "network": "Ålandstrafiken",
+        "network:wikidata": "Q270993",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Alaska Marine Highway",
+      "id": "alaskamarinehighway-682b91",
+      "locationSet": {
+        "include": [
+          "ca-bc.geojson",
+          "us-ak",
+          "us-wa.geojson"
+        ]
+      },
+      "matchNames": ["alask marine highway"],
+      "tags": {
+        "network": "Alaska Marine Highway",
+        "network:wikidata": "Q801878",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "AT (Auckland Transport)",
+      "id": "at-9acbbb",
+      "locationSet": {
+        "include": [
+          "nz-auk.geojson",
+          "nz-wko.geojson"
+        ]
+      },
+      "matchNames": ["auckland transport"],
+      "tags": {
+        "network": "AT",
+        "network:wikidata": "Q4819567",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Baltimore Harbor Connector",
+      "id": "baltimoreharborconnector-c8cea8",
+      "locationSet": {
+        "include": ["baltimore_and_dc.geojson"]
+      },
+      "tags": {
+        "network": "Baltimore Harbor Connector",
+        "network:wikidata": "Q111771534",
+        "operator": "Baltimore City Department of Transportation",
+        "operator:short": "BCDOT",
+        "operator:wikidata": "Q28901255",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Bay Ferries Limited",
+      "id": "bayferries-2a89b9",
+      "locationSet": {
+        "include": [
+          "ca-nb.geojson",
+          "ca-ns.geojson",
+          "us-me.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Bay Ferries",
+        "network:wikidata": "Q812067",
+        "operator": "Bay Ferries Limited",
+        "operator:wikidata": "Q812067",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "BC Ferries",
+      "id": "bcferries-3e2bcc",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "tags": {
+        "network": "BC Ferries",
+        "network:wikidata": "Q795723",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Berliner Verkehrsbetriebe",
+      "id": "verkehrsverbundberlinbrandenburg-88af5a",
+      "locationSet": {
+        "include": [[13.42, 52.5, 26]]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "operator": "Berliner Verkehrsbetriebe",
+        "operator:short": "BVG",
+        "operator:wikidata": "Q99633",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "British Columbia Ministry of Transportation",
+      "id": "britishcolumbiaministryoftransportation-3e2bcc",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "tags": {
+        "network": "British Columbia Ministry of Transportation",
+        "network:wikidata": "Q4969732",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Caledonian MacBrayne",
+      "id": "caledonianmacbrayne-076922",
+      "locationSet": {"include": ["gb-sct"]},
+      "tags": {
+        "network": "Caledonian MacBrayne",
+        "network:short": "CalMac",
+        "network:wikidata": "Q1026582",
+        "operator": "Caledonian MacBrayne",
+        "operator:short": "CalMac",
+        "operator:wikidata": "Q1026582",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Casco Bay Lines",
+      "id": "cascobaylines-cb73ab",
+      "locationSet": {
+        "include": ["us-me.geojson"]
+      },
+      "tags": {
+        "network": "Casco Bay Lines",
+        "network:wikidata": "Q5048264",
+        "operator": "Casco Bay Lines",
+        "operator:wikidata": "Q5048264",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "CGN",
+      "id": "cgn-be266f",
+      "locationSet": {
+        "include": [[6.5, 46.4, 40]]
+      },
+      "tags": {
+        "network": "CGN",
+        "network:wikidata": "Q676230",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Consorcio Metropolitano de Transportes de la Bahía de Cádiz",
+      "id": "consorciometropolitanodetransportesdelabahiadecadiz-9985a2",
+      "locationSet": {
+        "include": [[-6, 36.5, 60]]
+      },
+      "tags": {
+        "network": "Consorcio Metropolitano de Transportes de la Bahía de Cádiz",
+        "network:short": "CMTBC",
+        "network:wikidata": "Q5784325",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Derwent Ferries",
+      "id": "derwentferries-759a7e",
+      "locationSet": {"include": ["au-tas"]},
+      "tags": {
+        "network": "Derwent Ferries",
+        "network:wikidata": "Q107966805",
+        "operator": "Navigators",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "False Creek Ferries",
+      "id": "falsecreekferries-3e2bcc",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "tags": {
+        "network": "False Creek Ferries",
+        "network:wikidata": "Q5432638",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Fast Ferry Hoek van Holland - Maasvlakte",
+      "id": "fastferryhoekvanhollandmaasvlakte-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Fast Ferry Hoek van Holland - Maasvlakte",
+        "network:wikidata": "Q108720466",
+        "operator": "RET",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Fast Ferry Vlissingen - Breskens",
+      "id": "fastferryvlissingenbreskens-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Fast Ferry Vlissingen - Breskens",
+        "network:wikidata": "Q108720434",
+        "operator": "Westerschelde Ferry BV",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Government of Saskatchewan",
+      "id": "governmentofsaskatchewan-78c56c",
+      "locationSet": {
+        "include": ["ca-sk.geojson"]
+      },
+      "tags": {
+        "network": "Government of Saskatchewan",
+        "network:wikidata": "Q30295437",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Hamburger Verkehrsverbund",
+      "id": "hamburgerverkehrsverbund-079be8",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "network": "Hamburger Verkehrsverbund",
+        "network:short": "HVV",
+        "network:wikidata": "Q896916",
+        "operator": "HADAG Seetouristik und Fährdienst",
+        "operator:short": "HADAG",
+        "operator:wikidata": "Q1562700",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "IJ- en Noordzeekanaalveren",
+      "id": "ijennoordzeekanaalveren-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "IJ- en Noordzeekanaalveren",
+        "network:wikidata": "Q108720424",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Kochi city boat",
+      "id": "kochicityboat-b9d235",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "network": "Kochi city boat",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Liberty Landing Ferry",
+      "id": "libertylandingferry-8befc2",
+      "locationSet": {
+        "include": [
+          "us-nj.geojson",
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Liberty Landing Ferry",
+        "network:wikidata": "Q6542171",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "London River Services",
+      "id": "londonriverservices-2972b0",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "network": "London River Services",
+        "network:wikidata": "Q371343",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Maasveren",
+      "id": "maasveren-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Maasveren",
+        "network:wikidata": "Q2674706",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Maine State Ferry Service",
+      "id": "mainestateferryservice-cb73ab",
+      "locationSet": {
+        "include": ["us-me.geojson"]
+      },
+      "tags": {
+        "network": "Maine State Ferry Service",
+        "network:wikidata": "Q113199260",
+        "operator": "Maine Department of Transportation",
+        "operator:wikidata": "Q4926312",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Marine Atlantic",
+      "id": "marineatlantic-10235b",
+      "locationSet": {
+        "include": [
+          "ca-nl.geojson",
+          "ca-ns.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Marine Atlantic",
+        "network:wikidata": "Q6764023",
+        "operator": "Marin Altantic",
+        "operator:wikidata": "Q6764023",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Mistral",
+      "id": "mistral-15832c",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "network": "Mistral",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Northumberland Ferries Limited",
+      "id": "northumberlandferrieslimited-77f74e",
+      "locationSet": {
+        "include": [
+          "ca-ns.geojson",
+          "ca-pe.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Northumberland Ferries Limited",
+        "network:wikidata": "Q7059806",
+        "operator": "Northumberland Ferries Limited",
+        "operator:wikidata": "Q7059806",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "NY Waterway",
+      "id": "nywaterway-8befc2",
+      "locationSet": {
+        "include": [
+          "us-nj.geojson",
+          "us-ny.geojson"
+        ]
+      },
+      "tags": {
+        "network": "NY Waterway",
+        "network:wikidata": "Q6956135",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Personenvervoer over water Rotterdam-Drechtsteden",
+      "id": "personenvervoeroverwaterrotterdamdrechtsteden-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": [
+        "waterbus rotterdam-drechtsteden"
+      ],
+      "tags": {
+        "network": "Personenvervoer over water Rotterdam-Drechtsteden",
+        "network:wikidata": "Q115121369",
+        "operator": "Blue Amigo",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Reisnordland",
+      "id": "reisnordland-b92c8c",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "network": "Reisnordland",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Réseau Mistral",
+      "id": "reseaumistral-15832c",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "network": "Réseau Mistral",
+        "network:wikidata": "Q3456576",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "RiverCity Ferries",
+      "id": "translink-98c650",
+      "locationSet": {
+        "include": ["au-qld.geojson"]
+      },
+      "tags": {
+        "network": "Translink",
+        "network:wikidata": "Q7833625",
+        "operator": "RiverCity Ferries",
+        "operator:wikidata": "Q97194713",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Ruter",
+      "id": "ruter-b92c8c",
+      "locationSet": {"include": ["no"]},
+      "tags": {
+        "network": "Ruter",
+        "network:wikidata": "Q750292",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Saaristoliikenne",
+      "id": "saaristoliikenne-8482fb",
+      "locationSet": {"include": ["fi"]},
+      "tags": {
+        "network": "Saaristoliikenne",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "San Francisco Bay Ferry",
+      "id": "sanfranciscobayferry-2f9628",
+      "locationSet": {
+        "include": [[-122.3, 37.75, 50]]
+      },
+      "tags": {
+        "network": "San Francisco Bay Ferry",
+        "network:short": "SFBF",
+        "network:wikidata": "Q7413935",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "SL",
+      "id": "sl-db6623",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "network": "SL",
+        "network:wikidata": "Q970452",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Société des traversiers du Québec",
+      "id": "societedestraversiersduquebec-8d4ae6",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "network": "Société des traversiers du Québec",
+        "network:short": "STQ",
+        "network:wikidata": "Q3488207",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Spirit of Tasmania",
+      "id": "spiritoftasmania-3caa08",
+      "locationSet": {
+        "include": ["au-tas", "au-vic.geojson"]
+      },
+      "tags": {
+        "name": "Spirit of Tasmania",
+        "network": "TT-Line Company",
+        "network:wikidata": "Q11704194",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Staten Island Ferry",
+      "id": "statenislandferry-732c9d",
+      "locationSet": {
+        "include": ["new_york_city.geojson"]
+      },
+      "tags": {
+        "network": "Staten Island Ferry",
+        "network:wikidata": "Q1048582",
+        "operator": "NYCDOT",
+        "operator:wikidata": "Q1058767",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Sydney Ferries",
+      "id": "sydneyferries-613015",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "network": "Sydney Ferries",
+        "network:wikidata": "Q3162795",
+        "operator": "Transdev Sydney Ferries",
+        "operator:wikidata": "Q16927194",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "TAN",
+      "id": "tan-15832c",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "network": "TAN",
+        "network:wikidata": "Q17519150",
+        "operator": "SEMITAN",
+        "operator:wikidata": "Q3487840",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Ton Paulus Veerbedrijf",
+      "id": "tonpaulusveerbedrijf-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Ton Paulus Veerbedrijf",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Translink (Canada)",
+      "id": "translink-a57b87",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "network": "Translink",
+        "operator:wikidata": "Q1142140",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Uit®waarde",
+      "id": "fa90b7-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Uit®waarde",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Västtrafik",
+      "id": "vasttrafik-db6623",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "network": "Västtrafik",
+        "network:wikidata": "Q928178",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Veer Kop van 't Land",
+      "id": "veerkopvantland-6f1a78",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "network": "Veer Kop van 't Land",
+        "network:wikidata": "Q108742712",
+        "operator": "Swets ODV Maritiem",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Verkehrsbetrieb Potsdam",
+      "id": "verkehrsverbundberlinbrandenburg-3b5620",
+      "locationSet": {
+        "include": [[13.045, 52.428, 12]]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Berlin-Brandenburg",
+        "network:short": "VBB",
+        "network:wikidata": "Q315451",
+        "operator": "Verkehrsbetrieb Potsdam",
+        "operator:short": "ViP",
+        "operator:wikidata": "Q2516117",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Oberelbe",
+      "id": "verkehrsverbundoberelbe-98c5a8",
+      "locationSet": {
+        "include": ["de-sn.geojson"]
+      },
+      "tags": {
+        "network": "Verkehrsverbund Oberelbe",
+        "network:short": "VVO",
+        "network:wikidata": "Q1426445",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Virgin Islands Transit",
+      "id": "virginislandstransit-279e1d",
+      "locationSet": {"include": ["us-vi"]},
+      "matchNames": ["vitran"],
+      "tags": {
+        "network": "Virgin Islands Transit",
+        "network:wikidata": "Q116925354",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "VVO",
+      "id": "vvo-079be8",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "network": "VVO",
+        "network:wikidata": "Q1426445",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Washington State Ferries",
+      "id": "washingtonstateferries-9a3a44",
+      "locationSet": {
+        "include": [
+          "ca-bc.geojson",
+          "us-wa.geojson"
+        ]
+      },
+      "tags": {
+        "network": "Washington State Ferries",
+        "network:wikidata": "Q3500373",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "Waxholmsbolaget",
+      "id": "waxholmsbolaget-db6623",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "network": "Waxholmsbolaget",
+        "network:wikidata": "Q7975717",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "ZVV",
+      "id": "zvv-ae05bd",
+      "locationSet": {"include": ["ch"]},
+      "matchNames": ["zürcher verkehrsverbund"],
+      "tags": {
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "广州水上巴士",
+      "id": "guangzhouwaterbus-82c1d7",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "network": "广州水上巴士",
+        "network:en": "Guangzhou Water Bus",
+        "network:wikidata": "Q17163985",
+        "network:zh": "广州水上巴士",
+        "operator": "广州公交集团客轮有限公司",
+        "route": "ferry"
+      }
+    },
+    {
+      "displayName": "青岛轮渡",
+      "id": "qingdaoferry-82c1d7",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "network": "青岛轮渡",
+        "network:en": "Qingdao Ferry",
+        "network:wikidata": "Q15902919",
+        "network:zh": "青岛轮渡",
+        "route": "ferry"
+      }
+    }
+  ]
+}

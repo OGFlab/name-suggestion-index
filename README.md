@@ -1,63 +1,76 @@
-# Name Suggestion Index
+[![build](https://github.com/osmlab/name-suggestion-index/workflows/test/badge.svg)](https://github.com/osmlab/name-suggestion-index/actions?query=workflow%3A%22test%22)
+[![npm version](https://badge.fury.io/js/name-suggestion-index.svg)](https://badge.fury.io/js/name-suggestion-index)
+[![](https://data.jsdelivr.com/v1/package/npm/name-suggestion-index/badge?style=rounded)](https://www.jsdelivr.com/package/npm/name-suggestion-index)
 
-The goal of this project is to maintain a canonical list of commonly used name 
-values for suggesting correct spelling and/or formatting that might otherwise 
-diverge from common usage on OSM. When editing a place name like `Walmart`, users 
-create many different spellings such as `Wal-Mart`, `WalMart`, `Walmart Supercenter`. 
-In [iD](http://github.com/systemed/iD) we want to help suggest the most common 
-names with the correct formatting and spelling. By 'correct', we only mean the 
-most common usage on OSM.
 
-This index can also be used for passing translated name values for a selected name. 
-For example: `McDonald's` is `マクドナルド` in Japanese. The most correct way of 
-tagging this would be to use the 'on-the-ground' language in the `name=*` tag and 
-any known translations in their appropriate `name:XX` tags. So in Japan, 
-`name=マクドナルド` and `name:en=McDonald's`, while in the US `name=McDonald's` and 
-`name:jp=マクドナルド`. If we grow this index to include more translations for the 
-most common names, we can automatically fill these translated name values when 
-one of the suggested values are used. So in an ideal senario, `McDonald's` is selected
-and many other translated `name:XX` values are automatically filled in too.
+# name-suggestion-index ("NSI")
 
-###Structure
-    {
-        "McDonald's": {
-            "name:jp": "マクドナルド",
-            "name:ch": "",
-            "name:ab": ""
-        },
-        "Subway": {},
-        "Burger King": {}
-    }
+Canonical features for OpenStreetMap, collected manually and via the [NSI Collector](https://github.com/ideditor/nsi-collector) planet scan.
 
-Just basic JSON. If you're not familiar with JSON, please look around at how it's done 
-elsewhere, things like commas are easily missed. The key for each object is implied to 
-be used as the `name=` tag. So any empty object, `{}`, will only fill the `name` 
-tag. Any translated values go inside the object.
+## What is it?
 
-Objects are also listed in their order of highest usage. This isn't strict but if 
-you're going to make edits and could preserve that order it would be nice. 
-So a name that has been used a thousand time in OSM is listed above one that might 
-have only been used fifty times.
+The goal of this project is to maintain a [canonical](https://en.wikipedia.org/wiki/Canonicalization)
+list of commonly used features for suggesting consistent spelling and tagging in OpenStreetMap.
 
-<!--
+>
+> 👉 &nbsp; [Watch the video](https://2019.stateofthemap.us/program/sat/mapping-brands-with-the-name-suggestion-index.html) from our talk at State of the Map US 2019 to learn more about this project!
+>
 
-###What we're not doing
-We're not making a blacklist of names that, in our opinion, are 'wrong' and should 
-be replaced. We're trying to make it easier for users to converge on the most common 
-names that are actually used in OSM. Descriptive, not prescriptive. We're following 
-the usage of common names on OSM, not prescribing that certain names must match 
-exactly the way it says here or that we should set out to change 'wrong' names. 
-Just fascilitating the most common usage as described by the data. This isn't the 
-place for arguing the correctness of `Walmart` vs `Wal-mart` when the data shows 
-one is used more. If you want to change the naming of Walmart across the planet 
-to what you define as 'correct', take it elsewhere.
+## Browse the index
 
-- Should we include count somewhere? It's actually useful.
-- When compiling, is the goal a single large JSON file `suggestions.json`
-or many small json files that are named very predictably? What are the memory 
-implications?
-    - Would this be baked into iD?
-        - Are we concerned about size? Minify?
-    - It's very possibile to keep these on gh-pages and make requests to it.
-        - How is wikipedia done? Is that lag acceptable for autocomplete?
--->
+You can browse the name-suggestion-index and check Wikidata links for accuracy at <https://nsi.guide>.
+
+<img alt="nsi.guide" src="https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/docs/img/nsi.png"/>
+
+## How it's used
+
+When mappers create features in OpenStreetMap, they are not always consistent about how they
+name and tag things. For example, we may prefer `McDonald's` tagged as `amenity=fast_food`
+but we see many examples of other spellings (`Mc Donald's`, `McDonalds`, `McDonald’s`) and
+taggings (`amenity=restaurant`).
+
+Building a canonical feature index allows two very useful things:
+
+- We can suggest the most "correct" way to tag things as users create them while editing.
+- We can scan the OSM data for "incorrect" features and produce lists for review and cleanup.
+
+<img width="1017px" alt="Name Suggestion Index in use in iD" src="https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/docs/img/nsi-in-iD.gif"/>
+
+*The name-suggestion-index is in use in iD when adding a new item*
+
+Currently used in:
+
+- [Rapid](https://github.com/facebook/Rapid)
+- [iD](https://github.com/openstreetmap/iD) (see above)
+- [Vespucci](http://vespucci.io/tutorials/name_suggestions/)
+- [JOSM presets](https://josm.openstreetmap.de/wiki/Help/Preferences/TaggingPresetPreference) available
+- [Osmose](http://osmose.openstreetmap.fr/en/errors?item=3130)
+- [osmfeatures](https://github.com/westnordost/osmfeatures)
+- [Go Map!!](https://github.com/bryceco/GoMap)
+- [StreetComplete](https://github.com/streetcomplete/StreetComplete/blob/master/buildSrc/src/main/java/UpdateNsiPresetsTask.kt)
+- [Every Door](https://github.com/Zverik/every_door)
+- [All The Places](https://github.com/alltheplaces/alltheplaces)
+
+## About the index
+
+See [the project wiki](https://github.com/osmlab/name-suggestion-index/wiki) for details.
+
+## Participate!
+
+We're always looking for help!
+
+- Read [the Code of Conduct](CODE_OF_CONDUCT.md) and remember to be kind to one another.
+- See [the project wiki](https://github.com/osmlab/name-suggestion-index/wiki) for info about how to contribute to this index.
+
+If you have any questions or want to reach out to a maintainer, ping
+[@bhousel][@bhousel], [@1ec5][@1ec5], or [@tas50][@tas50] on:
+- [OpenStreetMap US Slack](https://slack.openstreetmap.us/) (`#poi` or `#general` channels)
+
+[@bhousel]: https://github.com/bhousel
+[@1ec5]: https://github.com/1ec5
+[@tas50]: https://github.com/tas50
+
+## License
+
+**name-suggestion-index** is available under the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause).
+See the [LICENSE.md](LICENSE.md) file for more details.

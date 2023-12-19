@@ -1,0 +1,1446 @@
+{
+  "properties": {
+    "path": "brands/shop/car",
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": [
+        "^(car|mécanique)$",
+        "^4s店$",
+        "^авто(рынок|запчасти)?$",
+        "^автома(г|газин|стерская)?$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Acura",
+      "id": "acura-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Acura",
+        "brand:wikidata": "Q53097",
+        "name": "Acura",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Aixam",
+      "id": "aixam-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Aixam",
+        "brand:wikidata": "Q6751",
+        "name": "Aixam",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Alfa Romeo",
+      "id": "alfaromeo-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Alfa Romeo",
+        "brand:wikidata": "Q26921",
+        "name": "Alfa Romeo",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Alpine",
+      "id": "alpine-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Alpine",
+        "brand:wikidata": "Q26944",
+        "name": "Alpine",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "America's Car-Mart",
+      "id": "americascarmart-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "America's Car-Mart",
+        "brand:wikidata": "Q120636900",
+        "name": "America's Car-Mart",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Arnold Clark",
+      "id": "arnoldclark-42e946",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Arnold Clark",
+        "brand:wikidata": "Q29344371",
+        "name": "Arnold Clark",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Aston Martin",
+      "id": "astonmartin-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Aston Martin",
+        "brand:wikidata": "Q27074",
+        "name": "Aston Martin",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Audi",
+      "id": "audi-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Audi",
+        "brand:wikidata": "Q23317",
+        "name": "Audi",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "AutoNation",
+      "id": "autonation-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "AutoNation",
+        "brand:wikidata": "Q784804",
+        "name": "AutoNation",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Avis Car Sales",
+      "id": "avis-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Avis",
+        "brand:wikidata": "Q791136",
+        "name": "Avis",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Bentley",
+      "id": "bentley-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Bentley",
+        "brand:wikidata": "Q27224",
+        "name": "Bentley",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "BMW",
+      "id": "bmw-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "BMW",
+        "brand:wikidata": "Q26678",
+        "name": "BMW",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Bristol Street Motors",
+      "id": "bristolstreetmotors-5338a7",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "brand": "Bristol Street Motors",
+        "brand:wikidata": "Q117319414",
+        "name": "Bristol Street Motors",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Buick",
+      "id": "buick-738dde",
+      "locationSet": {
+        "include": ["ca", "cn", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Buick",
+        "brand:wikidata": "Q27415",
+        "name": "Buick",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "BYD",
+      "id": "byd-c7952c",
+      "locationSet": {
+        "include": ["001", "hk", "mo"],
+        "exclude": ["cn"]
+      },
+      "matchNames": ["build your dreams"],
+      "tags": {
+        "brand": "BYD Auto",
+        "brand:wikidata": "Q27423",
+        "name": "BYD",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Byrider",
+      "id": "byrider-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Byrider",
+        "brand:wikidata": "Q6105214",
+        "name": "Byrider",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Cadillac",
+      "id": "cadillac-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Cadillac",
+        "brand:wikidata": "Q27436",
+        "name": "Cadillac",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "CarMax",
+      "id": "carmax-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "CarMax",
+        "brand:wikidata": "Q5037190",
+        "name": "CarMax",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "CarShop",
+      "id": "carshop-4f2218",
+      "locationSet": {"include": ["gb", "us"]},
+      "tags": {
+        "brand": "CarShop",
+        "brand:wikidata": "Q109308461",
+        "name": "CarShop",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Cazoo",
+      "id": "cazoo-42e946",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Cazoo",
+        "brand:wikidata": "Q83948954",
+        "name": "Cazoo",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Chevrolet",
+      "id": "chevrolet-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Chevrolet",
+        "brand:wikidata": "Q29570",
+        "name": "Chevrolet",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Chrysler",
+      "id": "chrysler-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Chrysler",
+        "brand:wikidata": "Q181114",
+        "name": "Chrysler",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Citroën",
+      "id": "citroen-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Citroën",
+        "brand:wikidata": "Q6746",
+        "name": "Citroën",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Cupra",
+      "id": "cupra-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Cupra",
+        "brand:wikidata": "Q8352675",
+        "name": "Cupra",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Dacia",
+      "id": "dacia-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Dacia",
+        "brand:wikidata": "Q27460",
+        "name": "Dacia",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Dodge",
+      "id": "dodge-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Dodge",
+        "brand:wikidata": "Q27564",
+        "name": "Dodge",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "DriveTime",
+      "id": "drivetime-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "DriveTime",
+        "brand:wikidata": "Q5307879",
+        "name": "DriveTime",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "DS Automobiles",
+      "id": "dsautomobiles-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["ds"],
+      "tags": {
+        "brand": "DS Automobiles",
+        "brand:wikidata": "Q16040593",
+        "name": "DS Automobiles",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Enterprise Car Sales",
+      "id": "enterprisecarsales-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Enterprise Car Sales",
+        "brand:wikidata": "Q5380295",
+        "name": "Enterprise Car Sales",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Ferrari",
+      "id": "ferrari-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ferrari",
+        "brand:wikidata": "Q27586",
+        "name": "Ferrari",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Fiat",
+      "id": "fiat-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Fiat",
+        "brand:wikidata": "Q27597",
+        "name": "Fiat",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Ford",
+      "id": "ford-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["ford motor company"],
+      "tags": {
+        "brand": "Ford",
+        "brand:wikidata": "Q44294",
+        "name": "Ford",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Freightliner",
+      "id": "freightliner-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Freightliner",
+        "brand:wikidata": "Q1420724",
+        "name": "Freightliner",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Geely",
+      "id": "geely-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Geely",
+        "brand:wikidata": "Q739000",
+        "name": "Geely",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Genesis",
+      "id": "genesis-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "genesis motor",
+        "genesis motors"
+      ],
+      "tags": {
+        "brand": "Genesis",
+        "brand:wikidata": "Q21451523",
+        "name": "Genesis",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "GMC",
+      "id": "gmc-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "GMC",
+        "brand:wikidata": "Q28993",
+        "name": "GMC",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Hertz Car Sales",
+      "id": "hertzcarsales-71ab24",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Hertz Car Sales",
+        "brand:wikidata": "Q18349283",
+        "name": "Hertz Car Sales",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Holden",
+      "id": "holden-e02034",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Holden",
+        "brand:wikidata": "Q29281",
+        "name": "Holden",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Honda",
+      "id": "honda-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["honda cars"],
+      "tags": {
+        "brand": "Honda",
+        "brand:wikidata": "Q9584",
+        "name": "Honda",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Hyundai",
+      "id": "hyundai-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["hyundai india"],
+      "tags": {
+        "brand": "Hyundai",
+        "brand:wikidata": "Q55931",
+        "name": "Hyundai",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Infiniti",
+      "id": "infiniti-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Infiniti",
+        "brand:wikidata": "Q29714",
+        "name": "Infiniti",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Isuzu",
+      "id": "isuzu-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Isuzu",
+        "brand:wikidata": "Q29803",
+        "name": "Isuzu",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Jaguar",
+      "id": "jaguar-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Jaguar",
+        "brand:wikidata": "Q21170490",
+        "name": "Jaguar",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Jeep",
+      "id": "jeep-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Jeep",
+        "brand:wikidata": "Q30113",
+        "name": "Jeep",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Karma",
+      "id": "karma-40d0fc",
+      "locationSet": {
+        "include": [
+          "be",
+          "ca",
+          "cn",
+          "ec",
+          "es",
+          "fr",
+          "il",
+          "is",
+          "nl",
+          "pa",
+          "se",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Karma Automotive",
+        "brand:wikidata": "Q22671741",
+        "name": "Karma",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Kia",
+      "id": "kia-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["kia motors"],
+      "tags": {
+        "brand": "Kia",
+        "brand:wikidata": "Q35349",
+        "name": "Kia",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Koenigsegg",
+      "id": "koenigsegg-45c2de",
+      "locationSet": {
+        "include": [
+          "ae",
+          "au",
+          "ca",
+          "ch",
+          "cn",
+          "de",
+          "es",
+          "gb",
+          "jp",
+          "kr",
+          "lb",
+          "mx",
+          "my",
+          "om",
+          "pl",
+          "se",
+          "sg",
+          "th",
+          "tw",
+          "us",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Koenigsegg",
+        "brand:wikidata": "Q35594",
+        "name": "Koenigsegg",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "L’Agence Automobilière",
+      "id": "lagenceautomobiliere-60f922",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "es",
+          "fr",
+          "gp",
+          "it",
+          "mq",
+          "nl",
+          "pt"
+        ]
+      },
+      "tags": {
+        "brand": "L’Agence Automobilière",
+        "brand:wikidata": "Q120734335",
+        "name": "L’Agence Automobilière",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Lada",
+      "id": "lada-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Lada",
+        "brand:en": "Lada",
+        "brand:ru": "Лада",
+        "brand:wikidata": "Q35676",
+        "name": "Lada",
+        "name:en": "Lada",
+        "name:ru": "Лада",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Lamborghini",
+      "id": "lamborghini-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Lamborghini",
+        "brand:wikidata": "Q35886",
+        "name": "Lamborghini",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Land Rover",
+      "id": "landrover-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Land Rover",
+        "brand:wikidata": "Q26777551",
+        "name": "Land Rover",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Lexus",
+      "id": "lexus-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Lexus",
+        "brand:wikidata": "Q35919",
+        "name": "Lexus",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Lincoln",
+      "id": "lincoln-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Lincoln",
+        "brand:wikidata": "Q216796",
+        "name": "Lincoln",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Lotus Cars",
+      "id": "lotuscars-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Lotus Cars",
+        "brand:wikidata": "Q35935",
+        "name": "Lotus Cars",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Lucid Motors",
+      "id": "lucidmotors-870a08",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Lucid Motors",
+        "brand:wikidata": "Q28027517",
+        "name": "Lucid Motors",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Lynk & Co",
+      "id": "lynkandco-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Lynk & Co",
+        "brand:wikidata": "Q27555283",
+        "name": "Lynk & Co",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Maruti Suzuki",
+      "id": "marutisuzuki-aa55a2",
+      "locationSet": {"include": ["in"]},
+      "matchNames": ["maruti suzuki arena"],
+      "tags": {
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "name": "Maruti Suzuki",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Maserati",
+      "id": "maserati-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Maserati",
+        "brand:wikidata": "Q35962",
+        "name": "Maserati",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Mazda",
+      "id": "mazda-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mazda",
+        "brand:wikidata": "Q35996",
+        "name": "Mazda",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "McLaren",
+      "id": "mclaren-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "McLaren",
+        "brand:wikidata": "Q1351854",
+        "name": "McLaren",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Mercedes-Benz",
+      "id": "mercedesbenz-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["mercedes"],
+      "tags": {
+        "brand": "Mercedes-Benz",
+        "brand:wikidata": "Q36008",
+        "name": "Mercedes-Benz",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "MG",
+      "id": "mg-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["mg motor", "mg motors"],
+      "tags": {
+        "brand": "MG",
+        "brand:wikidata": "Q1881443",
+        "name": "MG",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Mini",
+      "id": "mini-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mini",
+        "brand:wikidata": "Q116232",
+        "name": "Mini",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Mitsubishi",
+      "id": "mitsubishi-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["mitsubishi motors"],
+      "tags": {
+        "brand": "Mitsubishi",
+        "brand:wikidata": "Q36033",
+        "name": "Mitsubishi",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Netz",
+      "id": "netz-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "Netz",
+        "brand:wikidata": "Q11325416",
+        "name": "Netz",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "NIO House",
+      "id": "niohouse-465d1f",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "brand": "NIO",
+        "brand:wikidata": "Q29921278",
+        "name": "NIO House",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "NIO Space",
+      "id": "niospace-465d1f",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "brand": "NIO",
+        "brand:wikidata": "Q29921278",
+        "name": "NIO Space",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Nissan",
+      "id": "nissan-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Nissan",
+        "brand:wikidata": "Q20165",
+        "name": "Nissan",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Opel",
+      "id": "opel-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Opel",
+        "brand:wikidata": "Q40966",
+        "name": "Opel",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Perodua",
+      "id": "perodua-fca759",
+      "locationSet": {
+        "include": ["gb", "my", "sg"]
+      },
+      "tags": {
+        "brand": "Perodua",
+        "brand:wikidata": "Q1476369",
+        "name": "Perodua",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Peugeot",
+      "id": "peugeot-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Peugeot",
+        "brand:wikidata": "Q6742",
+        "name": "Peugeot",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Polestar Spaces",
+      "id": "polestar-adf3f2",
+      "locationSet": {
+        "include": [
+          "be",
+          "ca",
+          "cn",
+          "de",
+          "gb",
+          "nl",
+          "no",
+          "se",
+          "us"
+        ]
+      },
+      "matchNames": ["polestar racing"],
+      "tags": {
+        "brand": "Polestar",
+        "brand:wikidata": "Q4047174",
+        "name": "Polestar",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Porsche",
+      "id": "porsche-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Porsche",
+        "brand:wikidata": "Q40993",
+        "name": "Porsche",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Proton",
+      "id": "proton-576082",
+      "locationSet": {
+        "include": [
+          "cl",
+          "eg",
+          "id",
+          "my",
+          "sg",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "Proton",
+        "brand:wikidata": "Q827306",
+        "name": "Proton",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Ram",
+      "id": "ram-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ram",
+        "brand:wikidata": "Q165708",
+        "name": "Ram",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Renault",
+      "id": "renault-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Renault",
+        "brand:wikidata": "Q6686",
+        "name": "Renault",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Rimac",
+      "id": "rimac-0f1e04",
+      "locationSet": {
+        "include": [
+          "ae",
+          "ca",
+          "cn",
+          "de",
+          "es",
+          "gb",
+          "jp",
+          "mx",
+          "sg",
+          "us"
+        ]
+      },
+      "tags": {
+        "brand": "Rimac",
+        "brand:wikidata": "Q7334368",
+        "name": "Rimac",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Rivian Spaces",
+      "id": "rivianspaces-870a08",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Rivian Spaces",
+        "brand:wikidata": "Q7338847",
+        "name": "Rivian Spaces",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Rolls-Royce Motor Cars",
+      "id": "rollsroycemotorcars-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Rolls-Royce Motor Cars",
+        "brand:wikidata": "Q234803",
+        "name": "Rolls-Royce Motor Cars",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Seat",
+      "id": "seat-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Seat",
+        "brand:wikidata": "Q188217",
+        "name": "Seat",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Škoda",
+      "id": "skoda-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["škoda auto"],
+      "tags": {
+        "brand": "Škoda",
+        "brand:wikidata": "Q29637",
+        "name": "Škoda",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Smart",
+      "id": "smart-b77732",
+      "locationSet": {"include": ["150", "cn"]},
+      "tags": {
+        "brand": "Smart",
+        "brand:wikidata": "Q156490",
+        "name": "Smart",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Subaru",
+      "id": "subaru-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Subaru",
+        "brand:wikidata": "Q172741",
+        "name": "Subaru",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Suzuki",
+      "id": "suzuki-59b739",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["in"]
+      },
+      "tags": {
+        "brand": "Suzuki",
+        "brand:wikidata": "Q181642",
+        "name": "Suzuki",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Tata",
+      "id": "tata-aa55a2",
+      "locationSet": {"include": ["in"]},
+      "matchNames": [
+        "tata motors",
+        "tata motors cars"
+      ],
+      "tags": {
+        "brand": "Tata",
+        "brand:wikidata": "Q188514",
+        "name": "Tata",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Tesla",
+      "id": "tesla-8ae848",
+      "locationSet": {
+        "include": ["001", "hk", "mo"],
+        "exclude": ["cn", "tw"]
+      },
+      "matchNames": ["tesla motors"],
+      "tags": {
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "name": "Tesla",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Toyota",
+      "id": "toyota-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["toyota usa"],
+      "tags": {
+        "brand": "Toyota",
+        "brand:wikidata": "Q53268",
+        "name": "Toyota",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Vauxhall",
+      "id": "vauxhall-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Vauxhall",
+        "brand:wikidata": "Q59187",
+        "name": "Vauxhall",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Volkswagen",
+      "id": "volkswagen-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["vw"],
+      "tags": {
+        "brand": "Volkswagen",
+        "brand:wikidata": "Q246",
+        "name": "Volkswagen",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Volvo",
+      "id": "volvo-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Volvo",
+        "brand:wikidata": "Q215293",
+        "name": "Volvo",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "We Buy Any Car",
+      "id": "webuyanycar-42e946",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["webuyanycar.com"],
+      "tags": {
+        "brand": "We Buy Any Car",
+        "brand:wikidata": "Q7977432",
+        "name": "We Buy Any Car",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Xpeng",
+      "id": "xpeng-465d1f",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "tags": {
+        "brand": "Xpeng",
+        "brand:wikidata": "Q63035278",
+        "name": "Xpeng",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Автомир",
+      "id": "autoworld-7c9618",
+      "locationSet": {"include": ["ru"]},
+      "matchTags": ["shop/car_parts"],
+      "tags": {
+        "brand": "Автомир",
+        "brand:en": "Autoworld",
+        "brand:ru": "Автомир",
+        "brand:wikidata": "Q4056321",
+        "name": "Автомир",
+        "name:en": "Autoworld",
+        "name:ru": "Автомир",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "سایپا",
+      "id": "saipa-bd50af",
+      "locationSet": {"include": ["ir"]},
+      "tags": {
+        "brand": "سایپا",
+        "brand:en": "Saipa",
+        "brand:fa": "سایپا",
+        "brand:wikidata": "Q116234",
+        "name": "سایپا",
+        "name:en": "Saipa",
+        "name:fa": "سایپا",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "ガリバー",
+      "id": "gulliver-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ガリバー",
+        "brand:en": "Gulliver",
+        "brand:ja": "ガリバー",
+        "brand:wikidata": "Q11296264",
+        "name": "ガリバー",
+        "name:en": "Gulliver",
+        "name:ja": "ガリバー",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "スズキアリーナ",
+      "id": "b8fc2e-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "スズキアリーナ",
+        "brand:ja": "スズキアリーナ",
+        "name": "スズキアリーナ",
+        "name:ja": "スズキアリーナ",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "ダイハツ",
+      "id": "daihatsu-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ダイハツ",
+        "brand:en": "Daihatsu",
+        "brand:ja": "ダイハツ",
+        "brand:wikidata": "Q27511",
+        "name": "ダイハツ",
+        "name:en": "Daihatsu",
+        "name:ja": "ダイハツ",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "トヨタ",
+      "id": "toyota-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["トヨタカローラ", "トヨタ自動車"],
+      "tags": {
+        "brand": "トヨタ",
+        "brand:en": "Toyota",
+        "brand:ja": "トヨタ",
+        "brand:wikidata": "Q53268",
+        "name": "トヨタ",
+        "name:en": "Toyota",
+        "name:ja": "トヨタ",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "ネクステージ",
+      "id": "nextage-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ネクステージ",
+        "brand:en": "NEXTAGE",
+        "brand:ja": "ネクステージ",
+        "brand:wikidata": "Q18338759",
+        "name": "ネクステージ",
+        "name:en": "Nextage",
+        "name:ja": "ネクステージ",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "ビッグモーター",
+      "id": "bigmotor-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ビッグモーター",
+        "brand:en": "BIGMOTOR",
+        "brand:ja": "ビッグモーター",
+        "brand:wikidata": "Q11330789",
+        "name": "ビッグモーター",
+        "name:en": "Bigmotor",
+        "name:ja": "ビッグモーター",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "ホンダ",
+      "id": "honda-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ホンダ",
+        "brand:en": "Honda",
+        "brand:ja": "ホンダ",
+        "brand:wikidata": "Q9584",
+        "name": "ホンダ",
+        "name:en": "Honda",
+        "name:ja": "ホンダ",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "小鹏",
+      "id": "xpeng-115502",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "小鹏",
+        "brand:en": "Xpeng",
+        "brand:wikidata": "Q63035278",
+        "brand:zh": "小鹏",
+        "name": "小鹏",
+        "name:en": "Xpeng",
+        "name:zh": "小鹏",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "日産",
+      "id": "nissan-27c9bc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "日産",
+        "brand:en": "Nissan",
+        "brand:ja": "日産",
+        "brand:wikidata": "Q20165",
+        "name": "日産",
+        "name:en": "Nissan",
+        "name:ja": "日産",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "极氪",
+      "id": "zeekr-115502",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "极氪",
+        "brand:en": "Zeekr",
+        "brand:wikidata": "Q106621124",
+        "brand:zh": "极氪",
+        "name": "极氪",
+        "name:en": "Zeekr",
+        "name:zh": "极氪",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "比亚迪",
+      "id": "byd-985889",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": ["比亚迪汽车"],
+      "tags": {
+        "brand": "比亚迪",
+        "brand:en": "BYD",
+        "brand:wikidata": "Q27423",
+        "brand:zh": "比亚迪",
+        "name": "比亚迪",
+        "name:en": "BYD",
+        "name:zh": "比亚迪",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "特斯拉",
+      "id": "tesla-7e0cc6",
+      "locationSet": {
+        "include": ["cn", "tw"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "特斯拉",
+        "brand:en": "Tesla",
+        "brand:wikidata": "Q478214",
+        "brand:zh": "特斯拉",
+        "name": "特斯拉",
+        "name:en": "Tesla",
+        "name:zh": "特斯拉",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "理想",
+      "id": "liauto-115502",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "理想",
+        "brand:en": "Li Auto",
+        "brand:wikidata": "Q98139925",
+        "brand:zh": "理想",
+        "name": "理想",
+        "name:en": "Li Auto",
+        "name:zh": "理想",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "蔚来中心",
+      "id": "niohouse-115502",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "蔚来",
+        "brand:en": "NIO",
+        "brand:wikidata": "Q29921278",
+        "brand:zh": "蔚来",
+        "name": "蔚来中心",
+        "name:en": "NIO House",
+        "name:zh": "蔚来中心",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "蔚来空间",
+      "id": "niospace-115502",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "蔚来",
+        "brand:en": "NIO",
+        "brand:wikidata": "Q29921278",
+        "brand:zh": "蔚来",
+        "name": "蔚来空间",
+        "name:en": "NIO Space",
+        "name:zh": "蔚来空间",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "零跑汽车",
+      "id": "leapmotor-115502",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "零跑汽车",
+        "brand:en": "LeapMotor",
+        "brand:wikidata": "Q99510294",
+        "brand:zh": "零跑汽车",
+        "name": "零跑汽车",
+        "name:en": "LeapMotor",
+        "name:zh": "零跑汽车",
+        "shop": "car"
+      }
+    }
+  ]
+}

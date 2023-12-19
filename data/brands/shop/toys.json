@@ -1,0 +1,683 @@
+{
+  "properties": {
+    "path": "brands/shop/toys",
+    "exclude": {
+      "generic": ["^toys$", "^игрушки$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Alltoys",
+      "id": "alltoys-72911e",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Alltoys",
+        "brand:wikidata": "Q52857895",
+        "name": "Alltoys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "American Girl",
+      "id": "americangirl-6aad54",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "American Girl",
+        "brand:wikidata": "Q3310434",
+        "name": "American Girl",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Bambule",
+      "id": "bambule-259fba",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "brand": "Bambule",
+        "brand:wikidata": "Q97312896",
+        "name": "Bambule",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "BMart",
+      "id": "bmart-9c99b8",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "BMart",
+        "brand:wikidata": "Q106752739",
+        "name": "BMart",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Bricks & Minifigs",
+      "id": "bricksandminifigs-f7900c",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Bricks & Minifigs",
+        "brand:wikidata": "Q109329121",
+        "name": "Bricks & Minifigs",
+        "second_hand": "yes",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Build-A-Bear Workshop",
+      "id": "buildabearworkshop-0e7d81",
+      "locationSet": {
+        "include": ["ca", "gb", "us"]
+      },
+      "matchNames": ["build a bear"],
+      "matchTags": ["shop/gift"],
+      "tags": {
+        "brand": "Build-A-Bear Workshop",
+        "brand:wikidata": "Q1002992",
+        "name": "Build-A-Bear Workshop",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Città del sole",
+      "id": "cittadelsole-da26c5",
+      "locationSet": {"include": ["it"]},
+      "matchNames": ["la città del sole"],
+      "tags": {
+        "brand": "Città del sole",
+        "brand:wikidata": "Q115215840",
+        "name": "Città del sole",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Dexy Co",
+      "id": "dexyco-ea03fb",
+      "locationSet": {"include": ["ba", "rs"]},
+      "matchNames": ["dexy co kids"],
+      "tags": {
+        "brand": "Dexy Co",
+        "brand:wikidata": "Q97192674",
+        "name": "Dexy Co",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Dráčik",
+      "id": "dracik-72911e",
+      "locationSet": {"include": ["cz", "sk"]},
+      "tags": {
+        "brand": "Dráčik",
+        "brand:wikidata": "Q57653669",
+        "name": "Dráčik",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Early Learning Centre",
+      "id": "earlylearningcentre-f866de",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["early learning center"],
+      "tags": {
+        "alt_name": "ELC",
+        "brand": "Early Learning Centre",
+        "brand:wikidata": "Q5326681",
+        "name": "Early Learning Centre",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Go! Games & Toys",
+      "id": "gogamesandtoys-6aad54",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Go! Games & Toys",
+        "brand:wikidata": "Q108312837",
+        "name": "Go! Games & Toys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Hamleys",
+      "id": "hamleys-e66b54",
+      "locationSet": {
+        "include": ["gb", "in", "ru", "za"]
+      },
+      "tags": {
+        "brand": "Hamleys",
+        "brand:wikidata": "Q60299",
+        "name": "Hamleys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Hawkin's Bazaar",
+      "id": "hawkinsbazaar-f866de",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Hawkin's Bazaar",
+        "brand:wikidata": "Q16983539",
+        "name": "Hawkin's Bazaar",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Intertoys",
+      "id": "intertoys-741056",
+      "locationSet": {
+        "include": ["be", "de", "nl"]
+      },
+      "tags": {
+        "brand": "Intertoys",
+        "brand:wikidata": "Q1891407",
+        "name": "Intertoys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "JouéClub",
+      "id": "joueclub-913d0c",
+      "locationSet": {
+        "include": [
+          "ad",
+          "fr",
+          "it",
+          "lb",
+          "ma",
+          "qa"
+        ]
+      },
+      "tags": {
+        "brand": "JouéClub",
+        "brand:wikidata": "Q3187152",
+        "name": "JouéClub",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Juguettos",
+      "id": "juguettos-fe170e",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "brand": "Juguettos",
+        "brand:wikidata": "Q105339592",
+        "name": "Juguettos",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Jumbo",
+      "id": "jumbo-f2bb45",
+      "locationSet": {
+        "include": [
+          "al",
+          "ba",
+          "cy",
+          "gr",
+          "md",
+          "me",
+          "mk",
+          "ro",
+          "rs",
+          "xk"
+        ]
+      },
+      "tags": {
+        "brand": "Jumbo",
+        "brand:wikidata": "Q3562323",
+        "name": "Jumbo",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Jumbo (Bulgaria)",
+      "id": "jumbo-643931",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Jumbo",
+        "brand:wikidata": "Q3562323",
+        "name": "Jumbo",
+        "name:bg": "Джъмбо",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Kidstuff",
+      "id": "kidstuff-e3e843",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Kidstuff",
+        "brand:wikidata": "Q117746407",
+        "name": "Kidstuff",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "King Jouet",
+      "id": "kingjouet-7999e4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "King Jouet",
+        "brand:en": "King Toy",
+        "brand:wikidata": "Q3197009",
+        "name": "King Jouet",
+        "name:en": "King Toy",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "La Grande Récré",
+      "id": "lagranderecre-61c030",
+      "locationSet": {
+        "include": ["be", "ci", "es", "fr", "ma"]
+      },
+      "tags": {
+        "brand": "La Grande Récré",
+        "brand:wikidata": "Q3209556",
+        "name": "La Grande Récré",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Lego",
+      "id": "lego-80bf0f",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["lego store"],
+      "tags": {
+        "brand": "Lego",
+        "brand:wikidata": "Q1063455",
+        "name": "Lego",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Lekia",
+      "id": "lekia-77c96c",
+      "locationSet": {"include": ["no", "se"]},
+      "tags": {
+        "brand": "Lekia",
+        "brand:wikidata": "Q56303274",
+        "name": "Lekia",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Mastermind Toys",
+      "id": "mastermindtoys-64674c",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Mastermind Toys",
+        "brand:wikidata": "Q55138088",
+        "name": "Mastermind Toys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Maxi Toys",
+      "id": "maxitoys-581d0c",
+      "locationSet": {
+        "include": ["be", "de", "fr", "it"]
+      },
+      "tags": {
+        "brand": "Maxi Toys",
+        "brand:wikidata": "Q16663879",
+        "name": "Maxi Toys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Menkind",
+      "id": "menkind-f866de",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Menkind",
+        "brand:wikidata": "Q66725844",
+        "name": "Menkind",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "myToys",
+      "id": "mytoys-7f72cb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "myToys",
+        "brand:wikidata": "Q1956320",
+        "name": "myToys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Noriel",
+      "id": "noriel-ec9991",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "brand": "Noriel",
+        "brand:wikidata": "Q18544426",
+        "name": "Noriel",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Oxybul",
+      "id": "oxybul-7999e4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Oxybul",
+        "brand:wikidata": "Q3359074",
+        "name": "Oxybul",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "PicWicToys",
+      "id": "picwictoys-7999e4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "PicWicToys",
+        "brand:wikidata": "Q3382507",
+        "name": "PicWicToys",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Ri Happy",
+      "id": "rihappy-9c99b8",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "brand": "Ri Happy Brinquedos",
+        "brand:wikidata": "Q10360441",
+        "name": "Ri Happy",
+        "official_name": "Ri Happy Brinquedos",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "ROFU Kinderland",
+      "id": "rofukinderland-7f72cb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "ROFU Kinderland",
+        "brand:wikidata": "Q2161487",
+        "name": "ROFU Kinderland",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Smyk",
+      "id": "smyk-3d0b80",
+      "locationSet": {
+        "include": ["pl", "ro", "ua"]
+      },
+      "matchTags": ["shop/baby_goods"],
+      "tags": {
+        "brand": "Smyk",
+        "brand:wikidata": "Q2295606",
+        "name": "Smyk",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Smyths",
+      "id": "smyths-468a3c",
+      "locationSet": {
+        "include": ["at", "ch", "de", "gb", "ie"]
+      },
+      "matchNames": ["smyths toys"],
+      "tags": {
+        "brand": "Smyths",
+        "brand:wikidata": "Q7546779",
+        "name": "Smyths",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Spiele Max",
+      "id": "spielemax-7f72cb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Spiele Max",
+        "brand:wikidata": "Q35590762",
+        "name": "Spiele Max",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Steiff",
+      "id": "steiff-7f72cb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Steiff",
+        "brand:wikidata": "Q151137",
+        "name": "Steiff",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "The Entertainer",
+      "id": "theentertainer-6f40da",
+      "locationSet": {"include": ["gb", "je"]},
+      "tags": {
+        "brand": "The Entertainer",
+        "brand:wikidata": "Q7732289",
+        "name": "The Entertainer",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toy Kingdom",
+      "id": "toykingdom-7500f4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "Toy Kingdom",
+        "brand:wikidata": "Q7830512",
+        "name": "Toy Kingdom",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "ToyChamp",
+      "id": "toychamp-5f5d6c",
+      "locationSet": {"include": ["be", "nl"]},
+      "tags": {
+        "brand": "ToyChamp",
+        "brand:wikidata": "Q64797057",
+        "name": "ToyChamp",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toymaster",
+      "id": "toymaster-3a8f1c",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "brand": "Toymaster",
+        "brand:wikidata": "Q7830615",
+        "name": "Toymaster",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toys Center",
+      "id": "toyscenter-da26c5",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Toys Center",
+        "brand:wikidata": "Q105340071",
+        "name": "Toys Center",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toys R Us",
+      "id": "toysrus-e7185c",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn", "jp"]
+      },
+      "tags": {
+        "brand": "Toys R Us",
+        "brand:wikidata": "Q696334",
+        "name": "Toys R Us",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toytown",
+      "id": "toytown-f866de",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Toytown",
+        "brand:wikidata": "Q24887651",
+        "name": "Toytown",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toyworld",
+      "id": "toyworld-03114e",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Toyworld",
+        "brand:wikidata": "Q95923071",
+        "name": "Toyworld",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toyzz Shop",
+      "id": "toyzzshop-a17e1f",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Toyzz Shop",
+        "brand:wikidata": "Q28606323",
+        "name": "Toyzz Shop",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Бегемотик",
+      "id": "begemott-d68103",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Бегемотик",
+        "brand:wikidata": "Q111023729",
+        "name": "Бегемотик",
+        "name:en": "Begemott",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Комсед",
+      "id": "comsed-643931",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Комсед",
+        "brand:en": "Comsed",
+        "brand:wikidata": "Q114133809",
+        "name": "Комсед",
+        "name:en": "Comsed",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Кораблик",
+      "id": "korablik-d68103",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Кораблик",
+        "brand:wikidata": "Q57653416",
+        "name": "Кораблик",
+        "name:en": "Korablik",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Мир Кубиков",
+      "id": "6dff21-80bf0f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Мир Кубиков",
+        "name": "Мир Кубиков",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "イエロー・サブマリン",
+      "id": "yellowsubmarine-ae2adc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "イエロー・サブマリン",
+        "brand:en": "Yellow Submarine",
+        "brand:ja": "イエロー・サブマリン",
+        "brand:wikidata": "Q11285925",
+        "name": "イエロー・サブマリン",
+        "name:en": "Yellow Submarine",
+        "name:ja": "イエロー・サブマリン",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "トイザらス",
+      "id": "toysrus-ae2adc",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "トイザらス",
+        "brand:en": "Toys R Us",
+        "brand:ja": "トイザらス",
+        "brand:wikidata": "Q696334",
+        "name": "トイザらス",
+        "name:en": "Toys R Us",
+        "name:ja": "トイザらス",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "泡泡玛特",
+      "id": "popmart-c090d5",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "泡泡玛特",
+        "brand:en": "Pop Mart",
+        "brand:wikidata": "Q97180096",
+        "brand:zh": "泡泡玛特",
+        "name": "泡泡玛特",
+        "name:en": "Pop Mart",
+        "name:zh": "泡泡玛特",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "玩具反斗城",
+      "id": "toysrus-7bb2d2",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "brand": "玩具反斗城",
+        "brand:en": "Toys R Us",
+        "brand:wikidata": "Q696334",
+        "brand:zh": "玩具反斗城",
+        "name": "玩具反斗城",
+        "name:en": "Toys R Us",
+        "name:zh": "玩具反斗城",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "玩具反斗城 Toys R Us",
+      "id": "toysrus-3ab846",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "玩具反斗城 Toys R Us",
+        "brand:en": "Toys R Us",
+        "brand:wikidata": "Q696334",
+        "brand:zh": "玩具反斗城",
+        "name": "玩具反斗城 Toys R Us",
+        "name:en": "Toys R Us",
+        "name:zh": "玩具反斗城",
+        "shop": "toys"
+      }
+    }
+  ]
+}

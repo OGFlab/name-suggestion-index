@@ -1,0 +1,993 @@
+{
+  "properties": {
+    "path": "brands/shop/telecommunication",
+    "exclude": {
+      "generic": [
+        "^(cell|mobile|wireless)?\\s?phone$",
+        "^télécentre$",
+        "^telecommunication$",
+        "^مخابرات$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "1O1O",
+      "id": "1o1o-d0af53",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["1010"],
+      "tags": {
+        "brand": "1O1O",
+        "brand:wikidata": "Q10843723",
+        "name": "1O1O",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "3",
+      "id": "three-063284",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "3",
+        "brand:en": "3",
+        "brand:wikidata": "Q407009",
+        "name": "Three.",
+        "name:en": "Three.",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "A1",
+      "id": "a1-5b3624",
+      "locationSet": {
+        "include": ["at", "by", "hr", "si"]
+      },
+      "matchNames": [
+        "velcom",
+        "velcom|a1",
+        "велком"
+      ],
+      "tags": {
+        "brand": "A1",
+        "brand:wikidata": "Q688755",
+        "name": "A1",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "A1 (Srbija)",
+      "id": "a1-ba40c7",
+      "locationSet": {"include": ["rs"]},
+      "matchNames": ["vip mobile", "вип мобајл"],
+      "tags": {
+        "brand": "A1 Serbia",
+        "brand:sr": "А1 Србија",
+        "brand:wikidata": "Q826186",
+        "name": "A1",
+        "name:sr": "А1",
+        "name:sr-Latn": "A1",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "A1 (Северна Македонија)",
+      "id": "a1-5455f4",
+      "locationSet": {"include": ["mk"]},
+      "tags": {
+        "brand": "A1",
+        "brand:wikidata": "Q24589907",
+        "name": "A1",
+        "name:mk": "А1",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "A1 България",
+      "id": "a1-5ceaa9",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["mtel", "мтел"],
+      "tags": {
+        "brand": "A1",
+        "brand:wikidata": "Q1941592",
+        "name": "A1",
+        "name:bg": "А1",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Agencia ICE",
+      "id": "agenciaice-478408",
+      "locationSet": {"include": ["cr"]},
+      "tags": {
+        "brand": "ICE",
+        "brand:wikidata": "Q3431114",
+        "name": "Agencia ICE",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Bell",
+      "id": "bell-e8684d",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["bell canada"],
+      "tags": {
+        "brand": "Bell",
+        "brand:wikidata": "Q815694",
+        "name": "Bell",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "C Spire",
+      "id": "cspire-3a9c60",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "C Spire",
+        "brand:wikidata": "Q5015101",
+        "name": "C Spire",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Celcom",
+      "id": "celcom-c82acb",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Celcom",
+        "brand:wikidata": "Q836827",
+        "name": "Celcom",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "CenturyLink",
+      "id": "centurylink-3a9c60",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "CenturyLink",
+        "brand:wikidata": "Q110391616",
+        "name": "CenturyLink",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "csl.",
+      "id": "csl-d0af53",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "csl.",
+        "brand:en": "csl.",
+        "brand:wikidata": "Q843967",
+        "name": "csl.",
+        "name:en": "csl.",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "CYTA",
+      "id": "cyta-e85adc",
+      "locationSet": {"include": ["cy", "gr"]},
+      "tags": {
+        "brand": "CYTA",
+        "brand:wikidata": "Q3565273",
+        "name": "CYTA",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Datagroup",
+      "id": "datagroup-19c022",
+      "locationSet": {"include": ["ua"]},
+      "tags": {
+        "brand": "Datagroup",
+        "brand:en": "Datagroup",
+        "brand:uk": "Датагруп",
+        "brand:wikidata": "Q12099588",
+        "name": "Datagroup",
+        "name:en": "Datagroup",
+        "name:uk": "Датагруп",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Digi",
+      "id": "digi-9fbd0b",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "brand": "Digi",
+        "brand:wikidata": "Q224710",
+        "name": "Digi",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Digi Store",
+      "id": "digistore-c82acb",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Digi",
+        "brand:wikidata": "Q3268530",
+        "name": "Digi Store",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "DISH",
+      "id": "dish-3a9c60",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "DISH",
+        "brand:wikidata": "Q1199757",
+        "name": "DISH",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Dito",
+      "id": "dito-1229f4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["mislatel"],
+      "tags": {
+        "alt_name": "Dito Telecommunity",
+        "brand": "Dito",
+        "brand:wikidata": "Q64734142",
+        "name": "Dito",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Epic",
+      "id": "epic-099b82",
+      "locationSet": {"include": ["cy"]},
+      "tags": {
+        "brand": "Epic",
+        "brand:wikidata": "Q106823386",
+        "name": "Epic",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Galeri Indosat",
+      "id": "galeriindosat-ba2701",
+      "locationSet": {"include": ["id"]},
+      "matchNames": ["indosat ooredoo"],
+      "tags": {
+        "brand": "Indosat",
+        "brand:wikidata": "Q2393592",
+        "name": "Galeri Indosat",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Galeri Smartfren",
+      "id": "galerismartfren-ba2701",
+      "locationSet": {"include": ["id"]},
+      "matchNames": ["fren"],
+      "tags": {
+        "brand": "Smartfren",
+        "brand:wikidata": "Q3476312",
+        "name": "Galeri Smartfren",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Globe",
+      "id": "globe-1229f4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "alt_name": "Globe Telecom",
+        "brand": "Globe",
+        "brand:wikidata": "Q3543983",
+        "name": "Globe",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "GraPARI Telkomsel",
+      "id": "graparitelkomsel-ba2701",
+      "locationSet": {"include": ["id"]},
+      "matchNames": ["grapari"],
+      "tags": {
+        "brand": "Telkomsel",
+        "brand:wikidata": "Q1786124",
+        "name": "GraPARI Telkomsel",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Malitel",
+      "id": "malitel-478897",
+      "locationSet": {"include": ["ml"]},
+      "tags": {
+        "brand": "Malitel",
+        "brand:wikidata": "Q6743829",
+        "name": "Malitel",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Maxis",
+      "id": "maxis-c82acb",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Maxis",
+        "brand:wikidata": "Q2627330",
+        "name": "Maxis",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "mts",
+      "id": "mts-28400c",
+      "locationSet": {
+        "include": ["ba", "hr", "me", "rs", "xk"]
+      },
+      "matchNames": ["telekom srbija"],
+      "tags": {
+        "brand": "mts",
+        "brand:wikidata": "Q1278722",
+        "name": "mts",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Ooredoo",
+      "id": "ooredoo-33bf96",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ooredoo",
+        "brand:wikidata": "Q919935",
+        "name": "Ooredoo",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Orange Mali",
+      "id": "orangemali-478897",
+      "locationSet": {"include": ["ml"]},
+      "tags": {
+        "brand": "Orange Mali",
+        "brand:wikidata": "Q3355061",
+        "name": "Orange Mali",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Proximus Shop",
+      "id": "proximusshop-6be163",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "brand": "Proximus",
+        "brand:wikidata": "Q2005282",
+        "name": "Proximus Shop",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "PŸUR",
+      "id": "pyur-c071e4",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "PŸUR",
+        "brand:wikidata": "Q41680846",
+        "name": "PŸUR",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Salt",
+      "id": "salt-b6d5be",
+      "locationSet": {"include": ["ch"]},
+      "matchNames": ["salt store"],
+      "tags": {
+        "brand": "Salt",
+        "brand:wikidata": "Q17325543",
+        "name": "Salt",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Sky",
+      "id": "sky-e64962",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Sky",
+        "brand:wikidata": "Q918390",
+        "name": "Sky",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Smart",
+      "id": "smart-1229f4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["sun cellular"],
+      "tags": {
+        "alt_name": "Smart Communications",
+        "brand": "Smart",
+        "brand:wikidata": "Q7543955",
+        "name": "Smart",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Spectrum",
+      "id": "spectrum-3a9c60",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Spectrum",
+        "brand:wikidata": "Q7805197",
+        "name": "Spectrum",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Sunrise",
+      "id": "sunrise-b6d5be",
+      "locationSet": {"include": ["ch"]},
+      "matchNames": ["sunrise shop"],
+      "tags": {
+        "brand": "Sunrise",
+        "brand:wikidata": "Q112573820",
+        "name": "Sunrise",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Swisscom",
+      "id": "swisscom-b6d5be",
+      "locationSet": {"include": ["ch"]},
+      "matchNames": ["swisscom shop"],
+      "tags": {
+        "brand": "Swisscom",
+        "brand:wikidata": "Q644324",
+        "name": "Swisscom",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Telenet",
+      "id": "telenet-6be163",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "brand": "Telenet",
+        "brand:wikidata": "Q616340",
+        "name": "Telenet",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Telenor",
+      "id": "telenor-f4a586",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["bg", "hu", "rs"]
+      },
+      "tags": {
+        "brand": "Telenor",
+        "brand:wikidata": "Q14915070",
+        "name": "Telenor",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "TMpoint",
+      "id": "tmpoint-c82acb",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Telekom Malaysia",
+        "brand:wikidata": "Q1640639",
+        "name": "TMpoint",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "U Mobile",
+      "id": "umobile-c82acb",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "U Mobile",
+        "brand:wikidata": "Q7876226",
+        "name": "U Mobile",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Vivacom",
+      "id": "vivacom-5ceaa9",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["бтк", "вивател"],
+      "tags": {
+        "brand": "Vivacom",
+        "brand:bg": "Виваком",
+        "brand:en": "Vivacom",
+        "brand:wikidata": "Q7937522",
+        "name": "Vivacom",
+        "name:bg": "Виваком",
+        "name:en": "Vivacom",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Volia",
+      "id": "volia-19c022",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["воля"],
+      "tags": {
+        "brand": "Volia",
+        "brand:wikidata": "Q4124842",
+        "name": "Volia",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "VOO",
+      "id": "voo-6be163",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "brand": "VOO",
+        "brand:wikidata": "Q1877682",
+        "name": "VOO",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Xfinity",
+      "id": "xfinity-3a9c60",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Xfinity",
+        "brand:wikidata": "Q5151002",
+        "name": "Xfinity",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "XL Center",
+      "id": "xlcenter-ba2701",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "brand": "XL Axiata",
+        "brand:wikidata": "Q3482752",
+        "name": "XL Center",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Yes 4G",
+      "id": "yes4g-c82acb",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "brand": "Yes 4G",
+        "brand:wikidata": "Q8052735",
+        "name": "Yes 4G",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Yettel Bulgaria",
+      "id": "yettel-5ceaa9",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": [
+        "globul",
+        "telenor",
+        "yettel (bulgaria)",
+        "глобул",
+        "теленор"
+      ],
+      "tags": {
+        "brand": "Yettel",
+        "brand:wikidata": "Q14915070",
+        "name": "Yettel",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Yettel Hungary",
+      "id": "yettel-fbadaa",
+      "locationSet": {"include": ["hu"]},
+      "matchNames": [
+        "telenor",
+        "yettel (hungary)"
+      ],
+      "tags": {
+        "brand": "Yettel",
+        "brand:wikidata": "Q268578",
+        "name": "Yettel",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Yettel Serbia",
+      "id": "yettel-ba40c7",
+      "locationSet": {"include": ["rs"]},
+      "matchNames": [
+        "telenor",
+        "yettel (serbia)",
+        "теленор"
+      ],
+      "tags": {
+        "brand": "Yettel",
+        "brand:wikidata": "Q1780171",
+        "name": "Yettel",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Булсатком",
+      "id": "bulsatcom-5ceaa9",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Булсатком",
+        "brand:wikidata": "Q12270598",
+        "name": "Булсатком",
+        "name:bg": "Булсатком",
+        "name:en": "Bulsatcom",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Дом.ru",
+      "id": "5ff447-33bf96",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Дом.ru",
+        "name": "Дом.ru",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Македонски Телеком",
+      "id": "makedonskitelecom-5455f4",
+      "locationSet": {"include": ["mk"]},
+      "tags": {
+        "brand": "Македонски Телеком",
+        "brand:wikidata": "Q3280739",
+        "name": "Македонски Телеком",
+        "name:en": "Makedonski Telecom",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "МТС",
+      "id": "mts-53a4f1",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "МТС",
+        "brand:en": "MTS",
+        "brand:wikidata": "Q1368919",
+        "name": "МТС",
+        "name:en": "MTS",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Ростелеком",
+      "id": "b6fed5-58655c",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Ростелеком",
+        "brand:wikidata": "Q1477012",
+        "name": "Ростелеком",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Телекабел",
+      "id": "telekabel-5455f4",
+      "locationSet": {"include": ["mk"]},
+      "tags": {
+        "brand": "Телекабел",
+        "brand:wikidata": "Q7696291",
+        "name": "Телекабел",
+        "name:en": "Telekabel",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "Укртелеком",
+      "id": "ukrtelecom-19c022",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["пат укртелеком"],
+      "tags": {
+        "brand": "Укртелеком",
+        "brand:en": "Ukrtelecom",
+        "brand:uk": "Укртелеком",
+        "brand:wikidata": "Q1505321",
+        "name": "Укртелеком",
+        "name:en": "Ukrtelecom",
+        "name:uk": "Укртелеком",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中国广电",
+      "id": "chinabroadnet-3ad2fe",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": [
+        "山东广电",
+        "山东有线",
+        "广电宽带",
+        "广电营业厅",
+        "江苏有线"
+      ],
+      "tags": {
+        "brand": "中国广电",
+        "brand:en": "China Broadnet",
+        "brand:wikidata": "Q115471921",
+        "brand:zh": "中国广电",
+        "name": "中国广电",
+        "name:en": "China Broadnet",
+        "name:zh": "中国广电",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中国电信",
+      "id": "chinatelecom-3ad2fe",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": [
+        "中国电信营业厅",
+        "电信5g营业厅",
+        "电信宽带",
+        "电信营业厅"
+      ],
+      "tags": {
+        "brand": "中国电信",
+        "brand:en": "China Telecom",
+        "brand:wikidata": "Q1073540",
+        "brand:zh": "中国电信",
+        "name": "中国电信",
+        "name:en": "China Telecom",
+        "name:zh": "中国电信",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中国移动",
+      "id": "chinamobile-3ad2fe",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": [
+        "中国移动营业厅",
+        "移动5g营业厅",
+        "移动宽带",
+        "移动营业厅"
+      ],
+      "tags": {
+        "brand": "中国移动",
+        "brand:en": "China Mobile",
+        "brand:wikidata": "Q741618",
+        "brand:zh": "中国移动",
+        "name": "中国移动",
+        "name:en": "China Mobile",
+        "name:zh": "中国移动",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中国联通",
+      "id": "chinaunicom-3ad2fe",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": [
+        "中国联通营业厅",
+        "联通5g营业厅",
+        "联通宽带",
+        "联通营业厅"
+      ],
+      "tags": {
+        "brand": "中国联通",
+        "brand:en": "China Unicom",
+        "brand:wikidata": "Q1068485",
+        "brand:zh": "中国联通",
+        "name": "中国联通",
+        "name:en": "China Unicom",
+        "name:zh": "中国联通",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中國移動香港 China Mobile Hong Kong",
+      "id": "chinamobile-d0af53",
+      "locationSet": {"include": ["hk"]},
+      "matchNames": ["cmhk", "中移動", "萬眾"],
+      "tags": {
+        "brand": "中國移動香港 China Mobile Hong Kong",
+        "brand:en": "China Mobile Hong Kong",
+        "brand:wikidata": "Q5099786",
+        "brand:zh": "中國移動香港",
+        "brand:zh-Hans": "中国移动香港",
+        "brand:zh-Hant": "中國移動香港",
+        "name": "中國移動 China Mobile",
+        "name:en": "China Mobile",
+        "name:zh": "中國移動",
+        "name:zh-Hans": "中国移动",
+        "name:zh-Hant": "中國移動",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中國聯通 China Unicom",
+      "id": "chinaunicom-d0af53",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "中國聯通 China Unicom",
+        "brand:en": "China Unicom",
+        "brand:wikidata": "Q75990567",
+        "brand:zh": "中國聯通",
+        "brand:zh-Hans": "中国联通",
+        "brand:zh-Hant": "中國聯通",
+        "name": "中國聯通 China Unicom",
+        "name:en": "China Unicom",
+        "name:zh": "中國聯通",
+        "name:zh-Hans": "中国联通",
+        "name:zh-Hant": "中國聯通",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中國電信 China Telecom",
+      "id": "chinatelecom-37ccdd",
+      "locationSet": {"include": ["mo"]},
+      "tags": {
+        "brand": "中國電信 China Telecom",
+        "brand:en": "China Telecom",
+        "brand:wikidata": "Q1073540",
+        "brand:zh": "中國電信",
+        "brand:zh-Hans": "中国电信",
+        "brand:zh-Hant": "中國電信",
+        "name": "中國電信 China Telecom",
+        "name:en": "China Telecom",
+        "name:zh": "中國電信",
+        "name:zh-Hans": "中国电信",
+        "name:zh-Hant": "中國電信",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "中華電信",
+      "id": "chunghwatelecom-4f600a",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "中華電信",
+        "brand:en": "Chunghwa Telecom",
+        "brand:wikidata": "Q717531",
+        "brand:zh": "中華電信",
+        "name": "中華電信",
+        "name:en": "Chunghwa Telecom",
+        "name:zh": "中華電信",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "亞太電信",
+      "id": "asiapacifictelecom-4f600a",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "亞太電信",
+        "brand:en": "Asia Pacific Telecom",
+        "brand:wikidata": "Q10882737",
+        "brand:zh": "亞太電信",
+        "name": "亞太電信",
+        "name:en": "Asia Pacific Telecom",
+        "name:zh": "亞太電信",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "台灣之星",
+      "id": "tstar-4f600a",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "台灣之星",
+        "brand:en": "T Star",
+        "brand:wikidata": "Q4006966",
+        "brand:zh": "台灣之星",
+        "name": "台灣之星",
+        "name:en": "T Star",
+        "name:zh": "台灣之星",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "台灣大哥大",
+      "id": "taiwanmobile-4f600a",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "台灣大哥大",
+        "brand:en": "Taiwan Mobile",
+        "brand:wikidata": "Q5943259",
+        "brand:zh": "台灣大哥大",
+        "name": "台灣大哥大",
+        "name:en": "Taiwan Mobile",
+        "name:zh": "台灣大哥大",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "數碼通 SmarTone",
+      "id": "smartone-063284",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "brand": "數碼通 SmarTone",
+        "brand:en": "SmarTone",
+        "brand:wikidata": "Q11079498",
+        "brand:zh": "數碼通",
+        "brand:zh-Hans": "数码通",
+        "brand:zh-Hant": "數碼通",
+        "name": "數碼通 SmarTone",
+        "name:en": "SmarTone",
+        "name:zh": "數碼通",
+        "name:zh-Hans": "数码通",
+        "name:zh-Hant": "數碼通",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "新移動通訊 SUN Mobile",
+      "id": "sunmobile-d0af53",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "brand": "新移動通訊 SUN Mobile",
+        "brand:en": "SUN Mobile",
+        "brand:wikidata": "Q11080923",
+        "brand:zh": "新移動通訊",
+        "brand:zh-Hans": "新移动通讯",
+        "brand:zh-Hant": "新移動通訊",
+        "name": "新移動通訊 SUN Mobile",
+        "name:en": "SUN Mobile",
+        "name:zh": "新移動通訊",
+        "name:zh-Hans": "新移动通讯",
+        "name:zh-Hant": "新移動通訊",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "澳門電訊 CTM",
+      "id": "ctm-37ccdd",
+      "locationSet": {"include": ["mo"]},
+      "tags": {
+        "brand": "澳門電訊 CTM",
+        "brand:en": "CTM",
+        "brand:pt": "CTM",
+        "brand:wikidata": "Q2990317",
+        "brand:zh": "澳門電訊",
+        "brand:zh-Hans": "澳门电讯",
+        "brand:zh-Hant": "澳門電訊",
+        "name": "澳門電訊 CTM",
+        "name:en": "CTM",
+        "name:pt": "CTM",
+        "name:zh": "澳門電訊",
+        "name:zh-Hans": "澳门电讯",
+        "name:zh-Hant": "澳門電訊",
+        "shop": "telecommunication"
+      }
+    },
+    {
+      "displayName": "遠傳電信",
+      "id": "fareastone-4f600a",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "brand": "遠傳電信",
+        "brand:en": "FarEasTone",
+        "brand:wikidata": "Q5434486",
+        "brand:zh": "遠傳電信",
+        "name": "遠傳電信",
+        "name:en": "FarEasTone",
+        "name:zh": "遠傳電信",
+        "shop": "telecommunication"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "properties": {
+    "path": "operators/internet_access/wlan",
+    "exclude": {"generic": ["^wifi|wlan$"]}
+  },
+  "items": [
+    {
+      "displayName": "ABB Wi-Fi",
+      "id": "abbwifi-60e48e",
+      "locationSet": {"include": ["tr"]},
+      "matchNames": ["ankara büyükşehir wi-fi"],
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "ABB Wi-Fi",
+        "internet_access:ssid": "Ankara Buyuksehir WiFi",
+        "operator": "ABB Wi-Fi"
+      }
+    },
+    {
+      "displayName": "ibbWiFi",
+      "id": "ibbwifi-60e48e",
+      "locationSet": {"include": ["tr"]},
+      "matchNames": ["immwifi"],
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "ibbWiFi",
+        "internet_access:ssid": "ibbWiFi",
+        "operator": "ibbWiFi",
+        "operator:wikidata": "Q113512188"
+      }
+    },
+    {
+      "displayName": "LinkNYC",
+      "id": "linknyc-5430f5",
+      "locationSet": {
+        "include": ["new_york_city.geojson"]
+      },
+      "matchTags": [
+        "amenity/telephone",
+        "emergency/phone",
+        "tourism/information"
+      ],
+      "tags": {
+        "emergency": "phone",
+        "information": "terminal",
+        "internet_access": "wlan",
+        "operator": "LinkNYC",
+        "operator:wikidata": "Q19880795",
+        "tourism": "information"
+      }
+    },
+    {
+      "displayName": "MobyKlick",
+      "id": "mobyklick-18a37e",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["mobi klick", "moby click"],
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "MobyKlick",
+        "internet_access:ssid": "MobyKlick",
+        "operator": "MobyKlick",
+        "operator:wikidata": "Q108024323"
+      }
+    }
+  ]
+}

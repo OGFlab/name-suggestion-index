@@ -1,0 +1,109 @@
+{
+  "properties": {
+    "path": "brands/shop/rental",
+    "exclude": {"generic": ["^rental$"]}
+  },
+  "items": [
+    {
+      "displayName": "Budget Truck Rental",
+      "id": "budget-3eaf6e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Budget",
+        "brand:wikidata": "Q4985029",
+        "name": "Budget",
+        "official_name": "Budget Truck Rental",
+        "shop": "rental"
+      }
+    },
+    {
+      "displayName": "Enterprise Truck Rental",
+      "id": "enterprise-402547",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Enterprise",
+        "brand:wikidata": "Q17085454",
+        "name": "Enterprise",
+        "official_name": "Enterprise Truck Rental",
+        "shop": "rental"
+      }
+    },
+    {
+      "displayName": "Mobile Mini (UK)",
+      "id": "mobilemini-0ac50a",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Mobile Mini",
+        "brand:wikidata": "Q123415563",
+        "name": "Mobile Mini",
+        "shop": "rental"
+      }
+    },
+    {
+      "displayName": "Mobile Mini (US, Canada)",
+      "id": "mobilemini-402547",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Mobile Mini",
+        "brand:wikidata": "Q6886914",
+        "name": "Mobile Mini",
+        "shop": "rental"
+      }
+    },
+    {
+      "displayName": "Penske Truck Rental",
+      "id": "pensketruckrental-402547",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchTags": ["office/moving_company"],
+      "tags": {
+        "brand": "Penske Truck Rental",
+        "brand:wikidata": "Q81234570",
+        "name": "Penske Truck Rental",
+        "shop": "rental",
+        "short_name": "Penske"
+      }
+    },
+    {
+      "displayName": "Ryder",
+      "id": "ryder-7deb17",
+      "locationSet": {
+        "include": ["ca", "gb", "mx", "us"]
+      },
+      "tags": {
+        "brand": "Ryder",
+        "brand:wikidata": "Q2178198",
+        "name": "Ryder",
+        "shop": "rental"
+      }
+    },
+    {
+      "displayName": "U-Haul",
+      "id": "uhaul-402547",
+      "locationSet": {"include": ["ca", "us"]},
+      "matchNames": [
+        "u-haul moving & storage",
+        "uhaul neighborhood dealer"
+      ],
+      "tags": {
+        "brand": "U-Haul",
+        "brand:wikidata": "Q7862902",
+        "name": "U-Haul",
+        "shop": "rental"
+      }
+    },
+    {
+      "displayName": "WillScot",
+      "id": "willscot-06c9f3",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "matchNames": ["williams scotsman"],
+      "tags": {
+        "brand": "WillScot",
+        "brand:wikidata": "Q123415387",
+        "name": "WillScot",
+        "shop": "rental"
+      }
+    }
+  ]
+}

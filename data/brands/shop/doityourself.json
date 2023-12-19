@@ -1,0 +1,1712 @@
+{
+  "properties": {
+    "path": "brands/shop/doityourself",
+    "exclude": {
+      "generic": [
+        "^(İ|i̇)nşaat malları$",
+        "^(сантехника|стройматериалы)$",
+        "^doityourself$",
+        "^будматеріали$",
+        "^хоз(товары)$"
+      ],
+      "named": ["^мастер$", "^строитель$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Ace Hardware",
+      "id": "acehardware-092aaf",
+      "locationSet": {"include": ["001"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Ace Hardware",
+        "brand:wikidata": "Q4672981",
+        "name": "Ace Hardware",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Alsford",
+      "id": "alsford-ae8e02",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Alsford",
+        "brand:wikidata": "Q100298902",
+        "name": "Alsford",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "B&Q",
+      "id": "bandq-092aaf",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "B&Q",
+        "brand:wikidata": "Q707602",
+        "name": "B&Q",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bath Depot",
+      "id": "bathdepot-fd1fd9",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Bath Depot",
+        "name": "Bath Depot",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bauhaus",
+      "id": "bauhaus-6847b5",
+      "locationSet": {
+        "include": [
+          "at",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "dk",
+          "ee",
+          "es",
+          "fi",
+          "hr",
+          "hu",
+          "is",
+          "lu",
+          "nl",
+          "no",
+          "se",
+          "si",
+          "sk",
+          "tr"
+        ]
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "name": "Bauhaus",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "BAUKING",
+      "id": "bauking-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "BAUKING",
+        "brand:wikidata": "Q47457074",
+        "name": "BAUKING",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Baumax",
+      "id": "baumax-bc270a",
+      "locationSet": {
+        "include": ["at", "cz", "si", "sk"]
+      },
+      "tags": {
+        "brand": "Baumax",
+        "brand:wikidata": "Q310499",
+        "name": "Baumax",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "BauSpezi",
+      "id": "bauspezi-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "BauSpezi",
+        "brand:wikidata": "Q85324366",
+        "name": "BauSpezi",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "BayWa",
+      "id": "baywa-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "BayWa",
+        "brand:wikidata": "Q812055",
+        "name": "BayWa",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Beacon",
+      "id": "beacon-c727e9",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "beacon roofing supply, inc"
+      ],
+      "tags": {
+        "brand": "Beacon",
+        "brand:wikidata": "Q16950815",
+        "name": "Beacon",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "BigMat",
+      "id": "bigmat-488295",
+      "locationSet": {
+        "include": [
+          "be",
+          "cz",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "BigMat",
+        "brand:wikidata": "Q101851862",
+        "name": "BigMat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Biltema",
+      "id": "biltema-acccd4",
+      "locationSet": {
+        "include": ["dk", "fi", "no", "se"]
+      },
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Biltema",
+        "brand:wikidata": "Q3355552",
+        "name": "Biltema",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Boxer Build",
+      "id": "boxerbuild-ea5357",
+      "locationSet": {"include": ["sz", "za"]},
+      "tags": {
+        "brand": "Boxer Build",
+        "brand:wikidata": "Q122766671",
+        "name": "Boxer Build",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Brico",
+      "id": "brico-e0cb01",
+      "locationSet": {
+        "include": ["be", "fr", "it"]
+      },
+      "tags": {
+        "brand": "Brico",
+        "brand:wikidata": "Q2510786",
+        "name": "Brico",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Brico Dépôt",
+      "id": "bricodepot-46eef0",
+      "locationSet": {
+        "include": ["es", "fr", "pt", "ro"]
+      },
+      "tags": {
+        "brand": "Brico Dépôt",
+        "brand:wikidata": "Q2889702",
+        "name": "Brico Dépôt",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Brico io",
+      "id": "bricoio-afce84",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Brico io",
+        "brand:wikidata": "Q15965705",
+        "name": "Brico io",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "BricoCenter",
+      "id": "bricocenter-afce84",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "BricoCenter",
+        "brand:wikidata": "Q3644563",
+        "name": "BricoCenter",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bricoma",
+      "id": "bricoma-bf07e6",
+      "locationSet": {"include": ["ma"]},
+      "tags": {
+        "brand": "Bricoma",
+        "brand:ar": "بريكوما",
+        "brand:fr": "Bricoma",
+        "brand:wikidata": "Q22683621",
+        "name": "Bricoma",
+        "name:ar": "بريكوما",
+        "name:fr": "Bricoma",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bricoman",
+      "id": "bricoman-8777a8",
+      "locationSet": {"include": ["fr", "pl"]},
+      "tags": {
+        "brand": "Bricoman",
+        "brand:wikidata": "Q2925142",
+        "name": "Bricoman",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bricomarché",
+      "id": "bricomarche-cfc45c",
+      "locationSet": {
+        "include": ["fr", "pl", "pt"]
+      },
+      "tags": {
+        "brand": "Bricomarché",
+        "brand:wikidata": "Q2925147",
+        "name": "Bricomarché",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bricopro",
+      "id": "bricopro-28b8a0",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Bricopro",
+        "brand:wikidata": "Q110069152",
+        "name": "Bricopro",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bricorama",
+      "id": "bricorama-80eee7",
+      "locationSet": {"include": ["es", "fr"]},
+      "tags": {
+        "brand": "Bricorama",
+        "brand:wikidata": "Q2925146",
+        "name": "Bricorama",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Build it",
+      "id": "buildit-aadd8a",
+      "locationSet": {
+        "include": ["ls", "mz", "na", "sz", "za"]
+      },
+      "tags": {
+        "brand": "Build it",
+        "brand:wikidata": "Q116755810",
+        "name": "Build it",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Buildbase",
+      "id": "buildbase-ae8e02",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Buildbase",
+        "brand:wikidata": "Q4986416",
+        "name": "Buildbase",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Builders Express",
+      "id": "buildersexpress-a9941a",
+      "locationSet": {
+        "include": ["bw", "ke", "mz", "za", "zm"]
+      },
+      "tags": {
+        "brand": "Builders Express",
+        "brand:wikidata": "Q116819137",
+        "name": "Builders Express",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Builders Superstore",
+      "id": "builderssuperstore-a9941a",
+      "locationSet": {
+        "include": ["bw", "ke", "mz", "za", "zm"]
+      },
+      "tags": {
+        "brand": "Builders Superstore",
+        "brand:wikidata": "Q116819137",
+        "name": "Builders Superstore",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Builders Warehouse",
+      "id": "builderswarehouse-a9941a",
+      "locationSet": {
+        "include": ["bw", "ke", "mz", "za", "zm"]
+      },
+      "tags": {
+        "brand": "Builders Warehouse",
+        "brand:wikidata": "Q116819137",
+        "name": "Builders Warehouse",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Bunnings Warehouse",
+      "id": "bunningswarehouse-aaac5b",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "brand": "Bunnings Warehouse",
+        "brand:wikidata": "Q4997829",
+        "name": "Bunnings Warehouse",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Byggmax",
+      "id": "byggmax-b25d3a",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "brand": "Byggmax",
+        "brand:wikidata": "Q10438182",
+        "name": "Byggmax",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Cashbuild",
+      "id": "cashbuild-c5a717",
+      "locationSet": {
+        "include": [
+          "bw",
+          "ls",
+          "mw",
+          "na",
+          "sz",
+          "za"
+        ]
+      },
+      "matchTags": ["shop/houseware"],
+      "tags": {
+        "brand": "Cashbuild",
+        "brand:wikidata": "Q116474606",
+        "name": "Cashbuild",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Castorama",
+      "id": "castorama-f558f5",
+      "locationSet": {
+        "include": ["fr", "pl", "ru"]
+      },
+      "tags": {
+        "brand": "Castorama",
+        "brand:wikidata": "Q966971",
+        "name": "Castorama",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Chausson Matériaux",
+      "id": "chaussonmateriaux-28b8a0",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Chausson Matériaux",
+        "brand:wikidata": "Q100701530",
+        "name": "Chausson Matériaux",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Clas Ohlson",
+      "id": "clasohlson-baf621",
+      "locationSet": {
+        "include": ["fi", "no", "se"]
+      },
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Clas Ohlson",
+        "brand:wikidata": "Q3356220",
+        "name": "Clas Ohlson",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Coop Bau+Hobby",
+      "id": "coopbauhobby-0f6f08",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "Coop Bau+Hobby",
+        "brand:wikidata": "Q432564",
+        "name": "Coop Bau+Hobby",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Coop Byggmix",
+      "id": "coopbyggmix-1b58cb",
+      "locationSet": {"include": ["no"]},
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Coop Byggmix",
+        "brand:wikidata": "Q12714075",
+        "name": "Coop Byggmix",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "DCM",
+      "id": "dcm-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "DCM",
+        "brand:en": "DCM",
+        "brand:ja": "ディーシーエム",
+        "brand:wikidata": "Q11195603",
+        "name": "DCM",
+        "name:en": "DCM",
+        "name:ja": "ディーシーエム",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "DCMニコット",
+      "id": "dcmnicot-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "DCMニコット",
+        "brand:en": "DCM nicot",
+        "brand:ja": "DCMニコット",
+        "brand:wikidata": "Q11318834",
+        "name": "DCMニコット",
+        "name:en": "DCM nicot",
+        "name:ja": "DCMニコット",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Dedeman",
+      "id": "dedeman-8112dc",
+      "locationSet": {"include": ["ro"]},
+      "tags": {
+        "brand": "Dedeman",
+        "brand:wikidata": "Q5249762",
+        "name": "Dedeman",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "E.Leclerc Brico",
+      "id": "eleclercbrico-28b8a0",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "E.Leclerc Brico",
+        "brand:wikidata": "Q1273376",
+        "name": "E.Leclerc Brico",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Easy",
+      "id": "easy-063ae0",
+      "locationSet": {
+        "include": ["ar", "cl", "co"]
+      },
+      "tags": {
+        "brand": "Easy",
+        "brand:wikidata": "Q5331091",
+        "name": "Easy",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Gamma",
+      "id": "gamma-29070e",
+      "locationSet": {"include": ["be", "nl"]},
+      "tags": {
+        "brand": "Gamma",
+        "brand:wikidata": "Q2294120",
+        "name": "Gamma",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Gedimat",
+      "id": "gedimat-28b8a0",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Gedimat",
+        "brand:wikidata": "Q101852953",
+        "name": "Gedimat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Globus Baumarkt",
+      "id": "globusbaumarkt-6f5ad3",
+      "locationSet": {"include": ["de", "lu"]},
+      "tags": {
+        "brand": "Globus Baumarkt",
+        "brand:wikidata": "Q457503",
+        "name": "Globus Baumarkt",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Hagebaumarkt",
+      "id": "hagebaumarkt-f009fa",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "es",
+          "fr",
+          "lu",
+          "nl"
+        ]
+      },
+      "matchNames": ["hagebau"],
+      "tags": {
+        "brand": "Hagebaumarkt",
+        "brand:wikidata": "Q1568279",
+        "name": "Hagebaumarkt",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Hammer",
+      "id": "hammer-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Hammer",
+        "brand:wikidata": "Q52159668",
+        "name": "Hammer",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Harald Nyborg",
+      "id": "haraldnyborg-27539e",
+      "locationSet": {"include": ["dk"]},
+      "tags": {
+        "brand": "Harald Nyborg",
+        "brand:wikidata": "Q12315668",
+        "name": "Harald Nyborg",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Hellweg",
+      "id": "hellweg-601db4",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "Hellweg",
+        "brand:wikidata": "Q1603084",
+        "name": "Hellweg",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "HERKULES Bau&Garten",
+      "id": "herkulesbauandgarten-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "HERKULES Bau&Garten",
+        "brand:wikidata": "Q108992661",
+        "name": "HERKULES Bau&Garten",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Home Building Centre (Canada)",
+      "id": "homebuildingcentre-fd1fd9",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Home Hardware",
+        "brand:wikidata": "Q3139611",
+        "name": "Home Building Centre",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Home Hardware Building Centre (Canada)",
+      "id": "homehardwarebuildingcentre-fd1fd9",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Home Hardware",
+        "brand:wikidata": "Q3139611",
+        "name": "Home Hardware Building Centre",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Home Timber & Hardware (Australia)",
+      "id": "hometimberandhardware-b05cd0",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "alt_name": "Home Hardware",
+        "brand": "Home Timber & Hardware",
+        "brand:wikidata": "Q17006984",
+        "name": "Home Timber & Hardware",
+        "shop": "doityourself",
+        "short_name": "Home"
+      }
+    },
+    {
+      "displayName": "Homebase",
+      "id": "homebase-0c42e1",
+      "locationSet": {"include": ["gb", "ie"]},
+      "tags": {
+        "brand": "Homebase",
+        "brand:wikidata": "Q9293447",
+        "name": "Homebase",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "HomeMax",
+      "id": "homemax-6499aa",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "HomeMax",
+        "brand:bg": "ХоумМакс",
+        "brand:en": "HomeMax",
+        "brand:wikidata": "Q115525669",
+        "name": "HomeMax",
+        "name:bg": "ХоумМакс",
+        "name:en": "HomeMax",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "HORNBACH",
+      "id": "hornbach-92b1c1",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "cz",
+          "de",
+          "lu",
+          "nl",
+          "ro",
+          "se",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "HORNBACH",
+        "brand:wikidata": "Q685926",
+        "name": "HORNBACH",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Hubo Belgium",
+      "id": "hubo-9eb2d8",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "brand": "Hubo",
+        "brand:wikidata": "Q3142153",
+        "name": "Hubo",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Hubo Nederland",
+      "id": "hubo-233544",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Hubo",
+        "brand:wikidata": "Q5473953",
+        "name": "Hubo",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "jem & fix",
+      "id": "jemandfix-27539e",
+      "locationSet": {"include": ["dk"]},
+      "matchNames": ["jem fix"],
+      "tags": {
+        "brand": "jem & fix",
+        "brand:wikidata": "Q12319200",
+        "name": "jem & fix",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Jula",
+      "id": "jula-2478eb",
+      "locationSet": {
+        "include": ["no", "pl", "se"]
+      },
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Jula",
+        "brand:wikidata": "Q10541151",
+        "name": "Jula",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Jumbo",
+      "id": "jumbo-0f6f08",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "Jumbo",
+        "brand:wikidata": "Q1713190",
+        "name": "Jumbo",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Karwei",
+      "id": "karwei-233544",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Karwei",
+        "brand:wikidata": "Q2097480",
+        "name": "Karwei",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "KlusWijs",
+      "id": "kluswijs-233544",
+      "locationSet": {"include": ["nl"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "KlusWijs",
+        "brand:wikidata": "Q60729778",
+        "name": "KlusWijs",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Koçtaş",
+      "id": "koctas-9ebfe5",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Koçtaş",
+        "brand:wikidata": "Q6057541",
+        "name": "Koçtaş",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Lagerhaus (Österreich)",
+      "id": "lagerhaus-5a91e1",
+      "locationSet": {"include": ["at"]},
+      "matchTags": ["shop/houseware"],
+      "tags": {
+        "brand": "Lagerhaus",
+        "brand:wikidata": "Q1232873",
+        "name": "Lagerhaus",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Lapeyre",
+      "id": "lapeyre-28b8a0",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Lapeyre",
+        "brand:wikidata": "Q3117467",
+        "name": "Lapeyre",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Leroy Merlin",
+      "id": "leroymerlin-092aaf",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Leroy Merlin",
+        "brand:wikidata": "Q889624",
+        "name": "Leroy Merlin",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Leyland SDM",
+      "id": "leylandsdm-135476",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "matchTags": [
+        "shop/interior_decoration",
+        "shop/paint"
+      ],
+      "tags": {
+        "brand": "Leyland SDM",
+        "brand:wikidata": "Q110437963",
+        "name": "Leyland SDM",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Lowe's",
+      "id": "lowes-00d2a0",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "matchNames": ["lowes home improvement"],
+      "tags": {
+        "brand": "Lowe's",
+        "brand:wikidata": "Q1373493",
+        "name": "Lowe's",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "McCoy's Building Supply",
+      "id": "mccoys-27ed78",
+      "locationSet": {
+        "include": [
+          "us-nm.geojson",
+          "us-ok.geojson",
+          "us-tx.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "McCoy's",
+        "brand:wikidata": "Q27877295",
+        "name": "McCoy's",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Menards",
+      "id": "menards-c727e9",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Menards",
+        "brand:wikidata": "Q1639897",
+        "name": "Menards",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Merkury Market",
+      "id": "merkurymarket-5a474c",
+      "locationSet": {"include": ["pl", "sk"]},
+      "tags": {
+        "brand": "Merkury Market",
+        "brand:wikidata": "Q93070134",
+        "name": "Merkury Market",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Mitre 10",
+      "id": "mitre10-b05cd0",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Mitre 10",
+        "brand:wikidata": "Q6882393",
+        "name": "Mitre 10",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Mitre 10 (New Zealand)",
+      "id": "mitre10-e80948",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "Mitre 10",
+        "brand:wikidata": "Q6882394",
+        "name": "Mitre 10",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Mitre 10 MEGA",
+      "id": "mitre10mega-e80948",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "Mitre 10",
+        "brand:wikidata": "Q6882394",
+        "name": "Mitre 10 MEGA",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Mr. Bricolage",
+      "id": "mrbricolage-6499aa",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Mr. Bricolage",
+        "brand:bg": "Мосю Бриколаж",
+        "brand:en": "Mr. Bricolage",
+        "brand:wikidata": "Q3141657",
+        "name": "Mr. Bricolage",
+        "name:bg": "Мосю Бриколаж",
+        "name:en": "Mr. Bricolage",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Mr.Bricolage",
+      "id": "mrbricolage-ab808b",
+      "locationSet": {
+        "include": ["be", "fr", "ma"]
+      },
+      "tags": {
+        "brand": "Mr.Bricolage",
+        "brand:wikidata": "Q3141657",
+        "name": "Mr.Bricolage",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "MR.DIY",
+      "id": "mrdiy-85e32f",
+      "locationSet": {
+        "include": [
+          "bn",
+          "id",
+          "in",
+          "kn",
+          "my",
+          "ph",
+          "sg",
+          "th"
+        ]
+      },
+      "tags": {
+        "brand": "MR.DIY",
+        "brand:wikidata": "Q105044323",
+        "name": "MR.DIY",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "OBI",
+      "id": "obi-d5381e",
+      "locationSet": {
+        "include": [
+          "at",
+          "ba",
+          "ch",
+          "cz",
+          "de",
+          "hu",
+          "it",
+          "pl",
+          "ru",
+          "si",
+          "sk"
+        ]
+      },
+      "tags": {
+        "brand": "OBI",
+        "brand:wikidata": "Q300518",
+        "name": "OBI",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Obs Bygg",
+      "id": "obsbygg-1b58cb",
+      "locationSet": {"include": ["no"]},
+      "note": "https://github.com/osmlab/name-suggestion-index/issues/5500",
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Obs Bygg",
+        "brand:wikidata": "Q5167707",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "PlaceMakers",
+      "id": "placemakers-e80948",
+      "locationSet": {"include": ["nz"]},
+      "tags": {
+        "brand": "PlaceMakers",
+        "brand:wikidata": "Q7200206",
+        "name": "PlaceMakers",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Point P",
+      "id": "pointp-28b8a0",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Point P",
+        "brand:wikidata": "Q62973104",
+        "name": "Point P",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Praktiker",
+      "id": "praktiker-eb3505",
+      "locationSet": {
+        "include": ["gr", "hu", "ro", "tr"]
+      },
+      "tags": {
+        "brand": "Praktiker",
+        "brand:wikidata": "Q680214",
+        "name": "Praktiker",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Praktiker (България)",
+      "id": "praktiker-6499aa",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Praktiker",
+        "brand:bg": "Практикер",
+        "brand:en": "Praktiker",
+        "brand:wikidata": "Q110399491",
+        "name": "Praktiker",
+        "name:bg": "Практикер",
+        "name:en": "Praktiker",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Praxis",
+      "id": "praxis-233544",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Praxis",
+        "brand:wikidata": "Q2741995",
+        "name": "Praxis",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Promart",
+      "id": "promart-2f83d4",
+      "locationSet": {"include": ["pe"]},
+      "tags": {
+        "brand": "Promart",
+        "brand:wikidata": "Q17626095",
+        "name": "Promart",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "PSB Mrówka",
+      "id": "psbmrowka-e3f321",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "brand": "PSB Mrówka",
+        "brand:wikidata": "Q11786409",
+        "name": "PSB Mrówka",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Raiffeisen-Markt",
+      "id": "raiffeisenmarkt-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "matchTags": [
+        "shop/agrarian",
+        "shop/garden_centre"
+      ],
+      "tags": {
+        "brand": "Raiffeisen-Markt",
+        "brand:wikidata": "Q107415020",
+        "name": "Raiffeisen-Markt",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "RHG Bau & Garten",
+      "id": "rhgbauandgarten-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "RHG",
+        "brand:wikidata": "Q19298856",
+        "name": "RHG Bau & Garten",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Rona",
+      "id": "rona-fd1fd9",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Rona",
+        "brand:wikidata": "Q3415283",
+        "name": "Rona",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Screwfix",
+      "id": "screwfix-6b37cb",
+      "locationSet": {"include": ["de", "gb"]},
+      "tags": {
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "name": "Screwfix",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Sodimac",
+      "id": "sodimac-0b4811",
+      "locationSet": {
+        "include": [
+          "ar",
+          "br",
+          "cl",
+          "co",
+          "mx",
+          "pe",
+          "uy"
+        ]
+      },
+      "matchNames": ["sodimac constructor"],
+      "tags": {
+        "brand": "Sodimac",
+        "brand:wikidata": "Q7553274",
+        "name": "Sodimac",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Sonderpreis Baumarkt",
+      "id": "sonderpreisbaumarkt-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Sonderpreis Baumarkt",
+        "brand:wikidata": "Q102247917",
+        "name": "Sonderpreis Baumarkt",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Tecnomat",
+      "id": "tecnomat-afce84",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Tecnomat",
+        "brand:wikidata": "Q111716870",
+        "name": "Tecnomat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "tedox",
+      "id": "tedox-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "tedox",
+        "brand:wikidata": "Q2399946",
+        "name": "tedox",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Tekzen",
+      "id": "tekzen-9ebfe5",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Tekzen",
+        "brand:wikidata": "Q25475379",
+        "name": "Tekzen",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "The Home Depot",
+      "id": "thehomedepot-00d2a0",
+      "locationSet": {
+        "include": ["ca", "mx", "us"]
+      },
+      "tags": {
+        "alt_name": "Home Depot",
+        "brand": "The Home Depot",
+        "brand:wikidata": "Q864407",
+        "name": "The Home Depot",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Toolstation",
+      "id": "toolstation-442153",
+      "locationSet": {
+        "include": ["be", "fr", "gb", "nl"]
+      },
+      "matchNames": ["toolstation uk"],
+      "tags": {
+        "brand": "Toolstation",
+        "brand:wikidata": "Q7824103",
+        "name": "Toolstation",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "toom Baumarkt",
+      "id": "toombaumarkt-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "toom Baumarkt",
+        "brand:wikidata": "Q2442970",
+        "name": "toom Baumarkt",
+        "shop": "doityourself",
+        "short_name": "toom"
+      }
+    },
+    {
+      "displayName": "TopT",
+      "id": "topt-3df878",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "TopT",
+        "brand:wikidata": "Q116474797",
+        "name": "TopT",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Travis Perkins",
+      "id": "travisperkins-ae8e02",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["perkins"],
+      "tags": {
+        "brand": "Travis Perkins",
+        "brand:wikidata": "Q2450664",
+        "name": "Travis Perkins",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "TTL",
+      "id": "ttl-b8b163",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "brand": "TTL",
+        "brand:wikidata": "Q114193481",
+        "name": "TTL",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "TTM",
+      "id": "ttm-05606e",
+      "locationSet": {
+        "include": [
+          "de-sn.geojson",
+          "de-st.geojson",
+          "de-th.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "TTM",
+        "brand:wikidata": "Q114193481",
+        "name": "TTM",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "V-BAUMARKT",
+      "id": "vbaumarkt-db1fbb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "V-MARKT",
+        "brand:wikidata": "Q1504903",
+        "name": "V-BAUMARKT",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Weldom",
+      "id": "weldom-28b8a0",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Weldom",
+        "brand:wikidata": "Q16683226",
+        "name": "Weldom",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Wickes",
+      "id": "wickes-ae8e02",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": [
+        "wickes home improvement centres"
+      ],
+      "tags": {
+        "brand": "Wickes",
+        "brand:wikidata": "Q7998350",
+        "name": "Wickes",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Wilcon Depot",
+      "id": "wilcondepot-8037a1",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": [
+        "wilcon",
+        "wilcon builders depot",
+        "wilcon hardware"
+      ],
+      "tags": {
+        "brand": "Wilcon Depot",
+        "brand:wikidata": "Q118189975",
+        "name": "Wilcon Depot",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Woodie's",
+      "id": "woodies-4f5e7a",
+      "locationSet": {"include": ["ie"]},
+      "matchNames": [
+        "atlantic homecare",
+        "woodies diy"
+      ],
+      "tags": {
+        "brand": "Woodie's",
+        "brand:wikidata": "Q25344847",
+        "name": "Woodie's",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Епіцентр",
+      "id": "66bcc9-2dbcce",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "epicentr k",
+        "гіпермаркет епіцентр"
+      ],
+      "tags": {
+        "brand": "Епіцентр К",
+        "brand:wikidata": "Q4532244",
+        "name": "Епіцентр",
+        "name:uk": "Епіцентр",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Кенгуру",
+      "id": "kenguru-43446b",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Кенгуру",
+        "name": "Кенгуру",
+        "name:en": "Kenguru",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Леруа Мерлен",
+      "id": "leroymerlin-ea6c83",
+      "locationSet": {"include": ["ru", "ua"]},
+      "tags": {
+        "brand": "Леруа Мерлен",
+        "brand:en": "Leroy Merlin",
+        "brand:wikidata": "Q889624",
+        "name": "Леруа Мерлен",
+        "name:en": "Leroy Merlin",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Петрович",
+      "id": "petrovich-43446b",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Петрович",
+        "brand:en": "Petrovich",
+        "brand:ru": "Петрович",
+        "brand:wikidata": "Q4360946",
+        "name": "Петрович",
+        "name:en": "Petrovich",
+        "name:ru": "Петрович",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Практис",
+      "id": "praktis-6499aa",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Praktis",
+        "brand:bg": "Практис",
+        "brand:en": "Praktis",
+        "brand:wikidata": "Q110399429",
+        "name": "Praktis",
+        "name:bg": "Практис",
+        "name:en": "Praktis",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Строительный двор",
+      "id": "d4e79a-43446b",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "Строительный двор",
+        "name": "Строительный двор",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Стройка",
+      "id": "6282b7-4ffb30",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Стройка",
+        "name": "Стройка",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Строймаркет",
+      "id": "5c4416-4ffb30",
+      "locationSet": {"include": ["by", "ru"]},
+      "tags": {
+        "brand": "Строймаркет",
+        "name": "Строймаркет",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Уради сам",
+      "id": "dd1eac-6779da",
+      "locationSet": {"include": ["rs"]},
+      "tags": {
+        "brand": "Уради сам",
+        "brand:wikidata": "Q115570819",
+        "name": "Уради сам",
+        "name:sr": "Уради сам",
+        "name:sr-Latn": "Uradi sam",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "アマノ",
+      "id": "amano-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "アマノ",
+        "brand:en": "Amano",
+        "brand:ja": "アマノ",
+        "brand:wikidata": "Q11284890",
+        "name": "アマノ",
+        "name:en": "Amano",
+        "name:ja": "アマノ",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "カインズホーム",
+      "id": "cainzhome-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "カインズホーム",
+        "brand:en": "Cainz Home",
+        "brand:ja": "カインズホーム",
+        "brand:wikidata": "Q11293852",
+        "name": "カインズホーム",
+        "name:en": "Cainz Home",
+        "name:ja": "カインズホーム",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "ケーヨー",
+      "id": "keiyo-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ケーヨー",
+        "brand:en": "Keiyo",
+        "brand:ja": "ケーヨー",
+        "brand:wikidata": "Q11301462",
+        "name": "ケーヨー",
+        "name:en": "Keiyo",
+        "name:ja": "ケーヨー",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "ケーヨーデイツー",
+      "id": "f3fe04-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ケーヨーデイツー",
+        "brand:ja": "ケーヨーデイツー",
+        "name": "ケーヨーデイツー",
+        "name:ja": "ケーヨーデイツー",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "コーナン",
+      "id": "kohnan-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "コーナン",
+        "brand:en": "Kohnan",
+        "brand:ja": "コーナン",
+        "brand:wikidata": "Q11303403",
+        "name": "コーナン",
+        "name:en": "Kohnan",
+        "name:ja": "コーナン",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "コメリPRO",
+      "id": "komeripro-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "コメリ",
+        "brand:en": "KOMERI",
+        "brand:ja": "コメリ",
+        "brand:wikidata": "Q11302690",
+        "name": "コメリPRO",
+        "name:en": "Komeri PRO",
+        "name:ja": "コメリPRO",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "コメリハード&グリーン",
+      "id": "komerihardandgreen-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "コメリ",
+        "brand:en": "KOMERI",
+        "brand:ja": "コメリ",
+        "brand:wikidata": "Q11302690",
+        "name": "コメリハード&グリーン",
+        "name:en": "Komeri Hard & Green",
+        "name:ja": "コメリハード&グリーン",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "コメリパワー",
+      "id": "komeripower-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "コメリ",
+        "brand:en": "KOMERI",
+        "brand:ja": "コメリ",
+        "brand:wikidata": "Q11302690",
+        "name": "コメリパワー",
+        "name:en": "Komeri Power",
+        "name:ja": "コメリパワー",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "ジョイフルエーケー",
+      "id": "joyfulak-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "alt_name": "ジョイフルAK",
+        "brand": "ジョイフルエーケー",
+        "brand:en": "Joyful AK",
+        "brand:ja": "ジョイフルエーケー",
+        "brand:wikidata": "Q11310519",
+        "name": "ジョイフルエーケー",
+        "name:en": "Joyful AK",
+        "name:ja": "ジョイフルエーケー",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "スーパービバホーム",
+      "id": "supervivahome-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "VIVA Home",
+        "brand:en": "VIVA Home",
+        "brand:ja": "ビバホーム",
+        "brand:wikidata": "Q11229278",
+        "name": "スーパービバホーム",
+        "name:en": "SUPER VIVA Home",
+        "name:ja": "スーパービバホーム",
+        "shop": "doityourself",
+        "short_name:en": "SVH"
+      }
+    },
+    {
+      "displayName": "ナフコ",
+      "id": "nafco-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ナフコ",
+        "brand:en": "Nafco",
+        "brand:ja": "ナフコ",
+        "brand:wikidata": "Q11323981",
+        "name": "ナフコ",
+        "name:en": "Nafco",
+        "name:ja": "ナフコ",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "ビバホーム",
+      "id": "vivahome-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "VIVA Home",
+        "brand:en": "VIVA Home",
+        "brand:ja": "ビバホーム",
+        "brand:wikidata": "Q11229278",
+        "name": "ビバホーム",
+        "name:en": "VIVA Home",
+        "name:ja": "ビバホーム",
+        "shop": "doityourself",
+        "short_name:en": "VH"
+      }
+    },
+    {
+      "displayName": "ホーマックニコット",
+      "id": "homacnicot-dd401d",
+      "locationSet": {"include": ["jp"]},
+      "note": "According to the company announcement, this will be renamed \"DCMニコット(DCM nicot)\" in the future.",
+      "tags": {
+        "brand": "ホーマックニコット",
+        "brand:en": "Homac nicot",
+        "brand:ja": "ホーマックニコット",
+        "brand:wikidata": "Q11318834",
+        "name": "ホーマックニコット",
+        "name:en": "Homac nicot",
+        "name:ja": "ホーマックニコット",
+        "shop": "doityourself"
+      }
+    }
+  ]
+}

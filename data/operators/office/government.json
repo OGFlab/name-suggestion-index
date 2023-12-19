@@ -1,0 +1,1900 @@
+{
+  "properties": {
+    "path": "operators/office/government",
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": [
+        "^(local )?government$",
+        "^landratsamt$",
+        "^pays$",
+        "^public$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Agence des services frontaliers du Canada",
+      "id": "agencedesservicesfrontaliersducanada-00acfa",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "government": "customs",
+        "name": "Agence des services frontaliers du Canada",
+        "name:en": "Canada Border Services Agency",
+        "name:fr": "Agence des services frontaliers du Canada",
+        "office": "government",
+        "operator": "Agence des services frontaliers du Canada",
+        "operator:short": "ASFC",
+        "operator:wikidata": "Q532090"
+      }
+    },
+    {
+      "displayName": "Autobahn GmbH",
+      "id": "autobahngmbh-c58ea0",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Autobahn GmbH",
+        "operator:wikidata": "Q31840061"
+      }
+    },
+    {
+      "displayName": "Autoridad Nacional del Agua",
+      "id": "autoridadnacionaldelagua-7429f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "office": "government",
+        "operator": "Autoridad Nacional del Agua"
+      }
+    },
+    {
+      "displayName": "Ayuntamiento de Málaga",
+      "id": "ayuntamientodemalaga-f19bf1",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ayuntamiento de Málaga",
+        "operator:wikidata": "Q5714892"
+      }
+    },
+    {
+      "displayName": "Ayuntamiento de Santa Cruz de Tenerife",
+      "id": "ayuntamientodesantacruzdetenerife-f19bf1",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ayuntamiento de Santa Cruz de Tenerife",
+        "operator:wikidata": "Q5714931"
+      }
+    },
+    {
+      "displayName": "Belastingdienst",
+      "id": "belastingdienst-9dbfcd",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "government": "customs",
+        "office": "government",
+        "operator": "Belastingdienst",
+        "operator:wikidata": "Q2793644"
+      }
+    },
+    {
+      "displayName": "Belgische federale regering - Gouvernement fédéral belge - Belgische föderale Regierung",
+      "id": "belgischefederaleregeringgouvernementfederalbelgebelgischefoderaleregierung-81c06d",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "office": "government",
+        "operator": "Belgische federale regering - Gouvernement fédéral belge - Belgische föderale Regierung"
+      }
+    },
+    {
+      "displayName": "Bundesanstalt Technisches Hilfswerk (THW)",
+      "id": "bundesanstalttechnischeshilfswerkthw-7429f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "office": "government",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)"
+      }
+    },
+    {
+      "displayName": "Bureau of Customs",
+      "id": "bureauofcustoms-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "customs",
+        "office": "government",
+        "operator": "Bureau of Customs",
+        "operator:en": "Bureau of Customs",
+        "operator:short": "BOC",
+        "operator:tl": "Kawanihan ng Adwana",
+        "operator:wikidata": "Q25053493"
+      }
+    },
+    {
+      "displayName": "Bureau of Fisheries and Aquatic Resources",
+      "id": "bureauoffisheriesandaquaticresources-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["bfar regional office"],
+      "tags": {
+        "government": "agency",
+        "office": "government",
+        "operator": "Bureau of Fisheries and Aquatic Resources",
+        "operator:en": "Bureau of Fisheries and Aquatic Resources",
+        "operator:short": "BFAR",
+        "operator:tl": "Kawanihan ng Pangisdaan at Yamang-tubig",
+        "operator:wikidata": "Q4998371"
+      }
+    },
+    {
+      "displayName": "Bureau of Immigration (Philippines)",
+      "id": "bureauofimmigration-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["bi"],
+      "tags": {
+        "government": "immigration",
+        "office": "government",
+        "operator": "Bureau of Immigration",
+        "operator:en": "Bureau of Immigration",
+        "operator:short": "BOI",
+        "operator:tl": "Kawanihan ng Inmigrasyon",
+        "operator:wikidata": "Q27892670"
+      }
+    },
+    {
+      "displayName": "Bureau of Internal Revenue",
+      "id": "bureauofinternalrevenue-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["bir revenue district"],
+      "tags": {
+        "government": "tax",
+        "office": "government",
+        "operator": "Bureau of Internal Revenue",
+        "operator:en": "Bureau of Internal Revenue",
+        "operator:short": "BIR",
+        "operator:tl": "Kawanihan ng Rentas Internas",
+        "operator:wikidata": "Q4998387"
+      }
+    },
+    {
+      "displayName": "Bureau of Jail Management and Penology",
+      "id": "bureauofjailmanagementandpenology-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["bjmp regional office"],
+      "tags": {
+        "government": "agency",
+        "office": "government",
+        "operator": "Bureau of Jail Management and Penology",
+        "operator:en": "Bureau of Jail Management and Penology",
+        "operator:short": "BJMP",
+        "operator:tl": "Kawanihan ng Pangangasiwa mg Kulungan at Penolohiya",
+        "operator:wikidata": "Q17027213"
+      }
+    },
+    {
+      "displayName": "Caisse d'Allocations Familiales",
+      "id": "caissedallocationsfamiliales-57141e",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "government": "social_welfare",
+        "office": "government",
+        "operator": "Caisse d'Allocations Familiales",
+        "operator:wikidata": "Q1395254"
+      }
+    },
+    {
+      "displayName": "Caisse Primaire d'Assurance Maladie",
+      "id": "caisseprimairedassurancemaladie-57141e",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "government": "social_security",
+        "office": "government",
+        "operator": "Caisse Primaire d'Assurance Maladie",
+        "operator:wikidata": "Q2110238"
+      }
+    },
+    {
+      "displayName": "Cal Fire",
+      "id": "californiadepartmentofforestryandfireprotection-2a14ff",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "California Department of Forestry and Fire Protection",
+        "operator:short": "Cal Fire",
+        "operator:wikidata": "Q5020422"
+      }
+    },
+    {
+      "displayName": "California DMV",
+      "id": "californiadepartmentofmotorvehicles-2a14ff",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "California Department of Motor Vehicles",
+        "operator:short": "California DMV",
+        "operator:wikidata": "Q5020431"
+      }
+    },
+    {
+      "displayName": "Canada Border Services Agency",
+      "id": "canadaborderservicesagency-84c35e",
+      "locationSet": {
+        "include": ["ca"],
+        "exclude": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "government": "customs",
+        "name": "Canada Border Services Agency",
+        "name:en": "Canada Border Services Agency",
+        "name:fr": "Agence des services frontaliers du Canada",
+        "office": "government",
+        "operator": "Canada Border Services Agency",
+        "operator:short": "CBSA",
+        "operator:wikidata": "Q532090"
+      }
+    },
+    {
+      "displayName": "Civil Service Commission (Philippines)",
+      "id": "civilservicecommission-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "public_service",
+        "office": "government",
+        "operator": "Civil Service Commission",
+        "operator:en": "Civil Service Commission",
+        "operator:short": "CSC",
+        "operator:tl": "Komisyon sa Serbisyong Sibil",
+        "operator:wikidata": "Q13565023"
+      }
+    },
+    {
+      "displayName": "CNE",
+      "id": "consejonacionalelectoral-b90a8d",
+      "locationSet": {"include": ["ve"]},
+      "tags": {
+        "government": "election_commission",
+        "office": "government",
+        "operator": "Consejo Nacional Electoral",
+        "operator:short": "CNE",
+        "operator:wikidata": "Q2890246"
+      }
+    },
+    {
+      "displayName": "Commission on Elections (Philippines)",
+      "id": "commissiononelections-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "election_commission",
+        "office": "government",
+        "operator": "Commission on Elections",
+        "operator:en": "Commission on Elections",
+        "operator:short": "COMELEC",
+        "operator:tl": "Komisyon sa Halalan",
+        "operator:wikidata": "Q2459712"
+      }
+    },
+    {
+      "displayName": "Commission on Higher Education",
+      "id": "commissiononhighereducation-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["ched regional office"],
+      "tags": {
+        "government": "education",
+        "office": "government",
+        "operator": "Commission on Higher Education",
+        "operator:en": "Commission on Higher Education",
+        "operator:short": "CHED",
+        "operator:tl": "Komisyon sa Mataas na Edukasyon",
+        "operator:wikidata": "Q5152716"
+      }
+    },
+    {
+      "displayName": "Commission on Human Rights (Philippines)",
+      "id": "commissiononhumanrights-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "office",
+        "office": "government",
+        "operator": "Commission on Human Rights",
+        "operator:en": "Commission on Human Rights",
+        "operator:short": "CHR",
+        "operator:tl": "Komisyon sa Karapatang Pantao",
+        "operator:wikidata": "Q5152717"
+      }
+    },
+    {
+      "displayName": "Companhia de Água e Esgoto do Ceará",
+      "id": "companhiadeaguaeesgotodoceara-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "office": "government",
+        "operator": "Companhia de Água e Esgoto do Ceará",
+        "operator:short": "Cagece",
+        "operator:wikidata": "Q19609168"
+      }
+    },
+    {
+      "displayName": "Connecticut DMV",
+      "id": "connecticutdepartmentofmotorvehicles-5b0fd8",
+      "locationSet": {
+        "include": ["us-ct.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Connecticut Department of Motor Vehicles",
+        "operator:short": "Connecticut DMV",
+        "operator:wikidata": "Q5161517"
+      }
+    },
+    {
+      "displayName": "Consejo General de Educación de la Provincia de Misiones",
+      "id": "consejogeneraldeeducaciondelaprovinciademisiones-cc6da1",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "government": "education",
+        "office": "government",
+        "operator": "Consejo General de Educación de la Provincia de Misiones"
+      }
+    },
+    {
+      "displayName": "Corpo de Bombeiros Militar de Santa Catarina",
+      "id": "corpodebombeirosmilitardesantacatarina-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "office": "government",
+        "operator": "Corpo de Bombeiros Militar de Santa Catarina",
+        "operator:wikidata": "Q768967"
+      }
+    },
+    {
+      "displayName": "Department of Agriculture (Philippines)",
+      "id": "departmentofagriculture-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "agriculture",
+        "office": "government",
+        "operator": "Department of Agriculture",
+        "operator:en": "Department of Agriculture",
+        "operator:short": "DA",
+        "operator:tl": "Kagawaran ng Agrikultura",
+        "operator:wikidata": "Q5260142"
+      }
+    },
+    {
+      "displayName": "Department of Education (Philippines)",
+      "id": "departmentofeducation-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": [
+        "deped city schools division",
+        "deped school division"
+      ],
+      "tags": {
+        "government": "education",
+        "office": "government",
+        "operator": "Department of Education",
+        "operator:en": "Department of Education",
+        "operator:short": "DepEd",
+        "operator:tl": "Kagawaran ng Edukasyon",
+        "operator:wikidata": "Q3550346"
+      }
+    },
+    {
+      "displayName": "Department of Environment and Natural Resources (Philippines)",
+      "id": "departmentofenvironmentandnaturalresources-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "environment",
+        "office": "government",
+        "operator": "Department of Environment and Natural Resources",
+        "operator:en": "Department of Environment and Natural Resources",
+        "operator:short": "DENR",
+        "operator:tl": "Kagawaran ng Kalikasan at Likas na Yaman",
+        "operator:wikidata": "Q3277331"
+      }
+    },
+    {
+      "displayName": "Department of Foreign Affairs (Philippines)",
+      "id": "departmentofforeignaffairs-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "office": "government",
+        "operator": "Department of Foreign Affairs",
+        "operator:en": "Department of Foreign Affairs",
+        "operator:short": "DFA",
+        "operator:tl": "Kagawaran ng Ugnayang Panlabas",
+        "operator:wikidata": "Q3545663"
+      }
+    },
+    {
+      "displayName": "Department of Health (Philippines)",
+      "id": "departmentofhealth-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "health",
+        "office": "government",
+        "operator": "Department of Health",
+        "operator:en": "Department of Health",
+        "operator:short": "DOH",
+        "operator:tl": "Kagawaran ng Kalusugan",
+        "operator:wikidata": "Q3545669"
+      }
+    },
+    {
+      "displayName": "Department of Home Affairs",
+      "id": "departmentofhomeaffairs-efe93a",
+      "locationSet": {"include": ["za"]},
+      "matchNames": ["home affairs"],
+      "tags": {
+        "name": "Department of Home Affairs",
+        "office": "government",
+        "operator": "Department of Home Affairs",
+        "operator:wikidata": "Q4294313"
+      }
+    },
+    {
+      "displayName": "Department of Homeland Security",
+      "id": "departmentofhomelandsecurity-eaa288",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "government": "public_safety",
+        "office": "government",
+        "operator": "Department of Homeland Security",
+        "operator:short": "DHS",
+        "operator:wikidata": "Q11231"
+      }
+    },
+    {
+      "displayName": "Department of Labor and Employment",
+      "id": "departmentoflaborandemployment-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "office": "government",
+        "operator": "Department of Labor and Employment",
+        "operator:en": "Department of Labor and Employment",
+        "operator:short": "DOLE",
+        "operator:tl": "Kagawaran ng Paggawa at Empleo",
+        "operator:wikidata": "Q3545661"
+      }
+    },
+    {
+      "displayName": "Department of Public Works and Highways (Philippines)",
+      "id": "departmentofpublicworksandhighways-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": [
+        "dpwh district engineering office"
+      ],
+      "tags": {
+        "government": "public_works",
+        "office": "government",
+        "operator": "Department of Public Works and Highways",
+        "operator:en": "Department of Public Works and Highways",
+        "operator:short": "DPWH",
+        "operator:tl": "Kagawaran ng Pagawaing Bayan at Lansangan",
+        "operator:wikidata": "Q3543840"
+      }
+    },
+    {
+      "displayName": "Department of Science and Technology (Philippines)",
+      "id": "departmentofscienceandtechnology-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "office": "government",
+        "operator": "Department of Science and Technology",
+        "operator:en": "Department of Science and Technology",
+        "operator:short": "DOST",
+        "operator:tl": "Kagawaran ng Agham at Teknolohiya",
+        "operator:wikidata": "Q3547215"
+      }
+    },
+    {
+      "displayName": "Department of Social Welfare and Development",
+      "id": "departmentofsocialwelfareanddevelopment-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "social_welfare",
+        "office": "government",
+        "operator": "Department of Social Welfare and Development",
+        "operator:en": "Department of Social Welfare and Development",
+        "operator:short": "DSWD",
+        "operator:tl": "Kagawaran ng Kagalingang Panlipunan at Pagpapaunlad",
+        "operator:wikidata": "Q3547113"
+      }
+    },
+    {
+      "displayName": "Department of the Interior and Local Government",
+      "id": "departmentoftheinteriorandlocalgovernment-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "local_government",
+        "office": "government",
+        "operator": "Department of the Interior and Local Government",
+        "operator:en": "Department of the Interior and Local Government",
+        "operator:short": "DILG",
+        "operator:tl": "Kagawaran ng Interyor at Pamahalaang Lokal",
+        "operator:wikidata": "Q3543505"
+      }
+    },
+    {
+      "displayName": "Department of Trade and Industry",
+      "id": "departmentoftradeandindustry-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": [
+        "dti provincial office",
+        "dti regional office"
+      ],
+      "tags": {
+        "government": "trade",
+        "office": "government",
+        "operator": "Department of Trade and Industry",
+        "operator:en": "Department of Trade and Industry",
+        "operator:short": "DTI",
+        "operator:tl": "Kagawaran ng Kalakalan at Industriya",
+        "operator:wikidata": "Q3545667"
+      }
+    },
+    {
+      "displayName": "Department of Transport and Main Roads",
+      "id": "departmentoftransportandmainroads-1b54b2",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "office": "government",
+        "operator": "Department of Transport and Main Roads",
+        "operator:wikidata": "Q1191482"
+      }
+    },
+    {
+      "displayName": "Deutscher Bundestag",
+      "id": "deutscherbundestag-c58ea0",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "office": "government",
+        "operator": "Deutscher Bundestag",
+        "operator:short": "BT",
+        "operator:wikidata": "Q154797"
+      }
+    },
+    {
+      "displayName": "DGFiP",
+      "id": "directiongeneraledesfinancespubliques-57141e",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "government": "tax",
+        "office": "government",
+        "operator": "Direction générale des Finances publiques",
+        "operator:short": "DGFiP",
+        "operator:wikidata": "Q3029562"
+      }
+    },
+    {
+      "displayName": "Dinas Pertanian",
+      "id": "dinaspertanian-0dfe8f",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "office": "government",
+        "operator": "Dinas Pertanian"
+      }
+    },
+    {
+      "displayName": "Dinas PU",
+      "id": "dinaspu-0dfe8f",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "office": "government",
+        "operator": "Dinas PU"
+      }
+    },
+    {
+      "displayName": "Driver and Vehicle Standards Agency (DVSA)",
+      "id": "driverandvehiclestandardsagency-3cd046",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "office": "government",
+        "operator": "Driver and Vehicle Standards Agency",
+        "operator:short": "DVSA",
+        "operator:wikidata": "Q16974184"
+      }
+    },
+    {
+      "displayName": "Federal Bureau of Investigation",
+      "id": "federalbureauofinvestigation-eaa288",
+      "locationSet": {"include": ["us"]},
+      "matchTags": ["amenity/police"],
+      "tags": {
+        "government": "investigation",
+        "office": "government",
+        "operator": "Federal Bureau of Investigation",
+        "operator:short": "FBI",
+        "operator:wikidata": "Q8333"
+      }
+    },
+    {
+      "displayName": "Finančná správa Slovenskej republiky",
+      "id": "financnaspravaslovenskejrepubliky-18bdcf",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "office": "government",
+        "operator": "Finančná správa Slovenskej republiky",
+        "operator:wikidata": "Q15111229"
+      }
+    },
+    {
+      "displayName": "FLHSMV",
+      "id": "floridadepartmentofhighwaysafetyandmotorvehicles-75d2a7",
+      "locationSet": {
+        "include": ["us-fl.geojson"]
+      },
+      "matchNames": ["driver licenses"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Florida Department of Highway Safety and Motor Vehicles",
+        "operator:short": "FLHSMV",
+        "operator:wikidata": "Q5461320"
+      }
+    },
+    {
+      "displayName": "FOD Financiën - SPF Finances - FOD Finanzen",
+      "id": "fodfinancienspffinancesfodfinanzen-81c06d",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "government": "ministry",
+        "office": "government",
+        "operator": "FOD Financiën - SPF Finances - FOD Finanzen",
+        "operator:wikidata": "Q2479908"
+      }
+    },
+    {
+      "displayName": "Freistaat Bayern",
+      "id": "freistaatbayern-bab14c",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "Freistaat Bayern",
+        "operator:wikidata": "Q980"
+      }
+    },
+    {
+      "displayName": "Gendarmería",
+      "id": "gendarmeria-974d55",
+      "locationSet": {"include": ["cl"]},
+      "tags": {
+        "office": "government",
+        "operator": "Gendarmería",
+        "operator:wikidata": "Q3100431"
+      }
+    },
+    {
+      "displayName": "Generalitat de Catalunya",
+      "id": "generalitatdecatalunya-f19bf1",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "office": "government",
+        "operator": "Generalitat de Catalunya",
+        "operator:wikidata": "Q8022"
+      }
+    },
+    {
+      "displayName": "Gobierno Autónomo Municipal de Cochabamba",
+      "id": "gobiernoautonomomunicipaldecochabamba-277d1f",
+      "locationSet": {"include": ["bo"]},
+      "tags": {
+        "office": "government",
+        "operator": "Gobierno Autónomo Municipal de Cochabamba"
+      }
+    },
+    {
+      "displayName": "Gobierno de España",
+      "id": "gobiernodeespana-f19bf1",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "office": "government",
+        "operator": "Gobierno de España"
+      }
+    },
+    {
+      "displayName": "Gobierno del Estado de San Luis Potosí",
+      "id": "gobiernodelestadodesanluispotosi-d2c31c",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "office": "government",
+        "operator": "Gobierno del Estado de San Luis Potosí"
+      }
+    },
+    {
+      "displayName": "Government Service Insurance System",
+      "id": "governmentserviceinsurancesystem-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "social_security",
+        "office": "government",
+        "operator": "Government Service Insurance System",
+        "operator:short": "GSIS",
+        "operator:tl": "Paseguruhan ng mga Naglilingkod sa Pamahalaan",
+        "operator:wikidata": "Q5589107"
+      }
+    },
+    {
+      "displayName": "Governo do Estado de São Paulo",
+      "id": "governodoestadodesaopaulo-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "office": "government",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:wikidata": "Q10290787"
+      }
+    },
+    {
+      "displayName": "H. Ayuntamiento de Ciudad Valles",
+      "id": "hayuntamientodeciudadvalles-d2c31c",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "office": "government",
+        "operator": "H. Ayuntamiento de Ciudad Valles"
+      }
+    },
+    {
+      "displayName": "Hansestadt Lübeck",
+      "id": "hansestadtlubeck-d9ea25",
+      "locationSet": {
+        "include": ["de-sh.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "Hansestadt Lübeck",
+        "operator:wikidata": "Q2843"
+      }
+    },
+    {
+      "displayName": "Health Service Executive",
+      "id": "healthserviceexecutive-7f4a2e",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "office": "government",
+        "operator": "Health Service Executive",
+        "operator:wikidata": "Q5690681"
+      }
+    },
+    {
+      "displayName": "Illinois Secretary of State",
+      "id": "illinoissecretaryofstate-4714be",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "matchNames": ["secretary of state"],
+      "tags": {
+        "office": "government",
+        "operator": "Illinois Secretary of State",
+        "operator:wikidata": "Q3477292"
+      }
+    },
+    {
+      "displayName": "INSS",
+      "id": "institutonacionaldosegurosocial-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "government": "social_security",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614"
+      }
+    },
+    {
+      "displayName": "Instituto Capixaba de Pesquisa, Assistência Técnica e Extensão Rural - Incaper",
+      "id": "institutocapixabadepesquisaassistenciatecnicaeextensaoruralincaper-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "office": "government",
+        "operator": "Instituto Capixaba de Pesquisa, Assistência Técnica e Extensão Rural - Incaper"
+      }
+    },
+    {
+      "displayName": "Insurance Corporation of British Columbia",
+      "id": "insurancecorporationofbritishcolumbia-e8231b",
+      "locationSet": {
+        "include": ["ca-bc.geojson"]
+      },
+      "matchNames": ["icbc driver licensing"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Insurance Corporation of British Columbia",
+        "operator:short": "ICBC",
+        "operator:wikidata": "Q16986480"
+      }
+    },
+    {
+      "displayName": "Internal Revenue Service",
+      "id": "internalrevenueservice-eaa288",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "government": "tax",
+        "office": "government",
+        "operator": "Internal Revenue Service",
+        "operator:short": "IRS",
+        "operator:wikidata": "Q973587"
+      }
+    },
+    {
+      "displayName": "Iowa DOT",
+      "id": "iowadepartmentoftransportation-1af1d0",
+      "locationSet": {
+        "include": ["us-ia.geojson"]
+      },
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Iowa Department of Transportation",
+        "operator:short": "Iowa DOT",
+        "operator:wikidata": "Q4925621"
+      }
+    },
+    {
+      "displayName": "Junta de Andalucía",
+      "id": "juntadeandalucia-f19bf1",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "office": "government",
+        "operator": "Junta de Andalucía",
+        "operator:wikidata": "Q2743342"
+      }
+    },
+    {
+      "displayName": "Junta de Castilla y León",
+      "id": "juntadecastillayleon-f19bf1",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "office": "government",
+        "operator": "Junta de Castilla y León"
+      }
+    },
+    {
+      "displayName": "Kanton Basel-Landschaft",
+      "id": "kantonbasellandschaft-980a8a",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "office": "government",
+        "operator": "Kanton Basel-Landschaft"
+      }
+    },
+    {
+      "displayName": "LADWP",
+      "id": "losangelesdepartmentofwaterandpower-2a14ff",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "matchTags": [
+        "office/energy_supplier",
+        "office/water_utility"
+      ],
+      "tags": {
+        "government": "public_utility",
+        "office": "government",
+        "operator": "Los Angeles Department of Water & Power",
+        "operator:short": "LADWP",
+        "operator:wikidata": "Q3259704"
+      }
+    },
+    {
+      "displayName": "Land Transportation Franchising and Regulatory Board",
+      "id": "landtransportationfranchisingandregulatoryboard-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["ltfrb region office"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Land Transportation Franchising and Regulatory Board",
+        "operator:en": "Land Transportation Franchising and Regulatory Board",
+        "operator:short": "LTFRB",
+        "operator:tl": "Lupon sa Prangkisa at Pamamahala ng Transportasyong Panlupa",
+        "operator:wikidata": "Q6483998"
+      }
+    },
+    {
+      "displayName": "Land Transportation Office",
+      "id": "landtransportationoffice-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Land Transportation Office",
+        "operator:en": "Land Transportation Office",
+        "operator:short": "LTO",
+        "operator:tl": "Tanggapan sa Transportasyon Panlupa",
+        "operator:wikidata": "Q6484001"
+      }
+    },
+    {
+      "displayName": "Landeshauptstadt Saarbrücken",
+      "id": "landeshauptstadtsaarbrucken-ce5de2",
+      "locationSet": {
+        "include": ["de-sl.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "Landeshauptstadt Saarbrücken",
+        "operator:wikidata": "Q1724"
+      }
+    },
+    {
+      "displayName": "Lesotho Government",
+      "id": "lesothogovernment-7429f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "office": "government",
+        "operator": "Lesotho Government"
+      }
+    },
+    {
+      "displayName": "LGLN",
+      "id": "landesamtfurgeoinformationundlandesvermessungniedersachsen-d4346f",
+      "locationSet": {
+        "include": ["de-ni.geojson"]
+      },
+      "tags": {
+        "government": "cadaster",
+        "office": "government",
+        "operator": "Landesamt für Geoinformation und Landesvermessung Niedersachsen",
+        "operator:short": "LGLN",
+        "operator:wikidata": "Q1802054"
+      }
+    },
+    {
+      "displayName": "Maine BMV",
+      "id": "mainebureauofmotorvehicles-6dbe4c",
+      "locationSet": {
+        "include": ["us-me.geojson"]
+      },
+      "matchNames": ["bmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Maine Bureau of Motor Vehicles",
+        "operator:short": "Maine BMV",
+        "operator:wikidata": "Q6736325"
+      }
+    },
+    {
+      "displayName": "Maryland MVA",
+      "id": "marylandmotorvehicleadministration-ac5917",
+      "locationSet": {
+        "include": ["us-md.geojson"]
+      },
+      "matchNames": ["mva"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Maryland Motor Vehicle Administration",
+        "operator:short": "Maryland MVA",
+        "operator:wikidata": "Q82510889"
+      }
+    },
+    {
+      "displayName": "Maryland State Police",
+      "id": "marylandstatepolice-eaa288",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "office": "government",
+        "operator": "Maryland State Police"
+      }
+    },
+    {
+      "displayName": "Michigan Secretary of State",
+      "id": "michigansecretaryofstate-3e8496",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "matchNames": ["secretary of state"],
+      "tags": {
+        "office": "government",
+        "operator": "Michigan Secretary of State",
+        "operator:wikidata": "Q16147324"
+      }
+    },
+    {
+      "displayName": "Ministerio de Educación",
+      "id": "ministeriodeeducacion-7429f2",
+      "locationSet": {"include": ["001"]},
+      "note": "Many LATAM countries have this operator value 'Ministry of Education', but they must have different MOE",
+      "tags": {
+        "office": "government",
+        "operator": "Ministerio de Educación"
+      }
+    },
+    {
+      "displayName": "Ministerio de Gobierno y Educación - Gobierno de la Provincia del Neuquén",
+      "id": "ministeriodegobiernoyeducaciongobiernodelaprovinciadelneuquen-7429f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ministerio de Gobierno y Educación - Gobierno de la Provincia del Neuquén"
+      }
+    },
+    {
+      "displayName": "Ministerio de Interior y Justicia",
+      "id": "ministeriodeinterioryjusticia-b90a8d",
+      "locationSet": {"include": ["ve"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ministerio de Interior y Justicia",
+        "operator:wikidata": "Q16607766"
+      }
+    },
+    {
+      "displayName": "Ministerio de Salud (Costa Rica)",
+      "id": "ministeriodesalud-7b455f",
+      "locationSet": {"include": ["cr"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ministerio de Salud",
+        "operator:wikidata": "Q21001938"
+      }
+    },
+    {
+      "displayName": "Ministério Público do Estado do Espírito Santo",
+      "id": "ministeriopublicodoestadodoespiritosanto-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ministério Público do Estado do Espírito Santo",
+        "operator:wikidata": "Q20060323"
+      }
+    },
+    {
+      "displayName": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+      "id": "ministerstvoinvesticiiregionalnehorozvojaainformatizacieslovenskejrepubliky-18bdcf",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "government": "public_works",
+        "office": "government",
+        "operator": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+        "operator:short": "MIRRI SR",
+        "operator:wikidata": "Q97014712"
+      }
+    },
+    {
+      "displayName": "Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky",
+      "id": "ministerstvopracesocialnychveciarodinyslovenskejrepubliky-18bdcf",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "government": "social_services",
+        "office": "government",
+        "operator": "Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky",
+        "operator:short": "MPSVR SR",
+        "operator:wikidata": "Q12771751"
+      }
+    },
+    {
+      "displayName": "Ministerstvo vnútra Slovenskej republiky",
+      "id": "ministerstvovnutraslovenskejrepubliky-18bdcf",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ministerstvo vnútra Slovenskej republiky",
+        "operator:short": "MV SR",
+        "operator:wikidata": "Q13450147"
+      }
+    },
+    {
+      "displayName": "Ministerstvo životného prostredia Slovenskej republiky",
+      "id": "ministerstvozivotnehoprostrediaslovenskejrepubliky-18bdcf",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "government": "environment",
+        "office": "government",
+        "operator": "Ministerstvo životného prostredia Slovenskej republiky",
+        "operator:short": "MŽP SR",
+        "operator:wikidata": "Q12771757"
+      }
+    },
+    {
+      "displayName": "Missouri Department of Revenue",
+      "id": "missouridepartmentofrevenue-3e8496",
+      "locationSet": {
+        "include": ["us-mi.geojson"]
+      },
+      "matchNames": [
+        "license office",
+        "licensing office",
+        "revenue department"
+      ],
+      "tags": {
+        "office": "government",
+        "operator": "Missouri Department of Revenue",
+        "operator:wikidata": "Q6879540"
+      }
+    },
+    {
+      "displayName": "Municipalidad de Córdoba",
+      "id": "municipalidaddecordoba-cc6da1",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "office": "government",
+        "operator": "Municipalidad de Córdoba",
+        "operator:wikidata": "Q44210"
+      }
+    },
+    {
+      "displayName": "Municipalidad de Moreno",
+      "id": "municipalidaddemoreno-cc6da1",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "office": "government",
+        "operator": "Municipalidad de Moreno"
+      }
+    },
+    {
+      "displayName": "Municipalidad de Pergamino",
+      "id": "municipalidaddepergamino-cc6da1",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "office": "government",
+        "operator": "Municipalidad de Pergamino",
+        "operator:wikidata": "Q921239"
+      }
+    },
+    {
+      "displayName": "Municipalidad de San Martín",
+      "id": "municipalidaddesanmartin-7429f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "office": "government",
+        "operator": "Municipalidad de San Martín"
+      }
+    },
+    {
+      "displayName": "MVD New Mexico",
+      "id": "newmexicomotorvehicledivision-5098d2",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "matchNames": ["mvd"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "New Mexico Motor Vehicle Division",
+        "operator:short": "MVD New Mexico",
+        "operator:wikidata": "Q16982577"
+      }
+    },
+    {
+      "displayName": "Najvyšší kontrolný úrad Slovenskej republiky",
+      "id": "najvyssikontrolnyuradslovenskejrepubliky-18bdcf",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "government": "audit",
+        "office": "government",
+        "operator": "Najvyšší kontrolný úrad Slovenskej republiky",
+        "operator:short": "NKÚ SR",
+        "operator:wikidata": "Q12772297"
+      }
+    },
+    {
+      "displayName": "Národný inšpektorát práce",
+      "id": "narodnyinspektoratprace-18bdcf",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "government": "administrative",
+        "office": "government",
+        "operator": "Národný inšpektorát práce",
+        "operator:short": "NIP",
+        "operator:wikidata": "Q105160131"
+      }
+    },
+    {
+      "displayName": "National Bureau of Investigation",
+      "id": "nationalbureauofinvestigation-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["nbi clearance center"],
+      "tags": {
+        "government": "investigation",
+        "office": "government",
+        "operator": "National Bureau of Investigation",
+        "operator:en": "National Bureau of Investigation",
+        "operator:short": "NBI",
+        "operator:tl": "Pambansang Kawanihan ng Pagsisiyasat",
+        "operator:wikidata": "Q3336849"
+      }
+    },
+    {
+      "displayName": "National Commission on Indigenous Peoples",
+      "id": "nationalcommissiononindigenouspeoples-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["ncip regional office"],
+      "tags": {
+        "government": "emergency",
+        "office": "government",
+        "operator": "National Commission on Indigenous Peoples",
+        "operator:en": "National Commission on Indigenous Peoples",
+        "operator:short": "NCIP",
+        "operator:tl": "Pambansang Komisyon sa mga Katutubong Mamamayan",
+        "operator:wikidata": "Q6971675"
+      }
+    },
+    {
+      "displayName": "National Disaster Risk Reduction and Management Council",
+      "id": "nationaldisasterriskreductionandmanagementcouncil-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["ndrrmc"],
+      "tags": {
+        "government": "emergency",
+        "office": "government",
+        "operator": "National Disaster Risk Reduction and Management Council",
+        "operator:en": "National Disaster Risk Reduction and Management Council",
+        "operator:short": "NDRMMC",
+        "operator:tl": "Pambansang Tanggapan para sa Pagtugon ng Sakuna",
+        "operator:wikidata": "Q6972311"
+      }
+    },
+    {
+      "displayName": "National Economic and Development Authority",
+      "id": "nationaleconomicanddevelopmentauthority-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "agency",
+        "office": "government",
+        "operator": "National Economic and Development Authority",
+        "operator:en": "National Economic and Development Authority",
+        "operator:short": "NEDA",
+        "operator:tl": "Pambansang Pangasiwaan sa Kabuhayan at Pagpapaunlad",
+        "operator:wikidata": "Q6972376"
+      }
+    },
+    {
+      "displayName": "National Police Commission",
+      "id": "nationalpolicecommission-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "police",
+        "office": "government",
+        "operator": "National Police Commission",
+        "operator:en": "National Police Commission",
+        "operator:short": "NAPOLCOM",
+        "operator:tl": "Pambansang Komisyon ng Pulisya",
+        "operator:wikidata": "Q6952337"
+      }
+    },
+    {
+      "displayName": "National Telecommunications Commission",
+      "id": "nationaltelecommunicationscommission-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "communications",
+        "office": "government",
+        "operator": "National Telecommunications Commission",
+        "operator:en": "National Telecommunications Commission",
+        "operator:short": "NTC",
+        "operator:tl": "Pambansang Komisyon sa Telekomunikasyon",
+        "operator:wikidata": "Q6978887"
+      }
+    },
+    {
+      "displayName": "National Weather Service",
+      "id": "nationalweatherservice-eaa288",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "government": "public_service",
+        "office": "government",
+        "operator": "National Weather Service",
+        "operator:short": "NWS",
+        "operator:wikidata": "Q1066823"
+      }
+    },
+    {
+      "displayName": "Nevada DMV",
+      "id": "nevadadepartmentofmotorvehicles-331b92",
+      "locationSet": {
+        "include": ["us-nv.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Nevada Department of Motor Vehicles",
+        "operator:short": "Nevada DMV",
+        "operator:wikidata": "Q16920922"
+      }
+    },
+    {
+      "displayName": "New York DMV",
+      "id": "newyorkstatedepartmentofmotorvehicles-b00967",
+      "locationSet": {
+        "include": ["us-ny.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "New York State Department of Motor Vehicles",
+        "operator:short": "New York DMV",
+        "operator:wikidata": "Q17109616"
+      }
+    },
+    {
+      "displayName": "NJMVC",
+      "id": "newjerseymotorvehiclecommission-7de197",
+      "locationSet": {
+        "include": ["us-nj.geojson"]
+      },
+      "matchNames": [
+        "motor vehicle services",
+        "mvc"
+      ],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "New Jersey Motor Vehicle Commission",
+        "operator:short": "NJMVC",
+        "operator:wikidata": "Q16956151"
+      }
+    },
+    {
+      "displayName": "North Carolina DMV",
+      "id": "northcarolinadivisionofmotorvehicles-d24a87",
+      "locationSet": {
+        "include": ["us-nc.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "North Carolina Division of Motor Vehicles",
+        "operator:short": "North Carolina DMV",
+        "operator:wikidata": "Q7054481"
+      }
+    },
+    {
+      "displayName": "NSW Rural Fire Service",
+      "id": "nswruralfireservice-7429f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "office": "government",
+        "operator": "NSW Rural Fire Service"
+      }
+    },
+    {
+      "displayName": "Ohio BMV",
+      "id": "ohiobureauofmotorvehicles-e18323",
+      "locationSet": {
+        "include": ["us-oh.geojson"]
+      },
+      "matchNames": ["bmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Ohio Bureau of Motor Vehicles",
+        "operator:short": "Ohio BMV",
+        "operator:wikidata": "Q74329867"
+      }
+    },
+    {
+      "displayName": "Oklahoma DPS",
+      "id": "oklahomadepartmentofpublicsafety-1c35fb",
+      "locationSet": {
+        "include": ["us-ok.geojson"]
+      },
+      "matchNames": [
+        "dept of public safety",
+        "dps",
+        "drivers license testing"
+      ],
+      "tags": {
+        "office": "government",
+        "operator": "Oklahoma Department of Public Safety",
+        "operator:short": "Oklahoma DPS",
+        "operator:wikidata": "Q17108253"
+      }
+    },
+    {
+      "displayName": "Oregon Department of Human Services",
+      "id": "oregondepartmentofhumanservices-244100",
+      "locationSet": {
+        "include": ["us-or.geojson"]
+      },
+      "tags": {
+        "government": "social_services",
+        "office": "government",
+        "operator": "Oregon Department of Human Services",
+        "operator:short": "ODHS",
+        "operator:wikidata": "Q7101175"
+      }
+    },
+    {
+      "displayName": "Państwowa Straż Pożarna",
+      "id": "panstwowastrazpozarna-995fc9",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "government": "public_safety",
+        "office": "government",
+        "operator": "Państwowa Straż Pożarna",
+        "operator:wikidata": "Q11815208"
+      }
+    },
+    {
+      "displayName": "Philippine Ports Authority",
+      "id": "philippineportsauthority-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "agency",
+        "office": "government",
+        "operator": "Philippine Ports Authority",
+        "operator:en": "Philippine Ports Authority",
+        "operator:short": "PPA",
+        "operator:tl": "Pangasiwaan ng mga Pantalan ng Pilipinas",
+        "operator:wikidata": "Q7185188"
+      }
+    },
+    {
+      "displayName": "Professional Regulation Commission",
+      "id": "professionalregulationcommission-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "agency",
+        "office": "government",
+        "operator": "Professional Regulation Commission",
+        "operator:en": "Professional Regulation Commission",
+        "operator:short": "PRC",
+        "operator:tl": "Komisyon sa Regulasyon mga Propesyon",
+        "operator:wikidata": "Q7248019"
+      }
+    },
+    {
+      "displayName": "SAREN",
+      "id": "sarenministeriodeinterioryjusticia-b90a8d",
+      "locationSet": {"include": ["ve"]},
+      "tags": {
+        "government": "register_office",
+        "office": "government",
+        "operator": "SAREN, Ministerio de Interior y Justicia",
+        "operator:short": "SAREN",
+        "operator:wikidata": "Q6126010"
+      }
+    },
+    {
+      "displayName": "Secretaría de Educación del Gobierno del Estado",
+      "id": "secretariadeeducaciondelgobiernodelestado-d2c31c",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "office": "government",
+        "operator": "Secretaría de Educación del Gobierno del Estado"
+      }
+    },
+    {
+      "displayName": "SEDUC - Secretaria da Educaçao CEARA",
+      "id": "seducsecretariadaeducacaoceara-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "office": "government",
+        "operator": "SEDUC - Secretaria da Educaçao CEARA"
+      }
+    },
+    {
+      "displayName": "Service Canada",
+      "id": "servicecanada-c369f1",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "office": "government",
+        "operator": "Service Canada",
+        "operator:wikidata": "Q3480058"
+      }
+    },
+    {
+      "displayName": "ServiceOntario",
+      "id": "serviceontario-a69e09",
+      "locationSet": {
+        "include": ["ca-on.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "ServiceOntario",
+        "operator:wikidata": "Q3480052"
+      }
+    },
+    {
+      "displayName": "Services Australia",
+      "id": "servicesaustralia-1b54b2",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "office": "government",
+        "operator": "Services Australia",
+        "operator:wikidata": "Q4294705"
+      }
+    },
+    {
+      "displayName": "Social Security Administration",
+      "id": "socialsecurityadministration-eaa288",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "government": "social_security",
+        "name": "Social Security Administration",
+        "office": "government",
+        "operator": "Social Security Administration",
+        "operator:short": "SSA",
+        "operator:wikidata": "Q2824618"
+      }
+    },
+    {
+      "displayName": "Social Security System",
+      "id": "socialsecuritysystem-7987d4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "government": "social_security",
+        "office": "government",
+        "operator": "Social Security System",
+        "operator:short": "SSS",
+        "operator:tl": "Paseguruhan sa Kapanatagang Panlipunan",
+        "operator:wikidata": "Q7550838"
+      }
+    },
+    {
+      "displayName": "South African Revenue Service",
+      "id": "southafricanrevenueservice-efe93a",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "name": "South African Revenue Service",
+        "office": "government",
+        "operator": "South African Revenue Service",
+        "operator:short": "SARS",
+        "operator:wikidata": "Q7565786",
+        "short_name": "SARS"
+      }
+    },
+    {
+      "displayName": "South Dakota DPS",
+      "id": "southdakotadepartmentofpublicsafety-b4f9cc",
+      "locationSet": {
+        "include": ["us-sd.geojson"]
+      },
+      "matchNames": [
+        "dps",
+        "driver exam",
+        "driver exam station"
+      ],
+      "tags": {
+        "office": "government",
+        "operator": "South Dakota Department of Public Safety",
+        "operator:short": "South Dakota DPS",
+        "operator:wikidata": "Q17108253"
+      }
+    },
+    {
+      "displayName": "Stadt Augsburg",
+      "id": "stadtaugsburg-bab14c",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "Stadt Augsburg",
+        "operator:wikidata": "Q2749"
+      }
+    },
+    {
+      "displayName": "Stadt Bielefeld",
+      "id": "stadtbielefeld-7646da",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "Stadt Bielefeld"
+      }
+    },
+    {
+      "displayName": "Sûreté du Québec",
+      "id": "sureteduquebec-00acfa",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "office": "government",
+        "operator": "Sûreté du Québec"
+      }
+    },
+    {
+      "displayName": "Texas DMV",
+      "id": "texasdepartmentofmotorvehicles-c28928",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Texas Department of Motor Vehicles",
+        "operator:short": "Texas DMV",
+        "operator:wikidata": "Q4170975"
+      }
+    },
+    {
+      "displayName": "Tribunal Regional Eleitoral - DF",
+      "id": "tribunalregionaleleitoraldf-efa52e",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "government": "register_office",
+        "office": "government",
+        "operator": "Tribunal Regional Eleitoral - DF",
+        "operator:wikidata": "Q25428038"
+      }
+    },
+    {
+      "displayName": "United States Customs and Border Protection",
+      "id": "unitedstatescustomsandborderprotection-eaa288",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "customs and border protection",
+        "u.s. customs and border protection",
+        "us customs",
+        "uscbp"
+      ],
+      "matchTags": ["amenity/police"],
+      "tags": {
+        "government": "customs",
+        "name": "United States Customs and Border Protection",
+        "office": "government",
+        "operator": "United States Customs and Border Protection",
+        "operator:short": "CBP",
+        "operator:wikidata": "Q368804"
+      }
+    },
+    {
+      "displayName": "United States Geological Survey",
+      "id": "unitedstatesgeologicalsurvey-eaa288",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "office": "government",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "displayName": "Urząd Miasta Poznania",
+      "id": "urzadmiastapoznania-995fc9",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "office": "government",
+        "operator": "Urząd Miasta Poznania"
+      }
+    },
+    {
+      "displayName": "Vermont DMV",
+      "id": "vermontdepartmentofmotorvehicles-e8b2d3",
+      "locationSet": {
+        "include": ["us-vt.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Vermont Department of Motor Vehicles",
+        "operator:short": "Vermont DMV",
+        "operator:wikidata": "Q7921710"
+      }
+    },
+    {
+      "displayName": "Ville de Vandœuvre-lès-Nancy",
+      "id": "villedevandoeuvrelesnancy-5668b8",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "office": "government",
+        "operator": "Ville de Vandœuvre-lès-Nancy"
+      }
+    },
+    {
+      "displayName": "Virginia DMV",
+      "id": "virginiadepartmentofmotorvehicles-74923a",
+      "locationSet": {
+        "include": ["us-va.geojson"]
+      },
+      "matchNames": ["dmv"],
+      "tags": {
+        "government": "transportation",
+        "office": "government",
+        "operator": "Virginia Department of Motor Vehicles",
+        "operator:short": "Virginia DMV",
+        "operator:wikidata": "Q7934244"
+      }
+    },
+    {
+      "displayName": "Vlaamse overheid",
+      "id": "vlaamseoverheid-81c06d",
+      "locationSet": {"include": ["be"]},
+      "tags": {
+        "office": "government",
+        "operator": "Vlaamse overheid"
+      }
+    },
+    {
+      "displayName": "Xunta de Galicia",
+      "id": "xuntadegalicia-f19bf1",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "office": "government",
+        "operator": "Xunta de Galicia"
+      }
+    },
+    {
+      "displayName": "Агенция \"Пътна инфраструктура\"",
+      "id": "7a1d9d-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["api", "ria", "апи", "опу"],
+      "tags": {
+        "office": "government",
+        "operator": "Агенция \"Пътна инфраструктура\"",
+        "operator:wikidata": "Q12271140"
+      }
+    },
+    {
+      "displayName": "Агенция по вписванията",
+      "id": "30f803-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "government": "register_office",
+        "office": "government",
+        "operator": "Агенция по вписванията",
+        "operator:wikidata": "Q101218804"
+      }
+    },
+    {
+      "displayName": "Агенция по геодезия, картография и кадастър",
+      "id": "ca337a-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["агкк"],
+      "tags": {
+        "government": "cadaster",
+        "office": "government",
+        "operator": "Агенция по геодезия, картография и кадастър",
+        "operator:wikidata": "Q20498487"
+      }
+    },
+    {
+      "displayName": "Агенция по заетостта",
+      "id": "ff615c-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["аз"],
+      "tags": {
+        "government": "employment_agency",
+        "office": "government",
+        "operator": "Агенция по заетостта",
+        "operator:wikidata": "Q12271139"
+      }
+    },
+    {
+      "displayName": "Изпълнителна агенция \"Автомобилна администрация\"",
+      "id": "d21924-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["даи", "иааа"],
+      "tags": {
+        "office": "government",
+        "operator": "Изпълнителна агенция \"Автомобилна администрация\"",
+        "operator:wikidata": "Q112581933"
+      }
+    },
+    {
+      "displayName": "Министертво на здравеопазването",
+      "id": "c2eee5-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["мз"],
+      "tags": {
+        "office": "government",
+        "operator": "Министертво на здравеопазването",
+        "operator:wikidata": "Q12286820"
+      }
+    },
+    {
+      "displayName": "Министертво на образованието и науката",
+      "id": "144fef-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["мон", "монм"],
+      "tags": {
+        "office": "government",
+        "operator": "Министертво на образованието и науката",
+        "operator:wikidata": "Q3396672"
+      }
+    },
+    {
+      "displayName": "Национален осигурителен институт",
+      "id": "6e9305-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["нои"],
+      "tags": {
+        "office": "government",
+        "operator": "Национален осигурителен институт",
+        "operator:wikidata": "Q12287856"
+      }
+    },
+    {
+      "displayName": "Национална агенция за приходите",
+      "id": "24960f-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["нап"],
+      "tags": {
+        "government": "tax",
+        "office": "government",
+        "operator": "Национална агенция за приходите",
+        "operator:wikidata": "Q12287903"
+      }
+    },
+    {
+      "displayName": "Национална здравно-осигурителна каса",
+      "id": "57670d-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["нзок", "рзок"],
+      "tags": {
+        "office": "government",
+        "operator": "Национална здравно-осигурителна каса",
+        "operator:wikidata": "Q12287913"
+      }
+    },
+    {
+      "displayName": "Прокуратура на Република България",
+      "id": "5494fb-8d3c9a",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": [
+        "прб",
+        "прокуратура",
+        "прокурор"
+      ],
+      "tags": {
+        "government": "prosecutor",
+        "office": "government",
+        "operator": "Прокуратура на Република България",
+        "operator:wikidata": "Q53124687"
+      }
+    },
+    {
+      "displayName": "Санкт-Петербургское государственное автономное учреждение «Центр занятости населения Санкт-Петербурга»",
+      "id": "d26c72-5712be",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "office": "government",
+        "operator": "Санкт-Петербургское государственное автономное учреждение «Центр занятости населения Санкт-Петербурга»"
+      }
+    },
+    {
+      "displayName": "الشركة الوطنية للكهرباء والغاز",
+      "id": "f763df-942c38",
+      "locationSet": {"include": ["dz"]},
+      "tags": {
+        "office": "government",
+        "operator": "الشركة الوطنية للكهرباء والغاز"
+      }
+    },
+    {
+      "displayName": "पोखरा महानगरपालिका",
+      "id": "90ff21-3371e4",
+      "locationSet": {"include": ["np"]},
+      "matchNames": [
+        "pokhara sub-metropolitian city"
+      ],
+      "tags": {
+        "office": "government",
+        "operator": "पोखरा महानगरपालिका",
+        "operator:wikidata": "Q6640"
+      }
+    },
+    {
+      "displayName": "日本年金機構",
+      "id": "235863-8ff2cf",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["年金事務所", "社会保険事務所"],
+      "tags": {
+        "office": "government",
+        "operator": "日本年金機構",
+        "operator:wikidata": "Q11508070"
+      }
+    }
+  ]
+}

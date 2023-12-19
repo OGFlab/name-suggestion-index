@@ -1,0 +1,152 @@
+{
+  "properties": {
+    "path": "brands/amenity/clinic",
+    "skipCollection": true,
+    "exclude": {
+      "generic": [
+        "^clinic$",
+        "^поликлиника$",
+        "^поліклініка$"
+      ]
+    }
+  },
+  "items": [
+    {
+      "displayName": "Advocate Health Care",
+      "id": "advocatehealthcare-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Advocate Health Care",
+        "brand:wikidata": "Q30254233",
+        "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "Carbon Health",
+      "id": "carbonhealth-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Carbon Health",
+        "brand:wikidata": "Q110076263",
+        "healthcare": "clinic",
+        "operator": "Carbon Health",
+        "operator:wikidata": "Q110076263"
+      }
+    },
+    {
+      "displayName": "GoHealth Urgent Care",
+      "id": "gohealthurgentcare-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "GoHealth Urgent Care",
+        "brand:wikidata": "Q110282081",
+        "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "KfH",
+      "id": "kfh-5fb5d4",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["kfh nierenzentrum"],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "KfH",
+        "brand:wikidata": "Q1740377",
+        "healthcare": "dialysis",
+        "healthcare:speciality": "nephrology"
+      }
+    },
+    {
+      "displayName": "LASIK MD",
+      "id": "lasikmd-a4b770",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "amenity": "clinic",
+        "brand": "LASIK MD",
+        "brand:wikidata": "Q3205934",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "LASIK MD"
+      }
+    },
+    {
+      "displayName": "Northwestern Medicine",
+      "id": "northwesternmedicine-7453f3",
+      "locationSet": {
+        "include": ["us-il.geojson"]
+      },
+      "matchNames": [
+        "northwestern memorial healthcare"
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Northwestern Medicine",
+        "brand:wikidata": "Q50036890",
+        "healthcare": "clinic"
+      }
+    },
+    {
+      "displayName": "Sentara Healthcare",
+      "id": "sentara-b3ff53",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "sentara health",
+        "sentara healthcare"
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Sentara",
+        "brand:wikidata": "Q7451179",
+        "healthcare": "clinic",
+        "name": "Sentara"
+      }
+    },
+    {
+      "displayName": "Sutter Surgery Center",
+      "id": "suttersurgerycenter-6bb225",
+      "locationSet": {
+        "include": ["us-ca.geojson"]
+      },
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Sutter Health",
+        "brand:wikidata": "Q7650154",
+        "healthcare": "clinic",
+        "healthcare:speciality": "surgery",
+        "name": "Sutter Surgery Center"
+      }
+    },
+    {
+      "displayName": "Vein Clinics of America",
+      "id": "veinclinicsofamerica-12a747",
+      "locationSet": {
+        "include": [
+          "us-ct.geojson",
+          "us-ga.geojson",
+          "us-il.geojson",
+          "us-in.geojson",
+          "us-ks.geojson",
+          "us-md.geojson",
+          "us-mn.geojson",
+          "us-mo.geojson",
+          "us-nc.geojson",
+          "us-oh.geojson",
+          "us-tn.geojson",
+          "us-tx.geojson",
+          "us-va.geojson",
+          "us-wi.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "clinic",
+        "brand": "Vein Clinics of America",
+        "brand:wikidata": "Q113712355",
+        "healthcare": "clinic"
+      }
+    }
+  ]
+}

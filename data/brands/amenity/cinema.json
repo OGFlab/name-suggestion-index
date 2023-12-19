@@ -1,0 +1,1330 @@
+{
+  "properties": {
+    "path": "brands/amenity/cinema",
+    "preserveTags": ["^name"],
+    "exclude": {
+      "generic": ["^(电)?影院$", "^cine(ma)?$"],
+      "named": ["^мир$", "^октябрь$"]
+    }
+  },
+  "items": [
+    {
+      "displayName": "109シネマズ",
+      "id": "109cinemas-35c174",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "109シネマズ",
+        "brand:en": "109 Cinemas",
+        "brand:ja": "109シネマズ",
+        "brand:wikidata": "Q10854269",
+        "name": "109シネマズ",
+        "name:en": "109 Cinemas",
+        "name:ja": "109シネマズ"
+      }
+    },
+    {
+      "displayName": "Alamo Drafthouse Cinema",
+      "id": "alamodrafthousecinema-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "alamo",
+        "drafthouse cinema"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Alamo Drafthouse Cinema",
+        "brand:wikidata": "Q4705954",
+        "name": "Alamo Drafthouse Cinema"
+      }
+    },
+    {
+      "displayName": "AMC",
+      "id": "amc-71ff56",
+      "locationSet": {"include": ["hk", "us"]},
+      "matchNames": [
+        "amc cinema",
+        "amc cinemas",
+        "amc theater",
+        "amc theaters",
+        "amc theatre",
+        "amc theatres"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "AMC",
+        "brand:wikidata": "Q294721",
+        "name": "AMC"
+      }
+    },
+    {
+      "displayName": "B&B Theatres",
+      "id": "bandbtheatres-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["b&b theaters"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "B&B Theatres",
+        "brand:wikidata": "Q4833576",
+        "name": "B&B Theatres",
+        "short_name": "B&B"
+      }
+    },
+    {
+      "displayName": "Caribbean Cinemas",
+      "id": "caribbeancinemas-77ba3f",
+      "locationSet": {
+        "include": [
+          "ag",
+          "do",
+          "fr",
+          "gy",
+          "kn",
+          "lc",
+          "nl",
+          "pa",
+          "tt",
+          "us"
+        ]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Caribbean Cinemas",
+        "brand:wikidata": "Q5039364",
+        "name": "Caribbean Cinemas"
+      }
+    },
+    {
+      "displayName": "Century Theatres",
+      "id": "centurytheatres-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "century theater",
+        "century theaters",
+        "century theatre"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Century Theatres",
+        "brand:wikidata": "Q2946307",
+        "name": "Century Theatres",
+        "short_name": "Century"
+      }
+    },
+    {
+      "displayName": "CGR",
+      "id": "cgrcinemas-65cef4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "CGR",
+        "brand:wikidata": "Q2931406",
+        "name": "CGR Cinémas"
+      }
+    },
+    {
+      "displayName": "CGV影城",
+      "id": "cgvcinema-d2999b",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": ["cgv"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "CGV影城",
+        "brand:en": "CGV Cinema",
+        "brand:wikidata": "Q5012261",
+        "brand:zh": "CGV影城",
+        "name": "CGV影城",
+        "name:en": "CGV Cinema",
+        "name:zh": "CGV影城"
+      }
+    },
+    {
+      "displayName": "Cine Center",
+      "id": "cinecenter-276738",
+      "locationSet": {"include": ["bo"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cine Center",
+        "brand:wikidata": "Q81962395",
+        "name": "Cine Center"
+      }
+    },
+    {
+      "displayName": "Cinema City",
+      "id": "cinemacity-2b5fb2",
+      "locationSet": {
+        "include": [
+          "bg",
+          "cz",
+          "hu",
+          "pl",
+          "ro",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinema City",
+        "brand:wikidata": "Q543651",
+        "name": "Cinema City"
+      }
+    },
+    {
+      "displayName": "Cinema NOS",
+      "id": "cinemanos-97a9e2",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemas NOS",
+        "brand:wikidata": "Q8063259",
+        "name": "Cinema NOS"
+      }
+    },
+    {
+      "displayName": "Cinemark",
+      "id": "cinemark-dc12dc",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["pl"]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemark",
+        "brand:wikidata": "Q707530",
+        "name": "Cinemark"
+      }
+    },
+    {
+      "displayName": "Cinemax",
+      "id": "cinemax-396cc7",
+      "locationSet": {"include": ["ro", "sk"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemax",
+        "brand:wikidata": "Q93129643",
+        "name": "Cinemax"
+      }
+    },
+    {
+      "displayName": "Cinemaximum",
+      "id": "cinemaximum-690e75",
+      "locationSet": {"include": ["tr"]},
+      "matchNames": ["mars entertainment group"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemaximum",
+        "brand:wikidata": "Q24914175",
+        "name": "Cinemaximum"
+      }
+    },
+    {
+      "displayName": "Cinemaxx (Europe)",
+      "id": "cinemaxx-49be64",
+      "locationSet": {"include": ["de", "dk"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemaxx",
+        "brand:wikidata": "Q881860",
+        "name": "Cinemaxx"
+      }
+    },
+    {
+      "displayName": "Cinemaxx (Indonesia)",
+      "id": "cinemaxx-ee9238",
+      "locationSet": {"include": ["id"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemaxx",
+        "brand:wikidata": "Q19942740",
+        "name": "Cinemaxx"
+      }
+    },
+    {
+      "displayName": "Cinemex",
+      "id": "cinemex-217d43",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemex",
+        "brand:wikidata": "Q3333072",
+        "name": "Cinemex"
+      }
+    },
+    {
+      "displayName": "Cineplanet",
+      "id": "cineplanet-7fe2a4",
+      "locationSet": {"include": ["cl", "pe"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cineplanet",
+        "brand:wikidata": "Q5769680",
+        "name": "Cineplanet"
+      }
+    },
+    {
+      "displayName": "Cineplex",
+      "id": "cineplex-4ad1c3",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": [
+        "cineplex cinema",
+        "cineplex cinemas",
+        "cineplex entertainment",
+        "cineplex odeon",
+        "cineplex theatre",
+        "cineplex theatres"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cineplex",
+        "brand:wikidata": "Q2972807",
+        "name": "Cineplex"
+      }
+    },
+    {
+      "displayName": "Cineplex (Deutschland)",
+      "id": "cineplex-00435d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cineplex",
+        "brand:wikidata": "Q1092476",
+        "name": "Cineplex"
+      }
+    },
+    {
+      "displayName": "Cineplexx",
+      "id": "cineplexx-8f1bb5",
+      "locationSet": {
+        "include": [
+          "al",
+          "at",
+          "ba",
+          "gr",
+          "hr",
+          "it",
+          "me",
+          "mk",
+          "ro",
+          "rs",
+          "si",
+          "xk"
+        ]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cineplexx",
+        "brand:wikidata": "Q873340",
+        "name": "Cineplexx"
+      }
+    },
+    {
+      "displayName": "Cinepolis",
+      "id": "cinepolis-dc12dc",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["pl"]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "name": "Cinepolis"
+      }
+    },
+    {
+      "displayName": "Cinesa",
+      "id": "cinesa-408f25",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinesa",
+        "brand:wikidata": "Q20732115",
+        "name": "Cinesa"
+      }
+    },
+    {
+      "displayName": "CineStar",
+      "id": "cinestar-a7029a",
+      "locationSet": {
+        "include": [
+          "ba",
+          "cz",
+          "de",
+          "hr",
+          "it",
+          "rs"
+        ]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "CineStar",
+        "brand:wikidata": "Q321889",
+        "name": "CineStar"
+      }
+    },
+    {
+      "displayName": "Cinéville",
+      "id": "cineville-65cef4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinéville",
+        "brand:wikidata": "Q2973271",
+        "name": "Cinéville"
+      }
+    },
+    {
+      "displayName": "Cineworld",
+      "id": "cineworld-5b33a1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cineworld",
+        "brand:wikidata": "Q5120901",
+        "name": "Cineworld"
+      }
+    },
+    {
+      "displayName": "CJ CGV",
+      "id": "cgvcinema-c6663f",
+      "locationSet": {"include": ["kr"]},
+      "matchNames": ["cgv"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "씨제이 씨지브이)㈜",
+        "brand:en": "CGV Cinema",
+        "brand:ko": "씨제이 씨지브이)㈜",
+        "brand:wikidata": "Q5012261",
+        "name": "씨제이 씨지브이)㈜",
+        "name:en": "CGV Cinema",
+        "name:ko": "씨제이 씨지브이)㈜"
+      }
+    },
+    {
+      "displayName": "Curzon",
+      "id": "curzon-5b33a1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Curzon",
+        "brand:wikidata": "Q16953326",
+        "name": "Curzon"
+      }
+    },
+    {
+      "displayName": "Dendy",
+      "id": "dendy-1a8a27",
+      "locationSet": {"include": ["au"]},
+      "matchNames": ["dendy cinema"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Dendy Cinemas",
+        "brand:wikidata": "Q22907727",
+        "name": "Dendy"
+      }
+    },
+    {
+      "displayName": "Event Cinemas",
+      "id": "eventcinemas-402915",
+      "locationSet": {"include": ["au", "nz"]},
+      "matchNames": ["event cinema"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Event Cinemas",
+        "brand:wikidata": "Q5416698",
+        "name": "Event Cinemas"
+      }
+    },
+    {
+      "displayName": "Everyman",
+      "id": "everyman-5b33a1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Everyman Cinemas",
+        "brand:wikidata": "Q5417852",
+        "name": "Everyman"
+      }
+    },
+    {
+      "displayName": "Golden Screen Cinemas",
+      "id": "goldenscreencinemas-ee5a85",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Golden Screen Cinemas",
+        "brand:wikidata": "Q5579784",
+        "name": "Golden Screen Cinemas",
+        "short_name": "GSC"
+      }
+    },
+    {
+      "displayName": "Harkins Theatres",
+      "id": "harkinstheatres-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "harkins theater",
+        "harkins theaters",
+        "harkins theatre"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Harkins Theatres",
+        "brand:wikidata": "Q5658199",
+        "name": "Harkins Theatres",
+        "short_name": "Harkins"
+      }
+    },
+    {
+      "displayName": "Haut et Court",
+      "id": "hautetcourt-65cef4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Haut et Court",
+        "brand:wikidata": "Q3128481",
+        "name": "Haut et Court"
+      }
+    },
+    {
+      "displayName": "Helios",
+      "id": "helios-696d99",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Helios",
+        "brand:wikidata": "Q5705879",
+        "name": "Helios"
+      }
+    },
+    {
+      "displayName": "Hoyts",
+      "id": "hoyts-402915",
+      "locationSet": {"include": ["au", "nz"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Hoyts",
+        "brand:wikidata": "Q5922976",
+        "name": "Hoyts"
+      }
+    },
+    {
+      "displayName": "In89豪華數位影城",
+      "id": "in89cinemax-4205fd",
+      "locationSet": {"include": ["tw"]},
+      "matchNames": ["豪華大戲院"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "In89豪華數位影城",
+        "brand:en": "in89 Cinemax",
+        "brand:wikidata": "Q10851078",
+        "brand:zh": "In89豪華數位影院",
+        "name": "In89豪華數位影城",
+        "name:en": "in89 Cinemax",
+        "name:zh": "In89豪華數位影院"
+      }
+    },
+    {
+      "displayName": "INOX Leisure",
+      "id": "inoxleisure-41b2b7",
+      "locationSet": {"include": ["in"]},
+      "matchNames": ["inox movies"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "INOX Leisure",
+        "brand:wikidata": "Q5972349",
+        "name": "INOX Leisure",
+        "short_name": "INOX"
+      }
+    },
+    {
+      "displayName": "Irish Multiplex Cinemas",
+      "id": "imc-668c40",
+      "locationSet": {"include": ["ie"]},
+      "matchNames": ["multiplex"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Irish Multiplex Cinemas",
+        "brand:wikidata": "Q17087433",
+        "name": "IMC"
+      }
+    },
+    {
+      "displayName": "Kinepolis",
+      "id": "kinepolis-bc363a",
+      "locationSet": {
+        "include": [
+          "be",
+          "ch",
+          "es",
+          "fr",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Kinepolis",
+        "brand:wikidata": "Q1741993",
+        "name": "Kinepolis"
+      }
+    },
+    {
+      "displayName": "Landmark Cinemas",
+      "id": "landmarkcinemas-4ad1c3",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": [
+        "landmark",
+        "landmark cinema"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Landmark Cinemas",
+        "brand:wikidata": "Q6484762",
+        "name": "Landmark Cinemas"
+      }
+    },
+    {
+      "displayName": "Landmark Theatres",
+      "id": "landmarktheatres-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "landmark theater",
+        "landmark theaters",
+        "landmark theatre"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Landmark Theatres",
+        "brand:wikidata": "Q6484805",
+        "name": "Landmark Theatres",
+        "short_name": "Landmark"
+      }
+    },
+    {
+      "displayName": "Les Écrans de Paris",
+      "id": "lesecransdeparis-65cef4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Les Écrans de Paris",
+        "brand:wikidata": "Q3236510",
+        "name": "Les Écrans de Paris"
+      }
+    },
+    {
+      "displayName": "Lotus Five Star",
+      "id": "lotusfivestar-ee5a85",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Lotus Five Star",
+        "brand:wikidata": "Q17053165",
+        "name": "Lotus Five Star",
+        "short_name": "LFS"
+      }
+    },
+    {
+      "displayName": "Majestic",
+      "id": "majestic-65cef4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Majestic",
+        "brand:wikidata": "Q19945144",
+        "name": "Majestic"
+      }
+    },
+    {
+      "displayName": "Marcus Cinema",
+      "id": "marcuscinema-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "marcus cinemas",
+        "marcus theater",
+        "marcus theaters",
+        "marcus theatre",
+        "marcus theatres"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Marcus Cinema",
+        "brand:wikidata": "Q64083352",
+        "name": "Marcus Cinema",
+        "short_name": "Marcus"
+      }
+    },
+    {
+      "displayName": "MBO Cinemas",
+      "id": "mbocinemas-ee5a85",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "MBO Cinemas",
+        "brand:wikidata": "Q17053599",
+        "name": "MBO Cinemas",
+        "short_name": "MBO"
+      }
+    },
+    {
+      "displayName": "Megarama",
+      "id": "megarama-2d2421",
+      "locationSet": {
+        "include": ["es", "fr", "ma"]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Megarama",
+        "brand:wikidata": "Q96707027",
+        "name": "Megarama"
+      }
+    },
+    {
+      "displayName": "Merlin Cinemas",
+      "id": "merlincinemas-5b33a1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Merlin Cinemas",
+        "brand:wikidata": "Q6819767"
+      }
+    },
+    {
+      "displayName": "MK2",
+      "id": "mk2-65cef4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "MK2",
+        "brand:wikidata": "Q19814222",
+        "name": "MK2"
+      }
+    },
+    {
+      "displayName": "Movie Tavern",
+      "id": "movietavern-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Movie Tavern",
+        "brand:wikidata": "Q64083534",
+        "name": "Movie Tavern"
+      }
+    },
+    {
+      "displayName": "Moviecom",
+      "id": "moviecom-82f832",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Moviecom",
+        "brand:wikidata": "Q10332780",
+        "name": "Moviecom"
+      }
+    },
+    {
+      "displayName": "MOVIX",
+      "id": "movix-35c174",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "MOVIX",
+        "brand:wikidata": "Q11532184",
+        "name": "MOVIX",
+        "official_name": "松竹マルチプレックスシアターズ",
+        "official_name:en": "Shochiku Multiplex Theatres"
+      }
+    },
+    {
+      "displayName": "MultiCine",
+      "id": "multicine-276738",
+      "locationSet": {"include": ["bo"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "MultiCine",
+        "brand:wikidata": "Q81963200",
+        "name": "MultiCine"
+      }
+    },
+    {
+      "displayName": "Multikino",
+      "id": "multikino-f97ba6",
+      "locationSet": {"include": ["lt", "pl"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Multikino",
+        "brand:wikidata": "Q1144802",
+        "name": "Multikino",
+        "operator": "Vue Cinemas"
+      }
+    },
+    {
+      "displayName": "Nu Metro Cinemas",
+      "id": "numetro-794bcb",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Nu Metro Cinemas",
+        "brand:wikidata": "Q7067740",
+        "name": "Nu Metro"
+      }
+    },
+    {
+      "displayName": "Odeon",
+      "id": "odeon-031144",
+      "locationSet": {
+        "include": ["gb", "gr", "ie", "it"]
+      },
+      "matchNames": [
+        "odeon cinema",
+        "odeon cinemas"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Odeon",
+        "brand:wikidata": "Q6127470",
+        "name": "Odeon"
+      }
+    },
+    {
+      "displayName": "Omniplex Cinemas",
+      "id": "omniplex-668c40",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Omniplex Cinemas",
+        "brand:wikidata": "Q17101050",
+        "name": "Omniplex"
+      }
+    },
+    {
+      "displayName": "Palace Cinemas",
+      "id": "palacecinemas-1a8a27",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Palace Cinemas",
+        "brand:wikidata": "Q7126164",
+        "name": "Palace Cinemas"
+      }
+    },
+    {
+      "displayName": "Pathé",
+      "id": "pathe-484389",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Pathé",
+        "brand:wikidata": "Q61959392",
+        "name": "Pathé"
+      }
+    },
+    {
+      "displayName": "Pathé Gaumont",
+      "id": "pathegaumont-22090e",
+      "locationSet": {
+        "include": ["be", "ch", "fr", "tn"]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Pathé Gaumont",
+        "brand:wikidata": "Q3060526",
+        "name": "Pathé Gaumont"
+      }
+    },
+    {
+      "displayName": "Picturehouse Cinemas",
+      "id": "picturehousecinemas-5b33a1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Picturehouse Cinemas",
+        "brand:wikidata": "Q7191215"
+      }
+    },
+    {
+      "displayName": "PVR Cinemas",
+      "id": "pvrcinemas-41b2b7",
+      "locationSet": {"include": ["in"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "PVR Cinemas",
+        "brand:wikidata": "Q3359908",
+        "name": "PVR Cinemas",
+        "short_name": "PVR"
+      }
+    },
+    {
+      "displayName": "rạp chiếu phim CGV",
+      "id": "rapchieuphimcgv-360d00",
+      "locationSet": {"include": ["vn"]},
+      "matchNames": ["cgv"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "rạp chiếu phim CGV",
+        "brand:en": "CGV Cinema",
+        "brand:vi": "rạp chiếu phim CGV",
+        "brand:wikidata": "Q5012261",
+        "name": "rạp chiếu phim CGV",
+        "name:en": "CGV Cinema",
+        "name:vi": "rạp chiếu phim CGV",
+        "official_name": "CGV Cinemas Vietnam"
+      }
+    },
+    {
+      "displayName": "Reading Cinemas",
+      "id": "readingcinemas-49d471",
+      "locationSet": {
+        "include": ["au", "nz", "us"]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Reading Cinemas",
+        "brand:wikidata": "Q43898773",
+        "name": "Reading Cinemas"
+      }
+    },
+    {
+      "displayName": "REEL Cinemas",
+      "id": "reelcinema-5b33a1",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "REEL Cinemas",
+        "brand:wikidata": "Q7306850",
+        "name": "REEL Cinema"
+      }
+    },
+    {
+      "displayName": "Regal Cinemas",
+      "id": "regalcinemas-a7c63e",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["regal cinema"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Regal Cinemas",
+        "brand:wikidata": "Q835638",
+        "name": "Regal Cinemas",
+        "short_name": "Regal"
+      }
+    },
+    {
+      "displayName": "Renoir",
+      "id": "renoir-408f25",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Renoir",
+        "brand:wikidata": "Q21077391",
+        "name": "Renoir"
+      }
+    },
+    {
+      "displayName": "Scott Cinemas",
+      "id": "scottcinemas-9af70b",
+      "locationSet": {"include": ["gb-eng"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Scott Cinemas",
+        "brand:wikidata": "Q7436133",
+        "name": "Scott Cinemas"
+      }
+    },
+    {
+      "displayName": "Showcase Cinemas",
+      "id": "showcasecinemas-481888",
+      "locationSet": {
+        "include": ["ar", "gb", "us"]
+      },
+      "matchNames": ["showcase cinema"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Showcase Cinemas",
+        "brand:wikidata": "Q7503170",
+        "name": "Showcase Cinemas",
+        "short_name": "Showcase"
+      }
+    },
+    {
+      "displayName": "Ster-Kinekor",
+      "id": "sterkinekor-794bcb",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Ster-Kinekor",
+        "brand:wikidata": "Q130179",
+        "name": "Ster-Kinekor"
+      }
+    },
+    {
+      "displayName": "TGV Cinemas",
+      "id": "tgvcinemas-ee5a85",
+      "locationSet": {"include": ["my"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "TGV Cinemas",
+        "brand:wikidata": "Q7670188",
+        "name": "TGV Cinemas",
+        "short_name": "TGV"
+      }
+    },
+    {
+      "displayName": "The Space Cinema",
+      "id": "thespacecinema-2446c8",
+      "locationSet": {"include": ["it"]},
+      "matchNames": ["the space"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "The Space Cinema",
+        "brand:wikidata": "Q3989406",
+        "name": "The Space Cinema"
+      }
+    },
+    {
+      "displayName": "TOHOシネマズ",
+      "id": "tohocinemas-35c174",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "TOHOシネマズ",
+        "brand:en": "TOHO CINEMAS",
+        "brand:ja": "TOHOシネマズ",
+        "brand:wikidata": "Q11235261",
+        "name": "TOHOシネマズ",
+        "name:en": "Toho Cinemas",
+        "name:ja": "TOHOシネマズ",
+        "short_name": "TOHO"
+      }
+    },
+    {
+      "displayName": "UCI",
+      "id": "uci-9c82de",
+      "locationSet": {
+        "include": ["br", "it", "pt"]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "brand": "UCI",
+        "brand:wikidata": "Q521922",
+        "name": "UCI"
+      }
+    },
+    {
+      "displayName": "UCI Kinowelt",
+      "id": "ucikinowelt-00435d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "UCI Kinowelt",
+        "brand:wikidata": "Q521922",
+        "name": "UCI Kinowelt",
+        "short_name": "UCI"
+      }
+    },
+    {
+      "displayName": "UGC",
+      "id": "ugc-259e3e",
+      "locationSet": {"include": ["be", "fx"]},
+      "matchNames": ["ugc ciné", "ugc ciné cité"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "UGC",
+        "brand:wikidata": "Q1643241",
+        "name": "UGC"
+      }
+    },
+    {
+      "displayName": "Utopia",
+      "id": "utopia-65cef4",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Utopia",
+        "brand:wikidata": "Q3552766",
+        "name": "Utopia"
+      }
+    },
+    {
+      "displayName": "Village Cinemas",
+      "id": "villagecinemas-1a8a27",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Village",
+        "brand:wikidata": "Q7930631",
+        "name": "Village Cinemas"
+      }
+    },
+    {
+      "displayName": "Vue (IrelandAndUK)",
+      "id": "vue-05c111",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchNames": ["vue cinema", "vue cinemas"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Vue",
+        "brand:wikidata": "Q2535134",
+        "name": "Vue"
+      }
+    },
+    {
+      "displayName": "Vue (Nederland)",
+      "id": "vue-484389",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["vue cinema"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Vue",
+        "brand:wikidata": "Q2421690",
+        "name": "Vue"
+      }
+    },
+    {
+      "displayName": "Wallis Cinemas",
+      "id": "walliscinemas-1a8a27",
+      "locationSet": {"include": ["au"]},
+      "matchNames": [
+        "wallis cinema",
+        "wallis theatres"
+      ],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Wallis Cinemas",
+        "brand:wikidata": "Q7963128",
+        "name": "Wallis Cinemas"
+      }
+    },
+    {
+      "displayName": "Yelmo",
+      "id": "yelmo-408f25",
+      "locationSet": {"include": ["es"]},
+      "matchNames": ["yelmo cines"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Yelmo",
+        "brand:wikidata": "Q21030996",
+        "name": "Yelmo"
+      }
+    },
+    {
+      "displayName": "イオンシネマ",
+      "id": "aeoncinema-35c174",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "イオンシネマ",
+        "brand:en": "AEON Cinema",
+        "brand:ja": "イオンシネマ",
+        "brand:wikidata": "Q17192792",
+        "name": "イオンシネマ",
+        "name:en": "AEON Cinema",
+        "name:ja": "イオンシネマ"
+      }
+    },
+    {
+      "displayName": "ユナイテッド・シネマ",
+      "id": "unitedcinemas-35c174",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "ユナイテッド・シネマ",
+        "brand:en": "United Cinemas",
+        "brand:ja": "ユナイテッド・シネマ",
+        "brand:wikidata": "Q11345629",
+        "name": "ユナイテッド・シネマ",
+        "name:en": "United Cinemas",
+        "name:ja": "ユナイテッド・シネマ"
+      }
+    },
+    {
+      "displayName": "万达影城",
+      "id": "wandacinemas-98bf22",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["万达影院", "万达院线"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "万达影城",
+        "brand:en": "Wanda Cinemas",
+        "brand:wikidata": "Q18708812",
+        "brand:zh": "万达影城",
+        "name": "万达影城",
+        "name:en": "Wanda Cinemas",
+        "name:zh": "万达影城"
+      }
+    },
+    {
+      "displayName": "中影国际影城",
+      "id": "chinafilminternationalcinema-98bf22",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "中影国际影城",
+        "brand:en": "China Film International Cinema",
+        "brand:wikidata": "Q10875534",
+        "brand:zh": "中影国际影城",
+        "name": "中影国际影城",
+        "name:en": "China Film International Cinema",
+        "name:zh": "中影国际影城"
+      }
+    },
+    {
+      "displayName": "喜樂時代影城",
+      "id": "centuryasiacinemas-4205fd",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "喜樂時代影城",
+        "brand:en": "Century Asia Cinemas",
+        "brand:wikidata": "Q22097589",
+        "brand:zh": "喜樂時代影城",
+        "name": "喜樂時代影城",
+        "name:en": "Century Asia Cinemas",
+        "name:zh": "喜樂時代影城"
+      }
+    },
+    {
+      "displayName": "國賓影城",
+      "id": "ambassadortheatres-4205fd",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "國賓影城",
+        "brand:en": "Ambassador Theatres",
+        "brand:wikidata": "Q9689764",
+        "brand:zh": "國賓影城",
+        "name": "國賓影城",
+        "name:en": "Ambassador Theatres",
+        "name:zh": "國賓影城"
+      }
+    },
+    {
+      "displayName": "威秀影城",
+      "id": "vieshowcinemas-4205fd",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "威秀影城",
+        "brand:en": "Vie Show Cinemas",
+        "brand:wikidata": "Q67934947",
+        "brand:zh": "威秀影城",
+        "name": "威秀影城",
+        "name:en": "Vie Show Cinemas",
+        "name:zh": "威秀影城"
+      }
+    },
+    {
+      "displayName": "新光影城",
+      "id": "shinkongcinemas-4205fd",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "新光影城",
+        "brand:en": "Shin Kong Cinemas",
+        "brand:wikidata": "Q11081118",
+        "brand:zh": "新光影城",
+        "name": "新光影城",
+        "name:en": "Shin Kong Cinemas",
+        "name:zh": "新光影城"
+      }
+    },
+    {
+      "displayName": "洲立影藝 MCL Cinema",
+      "id": "mclcinema-74d7ca",
+      "locationSet": {"include": ["hk"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "洲立影藝 MCL Cinema",
+        "brand:en": "MCL Cinema",
+        "brand:wikidata": "Q11147489",
+        "brand:zh": "洲立影藝",
+        "name": "洲立影藝 MCL Cinema",
+        "name:en": "MCL Cinema",
+        "name:zh": "洲立影藝"
+      }
+    },
+    {
+      "displayName": "百老匯戲院 Broadway Circuit",
+      "id": "broadwaycircuit-03b75b",
+      "locationSet": {"include": ["hk", "mo"]},
+      "matchNames": ["百老匯院線"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "百老匯戲院 Broadway Circuit",
+        "brand:en": "Broadway Circuit",
+        "brand:wikidata": "Q15909979",
+        "brand:zh": "百老匯戲院",
+        "name": "百老匯戲院 Broadway Circuit",
+        "name:en": "Broadway Circuit",
+        "name:zh": "百老匯戲院"
+      }
+    },
+    {
+      "displayName": "百老汇影城",
+      "id": "broadwaycircuit-d2999b",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "matchNames": ["百老汇戏院", "百老汇院线"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "百老汇影城",
+        "brand:en": "Broadway Circuit",
+        "brand:wikidata": "Q15909979",
+        "brand:zh": "百老汇影城",
+        "name": "百老汇影城",
+        "name:en": "Broadway Circuit",
+        "name:zh": "百老汇影城"
+      }
+    },
+    {
+      "displayName": "秀泰影城",
+      "id": "showtimecinemas-4205fd",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "秀泰影城",
+        "brand:en": "Showtime Cinemas",
+        "brand:wikidata": "Q15906317",
+        "brand:zh": "秀泰影城",
+        "name": "秀泰影城",
+        "name:en": "Showtime Cinemas",
+        "name:zh": "秀泰影城"
+      }
+    },
+    {
+      "displayName": "美麗新影城",
+      "id": "miranewcinemas-4205fd",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "美麗新影城",
+        "brand:en": "Miranew Cinemas",
+        "brand:wikidata": "Q60996073",
+        "brand:zh": "美麗新影城",
+        "name": "美麗新影城",
+        "name:en": "Miranew Cinemas",
+        "name:zh": "美麗新影城"
+      }
+    },
+    {
+      "displayName": "英皇戲院 Emperor Cinemas",
+      "id": "emperorcinemas-03b75b",
+      "locationSet": {"include": ["hk", "mo"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "英皇戲院 Emperor Cinemas",
+        "brand:en": "Emperor Cinemas",
+        "brand:wikidata": "Q67934947",
+        "brand:zh": "英皇戲院",
+        "name": "英皇戲院 Emperor Cinemas",
+        "name:en": "Emperor Cinemas",
+        "name:zh": "英皇戲院"
+      }
+    }
+  ]
+}

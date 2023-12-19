@@ -1,0 +1,167 @@
+{
+  "properties": {
+    "path": "operators/amenity/post_depot",
+    "preserveTags": ["^name"],
+    "exclude": {"generic": ["^post depot$"]}
+  },
+  "items": [
+    {
+      "displayName": "An Post",
+      "id": "anpost-2f7b40",
+      "locationSet": {"include": ["ie"]},
+      "tags": {
+        "amenity": "post_depot",
+        "name": "An Post",
+        "operator": "An Post",
+        "operator:type": "public",
+        "operator:wikidata": "Q482490"
+      }
+    },
+    {
+      "displayName": "Australia Post Distribution Centre",
+      "id": "australiapost-96d49b",
+      "locationSet": {"include": ["au"]},
+      "matchNames": ["aust post"],
+      "tags": {
+        "amenity": "post_depot",
+        "name": "Australia Post Distribution Centre",
+        "operator": "Australia Post",
+        "operator:wikidata": "Q1142936"
+      }
+    },
+    {
+      "displayName": "Canada Post",
+      "id": "canadapost-dd0253",
+      "locationSet": {
+        "include": ["ca"],
+        "exclude": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "operator": "Canada Post",
+        "operator:type": "public",
+        "operator:wikidata": "Q1032001"
+      }
+    },
+    {
+      "displayName": "Centro de Distribuição dos Correios",
+      "id": "empresabrasileiradecorreiosetelegrafos-28fd5c",
+      "locationSet": {"include": ["br"]},
+      "matchNames": ["ebct", "ect"],
+      "tags": {
+        "amenity": "post_depot",
+        "name": "Centro de Distribuição dos Correios",
+        "operator": "Empresa Brasileira de Correios e Telégrafos",
+        "operator:short": "Correios",
+        "operator:type": "public",
+        "operator:wikidata": "Q3375004"
+      }
+    },
+    {
+      "displayName": "Deutsche Post",
+      "id": "deutschepost-6fd7ff",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["deutsche post ag"],
+      "tags": {
+        "amenity": "post_depot",
+        "name": "Deutsche Post",
+        "operator": "Deutsche Post",
+        "operator:type": "private",
+        "operator:wikidata": "Q157645"
+      }
+    },
+    {
+      "displayName": "Evri",
+      "id": "evri-a473cc",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["hermes"],
+      "tags": {
+        "amenity": "post_depot",
+        "operator": "Evri",
+        "operator:wikidata": "Q115200168"
+      }
+    },
+    {
+      "displayName": "La Poste",
+      "id": "laposte-5d47ca",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "post_depot",
+        "name": "La Poste",
+        "operator": "La Poste",
+        "operator:type": "public",
+        "operator:wikidata": "Q373724"
+      }
+    },
+    {
+      "displayName": "MRW",
+      "id": "mrw-71d94f",
+      "locationSet": {
+        "include": ["ad", "es", "gi", "pt", "ve"]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "operator": "MRW",
+        "operator:wikidata": "Q23767821"
+      }
+    },
+    {
+      "displayName": "New Zealand Post",
+      "id": "newzealandpost-6b0f2e",
+      "locationSet": {"include": ["nz"]},
+      "matchNames": ["nz post"],
+      "tags": {
+        "amenity": "post_depot",
+        "operator": "New Zealand Post",
+        "operator:wikidata": "Q1144511"
+      }
+    },
+    {
+      "displayName": "Postes Canada",
+      "id": "postescanada-7b7f06",
+      "locationSet": {
+        "include": ["ca-qc.geojson"]
+      },
+      "tags": {
+        "amenity": "post_depot",
+        "operator": "Postes Canada",
+        "operator:type": "public",
+        "operator:wikidata": "Q1032001"
+      }
+    },
+    {
+      "displayName": "Royal Mail",
+      "id": "royalmail-a473cc",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "post_depot",
+        "name": "Royal Mail",
+        "operator": "Royal Mail",
+        "operator:type": "private",
+        "operator:wikidata": "Q638098"
+      }
+    },
+    {
+      "displayName": "SEUR",
+      "id": "seur-449920",
+      "locationSet": {"include": ["es", "pt"]},
+      "tags": {
+        "amenity": "post_depot",
+        "operator": "SEUR",
+        "operator:wikidata": "Q9076554"
+      }
+    },
+    {
+      "displayName": "United States Postal Service",
+      "id": "unitedstatespostalservice-9cb3b1",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "post_depot",
+        "operator": "United States Postal Service",
+        "operator:short": "USPS",
+        "operator:type": "public",
+        "operator:wikidata": "Q668687"
+      }
+    }
+  ]
+}
