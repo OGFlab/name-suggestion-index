@@ -53,18 +53,23 @@
     },
     "items": [
       {
-        "displayName": "超市发",
-        "id": "bjcsf-da9ca7",
-        "locationSet": {"include": ["cn"]},
-        "note": "CN-BJ.geojson",
+        "displayName": "9-Eleven",
+        "locationSet": {"include": ["001"]},
+        "matchNames": ["九◼一","911","九·一一"],
         "tags": {
-          "brand": "超市发",
-          "brand:en": "bjcsf",
-          "brand:wikidata": "Q106844410",
-          "brand:zh": "超市发",
-          "name": "超市发",
-          "name:en": "bjcsf",
-          "name:zh": "超市发",
+          "brand": "9-Eleven",
+          "brand:wikidata": "Q12345678",
+          "name": "9-Eleven",
+          "shop": "convenience"
+        }
+      },
+      {
+        "displayName": "冚家便利",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "冚家便利",
+          "brand:wikidata": "Q12345678",
+          "name": "冚家便利",
           "shop": "convenience"
         }
       }
