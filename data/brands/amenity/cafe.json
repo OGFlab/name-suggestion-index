@@ -1,0 +1,22 @@
+{
+    "properties": {
+      "path": "brands/amenity/cafe",
+      "exclude": {
+        "generic": [],
+        "named": []
+      }
+    },
+    "items": [
+      {
+        "displayName": "这↑里↓奶茶",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "这↑里↓奶茶",
+          "cuisine": "bubble_tea",
+          "name": "这↑里↓奶茶",
+          "amenity": "cafe"
+        }
+      }
+    ]
+  }
+  

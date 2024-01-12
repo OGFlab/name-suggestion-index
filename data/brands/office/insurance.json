@@ -1,0 +1,21 @@
+{
+    "properties": {
+      "path": "brands/office/insurance",
+      "exclude": {
+        "generic": [],
+        "named": []
+      }
+    },
+    "items": [
+      {
+        "displayName": "冚家人寿",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "冚家人寿",
+          "name": "冚家人寿",
+          "office": "insurance"
+        }
+      }
+    ]
+  }
+  

@@ -1,6 +1,6 @@
 {
     "properties": {
-      "path": "brands/shop/convenience",
+      "path": "brands/amenity/post_office",
       "exclude": {
         "generic": [],
         "named": []
@@ -14,7 +14,7 @@
           "brand": "华夏邮政",
           "operator": "华夏共和国邮政部",
           "name": "华夏邮政",
-          "shop": "convenience"
+          "amenity": "post_office"
         }
       },
       {
@@ -25,7 +25,7 @@
           "brand": "速达邮",
           "operator": "上京速达邮物流管理有限公司",
           "name": "速达邮",
-          "shop": "convenience"
+          "amenity": "post_office"
         }
       }
     ]
