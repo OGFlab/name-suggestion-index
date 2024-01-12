@@ -1,11 +1,8 @@
 {
   "_meta": {
-    "version": "6.0.20231212",
-    "generated": "2023-12-12T07:57:03.143Z",
+    "version": "0.0.1",
+    "generated": "2024-01-12T09:16:18.601Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/filtered/operators_keep.json",
-    "hash": "ddbe11c16af19880a1b97826f95e7a1f",
-    "collectionDate": "20230619"
-  },
-  "keep": {
-  }
-}
+    "hash": "176289086c7a7acac219e0faceccc8ca",
+    "collectionDate": "20240112"
+  },"keep": {}}

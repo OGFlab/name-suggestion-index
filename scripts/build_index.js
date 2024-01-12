@@ -164,7 +164,7 @@ function loadCollected() {
   }
 
   ['name', 'brand', 'operator', 'network'].forEach(tag => {
-    const file = `./node_modules/ogf-nsi-collector/dist/osm/${tag}s_all.json`;
+    const file = `./node_modules/ogf-nsi-collector/dist/ogf/${tag}s_all.json`;
     const contents = fs.readFileSync(file, 'utf8');
     let data;
     try {
