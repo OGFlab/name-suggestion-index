@@ -1,12 +1,19 @@
 {
   "properties": {
     "path": "brands/shop/convenience",
-    "exclude": {
-      "generic": [],
-      "named": []
-    }
+    "exclude": {"generic": [], "named": []}
   },
   "items": [
+    {
+      "displayName": "24 Mart",
+      "id": "24mart-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "24 Mart",
+        "name": "24 Mart",
+        "shop": "convenience"
+      }
+    },
     {
       "displayName": "9-Eleven",
       "id": "9eleven-4d6b4b",
@@ -16,6 +23,126 @@
         "brand": "9-Eleven",
         "brand:wikidata": "Q110001",
         "name": "9-Eleven",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "AS News",
+      "id": "asnews-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "AS News",
+        "name": "AS News",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Co-op Locul",
+      "id": "cooplocul-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Co-op Locul",
+        "name": "Co-op Locul",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "F-stór",
+      "id": "fstor-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "F-stór",
+        "name": "F-stór",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Friendly Mart",
+      "id": "friendlymart-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Friendly Mart",
+        "name": "Friendly Mart",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Kioski",
+      "id": "kioski-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Kioski",
+        "name": "Kioski",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "LeDéPa",
+      "id": "ledepa-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "LeDéPa",
+        "name": "LeDéPa",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Mi Bodeguita",
+      "id": "mibodeguita-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mi Bodeguita",
+        "name": "Mi Bodeguita",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "PickIt!",
+      "id": "pickit-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "PickIt!",
+        "name": "PickIt!",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Saturno",
+      "id": "saturno-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Saturno",
+        "name": "Saturno",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Six Twelve",
+      "id": "sixtwelve-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Six Twelve",
+        "name": "Six Twelve",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "WicMart",
+      "id": "wicmart-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "WicMart",
+        "name": "WicMart",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Zippy Mart",
+      "id": "zippymart-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Zippy Mart",
+        "name": "Zippy Mart",
         "shop": "convenience"
       }
     },

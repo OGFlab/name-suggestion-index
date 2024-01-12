@@ -11,15 +11,22 @@
     "contact_email": "bhousel@gmail.com"
   },
   "tags": [
+    {"key": "amenity", "value": "bank"},
+    {"key": "amenity", "value": "cafe"},
+    {"key": "amenity", "value": "post_office"},
     {"key": "brand:wikidata"},
     {"key": "brand"},
+    {"key": "cuisine", "value": "bubble_tea"},
     {"key": "flag:name"},
     {"key": "flag:type", "value": "cultural"},
     {"key": "flag:wikidata"},
     {"key": "man_made", "value": "flagpole"},
     {"key": "name"},
+    {"key": "office", "value": "insurance"},
+    {"key": "operator"},
     {"key": "shop", "value": "convenience"},
     {"key": "subject:wikidata"},
-    {"key": "subject"}
+    {"key": "subject"},
+    {"key": "takeaway", "value": "yes"}
   ]
 }

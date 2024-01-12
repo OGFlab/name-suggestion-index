@@ -3,16 +3,36 @@
   <url>
     <loc>https://nsi.guide/index.html</loc>
     <changefreq>weekly</changefreq>
-    <lastmod>2024-01-12T10:14:37.998Z</lastmod>
+    <lastmod>2024-01-12T13:03:34.801Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nsi.guide/index.html?t=brands&amp;k=amenity&amp;v=bank</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2024-01-12T13:03:34.801Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nsi.guide/index.html?t=brands&amp;k=amenity&amp;v=cafe</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2024-01-12T13:03:34.801Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nsi.guide/index.html?t=brands&amp;k=amenity&amp;v=post_office</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2024-01-12T13:03:34.801Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nsi.guide/index.html?t=brands&amp;k=office&amp;v=insurance</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2024-01-12T13:03:34.801Z</lastmod>
   </url>
   <url>
     <loc>https://nsi.guide/index.html?t=brands&amp;k=shop&amp;v=convenience</loc>
     <changefreq>weekly</changefreq>
-    <lastmod>2024-01-12T10:14:37.998Z</lastmod>
+    <lastmod>2024-01-12T13:03:34.801Z</lastmod>
   </url>
   <url>
     <loc>https://nsi.guide/index.html?t=flags&amp;k=man_made&amp;v=flagpole</loc>
     <changefreq>weekly</changefreq>
-    <lastmod>2024-01-12T10:14:37.998Z</lastmod>
+    <lastmod>2024-01-12T13:03:34.801Z</lastmod>
   </url>
 </urlset>

@@ -1,22 +1,20 @@
 {
-    "properties": {
-      "path": "brands/amenity/cafe",
-      "exclude": {
-        "generic": [],
-        "named": []
+  "properties": {
+    "path": "brands/amenity/cafe",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "这↑里↓奶茶",
+      "id": "963d94-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "这↑里↓奶茶",
+        "cuisine": "bubble_tea",
+        "name": "这↑里↓奶茶",
+        "takeaway": "yes"
       }
-    },
-    "items": [
-      {
-        "displayName": "这↑里↓奶茶",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "这↑里↓奶茶",
-          "cuisine": "bubble_tea",
-          "name": "这↑里↓奶茶",
-          "amenity": "cafe"
-        }
-      }
-    ]
-  }
-  
+    }
+  ]
+}

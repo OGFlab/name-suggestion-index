@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "path": "brands/amenity/bank",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "山河银行",
+      "id": "7c59fb-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "山河银行",
+        "name": "山河银行"
+      }
+    }
+  ]
+}
