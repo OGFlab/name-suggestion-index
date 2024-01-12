@@ -59,7 +59,7 @@
       "matchNames": ["911", "九·一一", "九◼一"],
       "tags": {
         "brand": "9-Eleven",
-        "brand:wikidata": "Q12345678",
+        "brand:wikidata": "Q110001",
         "name": "9-Eleven",
         "shop": "convenience"
       }
@@ -70,7 +70,7 @@
       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "冚家便利",
-        "brand:wikidata": "Q12345678",
+        "brand:wikidata": "Q110002",
         "name": "冚家便利",
         "shop": "convenience"
       }
