@@ -151,7 +151,7 @@ function checkRegex(fileName, pattern) {
 //
 function loadCollected() {
   try {
-    const file = `./node_modules/@ideditor/nsi-collector/package.json`;
+    const file = `./node_modules/ogf-nsi-collector/package.json`;
     const contents = fs.readFileSync(file, 'utf8');
     const collectorJSON = JSON5.parse(contents);
     const rawVersion = collectorJSON.version;
@@ -164,7 +164,7 @@ function loadCollected() {
   }
 
   ['name', 'brand', 'operator', 'network'].forEach(tag => {
-    const file = `./node_modules/@ideditor/nsi-collector/dist/osm/${tag}s_all.json`;
+    const file = `./node_modules/ogf-nsi-collector/dist/osm/${tag}s_all.json`;
     const contents = fs.readFileSync(file, 'utf8');
     let data;
     try {
