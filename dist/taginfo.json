@@ -11,5 +11,15 @@
     "contact_email": "bhousel@gmail.com"
   },
   "tags": [
+    {"key": "brand:wikidata"},
+    {"key": "brand"},
+    {"key": "flag:name"},
+    {"key": "flag:type", "value": "cultural"},
+    {"key": "flag:wikidata"},
+    {"key": "man_made", "value": "flagpole"},
+    {"key": "name"},
+    {"key": "shop", "value": "convenience"},
+    {"key": "subject:wikidata"},
+    {"key": "subject"}
   ]
 }

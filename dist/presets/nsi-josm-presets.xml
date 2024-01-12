@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenStreetMap" link="https://github.com/[object Object]" version="6.0.20231212">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="0.0.1">
   <group name="Name Suggestion Index">
+    <group name="brands">
+      <group name="shop">
+        <group name="convenience">
+          <item name="9-Eleven" type="node,closedway,multipolygon">
+            <key key="brand" value="9-Eleven"/>
+            <key key="brand:wikidata" value="Q110001"/>
+            <key key="name" value="9-Eleven"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="冚家便利" type="node,closedway,multipolygon">
+            <key key="brand" value="冚家便利"/>
+            <key key="brand:wikidata" value="Q110002"/>
+            <key key="name" value="冚家便利"/>
+            <key key="shop" value="convenience"/>
+          </item>
+        </group>
+      </group>
+    </group>
+    <group name="flags">
+      <group name="man_made">
+        <group name="flagpole">
+          <item name="LGBT Pride" type="node">
+            <key key="flag:name" value="LGBT Pride"/>
+            <key key="flag:type" value="cultural"/>
+            <key key="flag:wikidata" value="Q51401"/>
+            <key key="man_made" value="flagpole"/>
+            <key key="subject" value="LGBT Pride"/>
+            <key key="subject:wikidata" value="Q51406"/>
+          </item>
+        </group>
+      </group>
+    </group>
   </group>
 </presets>

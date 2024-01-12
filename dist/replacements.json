@@ -1,10 +1,7 @@
 {
   "_meta": {
-    "version": "6.0.20231212",
-    "generated": "2023-12-12T07:56:57.614Z",
+    "version": "0.0.1",
+    "generated": "2024-01-12T10:14:37.979Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/replacements.json",
-    "hash": "d1c62d396d223eb2d6cff632d7cd409d"
-  },
-  "replacements": {
-  }
-}
+    "hash": "feb4d6fc8c109205bd4a02e8dc6df834"
+  },"replacements": {}}

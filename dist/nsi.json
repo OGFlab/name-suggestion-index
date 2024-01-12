@@ -1,9 +1,67 @@
 {
   "_meta": {
-    "version": "6.0.20231212",
-    "generated": "2023-12-12T07:57:05.551Z",
+    "version": "0.0.1",
+    "generated": "2024-01-12T10:14:37.989Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "df6baa7132f9b8de63d7d8f19d63a2b2"
+    "hash": "4b87185628b5f7315101c221b1355517"
   },
-  "nsi": {}
+  "nsi": {
+    "brands/shop/convenience": {
+      "properties": {
+        "path": "brands/shop/convenience",
+        "exclude": {
+          "generic": [
+            "^\"продукти\"$",
+            "^(bakkal|baqala|bodega|delikatesy|dépanneur|dorfladen|kisbolt|market|mercearia|parduotuvė|potraviny|prehrana|spätkauf|vegyesbolt|večerka|weltladen)$",
+            "^(convenience|corner|general|sari-sari)( store)?$",
+            "^(mini|super|food)?\\s?(market|mart|mercado)( non-stop)?$",
+            "^(sklep )?(spożywcz(y|o))(-przemysłowy)?$",
+            "^(крамниця|купец)$",
+            "^(мини)?[ -]?(магазин|маркет)$",
+            "^[eé]pic(erie|ier)$",
+            "^aliment(ation|ación|ar[ai])( g[eé]n[eé]rale)?$",
+            "^alimentară$",
+            "^duka la vyakula$",
+            "^kios(co|k|ko|que)?$",
+            "^magazin\\s?(alimentar|mixt|non-stop)?",
+            "^nafaka$",
+            "^post office$",
+            "^pulper[ií]a$",
+            "^retail shop$",
+            "^smíšené zboží$",
+            "^tienda( de (barrio|abarrotes|variedades))?$",
+            "^tiendita$",
+            "^мінімаркет$",
+            "^продукт(овый|и|ы)?( магазин)?$",
+            "^продуктовий( магазин)?$",
+            "^универ(маг|сам)$",
+            "^хүнсний дэлгүүр$",
+            "^მარკეტი( \\(market\\))?",
+            "^بقال(ة)?$",
+            "^マーケット$",
+            "^小卖部$"
+          ],
+          "named": [
+            "^(24 часа|августина|альянс|апельсин|ассорти|бер[её]зка|бриз|валентина|весна|визит|ветеран|водолей|гастроном|гермес|гурман|диана|добрый|дружба|домашний|елена)$",
+            "^(777|independent)$",
+            "^(almac[eé]n|despensa|mini\\s?abc|milk bar)$",
+            "^(boutique d'alimentation|sup[eé]rette)$",
+            "^(калинка|каштан|колобок|колос(ок)?|каравай|кооператор|корзинка|кулинария|лакомка|ласточка|лидер|луч|любава|любимый|людмила|люкс)$",
+            "^(меркурий|мечта|мираж|белорусские продукты|продукты 24|натали|надежда|ника)$",
+            "^(оазис|околица|олимп|парус|пеликан|престиж|подсолнух|радуга|росинка|ромашка|родник|рассвет|русь)$",
+            "^(сельпо|семейный|сказка|солнышко|спутник|солнечный|светлана|удача|ивушка)$",
+            "^(юбилейный|южный|юлия|эконом|шанс|чайка|центральный|хороший|хуторок|фаворит|фортуна|татьяна|тройка|эдем|уют)$",
+            "^(昭和|ロイヤル・ダッチ・)?シェル(石油)?$",
+            "^караван$",
+            "^лукошко$",
+            "^руслан$",
+            "^смак$"
+          ]
+        }
+      },
+      "items": [{"displayName": "9-Eleven", "id": "9eleven-4d6b4b", "locationSet": {"include": ["001"]}, "matchNames": ["911", "九·一一", "九◼一"], "tags": {"brand": "9-Eleven", "brand:wikidata": "Q110001", "name": "9-Eleven", "shop": "convenience"}}, {"displayName": "冚家便利", "id": "ca13ea-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家便利", "brand:wikidata": "Q110002", "name": "冚家便利", "shop": "convenience"}}],
+      "templates": []
+    },
+    "flags/man_made/flagpole": {"properties": {"path": "flags/man_made/flagpole", "preserveTags": ["^flag:name"], "exclude": {"generic": ["^flagpole$"]}}, "items": [{"displayName": "LGBT Pride", "id": "lgbtpride-e5dc93", "locationSet": {"include": ["001"]}, "matchNames": ["gay", "gay pride", "lgbt", "lgbtq", "pride", "rainbow"], "tags": {"flag:name": "LGBT Pride", "flag:type": "cultural", "flag:wikidata": "Q51401", "man_made": "flagpole", "subject": "LGBT Pride", "subject:wikidata": "Q51406"}}], "templates": []}
+  }
 }
