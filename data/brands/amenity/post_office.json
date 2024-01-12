@@ -1,0 +1,33 @@
+{
+    "properties": {
+      "path": "brands/shop/convenience",
+      "exclude": {
+        "generic": [],
+        "named": []
+      }
+    },
+    "items": [
+      {
+        "displayName": "华夏邮政",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "华夏邮政",
+          "operator": "华夏共和国邮政部",
+          "name": "华夏邮政",
+          "shop": "convenience"
+        }
+      },
+      {
+        "displayName": "速达邮",
+
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "速达邮",
+          "operator": "上京速达邮物流管理有限公司",
+          "name": "速达邮",
+          "shop": "convenience"
+        }
+      }
+    ]
+  }
+  
