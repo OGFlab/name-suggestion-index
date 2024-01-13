@@ -429,7 +429,7 @@ function buildJOSMPresets() {
     let items = (_cache.path[tkv].items || [])
       .filter(item => {
         const qid = item.tags[wdTag];
-        if (!qid || !/^Q\d+$/.test(qid)) return false;   // wikidata tag missing or looks wrong..
+        // if (!qid || !/^Q\d+$/.test(qid)) return false;   // wikidata tag missing or looks wrong..
         if (dissolved[item.id]) return false;            // dissolved/closed businesses..
         return true;
       });
