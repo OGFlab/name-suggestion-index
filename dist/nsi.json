@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "0.0.1",
-    "generated": "2024-01-12T13:03:34.790Z",
+    "version": "1.0.20240113",
+    "generated": "2024-01-13T03:59:41.414Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "10379797e0efb1eda733d086bf12f226"
+    "hash": "4c83678eef5f8e1e45094c5f64b7e927"
   },
   "nsi": {
     "brands/amenity/bank": {"properties": {"path": "brands/amenity/bank", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "山河银行", "id": "7c59fb-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "山河银行", "name": "山河银行"}}], "templates": []},
@@ -14,7 +14,7 @@
       "properties": {"path": "brands/shop/convenience", "exclude": {"generic": [], "named": []}},
       "items": [
         {"displayName": "24 Mart", "id": "24mart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "24 Mart", "name": "24 Mart", "shop": "convenience"}},
-        {"displayName": "9-Eleven", "id": "9eleven-4d6b4b", "locationSet": {"include": ["001"]}, "matchNames": ["911", "九·一一", "九◼一"], "tags": {"brand": "9-Eleven", "brand:wikidata": "Q110001", "name": "9-Eleven", "shop": "convenience"}},
+        {"displayName": "9-Eleven", "id": "9eleven-4d6b4b", "locationSet": {"include": ["001"]}, "matchNames": ["911", "九·一一", "九◼一"], "tags": {"brand": "9-Eleven", "name": "9-Eleven", "shop": "convenience"}},
         {"displayName": "AS News", "id": "asnews-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "AS News", "name": "AS News", "shop": "convenience"}},
         {"displayName": "Co-op Locul", "id": "cooplocul-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Co-op Locul", "name": "Co-op Locul", "shop": "convenience"}},
         {"displayName": "F-stór", "id": "fstor-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "F-stór", "name": "F-stór", "shop": "convenience"}},
@@ -27,7 +27,7 @@
         {"displayName": "Six Twelve", "id": "sixtwelve-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Six Twelve", "name": "Six Twelve", "shop": "convenience"}},
         {"displayName": "WicMart", "id": "wicmart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "WicMart", "name": "WicMart", "shop": "convenience"}},
         {"displayName": "Zippy Mart", "id": "zippymart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Zippy Mart", "name": "Zippy Mart", "shop": "convenience"}},
-        {"displayName": "冚家便利", "id": "ca13ea-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家便利", "brand:wikidata": "Q110002", "name": "冚家便利", "shop": "convenience"}}
+        {"displayName": "冚家便利", "id": "ca13ea-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家便利", "name": "冚家便利", "shop": "convenience"}}
       ],
       "templates": []
     },

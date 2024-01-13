@@ -21,7 +21,6 @@
       "matchNames": ["911", "九·一一", "九◼一"],
       "tags": {
         "brand": "9-Eleven",
-       
         "name": "9-Eleven",
         "shop": "convenience"
       }
@@ -152,7 +151,6 @@
       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "冚家便利",
-
         "name": "冚家便利",
         "shop": "convenience"
       }

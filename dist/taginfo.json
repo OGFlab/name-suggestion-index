@@ -14,7 +14,6 @@
     {"key": "amenity", "value": "bank"},
     {"key": "amenity", "value": "cafe"},
     {"key": "amenity", "value": "post_office"},
-    {"key": "brand:wikidata"},
     {"key": "brand"},
     {"key": "cuisine", "value": "bubble_tea"},
     {"key": "flag:name"},

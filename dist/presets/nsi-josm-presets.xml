@@ -1,18 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="0.0.1">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240113">
   <group name="Name Suggestion Index">
     <group name="brands">
+      <group name="amenity">
+        <group name="bank">
+          <item name="山河银行" type="node,closedway,multipolygon">
+            <key key="amenity" value="bank"/>
+            <key key="brand" value="山河银行"/>
+            <key key="name" value="山河银行"/>
+          </item>
+        </group>
+        <group name="cafe">
+          <item name="这↑里↓奶茶" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="这↑里↓奶茶"/>
+            <key key="cuisine" value="bubble_tea"/>
+            <key key="name" value="这↑里↓奶茶"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+        </group>
+        <group name="post_office">
+          <item name="华夏邮政" type="node,closedway,multipolygon">
+            <key key="amenity" value="post_office"/>
+            <key key="brand" value="华夏邮政"/>
+            <key key="name" value="华夏邮政"/>
+            <key key="operator" value="华夏共和国邮政部"/>
+          </item>
+          <item name="速达邮" type="node,closedway,multipolygon">
+            <key key="amenity" value="post_office"/>
+            <key key="brand" value="速达邮"/>
+            <key key="name" value="速达邮"/>
+            <key key="operator" value="上京速达邮物流管理有限公司"/>
+          </item>
+        </group>
+      </group>
+      <group name="office">
+        <group name="insurance">
+          <item name="冚家人寿" type="node,closedway,multipolygon">
+            <key key="brand" value="冚家人寿"/>
+            <key key="name" value="冚家人寿"/>
+            <key key="office" value="insurance"/>
+          </item>
+        </group>
+      </group>
       <group name="shop">
         <group name="convenience">
+          <item name="24 Mart" type="node,closedway,multipolygon">
+            <key key="brand" value="24 Mart"/>
+            <key key="name" value="24 Mart"/>
+            <key key="shop" value="convenience"/>
+          </item>
           <item name="9-Eleven" type="node,closedway,multipolygon">
             <key key="brand" value="9-Eleven"/>
-            <key key="brand:wikidata" value="Q110001"/>
             <key key="name" value="9-Eleven"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="AS News" type="node,closedway,multipolygon">
+            <key key="brand" value="AS News"/>
+            <key key="name" value="AS News"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="Co-op Locul" type="node,closedway,multipolygon">
+            <key key="brand" value="Co-op Locul"/>
+            <key key="name" value="Co-op Locul"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="F-stór" type="node,closedway,multipolygon">
+            <key key="brand" value="F-stór"/>
+            <key key="name" value="F-stór"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="Friendly Mart" type="node,closedway,multipolygon">
+            <key key="brand" value="Friendly Mart"/>
+            <key key="name" value="Friendly Mart"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="Kioski" type="node,closedway,multipolygon">
+            <key key="brand" value="Kioski"/>
+            <key key="name" value="Kioski"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="LeDéPa" type="node,closedway,multipolygon">
+            <key key="brand" value="LeDéPa"/>
+            <key key="name" value="LeDéPa"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="Mi Bodeguita" type="node,closedway,multipolygon">
+            <key key="brand" value="Mi Bodeguita"/>
+            <key key="name" value="Mi Bodeguita"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="PickIt!" type="node,closedway,multipolygon">
+            <key key="brand" value="PickIt!"/>
+            <key key="name" value="PickIt!"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="Saturno" type="node,closedway,multipolygon">
+            <key key="brand" value="Saturno"/>
+            <key key="name" value="Saturno"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="Six Twelve" type="node,closedway,multipolygon">
+            <key key="brand" value="Six Twelve"/>
+            <key key="name" value="Six Twelve"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="WicMart" type="node,closedway,multipolygon">
+            <key key="brand" value="WicMart"/>
+            <key key="name" value="WicMart"/>
+            <key key="shop" value="convenience"/>
+          </item>
+          <item name="Zippy Mart" type="node,closedway,multipolygon">
+            <key key="brand" value="Zippy Mart"/>
+            <key key="name" value="Zippy Mart"/>
             <key key="shop" value="convenience"/>
           </item>
           <item name="冚家便利" type="node,closedway,multipolygon">
             <key key="brand" value="冚家便利"/>
-            <key key="brand:wikidata" value="Q110002"/>
             <key key="name" value="冚家便利"/>
             <key key="shop" value="convenience"/>
           </item>
