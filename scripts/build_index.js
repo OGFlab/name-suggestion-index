@@ -405,6 +405,10 @@ function mergeItems() {
         item.tags.brand = n;
         item.tags.name = n;
 
+        // Country restrictions, brand creator, and origin country
+        item.countryRestrictions = n;
+        item.creator = n;
+        item.origin = n;
       } else if (t === 'operators') {
         item.tags.operator = n;
 

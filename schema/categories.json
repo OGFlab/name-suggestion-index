@@ -76,6 +76,7 @@
   },
 
   "definitions": {
+
     "locationSet": {
       "$comment": "See location-conflation documentation for compatible values: https://github.com/rapideditor/location-conflation#readme",
       "type": "object",
@@ -117,6 +118,16 @@
       "type": "string"
     },
 
+    "countryRestrictions": {
+      "$comment": "From the ogf-presets index, the precursor to OGF-NSI. Todo: implement country restrictions some day",
+      "description": "Country restrictions.",
+      "type": "object",
+      "items": {
+        "allowed": "array",
+        "ask": "array",
+        "no": "array"
+      }
+    },
     "circularArea": {
       "description": "A circular area defined as [longitude, latitude, radius?]. If not specified, radius will default to 25km.",
       "type": "array",
@@ -216,6 +227,21 @@
           "description": "(optional) An optional note - can contain anything about the item.",
           "type": "string"
         },
+
+        "countryRestrictions": {
+          "$ref": "#/definitions/countryRestrictions"
+        },
+
+
+        "originCountry": {
+          "description": "Name of the country where the brand originated. Highly recommended to be in English.",
+          "type": "string"
+        },
+
+        "creator": {
+          "description": "OGF username of the brand's creator.",
+          "type": "string"
+       },
 
         "tags": {
           "$comment": "Exclude properties that should appear elsewhere to avoid common mistakes",
