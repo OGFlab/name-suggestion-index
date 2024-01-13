@@ -1,0 +1,226 @@
+{
+  "properties": {
+    "path": "brands/tourism/hotel",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Consulate Suites",
+      "id": "consulatesuites-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Consulate Suites",
+        "name": "Consulate Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Hancher Elite",
+      "id": "hancherelite-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hancher Elite",
+        "name": "Hancher Elite",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Holliston Inn",
+      "id": "hollistoninn-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Holliston Inn",
+        "name": "Holliston Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "creator": "Lemuria",
+      "displayName": "Hotel Berde",
+      "id": "hotelberde-779ccb",
+      "locationSet": {"include": ["001"]},
+      "originCountry": "Lutang",
+      "tags": {
+        "brand": "Hotel Berde",
+        "name": "Hotel Berde",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "creator": "Lemuria",
+      "displayName": "Hotel Kamusta",
+      "id": "hotelkamusta-779ccb",
+      "locationSet": {"include": ["001"]},
+      "originCountry": "Lutang",
+      "tags": {
+        "brand": "Hotel Kamusta",
+        "name": "Hotel Kamusta",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Leyton Hotel",
+      "id": "leytonhotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Leyton Hotel",
+        "name": "Leyton Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "creator": "Lemuria",
+      "displayName": "Madaling Araw Hotel",
+      "id": "madalingarawhotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "originCountry": "Lutang",
+      "tags": {
+        "brand": "Madaling Araw Hotel",
+        "name": "Madaling Araw Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Meridian Suites",
+      "id": "meridiansuites-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Meridian Suites",
+        "name": "Meridian Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "creator": "Lemuria",
+      "displayName": "Pangtulog",
+      "id": "pangtulog-779ccb",
+      "locationSet": {"include": ["001"]},
+      "originCountry": "Lutang",
+      "tags": {
+        "brand": "Pangtulog",
+        "name": "Pangtulog",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "The Atrium",
+      "id": "theatrium-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Atrium",
+        "name": "The Atrium",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "The Bassett",
+      "id": "thebassett-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Bassett",
+        "name": "The Bassett",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "The Wilberding",
+      "id": "thewilberding-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Wilberding",
+        "name": "The Wilberding",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "UltraLiving",
+      "id": "ultraliving-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "UltraLiving",
+        "name": "UltraLiving",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Waltherams Suites",
+      "id": "waltheramssuites-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Waltherams Suites",
+        "name": "Waltherams Suites",
+        "tourism": "hotel"
+      }
+    }
+  ]
+}

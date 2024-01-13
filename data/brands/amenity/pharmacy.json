@@ -1,0 +1,50 @@
+{
+  "properties": {
+    "path": "brands/amenity/pharmacy",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "countryRestrictions": {
+        "no": [],
+        "ask": [],
+        "allowed": ["*"]
+      },
+      "displayName": "Ōdasamo Takeri 大山清",
+      "id": "odasamotakeri-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Ōdasamo Takeri",
+        "healthcare": "pharmacy",
+        "name": "Ōdasamo Takeri",
+        "name:en": "Ōdasamo Takeri",
+        "name:izaki": "大山清"
+      }
+    },
+    {
+      "displayName": "Pills & Syrups",
+      "id": "pillsandsyrups-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Pills & Syrups",
+        "healthcare": "pharmacy",
+        "name": "Pills & Syrups",
+        "name:en": "Pills & Syrups"
+      }
+    },
+    {
+      "displayName": "Ross Medicines",
+      "id": "rossmedicines-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Ross Medicines",
+        "healthcare": "pharmacy",
+        "name": "Ross Medicines",
+        "name:en": "Ross Medicines"
+      }
+    }
+  ]
+}

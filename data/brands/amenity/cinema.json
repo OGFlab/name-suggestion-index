@@ -1,0 +1,75 @@
+{
+  "properties": {
+    "path": "brands/amenity/cinema",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Archantan Film Company",
+      "id": "archantanfilmcompany-f33303",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Archantan Film Company",
+        "name": "Archantan Film Company"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA:NW", "FSA:HL", "FSA:WL"],
+        "ask": ["FSA:SE"],
+        "no": [
+          "FSA:AL",
+          "FSA:MD",
+          "FSA:CT",
+          "FSA:NE",
+          "FSA:MA"
+        ]
+      },
+      "displayName": "Blue Sparrow Cinema",
+      "id": "bluesparrowcinema-f33303",
+      "locationSet": {"include": ["001"]},
+      "originCountry": "FSA",
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Blue Sparrow Cinema",
+        "name": "Blue Sparrow Cinema"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "MoviePlanet",
+      "id": "movieplanet-f33303",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "MoviePlanet",
+        "name": "MoviePlanet"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Screeners",
+      "id": "screeners-f33303",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Screeners",
+        "name": "Screeners"
+      }
+    }
+  ]
+}

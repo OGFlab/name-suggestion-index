@@ -1,0 +1,68 @@
+{
+  "properties": {
+    "path": "brands/tourism/motel",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Econobudget Inn",
+      "id": "econobudgetinn-a19b96",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Econobudget Inn",
+        "name": "Econobudget Inn",
+        "tourism": "motel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Hartt Motel",
+      "id": "harttmotel-a19b96",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hartt Motel",
+        "name": "Hartt Motel",
+        "tourism": "motel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Mega 9 Motel",
+      "id": "mega9motel-a19b96",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mega 9 Motel",
+        "name": "Mega 9 Motel",
+        "tourism": "motel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["FSA"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Towne Inn",
+      "id": "towneinn-a19b96",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Towne Inn",
+        "name": "Towne Inn",
+        "tourism": "motel"
+      }
+    }
+  ]
+}

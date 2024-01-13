@@ -1,0 +1,56 @@
+{
+  "properties": {
+    "path": "brands/tourism/love_hotel",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Do It",
+      "id": "doit-c5c09d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "love_hotel",
+        "brand": "Do It",
+        "name": "Do It",
+        "tourism": "love_hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "HotelHour",
+      "id": "hotelhour-c5c09d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "love_hotel",
+        "brand": "HotelHour",
+        "name": "HotelHour",
+        "tourism": "love_hotel"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Lutang"],
+        "ask": [],
+        "no": ["*"]
+      },
+      "displayName": "Isang Oras Lang",
+      "id": "isangoraslang-c5c09d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "love_hotel",
+        "brand": "Isang Oras Lang",
+        "name": "Isang Oras Lang",
+        "tourism": "love_hotel"
+      }
+    }
+  ]
+}
