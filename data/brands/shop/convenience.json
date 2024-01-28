@@ -96,6 +96,16 @@
       }
     },
     {
+      "displayName": "Minimarket",
+      "id": "minimarket-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Minimarket",
+        "name": "Minimarket",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "PickIt!",
       "id": "pickit-4d6b4b",
       "locationSet": {"include": ["001"]},
