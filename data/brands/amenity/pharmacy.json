@@ -35,6 +35,17 @@
       }
     },
     {
+      "displayName": "Ōdasamo Takeri",
+      "id": "odasamotakeri-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Ōdasamo Takeri",
+        "healthcare": "pharmacy",
+        "name": "Ōdasamo Takeri",
+      }
+    },
+    {
       "displayName": "Ross Medicines",
       "id": "rossmedicines-f5140f",
       "locationSet": {"include": ["001"]},
