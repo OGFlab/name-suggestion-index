@@ -1,0 +1,138 @@
+{
+  "properties": {
+    "path": "brands/shop/supermarket",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Retrin",
+      "id": "Retrin-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Retrin",
+        "name": "Retrin",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Reni",
+      "id": "Reni-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Reni",
+        "name": "Reni",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Ordi",
+      "id": "Ordi-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ordi",
+        "name": "Ordi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Gigante",
+      "id": "Gigante-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Gigante",
+        "name": "Gigante",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Forteno",
+      "id": "Forteno-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Forteno",
+        "name": "Forteno",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Valuigi",
+      "id": "Valuigi-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Valuigi",
+        "name": "Valuigi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Winstons",
+      "id": "Winstons-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Winstons",
+        "name": "Winstons",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Yado Supermarket",
+      "id": "yado-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Yado's Supermarkets",
+        "name": "Yado Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "JANSA ᡶ᠋ᠠᠨᡄᠠ",
+      "id": "JANSA-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "JANSA",
+        "name": "JANSA ᡶ᠋ᠠᠨᡄᠠ",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Coregro",
+      "id": "Coregro-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Coregro",
+        "name": "Coregro",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Superiór",
+      "id": "superior-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Superiór",
+        "name": "Superiór",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Coop",
+      "id": "Coop-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Coop",
+        "name": "Coop",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Keppò Subemerkàw",
+      "id": "keppo-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Keppò Subemerkàw",
+        "name": "Keppò Subemerkàw",
+        "shop": "supermarket"
+      }
+    }
+  ]
+}
