@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "path": "brands/tourism/motel",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Sleep-in-Ø",
+      "id": "sleepino-a19b96",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sleep-in-Ø",
+        "name": "Sleep-in-Ø",
+        "tourism": "hostel"
+      }
+    }
+  ]
+}
