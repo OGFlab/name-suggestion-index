@@ -14,5 +14,15 @@
         "name": "山河银行"
       }
     }
+    {
+      "displayName": "Bank of Kofuku",
+      "id": "Bank-of-Kofuku-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Bank of Kofuku",
+        "name": "Bank of Kofuku"
+      }
+    }
   ]
 }
