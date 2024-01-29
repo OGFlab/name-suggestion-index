@@ -1,0 +1,138 @@
+{
+  "properties": {
+    "path": "brands/shop/supermarket",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Coop",
+      "id": "coop-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Coop",
+        "name": "Coop",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Coregro",
+      "id": "coregro-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Coregro",
+        "name": "Coregro",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Forteno",
+      "id": "forteno-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Forteno",
+        "name": "Forteno",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Gigante",
+      "id": "gigante-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Gigante",
+        "name": "Gigante",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "JANSA ᡶ᠋ᠠᠨᡄᠠ",
+      "id": "jansa-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "JANSA",
+        "name": "JANSA ᡶ᠋ᠠᠨᡄᠠ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Keppò Subemerkàw",
+      "id": "kepposubemerkaw-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Keppò Subemerkàw",
+        "name": "Keppò Subemerkàw",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Ordi",
+      "id": "ordi-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ordi",
+        "name": "Ordi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Reni",
+      "id": "reni-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Reni",
+        "name": "Reni",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Retrin",
+      "id": "retrin-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Retrin",
+        "name": "Retrin",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Superiór",
+      "id": "superior-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Superiór",
+        "name": "Superiór",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Valuigi",
+      "id": "valuigi-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Valuigi",
+        "name": "Valuigi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Winstons",
+      "id": "winstons-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Winstons",
+        "name": "Winstons",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Yado Supermarket",
+      "id": "yadosupermarket-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Yado's Supermarkets",
+        "name": "Yado Supermarket",
+        "shop": "supermarket"
+      }
+    }
+  ]
+}

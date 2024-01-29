@@ -1,7 +1,23 @@
 {
   "_meta": {
     "version": "1.0.20240113",
-    "generated": "2024-01-13T03:59:41.405Z",
+    "generated": "2024-01-13T18:32:06.577Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/wikidata.json",
-    "hash": "b678dca13bfeac543719ab34dbebfb6e"
-  },"wikidata": {}}
+    "hash": "066334a0beca10dc8e1164120f2be494"
+  },
+  "wikidata": {
+    "Q51401": {
+      "description": "symbol of LGBT movement",
+      "label": "LGBT pride flag",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/wiki/Special:FilePath/Gay Pride Flag.svg"
+      },
+      "officialWebsites": []
+    },
+    "Q51406": {
+      "description": "positive stance toward LGBTQ+ people, opposing any stigma, discrimination, or violence",
+      "label": "LGBT pride",
+      "officialWebsites": []
+    }
+  }
+}

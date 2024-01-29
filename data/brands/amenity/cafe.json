@@ -4,27 +4,31 @@
     "exclude": {"generic": [], "named": []}
   },
   "items": [
-   {
+    {
       "displayName": "Chacafé",
-      "id": "Chacafe-e1ef51",
+      "id": "chacafe-e1ef51",
       "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "cafe",
         "brand": "Chacafé",
+        "cuisine": "coffee_shop",
         "name": "Chacafé",
         "takeaway": "yes"
       }
-     {
+    },
+    {
       "displayName": "Kasanova",
-      "id": "Kasanova-e1ef51",
+      "id": "kasanova-e1ef51",
       "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "cafe",
         "brand": "Kasanova",
+        "cuisine": "coffee_shop",
         "name": "Kasanova",
         "takeaway": "yes"
       }
-     {
+    },
+    {
       "displayName": "这↑里↓奶茶",
       "id": "963d94-e1ef51",
       "locationSet": {"include": ["001"]},

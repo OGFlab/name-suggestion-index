@@ -19,6 +19,52 @@
             <key key="takeaway" value="yes"/>
           </item>
         </group>
+        <group name="cinema">
+          <item name="Archantan Film Company" type="node,closedway,multipolygon">
+            <key key="amenity" value="cinema"/>
+            <key key="brand" value="Archantan Film Company"/>
+            <key key="name" value="Archantan Film Company"/>
+          </item>
+          <item name="Blue Sparrow Cinema" type="node,closedway,multipolygon">
+            <key key="amenity" value="cinema"/>
+            <key key="brand" value="Blue Sparrow Cinema"/>
+            <key key="name" value="Blue Sparrow Cinema"/>
+          </item>
+          <item name="MoviePlanet" type="node,closedway,multipolygon">
+            <key key="amenity" value="cinema"/>
+            <key key="brand" value="MoviePlanet"/>
+            <key key="name" value="MoviePlanet"/>
+          </item>
+          <item name="Screeners" type="node,closedway,multipolygon">
+            <key key="amenity" value="cinema"/>
+            <key key="brand" value="Screeners"/>
+            <key key="name" value="Screeners"/>
+          </item>
+        </group>
+        <group name="pharmacy">
+          <item name="Ōdasamo Takeri 大山清" type="node,closedway,multipolygon">
+            <key key="amenity" value="pharmacy"/>
+            <key key="brand" value="Ōdasamo Takeri"/>
+            <key key="healthcare" value="pharmacy"/>
+            <key key="name" value="Ōdasamo Takeri"/>
+            <key key="name:en" value="Ōdasamo Takeri"/>
+            <key key="name:izaki" value="大山清"/>
+          </item>
+          <item name="Pills &amp; Syrups" type="node,closedway,multipolygon">
+            <key key="amenity" value="pharmacy"/>
+            <key key="brand" value="Pills &amp; Syrups"/>
+            <key key="healthcare" value="pharmacy"/>
+            <key key="name" value="Pills &amp; Syrups"/>
+            <key key="name:en" value="Pills &amp; Syrups"/>
+          </item>
+          <item name="Ross Medicines" type="node,closedway,multipolygon">
+            <key key="amenity" value="pharmacy"/>
+            <key key="brand" value="Ross Medicines"/>
+            <key key="healthcare" value="pharmacy"/>
+            <key key="name" value="Ross Medicines"/>
+            <key key="name:en" value="Ross Medicines"/>
+          </item>
+        </group>
         <group name="post_office">
           <item name="华夏邮政" type="node,closedway,multipolygon">
             <key key="amenity" value="post_office"/>
@@ -31,6 +77,74 @@
             <key key="brand" value="速达邮"/>
             <key key="name" value="速达邮"/>
             <key key="operator" value="上京速达邮物流管理有限公司"/>
+          </item>
+        </group>
+        <group name="restaurant">
+          <item name="Ang Igado ni Maria" type="node,closedway,multipolygon">
+            <key key="alt_name:en" value="Maria's Igado"/>
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Ang Igado ni Maria"/>
+            <key key="cuisine" value="filipino"/>
+            <key key="name" value="Ang Igado ni Maria"/>
+          </item>
+          <item name="Cheat Day Meals" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Cheat Day Meals"/>
+            <key key="name" value="Cheat Day Meals"/>
+          </item>
+          <item name="Cookin' Pizza" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Cookin' Pizza"/>
+            <key key="cuisine" value="pizza"/>
+            <key key="name" value="Cookin' Pizza"/>
+          </item>
+          <item name="Cowboy FSA-Style Grill" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Cowboy FSA-Style Grill"/>
+            <key key="cuisine" value="american;steak_house;archantan"/>
+            <key key="name" value="Cowboy FSA-Style Grill"/>
+          </item>
+          <item name="Lechon ni Lina" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Lechon ni Lina"/>
+            <key key="cuisine" value="filipino"/>
+            <key key="name" value="Lechon ni Lina"/>
+          </item>
+          <item name="Lovely Litson" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Lovely Litson"/>
+            <key key="cuisine" value="filipino"/>
+            <key key="name" value="Lovely Litson"/>
+          </item>
+          <item name="Milkfish Expert" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Milkfish Expert"/>
+            <key key="cuisine" value="fish"/>
+            <key key="name" value="Milkfish Expert"/>
+          </item>
+          <item name="Nalani's" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Nalani's"/>
+            <key key="cuisine" value="asian"/>
+            <key key="name" value="Nalani's"/>
+          </item>
+          <item name="Original Lutang Meals" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Original Lutang Meals"/>
+            <key key="cuisine" value="filipino"/>
+            <key key="name" value="Original Lutang Meals"/>
+          </item>
+          <item name="P.C.N. Chicken" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="P.C.N. Chicken"/>
+            <key key="cuisine" value="chicken"/>
+            <key key="name" value="P.C.N. Chicken"/>
+          </item>
+          <item name="Your Mom's Igado" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="Your Mom's Igado"/>
+            <key key="cuisine" value="filipino"/>
+            <key key="name" value="Your Mom's Igado"/>
           </item>
         </group>
       </group>
@@ -119,6 +233,122 @@
             <key key="brand" value="冚家便利"/>
             <key key="name" value="冚家便利"/>
             <key key="shop" value="convenience"/>
+          </item>
+        </group>
+      </group>
+      <group name="tourism">
+        <group name="hotel">
+          <item name="Consulate Suites" type="node,closedway,multipolygon">
+            <key key="brand" value="Consulate Suites"/>
+            <key key="name" value="Consulate Suites"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Hancher Elite" type="node,closedway,multipolygon">
+            <key key="brand" value="Hancher Elite"/>
+            <key key="name" value="Hancher Elite"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Holliston Inn" type="node,closedway,multipolygon">
+            <key key="brand" value="Holliston Inn"/>
+            <key key="name" value="Holliston Inn"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Hotel Berde" type="node,closedway,multipolygon">
+            <key key="brand" value="Hotel Berde"/>
+            <key key="name" value="Hotel Berde"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Hotel Kamusta" type="node,closedway,multipolygon">
+            <key key="brand" value="Hotel Kamusta"/>
+            <key key="name" value="Hotel Kamusta"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Leyton Hotel" type="node,closedway,multipolygon">
+            <key key="brand" value="Leyton Hotel"/>
+            <key key="name" value="Leyton Hotel"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Madaling Araw Hotel" type="node,closedway,multipolygon">
+            <key key="brand" value="Madaling Araw Hotel"/>
+            <key key="name" value="Madaling Araw Hotel"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Meridian Suites" type="node,closedway,multipolygon">
+            <key key="brand" value="Meridian Suites"/>
+            <key key="name" value="Meridian Suites"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Pangtulog" type="node,closedway,multipolygon">
+            <key key="brand" value="Pangtulog"/>
+            <key key="name" value="Pangtulog"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="The Atrium" type="node,closedway,multipolygon">
+            <key key="brand" value="The Atrium"/>
+            <key key="name" value="The Atrium"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="The Bassett" type="node,closedway,multipolygon">
+            <key key="brand" value="The Bassett"/>
+            <key key="name" value="The Bassett"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="The Wilberding" type="node,closedway,multipolygon">
+            <key key="brand" value="The Wilberding"/>
+            <key key="name" value="The Wilberding"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="UltraLiving" type="node,closedway,multipolygon">
+            <key key="brand" value="UltraLiving"/>
+            <key key="name" value="UltraLiving"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Waltherams Suites" type="node,closedway,multipolygon">
+            <key key="brand" value="Waltherams Suites"/>
+            <key key="name" value="Waltherams Suites"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+        </group>
+        <group name="love_hotel">
+          <item name="Do It" type="node,closedway,multipolygon">
+            <key key="amenity" value="love_hotel"/>
+            <key key="brand" value="Do It"/>
+            <key key="name" value="Do It"/>
+            <key key="tourism" value="love_hotel"/>
+          </item>
+          <item name="HotelHour" type="node,closedway,multipolygon">
+            <key key="amenity" value="love_hotel"/>
+            <key key="brand" value="HotelHour"/>
+            <key key="name" value="HotelHour"/>
+            <key key="tourism" value="love_hotel"/>
+          </item>
+          <item name="Isang Oras Lang" type="node,closedway,multipolygon">
+            <key key="amenity" value="love_hotel"/>
+            <key key="brand" value="Isang Oras Lang"/>
+            <key key="name" value="Isang Oras Lang"/>
+            <key key="tourism" value="love_hotel"/>
+          </item>
+        </group>
+        <group name="motel">
+          <item name="Econobudget Inn" type="node,closedway,multipolygon">
+            <key key="brand" value="Econobudget Inn"/>
+            <key key="name" value="Econobudget Inn"/>
+            <key key="tourism" value="motel"/>
+          </item>
+          <item name="Hartt Motel" type="node,closedway,multipolygon">
+            <key key="brand" value="Hartt Motel"/>
+            <key key="name" value="Hartt Motel"/>
+            <key key="tourism" value="motel"/>
+          </item>
+          <item name="Mega 9 Motel" type="node,closedway,multipolygon">
+            <key key="brand" value="Mega 9 Motel"/>
+            <key key="name" value="Mega 9 Motel"/>
+            <key key="tourism" value="motel"/>
+          </item>
+          <item name="Towne Inn" type="node,closedway,multipolygon">
+            <key key="brand" value="Towne Inn"/>
+            <key key="name" value="Towne Inn"/>
+            <key key="tourism" value="motel"/>
           </item>
         </group>
       </group>

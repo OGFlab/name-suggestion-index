@@ -1,9 +1,9 @@
 {
   "_meta": {
     "version": "1.0.20240113",
-    "generated": "2024-01-13T03:59:41.416Z",
+    "generated": "2024-01-13T18:33:03.091Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/presets/nsi-id-presets.json",
-    "hash": "d95fbf68ce9cba163953f2f2a822a7e3"
+    "hash": "c0f5c829ec94354f6ca38f71e1903817"
   },
   "presets": {
     "man_made/flagpole/lgbtpride-e5dc93": {
@@ -12,6 +12,7 @@
       "icon": "maki-embassy",
       "geometry": ["point", "vertex"],
       "matchScore": 2,
+      "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Gay Pride Flag.svg",
       "terms": [
         "gay",
         "gay pride",

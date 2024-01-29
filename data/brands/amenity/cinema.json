@@ -20,16 +20,6 @@
       }
     },
     {
-      "displayName": "Helmet Cinemas",
-      "id": "helmetcinemas-f33303",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "amenity": "cinema",
-        "brand": "Helmet Cinemas",
-        "name": "Helmet Cinemas"
-      }
-    },
-    {
       "countryRestrictions": {
         "allowed": ["FSA:NW", "FSA:HL", "FSA:WL"],
         "ask": ["FSA:SE"],
@@ -49,6 +39,16 @@
         "amenity": "cinema",
         "brand": "Blue Sparrow Cinema",
         "name": "Blue Sparrow Cinema"
+      }
+    },
+    {
+      "displayName": "Helmet Cinemas",
+      "id": "helmetcinemas-f33303",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Helmet Cinemas",
+        "name": "Helmet Cinemas"
       }
     },
     {

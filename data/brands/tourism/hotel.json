@@ -20,48 +20,8 @@
       }
     },
     {
-      "displayName": "imanti",
-      "id": "imanti-779ccb",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "imanti",
-        "name": "imanti",
-        "tourism": "hotel"
-      }
-    },
-     {
-      "displayName": "Holidaysmart",
-      "id": "Holidaysmart-779ccb",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Holidaysmart",
-        "name": "Holidaysmart",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "displayName": "Seleste Hotels",
-      "id": "SelesteHotels-779ccb",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Seleste Hotels and Resorts",
-        "name": "Seleste Hotels",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "displayName": "Sleep'Inn",
-      "id": "SleepInn-779ccb",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Sleep'Inn",
-        "name": "Sleep'Inn",
-        "tourism": "hotel"
-      }
-    },
-     {
       "displayName": "Embaixador",
-      "id": "Embaixador-779ccb",
+      "id": "embaixador-779ccb",
       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Embaixador",
@@ -81,6 +41,16 @@
       "tags": {
         "brand": "Hancher Elite",
         "name": "Hancher Elite",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Holidaysmart",
+      "id": "holidaysmart-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Holidaysmart",
+        "name": "Holidaysmart",
         "tourism": "hotel"
       }
     },
@@ -130,6 +100,16 @@
       "tags": {
         "brand": "Hotel Kamusta",
         "name": "Hotel Kamusta",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "imanti",
+      "id": "imanti-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "imanti",
+        "name": "imanti",
         "tourism": "hotel"
       }
     },
@@ -194,6 +174,26 @@
       "tags": {
         "brand": "Pangtulog",
         "name": "Pangtulog",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Seleste Hotels",
+      "id": "selestehotels-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Seleste Hotels and Resorts",
+        "name": "Seleste Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sleep'Inn",
+      "id": "sleepinn-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sleep'Inn",
+        "name": "Sleep'Inn",
         "tourism": "hotel"
       }
     },
