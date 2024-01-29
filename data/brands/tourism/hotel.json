@@ -20,6 +20,56 @@
       }
     },
     {
+      "displayName": "imanti",
+      "id": "imanti-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "imanti",
+        "name": "imanti",
+        "tourism": "hotel"
+      }
+    },
+     {
+      "displayName": "Holidaysmart",
+      "id": "Holidaysmart-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Holidaysmart",
+        "name": "Holidaysmart",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Seleste Hotels",
+      "id": "SelesteHotels-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Seleste Hotels and Resorts",
+        "name": "Seleste Hotels",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sleep'Inn",
+      "id": "SleepInn-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sleep'Inn",
+        "name": "Sleep'Inn",
+        "tourism": "hotel"
+      }
+    },
+     {
+      "displayName": "Embaixador",
+      "id": "Embaixador-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Embaixador",
+        "name": "Embaixador",
+        "tourism": "hotel"
+      }
+    },
+    {
       "countryRestrictions": {
         "allowed": ["FSA"],
         "ask": [],
