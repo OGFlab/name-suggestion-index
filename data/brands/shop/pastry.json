@@ -1,0 +1,28 @@
+{
+  "properties": {
+    "path": "brands/shop/pastry",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Martinho Pastry",
+      "id": "martinho-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Martinho Pastry",
+        "name": "Martinho Pastry",
+        "shop": "pastry"
+      }
+    },
+    {
+      "displayName": "Masimi",
+      "id": "Masimi-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Masimi",
+        "name": "Masimi",
+        "shop": "pastry"
+      }
+    }
+  ]
+}
