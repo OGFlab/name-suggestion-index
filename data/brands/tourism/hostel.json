@@ -1,6 +1,6 @@
 {
   "properties": {
-    "path": "brands/tourism/motel",
+    "path": "brands/tourism/hostel",
     "exclude": {"generic": [], "named": []}
   },
   "items": [
