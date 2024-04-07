@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20240113",
-    "generated": "2024-01-13T03:59:37.164Z",
+    "version": "1.0.20240407",
+    "generated": "2024-04-07T13:11:23.854Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/filtered/transit_discard.json",
-    "hash": "0511d004eef09ca8685886b36bab94c3",
+    "hash": "79eae1276e246bd22f28f72679ae8b29",
     "collectionDate": "20240112"
   },
   "discard": {

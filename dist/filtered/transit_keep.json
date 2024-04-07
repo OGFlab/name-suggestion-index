@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "version": "1.0.20240113",
-    "generated": "2024-01-13T03:59:37.165Z",
+    "version": "1.0.20240407",
+    "generated": "2024-04-07T13:11:23.853Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/filtered/transit_keep.json",
-    "hash": "c1f39f9f724fc6dda536707342451a0b",
+    "hash": "3ce378510eb9017894e59d64ca02ac92",
     "collectionDate": "20240112"
   },"keep": {}}

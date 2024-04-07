@@ -1,18 +1,19 @@
 {
   "_meta": {
-    "version": "1.0.20240113",
-    "generated": "2024-01-13T18:33:03.085Z",
+    "version": "1.0.20240407",
+    "generated": "2024-04-07T13:11:23.859Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "b81e8ba2f1a1cdae2004d4463020bdfc"
+    "hash": "05d645cec4397fd4ade3ca2e4910c68e"
   },
   "nsi": {
-    "brands/amenity/bank": {"properties": {"path": "brands/amenity/bank", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "山河银行", "id": "7c59fb-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "山河银行", "name": "山河银行"}}], "templates": []},
-    "brands/amenity/cafe": {"properties": {"path": "brands/amenity/cafe", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "这↑里↓奶茶", "id": "963d94-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "这↑里↓奶茶", "cuisine": "bubble_tea", "name": "这↑里↓奶茶", "takeaway": "yes"}}], "templates": []},
+    "brands/amenity/bank": {"properties": {"path": "brands/amenity/bank", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Bank of Kofuku", "id": "bankofkofuku-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Bank of Kofuku", "name": "Bank of Kofuku"}}, {"displayName": "山河银行", "id": "7c59fb-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "山河银行", "name": "山河银行"}}], "templates": []},
+    "brands/amenity/cafe": {"properties": {"path": "brands/amenity/cafe", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Chacafé", "id": "chacafe-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Chacafé", "cuisine": "coffee_shop", "name": "Chacafé", "takeaway": "yes"}}, {"displayName": "Kasanova", "id": "kasanova-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Kasanova", "cuisine": "coffee_shop", "name": "Kasanova", "takeaway": "yes"}}, {"displayName": "这↑里↓奶茶", "id": "963d94-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "这↑里↓奶茶", "cuisine": "bubble_tea", "name": "这↑里↓奶茶", "takeaway": "yes"}}], "templates": []},
     "brands/amenity/cinema": {
       "properties": {"path": "brands/amenity/cinema", "exclude": {"generic": [], "named": []}},
       "items": [
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Archantan Film Company", "id": "archantanfilmcompany-f33303", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cinema", "brand": "Archantan Film Company", "name": "Archantan Film Company"}},
         {"countryRestrictions": {"allowed": ["FSA:NW", "FSA:HL", "FSA:WL"], "ask": ["FSA:SE"], "no": ["FSA:AL", "FSA:MD", "FSA:CT", "FSA:NE", "FSA:MA"]}, "displayName": "Blue Sparrow Cinema", "id": "bluesparrowcinema-f33303", "locationSet": {"include": ["001"]}, "originCountry": "FSA", "tags": {"amenity": "cinema", "brand": "Blue Sparrow Cinema", "name": "Blue Sparrow Cinema"}},
+        {"displayName": "Helmet Cinemas", "id": "helmetcinemas-f33303", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cinema", "brand": "Helmet Cinemas", "name": "Helmet Cinemas"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "displayName": "MoviePlanet", "id": "movieplanet-f33303", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cinema", "brand": "MoviePlanet", "name": "MoviePlanet"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Screeners", "id": "screeners-f33303", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cinema", "brand": "Screeners", "name": "Screeners"}}
       ],
@@ -41,7 +42,9 @@
         {"countryRestrictions": {"allowed": ["*"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Nalani's", "id": "nalanis-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Nalani's", "cuisine": "asian", "name": "Nalani's"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Original Lutang Meals", "id": "originallutangmeals-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Original Lutang Meals", "cuisine": "filipino", "name": "Original Lutang Meals"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "P.C.N. Chicken", "id": "pcnchicken-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "P.C.N. Chicken", "cuisine": "chicken", "name": "P.C.N. Chicken"}},
-        {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Your Mom's Igado", "id": "yourmomsigado-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Your Mom's Igado", "cuisine": "filipino", "name": "Your Mom's Igado"}}
+        {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Your Mom's Igado", "id": "yourmomsigado-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Your Mom's Igado", "cuisine": "filipino", "name": "Your Mom's Igado"}},
+        {"countryRestrictions": {"allowed": ["Huaxia"], "ask": [], "no": []}, "creator": "NM$l", "displayName": "诶！珍地道老铜锅", "id": "ed854c-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Huaxia", "tags": {"amenity": "restaurant", "brand": "诶！珍地道老铜锅", "cuisine": "Chinese", "cuisine_hx": "Huoguo (Shangjing)", "name": "诶！珍地道"}},
+        {"countryRestrictions": {"allowed": ["Huaxia"], "ask": [], "no": []}, "creator": "NM$l", "displayName": "陈白麻辣烫", "id": "ac6813-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Huaxia", "tags": {"amenity": "restaurant", "brand": "陈白麻辣烫", "cuisine": "Chinese", "cuisine_hx": "Malatang", "name": "陈白麻辣烫"}}
       ],
       "templates": []
     },
@@ -58,6 +61,7 @@
         {"displayName": "Kioski", "id": "kioski-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Kioski", "name": "Kioski", "shop": "convenience"}},
         {"displayName": "LeDéPa", "id": "ledepa-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "LeDéPa", "name": "LeDéPa", "shop": "convenience"}},
         {"displayName": "Mi Bodeguita", "id": "mibodeguita-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Mi Bodeguita", "name": "Mi Bodeguita", "shop": "convenience"}},
+        {"displayName": "Minimarket", "id": "minimarket-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Minimarket", "name": "Minimarket", "shop": "convenience"}},
         {"displayName": "PickIt!", "id": "pickit-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "PickIt!", "name": "PickIt!", "shop": "convenience"}},
         {"displayName": "Saturno", "id": "saturno-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Saturno", "name": "Saturno", "shop": "convenience"}},
         {"displayName": "Six Twelve", "id": "sixtwelve-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Six Twelve", "name": "Six Twelve", "shop": "convenience"}},
@@ -67,18 +71,44 @@
       ],
       "templates": []
     },
+    "brands/shop/pastry": {"properties": {"path": "brands/shop/pastry", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Martinho Pastry", "id": "martinhopastry-4f1341", "locationSet": {"include": ["001"]}, "tags": {"brand": "Martinho Pastry", "name": "Martinho Pastry", "shop": "pastry"}}, {"displayName": "Masimi", "id": "masimi-4f1341", "locationSet": {"include": ["001"]}, "tags": {"brand": "Masimi", "name": "Masimi", "shop": "pastry"}}], "templates": []},
+    "brands/shop/supermarket": {
+      "properties": {"path": "brands/shop/supermarket", "exclude": {"generic": [], "named": []}},
+      "items": [
+        {"displayName": "Coop", "id": "coop-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Coop", "name": "Coop", "shop": "supermarket"}},
+        {"displayName": "Coregro", "id": "coregro-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Coregro", "name": "Coregro", "shop": "supermarket"}},
+        {"displayName": "Forteno", "id": "forteno-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Forteno", "name": "Forteno", "shop": "supermarket"}},
+        {"displayName": "Gigante", "id": "gigante-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Gigante", "name": "Gigante", "shop": "supermarket"}},
+        {"displayName": "JANSA ᡶ᠋ᠠᠨᡄᠠ", "id": "jansa-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "JANSA", "name": "JANSA ᡶ᠋ᠠᠨᡄᠠ", "shop": "supermarket"}},
+        {"displayName": "Keppò Subemerkàw", "id": "kepposubemerkaw-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Keppò Subemerkàw", "name": "Keppò Subemerkàw", "shop": "supermarket"}},
+        {"displayName": "Ordi", "id": "ordi-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Ordi", "name": "Ordi", "shop": "supermarket"}},
+        {"displayName": "Reni", "id": "reni-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Reni", "name": "Reni", "shop": "supermarket"}},
+        {"displayName": "Retrin", "id": "retrin-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Retrin", "name": "Retrin", "shop": "supermarket"}},
+        {"displayName": "Superiór", "id": "superior-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Superiór", "name": "Superiór", "shop": "supermarket"}},
+        {"displayName": "Valuigi", "id": "valuigi-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Valuigi", "name": "Valuigi", "shop": "supermarket"}},
+        {"displayName": "Winstons", "id": "winstons-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Winstons", "name": "Winstons", "shop": "supermarket"}},
+        {"displayName": "Yado Supermarket", "id": "yadosupermarket-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Yado's Supermarkets", "name": "Yado Supermarket", "shop": "supermarket"}}
+      ],
+      "templates": []
+    },
+    "brands/tourism/hostel": {"properties": {"path": "brands/tourism/hostel", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Sleep-in-Ø", "id": "sleepino-840e3b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Sleep-in-Ø", "name": "Sleep-in-Ø", "tourism": "hostel"}}], "templates": []},
     "brands/tourism/hotel": {
       "properties": {"path": "brands/tourism/hotel", "exclude": {"generic": [], "named": []}},
       "items": [
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Consulate Suites", "id": "consulatesuites-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Consulate Suites", "name": "Consulate Suites", "tourism": "hotel"}},
+        {"displayName": "Embaixador", "id": "embaixador-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Embaixador", "name": "Embaixador", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Hancher Elite", "id": "hancherelite-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Hancher Elite", "name": "Hancher Elite", "tourism": "hotel"}},
+        {"displayName": "Holidaysmart", "id": "holidaysmart-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Holidaysmart", "name": "Holidaysmart", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Holliston Inn", "id": "hollistoninn-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Holliston Inn", "name": "Holliston Inn", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "creator": "Lemuria", "displayName": "Hotel Berde", "id": "hotelberde-779ccb", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"brand": "Hotel Berde", "name": "Hotel Berde", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "creator": "Lemuria", "displayName": "Hotel Kamusta", "id": "hotelkamusta-779ccb", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"brand": "Hotel Kamusta", "name": "Hotel Kamusta", "tourism": "hotel"}},
+        {"displayName": "imanti", "id": "imanti-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "imanti", "name": "imanti", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Leyton Hotel", "id": "leytonhotel-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Leyton Hotel", "name": "Leyton Hotel", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "creator": "Lemuria", "displayName": "Madaling Araw Hotel", "id": "madalingarawhotel-779ccb", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"brand": "Madaling Araw Hotel", "name": "Madaling Araw Hotel", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Meridian Suites", "id": "meridiansuites-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Meridian Suites", "name": "Meridian Suites", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "creator": "Lemuria", "displayName": "Pangtulog", "id": "pangtulog-779ccb", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"brand": "Pangtulog", "name": "Pangtulog", "tourism": "hotel"}},
+        {"displayName": "Seleste Hotels", "id": "selestehotels-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Seleste Hotels and Resorts", "name": "Seleste Hotels", "tourism": "hotel"}},
+        {"displayName": "Sleep'Inn", "id": "sleepinn-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Sleep'Inn", "name": "Sleep'Inn", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "The Atrium", "id": "theatrium-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Atrium", "name": "The Atrium", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "The Bassett", "id": "thebassett-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Bassett", "name": "The Bassett", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "The Wilberding", "id": "thewilberding-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Wilberding", "name": "The Wilberding", "tourism": "hotel"}},

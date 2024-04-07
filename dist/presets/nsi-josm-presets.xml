@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240113">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240407">
   <group name="Name Suggestion Index">
     <group name="brands">
       <group name="amenity">
         <group name="bank">
+          <item name="Bank of Kofuku" type="node,closedway,multipolygon">
+            <key key="amenity" value="bank"/>
+            <key key="brand" value="Bank of Kofuku"/>
+            <key key="name" value="Bank of Kofuku"/>
+          </item>
           <item name="山河银行" type="node,closedway,multipolygon">
             <key key="amenity" value="bank"/>
             <key key="brand" value="山河银行"/>
@@ -11,6 +16,20 @@
           </item>
         </group>
         <group name="cafe">
+          <item name="Chacafé" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="Chacafé"/>
+            <key key="cuisine" value="coffee_shop"/>
+            <key key="name" value="Chacafé"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Kasanova" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="Kasanova"/>
+            <key key="cuisine" value="coffee_shop"/>
+            <key key="name" value="Kasanova"/>
+            <key key="takeaway" value="yes"/>
+          </item>
           <item name="这↑里↓奶茶" type="node,closedway,multipolygon">
             <key key="amenity" value="cafe"/>
             <key key="brand" value="这↑里↓奶茶"/>
@@ -29,6 +48,11 @@
             <key key="amenity" value="cinema"/>
             <key key="brand" value="Blue Sparrow Cinema"/>
             <key key="name" value="Blue Sparrow Cinema"/>
+          </item>
+          <item name="Helmet Cinemas" type="node,closedway,multipolygon">
+            <key key="amenity" value="cinema"/>
+            <key key="brand" value="Helmet Cinemas"/>
+            <key key="name" value="Helmet Cinemas"/>
           </item>
           <item name="MoviePlanet" type="node,closedway,multipolygon">
             <key key="amenity" value="cinema"/>
@@ -146,6 +170,20 @@
             <key key="cuisine" value="filipino"/>
             <key key="name" value="Your Mom's Igado"/>
           </item>
+          <item name="诶！珍地道老铜锅" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="诶！珍地道老铜锅"/>
+            <key key="cuisine" value="Chinese"/>
+            <key key="cuisine_hx" value="Huoguo (Shangjing)"/>
+            <key key="name" value="诶！珍地道"/>
+          </item>
+          <item name="陈白麻辣烫" type="node,closedway,multipolygon">
+            <key key="amenity" value="restaurant"/>
+            <key key="brand" value="陈白麻辣烫"/>
+            <key key="cuisine" value="Chinese"/>
+            <key key="cuisine_hx" value="Malatang"/>
+            <key key="name" value="陈白麻辣烫"/>
+          </item>
         </group>
       </group>
       <group name="office">
@@ -204,6 +242,11 @@
             <key key="name" value="Mi Bodeguita"/>
             <key key="shop" value="convenience"/>
           </item>
+          <item name="Minimarket" type="node,closedway,multipolygon">
+            <key key="brand" value="Minimarket"/>
+            <key key="name" value="Minimarket"/>
+            <key key="shop" value="convenience"/>
+          </item>
           <item name="PickIt!" type="node,closedway,multipolygon">
             <key key="brand" value="PickIt!"/>
             <key key="name" value="PickIt!"/>
@@ -235,17 +278,113 @@
             <key key="shop" value="convenience"/>
           </item>
         </group>
+        <group name="pastry">
+          <item name="Martinho Pastry" type="node,closedway,multipolygon">
+            <key key="brand" value="Martinho Pastry"/>
+            <key key="name" value="Martinho Pastry"/>
+            <key key="shop" value="pastry"/>
+          </item>
+          <item name="Masimi" type="node,closedway,multipolygon">
+            <key key="brand" value="Masimi"/>
+            <key key="name" value="Masimi"/>
+            <key key="shop" value="pastry"/>
+          </item>
+        </group>
+        <group name="supermarket">
+          <item name="Coop" type="node,closedway,multipolygon">
+            <key key="brand" value="Coop"/>
+            <key key="name" value="Coop"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Coregro" type="node,closedway,multipolygon">
+            <key key="brand" value="Coregro"/>
+            <key key="name" value="Coregro"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Forteno" type="node,closedway,multipolygon">
+            <key key="brand" value="Forteno"/>
+            <key key="name" value="Forteno"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Gigante" type="node,closedway,multipolygon">
+            <key key="brand" value="Gigante"/>
+            <key key="name" value="Gigante"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="JANSA ᡶ᠋ᠠᠨᡄᠠ" type="node,closedway,multipolygon">
+            <key key="brand" value="JANSA"/>
+            <key key="name" value="JANSA ᡶ᠋ᠠᠨᡄᠠ"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Keppò Subemerkàw" type="node,closedway,multipolygon">
+            <key key="brand" value="Keppò Subemerkàw"/>
+            <key key="name" value="Keppò Subemerkàw"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Ordi" type="node,closedway,multipolygon">
+            <key key="brand" value="Ordi"/>
+            <key key="name" value="Ordi"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Reni" type="node,closedway,multipolygon">
+            <key key="brand" value="Reni"/>
+            <key key="name" value="Reni"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Retrin" type="node,closedway,multipolygon">
+            <key key="brand" value="Retrin"/>
+            <key key="name" value="Retrin"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Superiór" type="node,closedway,multipolygon">
+            <key key="brand" value="Superiór"/>
+            <key key="name" value="Superiór"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Valuigi" type="node,closedway,multipolygon">
+            <key key="brand" value="Valuigi"/>
+            <key key="name" value="Valuigi"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Winstons" type="node,closedway,multipolygon">
+            <key key="brand" value="Winstons"/>
+            <key key="name" value="Winstons"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Yado Supermarket" type="node,closedway,multipolygon">
+            <key key="brand" value="Yado's Supermarkets"/>
+            <key key="name" value="Yado Supermarket"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+        </group>
       </group>
       <group name="tourism">
+        <group name="hostel">
+          <item name="Sleep-in-Ø" type="node,closedway,multipolygon">
+            <key key="brand" value="Sleep-in-Ø"/>
+            <key key="name" value="Sleep-in-Ø"/>
+            <key key="tourism" value="hostel"/>
+          </item>
+        </group>
         <group name="hotel">
           <item name="Consulate Suites" type="node,closedway,multipolygon">
             <key key="brand" value="Consulate Suites"/>
             <key key="name" value="Consulate Suites"/>
             <key key="tourism" value="hotel"/>
           </item>
+          <item name="Embaixador" type="node,closedway,multipolygon">
+            <key key="brand" value="Embaixador"/>
+            <key key="name" value="Embaixador"/>
+            <key key="tourism" value="hotel"/>
+          </item>
           <item name="Hancher Elite" type="node,closedway,multipolygon">
             <key key="brand" value="Hancher Elite"/>
             <key key="name" value="Hancher Elite"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Holidaysmart" type="node,closedway,multipolygon">
+            <key key="brand" value="Holidaysmart"/>
+            <key key="name" value="Holidaysmart"/>
             <key key="tourism" value="hotel"/>
           </item>
           <item name="Holliston Inn" type="node,closedway,multipolygon">
@@ -261,6 +400,11 @@
           <item name="Hotel Kamusta" type="node,closedway,multipolygon">
             <key key="brand" value="Hotel Kamusta"/>
             <key key="name" value="Hotel Kamusta"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="imanti" type="node,closedway,multipolygon">
+            <key key="brand" value="imanti"/>
+            <key key="name" value="imanti"/>
             <key key="tourism" value="hotel"/>
           </item>
           <item name="Leyton Hotel" type="node,closedway,multipolygon">
@@ -281,6 +425,16 @@
           <item name="Pangtulog" type="node,closedway,multipolygon">
             <key key="brand" value="Pangtulog"/>
             <key key="name" value="Pangtulog"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Seleste Hotels" type="node,closedway,multipolygon">
+            <key key="brand" value="Seleste Hotels and Resorts"/>
+            <key key="name" value="Seleste Hotels"/>
+            <key key="tourism" value="hotel"/>
+          </item>
+          <item name="Sleep'Inn" type="node,closedway,multipolygon">
+            <key key="brand" value="Sleep'Inn"/>
+            <key key="name" value="Sleep'Inn"/>
             <key key="tourism" value="hotel"/>
           </item>
           <item name="The Atrium" type="node,closedway,multipolygon">

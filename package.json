@@ -1,13 +1,12 @@
 {
   "name": "name-suggestion-index",
-  "version": "1.0.20240113",
+  "version": "1.0.20240407",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OGFlab/name-suggestion-index.git"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "description": "Canonical common brand names for OpenGeofiction",
   "homepage": "",
   "keywords": [
