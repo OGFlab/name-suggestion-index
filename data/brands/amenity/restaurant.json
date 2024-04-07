@@ -198,25 +198,8 @@
         "brand": "Your Mom's Igado",
         "cuisine": "filipino",
         "name": "Your Mom's Igado"
-      },
-    {
-      "countryRestrictions": {
-        "allowed": ["Huaxia"],
-        "ask": [],
-        "no": []
-      },
-      "creator": "NM$l",
-      "displayName": "陈白麻辣烫",
-      "id": "cbmalatang-2fabb0",
-      "locationSet": {"include": ["001"]},
-      "originCountry": "Huaxia",
-      "tags": {
-        "amenity": "restaurant",
-        "brand": "陈白麻辣烫",
-        "cuisine": "Chinese",
-        "cuisine_hx": "Malatang",
-        "name": "陈白麻辣烫"
-      },
+      }
+    },
     {
       "countryRestrictions": {
         "allowed": ["Huaxia"],
@@ -225,7 +208,7 @@
       },
       "creator": "NM$l",
       "displayName": "诶！珍地道老铜锅",
-      "id": "zhendidao-2fabb0",
+      "id": "ed854c-2fabb0",
       "locationSet": {"include": ["001"]},
       "originCountry": "Huaxia",
       "tags": {
@@ -234,6 +217,25 @@
         "cuisine": "Chinese",
         "cuisine_hx": "Huoguo (Shangjing)",
         "name": "诶！珍地道"
+      }
+    },
+    {
+      "countryRestrictions": {
+        "allowed": ["Huaxia"],
+        "ask": [],
+        "no": []
+      },
+      "creator": "NM$l",
+      "displayName": "陈白麻辣烫",
+      "id": "ac6813-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "originCountry": "Huaxia",
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "陈白麻辣烫",
+        "cuisine": "Chinese",
+        "cuisine_hx": "Malatang",
+        "name": "陈白麻辣烫"
       }
     }
   ]
