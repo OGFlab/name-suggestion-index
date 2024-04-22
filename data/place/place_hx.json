@@ -1,0 +1,330 @@
+{
+  "properties": {
+    "path": "place/Huaxia",
+    "preserveTags": ["^name", "^population"],
+  },
+  "items": [
+    {
+      "displayName": "市 （Huaxia's Shi）",
+      "id": "hxshi-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "市级地名",
+        "City (Huaxia)",
+        "Shi",
+        "hx_Shi",
+        "地级市",
+        "市级",
+        "地级首府"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "shi",
+        "name": "市"
+      }
+    },
+    {
+      "displayName": "民族自治州 （Huaxia's Minzu Zizhizhou）",
+      "id": "hxzizhizhou-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "自治州地名",
+        "Ethnic autonomous prefecture (Huaxia)",
+        "Minzu Zizhizhou",
+        "hx_Minzu Zizhizhou",
+        "自治州",
+        "民族自治州",
+        "自治州首府"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "zizhizhou",
+        "name": "族州"
+      }
+    },
+    {
+      "displayName": "旗 （Huaxia's Qi）",
+      "id": "hxqi-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "旗地名",
+        "Banner (Huaxia)",
+        "Qi",
+        "hx_Qi",
+        "旗",
+        "自治旗",
+        "旗首府"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "qi",
+        "name": "旗"
+      }
+    },
+    {
+      "displayName": "县 （Huaxia's Xian）",
+      "id": "hxxian-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "县地名",
+        "County (Huaxia)",
+        "Xian",
+        "hx_Xian",
+        "县",
+        "县级"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "xian",
+        "name": "县"
+      }
+    },
+    {
+      "displayName": "区 （Huaxia's Qu）",
+      "id": "hxqu-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "区地名",
+        "District (Huaxia)",
+        "Qu",
+        "hx_Qu",
+        "市辖区",
+        "区级"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "xian",
+        "name": "县"
+      }
+    },
+    {
+      "displayName": "厅 （Huaxia's Ting）",
+      "id": "hxting-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "厅地名",
+        "县级市地名",
+        "Country-leveled city (Huaxia)",
+        "Ting",
+        "hx_Ting",
+        "厅",
+        "县级市",
+        "散厅"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "ting",
+        "name": "厅"
+      }
+    },
+    {
+      "displayName": "地方 （Huaxia's Difang）",
+      "id": "hxdifang-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "地方地名（行政区划）",
+        "Region (Huaxia)",
+        "Difang",
+        "hx_Difang",
+        "地方首府",
+        "地区",
+        "地方"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "difang",
+        "name": "地方"
+      }
+    },
+    {
+      "displayName": "郡 （Huaxia's Jun）",
+      "id": "hxjun-114514",
+      "locationSet": {"include": ["001"]},
+      "note": "郡仅适用于华夏项目成立前由项目外的成员已绘制且原作者要求保留的的地区。",
+      "matchNames": [
+        "郡地名",
+        "Sub-prefecture (Huaxia)",
+        "Jun",
+        "hx_Jun",
+        "县级市",
+        "郡首府",
+        "郡"
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "jun",
+        "name": "郡"
+      }
+    },
+    {
+      "displayName": "民族自治县 （Huaxia's Minzu Zizhixian）",
+      "id": "hxminzuxian-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "自治县地名",
+        "Ethnic autonomous county (Huaxia)",
+        "Zizhixian",
+        "hx_Zizhixian",
+        "Minzuxian",
+        "hx_Minzuxian",
+        "自治县",
+        "民族自治县",
+      ],
+      "tags": {
+        "place": "city",
+        "place:hx": "minzuxian",
+        "name": "族县"
+      }
+    },
+    {
+      "displayName": "镇 （Huaxia's Zhen）",
+      "id": "hxzhen-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "镇地名",
+        "Town (Huaxia)",
+        "Zhen",
+        "hx_Zhen",
+        "镇",
+        "镇级"
+      ],
+      "tags": {
+        "place": "town",
+        "place:hx": "zhen",
+        "name": "镇"
+      }
+    },
+    {
+      "displayName": "乡 （Huaxia's Xiang）",
+      "id": "hxxiang-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "乡地名",
+        "Township (Huaxia)",
+        "Xiang",
+        "hx_Xiang",
+        "乡",
+        "乡级"
+      ],
+      "tags": {
+        "place": "town",
+        "place:hx": "xiang",
+        "name": "乡"
+      }
+    },
+    {
+      "displayName": "非建成区内街道 （Huaxia's Jiedao (suburban)）",
+      "id": "hxjiedao-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "街道地名",
+        "Sub-district (Huaxia)",
+        "Jiedao",
+        "hx_Jiedao",
+        "街道",
+        "街道级"
+      ],
+      "tags": {
+        "place": "suburb",
+        "place:hx": "jiedao",
+        "name": "街道"
+      }
+    },
+    {
+      "displayName": "中心城区街道 （Huaxia's Jiedao (urban)）",
+      "id": "hxjiedao-19810",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "街道地名",
+        "Sub-district (Huaxia)",
+        "Jiedao",
+        "hx_Jiedao",
+        "街道",
+        "街道级"
+      ],
+      "tags": {
+        "place": "town",
+        "place:hx": "jiedao",
+        "name": "街道"
+      }
+    },
+    {
+      "displayName": "民族自治乡 （Huaxia's Minzu Zizhixiang）",
+      "id": "hxminzuxiang-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "自治乡地名",
+        "Ethnic autonomous township (Huaxia)",
+        "Minzu Zizhixiang",
+        "hx_Minzu Zizhixiang",
+        "Minzuxiang",
+        "hx_Minzuxiang",
+        "自治乡",
+        "民族自治乡"
+      ],
+      "tags": {
+        "place": "town",
+        "place:hx": "minzuxiang",
+        "name": "族乡"
+      }
+    },
+    {
+      "displayName": "管理委员会 （Huaxia's Guanli Weiyuanhui）",
+      "id": "hxguanweihui-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "管委会地名",
+        "Committee (Huaxia)",
+        "Guanli Weiyuanhui",
+        "Guanweihui",
+        "hx_Guanli Weiyuanhui",
+        "hx_Guanweihui",
+        "行政管理区",
+        "管委会",
+        "管理委员会"
+      ],
+      "tags": {
+        "place": "suburb",
+        "place:hx": "guanweihui",
+        "name": "管理委员会",
+        "official_name": "行政管理区"
+      }
+    },
+    {
+      "displayName": "行政村 （Huaxia's Cun）",
+      "id": "hxcun-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "行政村地名",
+        "Village (Huaxia)",
+        "Cun",
+        "hx_Cun",
+        "村",
+        "行政村",
+        "村级",
+        "村委会"
+      ],
+      "tags": {
+        "place": "village",
+        "place:hx": "cun",
+        "name": "村"
+      }
+    },
+    {
+      "displayName": "社区 （Huaxia's Shequ）",
+      "id": "hxshequ-114514",
+      "locationSet": {"include": ["001"]},
+      "matchNames": [
+        "行政村地名",
+        "Community (Huaxia)",
+        "Shequ",
+        "hx_Shequ",
+        "社区",
+        "居委会"
+      ],
+      "tags": {
+        "place": "quarter",
+        "place:hx": "shequ",
+        "name": "社区"
+      }
+    }
