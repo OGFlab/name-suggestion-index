@@ -323,8 +323,10 @@
         "居委会"
       ],
       "tags": {
-        "place": "quarter",
+        "place": "neighbourhood",
         "place:hx": "shequ",
         "name": "社区"
       }
     }
+  ]
+}
