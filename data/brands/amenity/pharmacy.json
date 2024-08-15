@@ -56,6 +56,17 @@
         "healthcare": "pharmacy",
         "name": "ThirdRepublic Pharmacy"
       }
+    },
+    {
+      "displayName": "SecondRepublic Pharmacy",
+      "id": "secondrepublic-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "SecondRepublic Pharmacy",
+        "healthcare": "pharmacy",
+        "name": "SecondRepublic Pharmacy"
+      }
     }
   ]
 }
