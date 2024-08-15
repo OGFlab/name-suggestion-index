@@ -184,6 +184,7 @@ relation[${k}=${v}][network:wikidata=${qid}]
         <div className='locations'>{ locoDisplay(item.locationSet, n) }</div>
         <div className='viewlink'>
           { searchOverpassLink(n, overpassQuery) }<br/>
+        </div>
       </td>
       <td className='tags'><pre className='tags' dangerouslySetInnerHTML={ highlight(filters.tt, displayTags(tags)) } /></td>
       <td className='wikidata'>
