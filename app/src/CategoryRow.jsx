@@ -50,18 +50,7 @@ export function CategoryRow(props) {
     overpassQuery = `[out:json][timeout:100];
 (nwr["name"="${n}"];);
 out center;
-
-{{style:
-node,
-way,
-relation
-node[${k}=${v}],
-way[${k}=${v}],
-relation[${k}=${v}]
-node[${k}=${v}][brand=${bn}][brand:wikidata=${qid}],
-way[${k}=${v}][brand=${bn}][brand:wikidata=${qid}],
-relation[${k}=${v}][brand=${bn}][brand:wikidata=${qid}]
-}}`;
+`;
 
   } else if (t === 'flags') {
     n = item.tags['flag:name'];
