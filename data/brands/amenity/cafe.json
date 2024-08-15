@@ -39,6 +39,18 @@
         "name": "这↑里↓奶茶",
         "takeaway": "yes"
       }
+    },
+    {
+      "displayName": "Maravillas Coffee",
+      "id": "maravillascoffee-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Maravillas Ltd",
+        "name": "Maravillas Coffee",
+        "takeaway": "yes",
+        "opening_hours": "10:00-15:00;16:00-23:30"
+      }
     }
   ]
 }

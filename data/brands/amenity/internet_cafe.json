@@ -1,0 +1,42 @@
+{
+  "properties": {
+    "path": "brands/amenity/internet_cafe",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "MatrixTime",
+      "id": "matrixtime",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "internet_cafe",
+        "brand": "MatrixGuys",
+        "name": "MatrixTime",
+        "takeaway": "no"
+      }
+    },
+    {
+      "displayName": "Drink & Connect",
+      "id": "drinkandconnect",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "internet_cafe",
+        "brand": "Drink & Connect",
+        "name": "Drink & Connect",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "LTE & A Coffee",
+      "id": "ltecoffee",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "internet_cafe",
+        "brand": "LTE Connectors",
+        "name": "LTE & A Coffee",
+        "opening_hours": "08:00-22:00",
+        "takeaway": "yes"
+      }
+    }
+  ]
+}

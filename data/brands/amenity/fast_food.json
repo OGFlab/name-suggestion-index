@@ -1,0 +1,40 @@
+{
+  "properties": {
+    "path": "brands/amenity/fast_food",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Crunchy Bite",
+      "id": "crunchybite",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tropical Affairs LLC",
+        "name": "Crunchy Bite",
+        "amenity": "fast_food"
+      }
+    },
+    {
+      "displayName": "Trunk Road",
+      "id": "trunkroad",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tropical Affairs LLC",
+        "name": "Trunk Road",
+        "amenity": "fast_food",
+        "cuisine": "sandwich"
+      }
+    },
+    {
+      "displayName": "The Alt Sandwich",
+      "id": "thealtsandwich",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tropical Affairs LLC",
+        "name": "The Alt Sandwich",
+        "amenity": "fast_food",
+        "cuisine": "sandwich"
+      }
+    }
+  ]
+}
