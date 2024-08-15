@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/leisure/fitness_centre",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "ThickGym",
+      "id": "thickgym",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "leisure": "fitness_centre",
+        "brand": "ThickGym",
+        "name": "ThickGym",
+        "opening_hours": "06:00-23:00"
+      }
+    },
+    {
+      "displayName": "Wellbeing Gym",
+      "id": "wellbeinggym",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "leisure": "fitness_centre",
+        "brand": "Wellbeing Gym",
+        "name": "Wellbeing Gym",
+        "opening_hours": "07:00-00:00"
+      }
+    }
+  ]
+}

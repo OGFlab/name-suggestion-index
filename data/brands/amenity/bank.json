@@ -23,6 +23,38 @@
         "brand": "山河银行",
         "name": "山河银行"
       }
+    },
+    {
+      "displayName": "Sneaky Bank",
+      "id": "sneakybank-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Sneaky Bank",
+        "name": "Sneaky Bank"
+      }
+    },
+    {
+      "displayName": "MollyBank",
+      "id": "mollybank-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "MollyBank",
+        "name": "MollyBank",
+        "opening_hours": "10:00-22:00"
+      }
+    },
+    {
+      "displayName": "Quick Cashers",
+      "id": "quickcashers-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Quick Cashers",
+        "name": "Quick Cashers",
+        "opening_hours": "10:00-22:00"
+      }
     }
   ]
 }

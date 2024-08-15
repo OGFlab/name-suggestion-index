@@ -45,6 +45,17 @@
         "name": "Ross Medicines",
         "name:en": "Ross Medicines"
       }
+    },
+    {
+      "displayName": "ThirdRepublic Pharmacy",
+      "id": "thirdrepublic-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "ThirdRepublic Pharmacy",
+        "healthcare": "pharmacy",
+        "name": "ThirdRepublic Pharmacy"
+      }
     }
   ]
 }

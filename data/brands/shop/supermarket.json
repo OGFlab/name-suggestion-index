@@ -133,6 +133,17 @@
         "name": "Yado Supermarket",
         "shop": "supermarket"
       }
+    },
+     {
+      "displayName": "TriKL Market",
+      "id": "trikl-market",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Triple Company",
+        "name": "TriKL",
+        "shop": "supermarket",
+        "opening_hours": "10:00-21:00"
+      }
     }
   ]
 }
