@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240407">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240815">
   <group name="Name Suggestion Index">
     <group name="brands">
       <group name="amenity">
@@ -13,6 +13,23 @@
             <key key="amenity" value="bank"/>
             <key key="brand" value="山河银行"/>
             <key key="name" value="山河银行"/>
+          </item>
+          <item name="Sneaky Bank" type="node,closedway,multipolygon">
+            <key key="amenity" value="bank"/>
+            <key key="brand" value="Sneaky Bank"/>
+            <key key="name" value="Sneaky Bank"/>
+          </item>
+          <item name="MollyBank" type="node,closedway,multipolygon">
+            <key key="amenity" value="bank"/>
+            <key key="brand" value="MollyBank"/>
+            <key key="name" value="MollyBank"/>
+            <key key="opening_hours" value="10:00-22:00"/>
+          </item>
+          <item name="Quick Cashers" type="node,closedway,multipolygon">
+            <key key="amenity" value="bank"/>
+            <key key="brand" value="Quick Cashers"/>
+            <key key="name" value="Quick Cashers"/>
+            <key key="opening_hours" value="10:00-22:00"/>
           </item>
         </group>
         <group name="cafe">
@@ -36,6 +53,13 @@
             <key key="cuisine" value="bubble_tea"/>
             <key key="name" value="这↑里↓奶茶"/>
             <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Maravillas Coffee" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="Maravillas Ltd"/>
+            <key key="name" value="Maravillas Coffee"/>
+            <key key="takeaway" value="yes"/>
+            <key key="opening_hours" value="10:00-15:00;16:00-23:30"/>
           </item>
         </group>
         <group name="cinema">
@@ -65,6 +89,46 @@
             <key key="name" value="Screeners"/>
           </item>
         </group>
+        <group name="fast_food">
+          <item name="Crunchy Bite" type="node,closedway,multipolygon">
+            <key key="brand" value="Tropical Affairs LLC"/>
+            <key key="name" value="Crunchy Bite"/>
+            <key key="amenity" value="fast_food"/>
+          </item>
+          <item name="Trunk Road" type="node,closedway,multipolygon">
+            <key key="brand" value="Tropical Affairs LLC"/>
+            <key key="name" value="Trunk Road"/>
+            <key key="amenity" value="fast_food"/>
+            <key key="cuisine" value="sandwich"/>
+          </item>
+          <item name="The Alt Sandwich" type="node,closedway,multipolygon">
+            <key key="brand" value="Tropical Affairs LLC"/>
+            <key key="name" value="The Alt Sandwich"/>
+            <key key="amenity" value="fast_food"/>
+            <key key="cuisine" value="sandwich"/>
+          </item>
+        </group>
+        <group name="internet_cafe">
+          <item name="MatrixTime" type="node,closedway,multipolygon">
+            <key key="amenity" value="internet_cafe"/>
+            <key key="brand" value="MatrixGuys"/>
+            <key key="name" value="MatrixTime"/>
+            <key key="takeaway" value="no"/>
+          </item>
+          <item name="Drink &amp; Connect" type="node,closedway,multipolygon">
+            <key key="amenity" value="internet_cafe"/>
+            <key key="brand" value="Drink &amp; Connect"/>
+            <key key="name" value="Drink &amp; Connect"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="LTE &amp; A Coffee" type="node,closedway,multipolygon">
+            <key key="amenity" value="internet_cafe"/>
+            <key key="brand" value="LTE Connectors"/>
+            <key key="name" value="LTE &amp; A Coffee"/>
+            <key key="opening_hours" value="08:00-22:00"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+        </group>
         <group name="pharmacy">
           <item name="Ōdasamo Takeri 大山清" type="node,closedway,multipolygon">
             <key key="amenity" value="pharmacy"/>
@@ -87,6 +151,12 @@
             <key key="healthcare" value="pharmacy"/>
             <key key="name" value="Ross Medicines"/>
             <key key="name:en" value="Ross Medicines"/>
+          </item>
+          <item name="ThirdRepublic Pharmacy" type="node,closedway,multipolygon">
+            <key key="amenity" value="pharmacy"/>
+            <key key="brand" value="ThirdRepublic Pharmacy"/>
+            <key key="healthcare" value="pharmacy"/>
+            <key key="name" value="ThirdRepublic Pharmacy"/>
           </item>
         </group>
         <group name="post_office">
@@ -183,6 +253,22 @@
             <key key="cuisine" value="Chinese"/>
             <key key="cuisine_hx" value="Malatang"/>
             <key key="name" value="陈白麻辣烫"/>
+          </item>
+        </group>
+      </group>
+      <group name="leisure">
+        <group name="fitness_centre">
+          <item name="ThickGym" type="node,closedway,multipolygon">
+            <key key="leisure" value="fitness_centre"/>
+            <key key="brand" value="ThickGym"/>
+            <key key="name" value="ThickGym"/>
+            <key key="opening_hours" value="06:00-23:00"/>
+          </item>
+          <item name="Wellbeing Gym" type="node,closedway,multipolygon">
+            <key key="leisure" value="fitness_centre"/>
+            <key key="brand" value="Wellbeing Gym"/>
+            <key key="name" value="Wellbeing Gym"/>
+            <key key="opening_hours" value="07:00-00:00"/>
           </item>
         </group>
       </group>
@@ -355,6 +441,12 @@
             <key key="brand" value="Yado's Supermarkets"/>
             <key key="name" value="Yado Supermarket"/>
             <key key="shop" value="supermarket"/>
+          </item>
+          <item name="TriKL Market" type="node,closedway,multipolygon">
+            <key key="brand" value="Triple Company"/>
+            <key key="name" value="TriKL"/>
+            <key key="shop" value="supermarket"/>
+            <key key="opening_hours" value="10:00-21:00"/>
           </item>
         </group>
       </group>

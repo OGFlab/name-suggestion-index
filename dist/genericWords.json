@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20240407",
-    "generated": "2024-04-07T13:11:23.826Z",
+    "version": "1.0.20240815",
+    "generated": "2024-08-15T15:27:14.863Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/genericWords.json",
-    "hash": "3625cfe7c7e3422a288cb50c36d62b3c"
+    "hash": "868216d9ed8003707d139492b8a3ce33"
   },
   "genericWords": [
     "^(barn|bazaa?r|bench|bou?tique|building|casa|church)$",
