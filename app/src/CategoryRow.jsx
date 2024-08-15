@@ -55,15 +55,12 @@ out center;
 node,
 way,
 relation
-{ color:red; fill-color:red; }
 node[${k}=${v}],
 way[${k}=${v}],
 relation[${k}=${v}]
-{ color:yellow; fill-color:yellow; }
 node[${k}=${v}][brand=${bn}][brand:wikidata=${qid}],
 way[${k}=${v}][brand=${bn}][brand:wikidata=${qid}],
 relation[${k}=${v}][brand=${bn}][brand:wikidata=${qid}]
-{ color:green; fill-color:green; }
 }}`;
 
   } else if (t === 'flags') {
