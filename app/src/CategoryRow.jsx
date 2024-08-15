@@ -184,12 +184,6 @@ relation[${k}=${v}][network:wikidata=${qid}]
         <div className='locations'>{ locoDisplay(item.locationSet, n) }</div>
         <div className='viewlink'>
           { searchOverpassLink(n, overpassQuery) }<br/>
-          { searchGoogleLink(n) }<br/>
-          <strong>Search:&nbsp;</strong>
-          { searchWikipediaLink(n) }
-          &nbsp;/&nbsp;
-          { searchWikidataLink(n) }
-        </div>
       </td>
       <td className='tags'><pre className='tags' dangerouslySetInnerHTML={ highlight(filters.tt, displayTags(tags)) } /></td>
       <td className='wikidata'>
@@ -229,30 +223,9 @@ relation[${k}=${v}][network:wikidata=${qid}]
   }
 
 
-  function searchGoogleLink(name) {
-    const q = encodeURIComponent(name);
-    const href = `https://google.com/search?q=${q}`;
-    const title = `Search Google for ${name}`;
-    return (<a target='_blank' href={href} title={title}>Search Google</a>);
-  }
-
-  function searchWikipediaLink(name) {
-    const q = encodeURIComponent(name);
-    const href = `https://google.com/search?q=${q}+site%3Awikipedia.org`;
-    const title = `Search Wikipedia for ${name}`;
-    return (<a target='_blank' href={href} title={title}>Wikipedia</a>);
-  }
-
-  function searchWikidataLink(name) {
-    const q = encodeURIComponent(name);
-    const href = `https://www.wikidata.org/?search=${q}`;
-    const title = `Search Wikidata for ${name}`;
-    return (<a target='_blank' href={href} title={title}>Wikidata</a>);
-  }
-
   function searchOverpassLink(name, overpassQuery) {
     const q = encodeURIComponent(overpassQuery);
-    const href = `https://overpass-turbo.eu/?Q=${q}&R`;
+    const href = `https://turbo.ogf.rent-a-planet.com/?Q=${q}&R`;
     const title = `Search Overpass Turbo for ${n}`;
     return (<a target='_blank' href={href} title={title}>Search Overpass Turbo</a>);
   }
