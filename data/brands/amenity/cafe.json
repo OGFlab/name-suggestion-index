@@ -29,27 +29,29 @@
       }
     },
     {
-      "displayName": "这↑里↓奶茶",
-      "id": "963d94-e1ef51",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "amenity": "cafe",
-        "brand": "这↑里↓奶茶",
-        "cuisine": "bubble_tea",
-        "name": "这↑里↓奶茶",
-        "takeaway": "yes"
-      }
-    },
-    {
       "displayName": "Maravillas Coffee",
       "id": "maravillascoffee-e1ef51",
       "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "cafe",
         "brand": "Maravillas Ltd",
+        "cuisine": "coffee_shop",
         "name": "Maravillas Coffee",
-        "takeaway": "yes",
-        "opening_hours": "10:00-15:00;16:00-23:30"
+        "opening_hours": "10:00-15:00;16:00-23:30",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "The Corner Coffee",
+      "id": "thecornercoffee-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "The Corner Coffee",
+        "cuisine": "coffee_shop",
+        "name": "The Corner Coffee",
+        "opening_hours": "06:00-23:00",
+        "takeaway": "yes"
       }
     },
     {
@@ -59,21 +61,22 @@
       "tags": {
         "amenity": "cafe",
         "brand": "Universe Coffee",
+        "cuisine": "coffee_shop",
         "name": "Universe Coffee",
-        "takeaway": "yes",
-        "opening_hours": "10:00-15:00;16:00-23:30"
+        "opening_hours": "10:00-15:00;16:00-23:30",
+        "takeaway": "yes"
       }
     },
     {
-      "displayName": "The Corner Coffee",
-      "id": "cornercoffee-e1ef51",
+      "displayName": "这↑里↓奶茶",
+      "id": "963d94-e1ef51",
       "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "cafe",
-        "brand": "The Corner Coffee",
-        "name": "The Corner Coffee",
-        "takeaway": "yes",
-        "opening_hours": "06:00-23:00"
+        "brand": "这↑里↓奶茶",
+        "cuisine": "bubble_tea",
+        "name": "这↑里↓奶茶",
+        "takeaway": "yes"
       }
     }
   ]

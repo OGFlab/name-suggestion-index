@@ -1,28 +1,28 @@
 {
-    "properties": {
-      "path": "brands/amenity/tobacco",
-      "exclude": {"generic": [], "named": []}
-    },
-    "items": [
-      {
-        "displayName": "High Smokers",
-        "id": "highsmokers",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "High Smokers",
-          "name": "High Smokers",
-          "amenity": "tobacco"
-        }
-      },
-      {
-        "displayName": "Redwood Magic",
-        "id": "rwmagic",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "Redwood Magic",
-          "name": "Redwood Magic",
-          "amenity": "tobacco"
-        }
+  "properties": {
+    "path": "brands/amenity/tobacco",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "High Smokers",
+      "id": "highsmokers-55be3d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "tobacco",
+        "brand": "High Smokers",
+        "name": "High Smokers"
       }
-    ]
+    },
+    {
+      "displayName": "Redwood Magic",
+      "id": "redwoodmagic-55be3d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "tobacco",
+        "brand": "Redwood Magic",
+        "name": "Redwood Magic"
+      }
+    }
+  ]
 }

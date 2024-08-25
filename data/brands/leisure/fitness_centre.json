@@ -6,22 +6,22 @@
   "items": [
     {
       "displayName": "ThickGym",
-      "id": "thickgym",
+      "id": "thickgym-c8777b",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "leisure": "fitness_centre",
         "brand": "ThickGym",
+        "leisure": "fitness_centre",
         "name": "ThickGym",
         "opening_hours": "06:00-23:00"
       }
     },
     {
       "displayName": "Wellbeing Gym",
-      "id": "wellbeinggym",
+      "id": "wellbeinggym-c8777b",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "leisure": "fitness_centre",
         "brand": "Wellbeing Gym",
+        "leisure": "fitness_centre",
         "name": "Wellbeing Gym",
         "opening_hours": "07:00-00:00"
       }

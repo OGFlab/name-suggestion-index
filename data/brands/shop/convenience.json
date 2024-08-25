@@ -46,12 +46,32 @@
       }
     },
     {
+      "displayName": "Essential Shopping",
+      "id": "essentialshopping-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Essential Shopping",
+        "name": "Essential Shopping",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "F-stór",
       "id": "fstor-4d6b4b",
       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "F-stór",
         "name": "F-stór",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Fresh Drinks",
+      "id": "freshdrinks-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Fresh Drinks",
+        "name": "Fresh Drinks",
         "shop": "convenience"
       }
     },
@@ -86,12 +106,32 @@
       }
     },
     {
+      "displayName": "Madrazo Express",
+      "id": "madrazoexpress-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Madrazo Express",
+        "name": "Madrazo Express",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "Mi Bodeguita",
       "id": "mibodeguita-4d6b4b",
       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Mi Bodeguita",
         "name": "Mi Bodeguita",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Mineral Drinks",
+      "id": "mineraldrinks-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mineral Drinks",
+        "name": "Mineral Drinks",
         "shop": "convenience"
       }
     },
@@ -152,46 +192,6 @@
       "tags": {
         "brand": "Zippy Mart",
         "name": "Zippy Mart",
-        "shop": "convenience"
-      }
-    },
-    {
-      "displayName": "Mineral Drinks",
-      "id": "mineraldrinks-4d6b4b",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Mineral Drinks",
-        "name": "Mineral Drinks",
-        "shop": "convenience"
-      }
-    },
-    {
-      "displayName": "Fresh Drinks",
-      "id": "freshdrinks-4d6b4b",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Fresh Drinks",
-        "name": "Fresh Drinks",
-        "shop": "convenience"
-      }
-    },
-    {
-      "displayName": "Madrazo Express",
-      "id": "mdrzexpress-4d6b4b",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Madrazo Express",
-        "name": "Madrazo Express",
-        "shop": "convenience"
-      }
-    },
-    {
-      "displayName": "Essential Shopping",
-      "id": "essentialsh-4d6b4b",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Essential Shopping",
-        "name": "Essential Shopping",
         "shop": "convenience"
       }
     }

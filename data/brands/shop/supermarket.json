@@ -5,6 +5,16 @@
   },
   "items": [
     {
+      "displayName": "Constellations Shopping",
+      "id": "constellationsshopping-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Constellations Shopping",
+        "name": "Constellations Shopping",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Coop",
       "id": "coop-986a24",
       "locationSet": {"include": ["001"]},
@@ -41,6 +51,26 @@
       "tags": {
         "brand": "Gigante",
         "name": "Gigante",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Hiper Madrazo",
+      "id": "hipermadrazo-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hiper Madrazo",
+        "name": "Hiper Madrazo",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Hollow Market",
+      "id": "hollowmarket-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hollow Market",
+        "name": "Hollow Market",
         "shop": "supermarket"
       }
     },
@@ -105,6 +135,27 @@
       }
     },
     {
+      "displayName": "TriKL Market",
+      "id": "trikl-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Triple Company",
+        "name": "TriKL",
+        "opening_hours": "10:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Tutto Bene Market",
+      "id": "tuttobenemarket-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tutto Bene Market",
+        "name": "Tutto Bene Market",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Valuigi",
       "id": "valuigi-986a24",
       "locationSet": {"include": ["001"]},
@@ -133,57 +184,6 @@
         "name": "Yado Supermarket",
         "shop": "supermarket"
       }
-    },
-    {
-      "displayName": "TriKL Market",
-      "id": "trikl-market",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Triple Company",
-        "name": "TriKL",
-        "shop": "supermarket",
-        "opening_hours": "10:00-21:00"
-      }
-    },
-    {
-      "displayName": "Tutto Bene Market",
-      "id": "tuttobenemarket",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Tutto Bene Market",
-        "name": "Tutto Bene Market",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "displayName": "Hollow Market",
-      "id": "hollowmarket",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Hollow Market",
-        "name": "Hollow Market",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "displayName": "Constellations Shopping",
-      "id": "constellationsmarket",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Constellations Shopping",
-        "name": "Constellations Shopping",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "displayName": "Hiper Madrazo",
-      "id": "hipermdrzshopping",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Hiper Madrazo",
-        "name": "Hiper Madrazo",
-        "shop": "supermarket"
-      }
-    }    
+    }
   ]
 }

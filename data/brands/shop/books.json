@@ -1,31 +1,30 @@
 {
-    "properties": {
-      "path": "brands/shop/books",
-      "exclude": {"generic": [], "named": []}
-    },
-    "items": [
-      {
-        "displayName": "The Book's Home",
-        "id": "thebookshome",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "The Book's Home",
-          "name": "The Book's Home",
-          "shop": "books",
-          "opening_hours": "10:00-21:00"
-        }
-      },
-      {
-        "displayName": "Outstanding Sheets",
-        "id": "laundryexp",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "Outstanding Sheets",
-          "name": "Outstanding Sheets",
-          "shop": "books",
-          "opening_hours": "07:00-18:00"
-        }
+  "properties": {
+    "path": "brands/shop/books",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Outstanding Sheets",
+      "id": "outstandingsheets-ef41f6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Outstanding Sheets",
+        "name": "Outstanding Sheets",
+        "opening_hours": "07:00-18:00",
+        "shop": "books"
       }
-    ]
-  }
-  
+    },
+    {
+      "displayName": "The Book's Home",
+      "id": "thebookshome-ef41f6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Book's Home",
+        "name": "The Book's Home",
+        "opening_hours": "10:00-21:00",
+        "shop": "books"
+      }
+    }
+  ]
+}

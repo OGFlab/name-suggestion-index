@@ -26,13 +26,13 @@
     },
     {
       "displayName": "Terminal Pastry",
-      "id": "tminalpastry-4f1341",
+      "id": "terminalpastry-4f1341",
       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Terminal Pastry",
         "name": "Terminal Pastry",
-        "shop": "pastry",
-        "opening_hours": "06:20-14:00;17:00-20:00"
+        "opening_hours": "06:20-14:00;17:00-20:00",
+        "shop": "pastry"
       }
     }
   ]

@@ -6,45 +6,49 @@
   "items": [
     {
       "displayName": "Crunchy Bite",
-      "id": "crunchybite",
+      "id": "crunchybite-658eea",
       "locationSet": {"include": ["001"]},
       "tags": {
+        "amenity": "fast_food",
         "brand": "Crunchy Bite",
         "name": "Crunchy Bite",
-        "amenity": "fast_food"
-      }
-    },
-    {
-      "displayName": "Trunk Road",
-      "id": "trunkroad",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Trunk Road",
-        "name": "Trunk Road",
-        "amenity": "fast_food",
-        "cuisine": "sandwich"
+        "takeaway": "yes"
       }
     },
     {
       "displayName": "The Alt Sandwich",
-      "id": "thealtsandwich",
+      "id": "thealtsandwich-658eea",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "brand": "The Alt Sandwich",
-        "name": "The Alt Sandwich",
         "amenity": "fast_food",
-        "cuisine": "sandwich"
+        "brand": "The Alt Sandwich",
+        "cuisine": "sandwich",
+        "name": "The Alt Sandwich",
+        "takeaway": "yes"
       }
     },
     {
       "displayName": "The Delivery Pizza",
-      "id": "deliverypizza",
+      "id": "thedeliverypizza-658eea",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "brand": "The Delivery Pizza",
-        "name": " The Delivery Pizza",
         "amenity": "fast_food",
-        "cuisine": "pizza"
+        "brand": "The Delivery Pizza",
+        "cuisine": "pizza",
+        "name": "The Delivery Pizza",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Trunk Road",
+      "id": "trunkroad-658eea",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Trunk Road",
+        "cuisine": "sandwich",
+        "name": "Trunk Road",
+        "takeaway": "yes"
       }
     }
   ]

@@ -1,49 +1,48 @@
 {
-    "properties": {
-      "path": "brands/shop/copyshop",
-      "exclude": {"generic": [], "named": []}
-    },
-    "items": [
-      {
-        "displayName": "Ctrl + V",
-        "id": "controlv",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "Ctrl + V",
-          "name": "Ctrl + V",
-          "shop": "copyshop"
-        }
-      },
-      {
-        "displayName": "Dot Print",
-        "id": "dotprint",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "Dot Print",
-          "name": "Dot Print",
-          "shop": "copyshop"
-        }
-      },
-      {
-        "displayName": "Central Copy",
-        "id": "centralcopy",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "Central Copy",
-          "name": "Central Copy",
-          "shop": "copyshop"
-        }
-      },
-      {
-        "displayName": "CopyTime",
-        "id": "copytime",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "CopyTime",
-          "name": "CopyTime",
-          "shop": "copyshop"
-        }
+  "properties": {
+    "path": "brands/shop/copyshop",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Central Copy",
+      "id": "centralcopy-f71638",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Central Copy",
+        "name": "Central Copy",
+        "shop": "copyshop"
       }
-    ]
-  }
-  
+    },
+    {
+      "displayName": "CopyTime",
+      "id": "copytime-f71638",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "CopyTime",
+        "name": "CopyTime",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Ctrl + V",
+      "id": "ctrlv-f71638",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ctrl + V",
+        "name": "Ctrl + V",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "displayName": "Dot Print",
+      "id": "dotprint-f71638",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Dot Print",
+        "name": "Dot Print",
+        "shop": "copyshop"
+      }
+    }
+  ]
+}

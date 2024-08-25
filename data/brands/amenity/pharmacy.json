@@ -47,25 +47,25 @@
       }
     },
     {
-      "displayName": "ThirdRepublic Pharmacy",
-      "id": "thirdrepublic-f5140f",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "amenity": "pharmacy",
-        "brand": "ThirdRepublic Pharmacy",
-        "healthcare": "pharmacy",
-        "name": "ThirdRepublic Pharmacy"
-      }
-    },
-    {
       "displayName": "SecondRepublic Pharmacy",
-      "id": "secondrepublic-f5140f",
+      "id": "secondrepublicpharmacy-f5140f",
       "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "pharmacy",
         "brand": "SecondRepublic Pharmacy",
         "healthcare": "pharmacy",
         "name": "SecondRepublic Pharmacy"
+      }
+    },
+    {
+      "displayName": "ThirdRepublic Pharmacy",
+      "id": "thirdrepublicpharmacy-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "ThirdRepublic Pharmacy",
+        "healthcare": "pharmacy",
+        "name": "ThirdRepublic Pharmacy"
       }
     }
   ]
