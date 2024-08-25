@@ -1,0 +1,28 @@
+{
+    "properties": {
+      "path": "brands/amenity/tobacco",
+      "exclude": {"generic": [], "named": []}
+    },
+    "items": [
+      {
+        "displayName": "High Smokers",
+        "id": "highsmokers",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "High Smokers",
+          "name": "High Smokers",
+          "amenity": "tobacco"
+        }
+      },
+      {
+        "displayName": "Redwood Magic",
+        "id": "rwmagic",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "Redwood Magic",
+          "name": "Redwood Magic",
+          "amenity": "tobacco"
+        }
+      }
+    ]
+}

@@ -51,6 +51,30 @@
         "takeaway": "yes",
         "opening_hours": "10:00-15:00;16:00-23:30"
       }
+    },
+    {
+      "displayName": "Universe Coffee",
+      "id": "universecoffee-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Universe Coffee",
+        "name": "Universe Coffee",
+        "takeaway": "yes",
+        "opening_hours": "10:00-15:00;16:00-23:30"
+      }
+    },
+    {
+      "displayName": "The Corner Coffee",
+      "id": "cornercoffee-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "The Corner Coffee",
+        "name": "The Corner Coffee",
+        "takeaway": "yes",
+        "opening_hours": "06:00-23:00"
+      }
     }
   ]
 }

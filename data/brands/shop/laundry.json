@@ -1,0 +1,29 @@
+{
+    "properties": {
+      "path": "brands/shop/laundry",
+      "exclude": {"generic": [], "named": []}
+    },
+    "items": [
+      {
+        "displayName": "Dry RaBBAu",
+        "id": "dryrabbau",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "Dry RaBBAu",
+          "name": "Dry RaBBAu",
+          "shop": "laundry"
+        }
+      },
+      {
+        "displayName": "Laundry Express",
+        "id": "laundryexp",
+        "locationSet": {"include": ["001"]},
+        "tags": {
+          "brand": "Laundry Express",
+          "name": "Laundry Express",
+          "shop": "laundry"
+        }
+      }
+    ]
+  }
+  

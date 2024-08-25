@@ -156,12 +156,42 @@
       }
     },
     {
-      "displayName": "冚家便利",
-      "id": "ca13ea-4d6b4b",
+      "displayName": "Mineral Drinks",
+      "id": "mineraldrinks-4d6b4b",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "brand": "冚家便利",
-        "name": "冚家便利",
+        "brand": "Mineral Drinks",
+        "name": "Mineral Drinks",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Fresh Drinks",
+      "id": "freshdrinks-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Fresh Drinks",
+        "name": "Fresh Drinks",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Madrazo Express",
+      "id": "mdrzexpress-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Madrazo Express",
+        "name": "Madrazo Express",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Essential Shopping",
+      "id": "essentialsh-4d6b4b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Essential Shopping",
+        "name": "Essential Shopping",
         "shop": "convenience"
       }
     }

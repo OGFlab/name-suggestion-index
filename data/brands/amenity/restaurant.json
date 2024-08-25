@@ -237,6 +237,37 @@
         "cuisine_hx": "Malatang",
         "name": "陈白麻辣烫"
       }
+    },
+    {
+      "displayName": "La Bella Pasta",
+      "id": "labellapasta",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "La Bella Pastaa",
+        "name": "La Bella Pasta",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "displayName": "Chess' Pizza",
+      "id": "chesspizza",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Chess' Pizza",
+        "name": " Chess' Pizza",
+        "amenity": "restaurant",
+        "cuisine": "pizza"
+      }
+    },
+    {
+      "displayName": "Tonight's The Night",
+      "id": "tonightrestaurant",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tonight's The Night",
+        "name": " Tonight's The Night",
+        "amenity": "restaurant"
+      }
     }
   ]
 }

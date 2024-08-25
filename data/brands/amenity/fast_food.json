@@ -9,7 +9,7 @@
       "id": "crunchybite",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "brand": "Tropical Affairs LLC",
+        "brand": "Crunchy Bite",
         "name": "Crunchy Bite",
         "amenity": "fast_food"
       }
@@ -19,7 +19,7 @@
       "id": "trunkroad",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "brand": "Tropical Affairs LLC",
+        "brand": "Trunk Road",
         "name": "Trunk Road",
         "amenity": "fast_food",
         "cuisine": "sandwich"
@@ -30,10 +30,21 @@
       "id": "thealtsandwich",
       "locationSet": {"include": ["001"]},
       "tags": {
-        "brand": "Tropical Affairs LLC",
+        "brand": "The Alt Sandwich",
         "name": "The Alt Sandwich",
         "amenity": "fast_food",
         "cuisine": "sandwich"
+      }
+    },
+    {
+      "displayName": "The Delivery Pizza",
+      "id": "deliverypizza",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Delivery Pizza",
+        "name": " The Delivery Pizza",
+        "amenity": "fast_food",
+        "cuisine": "pizza"
       }
     }
   ]
