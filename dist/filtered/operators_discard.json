@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20240815",
-    "generated": "2024-08-15T15:27:14.889Z",
+    "version": "1.0.20240825",
+    "generated": "2024-08-25T11:41:59.459Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/filtered/operators_discard.json",
-    "hash": "71ba99480d40d3aa939e4cd05093ac44",
+    "hash": "d53523a16fc4c23eed5fd68761acb698",
     "collectionDate": "20240112"
   },
   "discard": {

@@ -1,19 +1,19 @@
 {
   "_meta": {
-    "version": "1.0.20240815",
-    "generated": "2024-08-15T15:27:14.897Z",
+    "version": "1.0.20240825",
+    "generated": "2024-08-25T11:41:59.467Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "d2a2c586a690b3c9b6432081fc8ed559"
+    "hash": "32bd7307df0aa1a0f2c140a8da2f9057"
   },
   "nsi": {
     "brands/amenity/bank": {
       "properties": {"path": "brands/amenity/bank", "exclude": {"generic": [], "named": []}},
       "items": [
         {"displayName": "Bank of Kofuku", "id": "bankofkofuku-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Bank of Kofuku", "name": "Bank of Kofuku"}},
-        {"displayName": "山河银行", "id": "7c59fb-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "山河银行", "name": "山河银行"}},
-        {"displayName": "Sneaky Bank", "id": "sneakybank-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Sneaky Bank", "name": "Sneaky Bank"}},
         {"displayName": "MollyBank", "id": "mollybank-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "MollyBank", "name": "MollyBank", "opening_hours": "10:00-22:00"}},
-        {"displayName": "Quick Cashers", "id": "quickcashers-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Quick Cashers", "name": "Quick Cashers", "opening_hours": "10:00-22:00"}}
+        {"displayName": "Quick Cashers", "id": "quickcashers-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Quick Cashers", "name": "Quick Cashers", "opening_hours": "10:00-22:00"}},
+        {"displayName": "Sneaky Bank", "id": "sneakybank-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Sneaky Bank", "name": "Sneaky Bank"}},
+        {"displayName": "山河银行", "id": "7c59fb-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "山河银行", "name": "山河银行"}}
       ],
       "templates": []
     },
@@ -22,8 +22,10 @@
       "items": [
         {"displayName": "Chacafé", "id": "chacafe-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Chacafé", "cuisine": "coffee_shop", "name": "Chacafé", "takeaway": "yes"}},
         {"displayName": "Kasanova", "id": "kasanova-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Kasanova", "cuisine": "coffee_shop", "name": "Kasanova", "takeaway": "yes"}},
-        {"displayName": "这↑里↓奶茶", "id": "963d94-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "这↑里↓奶茶", "cuisine": "bubble_tea", "name": "这↑里↓奶茶", "takeaway": "yes"}},
-        {"displayName": "Maravillas Coffee", "id": "maravillascoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Maravillas Ltd", "name": "Maravillas Coffee", "takeaway": "yes", "opening_hours": "10:00-15:00;16:00-23:30"}}
+        {"displayName": "Maravillas Coffee", "id": "maravillascoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Maravillas Ltd", "cuisine": "coffee_shop", "name": "Maravillas Coffee", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
+        {"displayName": "The Corner Coffee", "id": "thecornercoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "The Corner Coffee", "cuisine": "coffee_shop", "name": "The Corner Coffee", "opening_hours": "06:00-23:00", "takeaway": "yes"}},
+        {"displayName": "Universe Coffee", "id": "universecoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Universe Coffee", "cuisine": "coffee_shop", "name": "Universe Coffee", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
+        {"displayName": "这↑里↓奶茶", "id": "963d94-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "这↑里↓奶茶", "cuisine": "bubble_tea", "name": "这↑里↓奶茶", "takeaway": "yes"}}
       ],
       "templates": []
     },
@@ -38,10 +40,19 @@
       ],
       "templates": []
     },
-    "brands/amenity/fast_food": {"properties": {"path": "brands/amenity/fast_food", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Crunchy Bite", "id": "crunchybite-658eea", "locationSet": {"include": ["001"]}, "tags": {"brand": "Tropical Affairs LLC", "name": "Crunchy Bite", "amenity": "fast_food"}}, {"displayName": "Trunk Road", "id": "trunkroad-658eea", "locationSet": {"include": ["001"]}, "tags": {"brand": "Tropical Affairs LLC", "name": "Trunk Road", "amenity": "fast_food", "cuisine": "sandwich"}}, {"displayName": "The Alt Sandwich", "id": "thealtsandwich-658eea", "locationSet": {"include": ["001"]}, "tags": {"brand": "Tropical Affairs LLC", "name": "The Alt Sandwich", "amenity": "fast_food", "cuisine": "sandwich"}}], "templates": []},
+    "brands/amenity/fast_food": {
+      "properties": {"path": "brands/amenity/fast_food", "exclude": {"generic": [], "named": []}},
+      "items": [
+        {"displayName": "Crunchy Bite", "id": "crunchybite-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Crunchy Bite", "name": "Crunchy Bite", "takeaway": "yes"}},
+        {"displayName": "The Alt Sandwich", "id": "thealtsandwich-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "The Alt Sandwich", "cuisine": "sandwich", "name": "The Alt Sandwich", "takeaway": "yes"}},
+        {"displayName": "The Delivery Pizza", "id": "thedeliverypizza-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "The Delivery Pizza", "cuisine": "pizza", "name": "The Delivery Pizza", "takeaway": "yes"}},
+        {"displayName": "Trunk Road", "id": "trunkroad-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Trunk Road", "cuisine": "sandwich", "name": "Trunk Road", "takeaway": "yes"}}
+      ],
+      "templates": []
+    },
     "brands/amenity/internet_cafe": {
       "properties": {"path": "brands/amenity/internet_cafe", "exclude": {"generic": [], "named": []}},
-      "items": [{"displayName": "MatrixTime", "id": "matrixtime-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "MatrixGuys", "name": "MatrixTime", "takeaway": "no"}}, {"displayName": "Drink & Connect", "id": "drinkandconnect-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "Drink & Connect", "name": "Drink & Connect", "takeaway": "yes"}}, {"displayName": "LTE & A Coffee", "id": "lteandacoffee-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "LTE Connectors", "name": "LTE & A Coffee", "opening_hours": "08:00-22:00", "takeaway": "yes"}}],
+      "items": [{"displayName": "Drink & Connect", "id": "drinkandconnect-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "Drink & Connect", "name": "Drink & Connect", "takeaway": "yes"}}, {"displayName": "LTE & A Coffee", "id": "lteandacoffee-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "LTE & A Coffee", "name": "LTE & A Coffee", "opening_hours": "08:00-22:00", "takeaway": "yes"}}, {"displayName": "MatrixTime", "id": "matrixtime-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "MatrixGuys", "name": "MatrixTime", "takeaway": "no"}}],
       "templates": []
     },
     "brands/amenity/pharmacy": {
@@ -50,6 +61,7 @@
         {"countryRestrictions": {"no": [], "ask": [], "allowed": ["*"]}, "displayName": "Ōdasamo Takeri 大山清", "id": "odasamotakeri-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "Ōdasamo Takeri", "healthcare": "pharmacy", "name": "Ōdasamo Takeri", "name:en": "Ōdasamo Takeri", "name:izaki": "大山清"}},
         {"displayName": "Pills & Syrups", "id": "pillsandsyrups-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "Pills & Syrups", "healthcare": "pharmacy", "name": "Pills & Syrups", "name:en": "Pills & Syrups"}},
         {"displayName": "Ross Medicines", "id": "rossmedicines-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "Ross Medicines", "healthcare": "pharmacy", "name": "Ross Medicines", "name:en": "Ross Medicines"}},
+        {"displayName": "SecondRepublic Pharmacy", "id": "secondrepublicpharmacy-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "SecondRepublic Pharmacy", "healthcare": "pharmacy", "name": "SecondRepublic Pharmacy"}},
         {"displayName": "ThirdRepublic Pharmacy", "id": "thirdrepublicpharmacy-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "ThirdRepublic Pharmacy", "healthcare": "pharmacy", "name": "ThirdRepublic Pharmacy"}}
       ],
       "templates": []
@@ -60,22 +72,27 @@
       "items": [
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Ang Igado ni Maria", "id": "angigadonimaria-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"alt_name:en": "Maria's Igado", "amenity": "restaurant", "brand": "Ang Igado ni Maria", "cuisine": "filipino", "name": "Ang Igado ni Maria"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Cheat Day Meals", "id": "cheatdaymeals-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Cheat Day Meals", "name": "Cheat Day Meals"}},
+        {"displayName": "Chess' Pizza", "id": "chesspizza-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Chess' Pizza", "cuisine": "pizza", "name": "Chess' Pizza"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Cookin' Pizza", "id": "cookinpizza-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Cookin' Pizza", "cuisine": "pizza", "name": "Cookin' Pizza"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Cowboy FSA-Style Grill", "id": "cowboyfsastylegrill-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Cowboy FSA-Style Grill", "cuisine": "american;steak_house;archantan", "name": "Cowboy FSA-Style Grill"}},
+        {"displayName": "La Bella Pasta", "id": "labellapasta-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "La Bella Pastaa", "name": "La Bella Pasta"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Lechon ni Lina", "id": "lechonnilina-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Lechon ni Lina", "cuisine": "filipino", "name": "Lechon ni Lina"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Lovely Litson", "id": "lovelylitson-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Lovely Litson", "cuisine": "filipino", "name": "Lovely Litson"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Milkfish Expert", "id": "milkfishexpert-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Milkfish Expert", "cuisine": "fish", "name": "Milkfish Expert"}},
         {"countryRestrictions": {"allowed": ["*"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Nalani's", "id": "nalanis-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Nalani's", "cuisine": "asian", "name": "Nalani's"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Original Lutang Meals", "id": "originallutangmeals-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Original Lutang Meals", "cuisine": "filipino", "name": "Original Lutang Meals"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "P.C.N. Chicken", "id": "pcnchicken-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "P.C.N. Chicken", "cuisine": "chicken", "name": "P.C.N. Chicken"}},
+        {"displayName": "Tonight's The Night", "id": "tonightsthenight-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Tonight's The Night", "name": "Tonight's The Night"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Your Mom's Igado", "id": "yourmomsigado-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Your Mom's Igado", "cuisine": "filipino", "name": "Your Mom's Igado"}},
         {"countryRestrictions": {"allowed": ["Huaxia"], "ask": [], "no": []}, "creator": "NM$l", "displayName": "诶！珍地道老铜锅", "id": "ed854c-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Huaxia", "tags": {"amenity": "restaurant", "brand": "诶！珍地道老铜锅", "cuisine": "Chinese", "cuisine_hx": "Huoguo (Shangjing)", "name": "诶！珍地道"}},
         {"countryRestrictions": {"allowed": ["Huaxia"], "ask": [], "no": []}, "creator": "NM$l", "displayName": "陈白麻辣烫", "id": "ac6813-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Huaxia", "tags": {"amenity": "restaurant", "brand": "陈白麻辣烫", "cuisine": "Chinese", "cuisine_hx": "Malatang", "name": "陈白麻辣烫"}}
       ],
       "templates": []
     },
-    "brands/leisure/fitness_centre": {"properties": {"path": "brands/leisure/fitness_centre", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "ThickGym", "id": "thickgym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"leisure": "fitness_centre", "brand": "ThickGym", "name": "ThickGym", "opening_hours": "06:00-23:00"}}, {"displayName": "Wellbeing Gym", "id": "wellbeinggym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"leisure": "fitness_centre", "brand": "Wellbeing Gym", "name": "Wellbeing Gym", "opening_hours": "07:00-00:00"}}], "templates": []},
+    "brands/amenity/tobacco": {"properties": {"path": "brands/amenity/tobacco", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "High Smokers", "id": "highsmokers-55be3d", "locationSet": {"include": ["001"]}, "tags": {"amenity": "tobacco", "brand": "High Smokers", "name": "High Smokers"}}, {"displayName": "Redwood Magic", "id": "redwoodmagic-55be3d", "locationSet": {"include": ["001"]}, "tags": {"amenity": "tobacco", "brand": "Redwood Magic", "name": "Redwood Magic"}}], "templates": []},
+    "brands/leisure/fitness_centre": {"properties": {"path": "brands/leisure/fitness_centre", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "ThickGym", "id": "thickgym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"brand": "ThickGym", "leisure": "fitness_centre", "name": "ThickGym", "opening_hours": "06:00-23:00"}}, {"displayName": "Wellbeing Gym", "id": "wellbeinggym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Wellbeing Gym", "leisure": "fitness_centre", "name": "Wellbeing Gym", "opening_hours": "07:00-00:00"}}], "templates": []},
     "brands/office/insurance": {"properties": {"path": "brands/office/insurance", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "冚家人寿", "id": "b9a9a5-b9b33f", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家人寿", "name": "冚家人寿", "office": "insurance"}}], "templates": []},
+    "brands/shop/books": {"properties": {"path": "brands/shop/books", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Outstanding Sheets", "id": "outstandingsheets-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Outstanding Sheets", "name": "Outstanding Sheets", "opening_hours": "07:00-18:00", "shop": "books"}}, {"displayName": "The Book's Home", "id": "thebookshome-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Book's Home", "name": "The Book's Home", "opening_hours": "10:00-21:00", "shop": "books"}}], "templates": []},
     "brands/shop/convenience": {
       "properties": {"path": "brands/shop/convenience", "exclude": {"generic": [], "named": []}},
       "items": [
@@ -83,39 +100,52 @@
         {"displayName": "9-Eleven", "id": "9eleven-4d6b4b", "locationSet": {"include": ["001"]}, "matchNames": ["911", "九·一一", "九◼一"], "tags": {"brand": "9-Eleven", "name": "9-Eleven", "shop": "convenience"}},
         {"displayName": "AS News", "id": "asnews-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "AS News", "name": "AS News", "shop": "convenience"}},
         {"displayName": "Co-op Locul", "id": "cooplocul-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Co-op Locul", "name": "Co-op Locul", "shop": "convenience"}},
+        {"displayName": "Essential Shopping", "id": "essentialshopping-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Essential Shopping", "name": "Essential Shopping", "shop": "convenience"}},
         {"displayName": "F-stór", "id": "fstor-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "F-stór", "name": "F-stór", "shop": "convenience"}},
+        {"displayName": "Fresh Drinks", "id": "freshdrinks-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Fresh Drinks", "name": "Fresh Drinks", "shop": "convenience"}},
         {"displayName": "Friendly Mart", "id": "friendlymart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Friendly Mart", "name": "Friendly Mart", "shop": "convenience"}},
         {"displayName": "Kioski", "id": "kioski-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Kioski", "name": "Kioski", "shop": "convenience"}},
         {"displayName": "LeDéPa", "id": "ledepa-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "LeDéPa", "name": "LeDéPa", "shop": "convenience"}},
+        {"displayName": "Madrazo Express", "id": "madrazoexpress-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Madrazo Express", "name": "Madrazo Express", "shop": "convenience"}},
         {"displayName": "Mi Bodeguita", "id": "mibodeguita-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Mi Bodeguita", "name": "Mi Bodeguita", "shop": "convenience"}},
+        {"displayName": "Mineral Drinks", "id": "mineraldrinks-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Mineral Drinks", "name": "Mineral Drinks", "shop": "convenience"}},
         {"displayName": "Minimarket", "id": "minimarket-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Minimarket", "name": "Minimarket", "shop": "convenience"}},
         {"displayName": "PickIt!", "id": "pickit-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "PickIt!", "name": "PickIt!", "shop": "convenience"}},
         {"displayName": "Saturno", "id": "saturno-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Saturno", "name": "Saturno", "shop": "convenience"}},
         {"displayName": "Six Twelve", "id": "sixtwelve-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Six Twelve", "name": "Six Twelve", "shop": "convenience"}},
         {"displayName": "WicMart", "id": "wicmart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "WicMart", "name": "WicMart", "shop": "convenience"}},
-        {"displayName": "Zippy Mart", "id": "zippymart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Zippy Mart", "name": "Zippy Mart", "shop": "convenience"}},
-        {"displayName": "冚家便利", "id": "ca13ea-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家便利", "name": "冚家便利", "shop": "convenience"}}
+        {"displayName": "Zippy Mart", "id": "zippymart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Zippy Mart", "name": "Zippy Mart", "shop": "convenience"}}
       ],
       "templates": []
     },
-    "brands/shop/pastry": {"properties": {"path": "brands/shop/pastry", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Martinho Pastry", "id": "martinhopastry-4f1341", "locationSet": {"include": ["001"]}, "tags": {"brand": "Martinho Pastry", "name": "Martinho Pastry", "shop": "pastry"}}, {"displayName": "Masimi", "id": "masimi-4f1341", "locationSet": {"include": ["001"]}, "tags": {"brand": "Masimi", "name": "Masimi", "shop": "pastry"}}], "templates": []},
+    "brands/shop/copyshop": {
+      "properties": {"path": "brands/shop/copyshop", "exclude": {"generic": [], "named": []}},
+      "items": [{"displayName": "Central Copy", "id": "centralcopy-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "Central Copy", "name": "Central Copy", "shop": "copyshop"}}, {"displayName": "CopyTime", "id": "copytime-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "CopyTime", "name": "CopyTime", "shop": "copyshop"}}, {"displayName": "Ctrl + V", "id": "ctrlv-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "Ctrl + V", "name": "Ctrl + V", "shop": "copyshop"}}, {"displayName": "Dot Print", "id": "dotprint-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "Dot Print", "name": "Dot Print", "shop": "copyshop"}}],
+      "templates": []
+    },
+    "brands/shop/laundry": {"properties": {"path": "brands/shop/laundry", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Dry RaBBAu", "id": "dryrabbau-ca17f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Dry RaBBAu", "name": "Dry RaBBAu", "shop": "laundry"}}, {"displayName": "Laundry Express", "id": "laundryexpress-ca17f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Laundry Express", "name": "Laundry Express", "shop": "laundry"}}], "templates": []},
+    "brands/shop/pastry": {"properties": {"path": "brands/shop/pastry", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Martinho Pastry", "id": "martinhopastry-4f1341", "locationSet": {"include": ["001"]}, "tags": {"brand": "Martinho Pastry", "name": "Martinho Pastry", "shop": "pastry"}}, {"displayName": "Masimi", "id": "masimi-4f1341", "locationSet": {"include": ["001"]}, "tags": {"brand": "Masimi", "name": "Masimi", "shop": "pastry"}}, {"displayName": "Terminal Pastry", "id": "terminalpastry-4f1341", "locationSet": {"include": ["001"]}, "tags": {"brand": "Terminal Pastry", "name": "Terminal Pastry", "opening_hours": "06:20-14:00;17:00-20:00", "shop": "pastry"}}], "templates": []},
     "brands/shop/supermarket": {
       "properties": {"path": "brands/shop/supermarket", "exclude": {"generic": [], "named": []}},
       "items": [
+        {"displayName": "Constellations Shopping", "id": "constellationsshopping-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Constellations Shopping", "name": "Constellations Shopping", "shop": "supermarket"}},
         {"displayName": "Coop", "id": "coop-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Coop", "name": "Coop", "shop": "supermarket"}},
         {"displayName": "Coregro", "id": "coregro-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Coregro", "name": "Coregro", "shop": "supermarket"}},
         {"displayName": "Forteno", "id": "forteno-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Forteno", "name": "Forteno", "shop": "supermarket"}},
         {"displayName": "Gigante", "id": "gigante-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Gigante", "name": "Gigante", "shop": "supermarket"}},
+        {"displayName": "Hiper Madrazo", "id": "hipermadrazo-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Hiper Madrazo", "name": "Hiper Madrazo", "shop": "supermarket"}},
+        {"displayName": "Hollow Market", "id": "hollowmarket-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Hollow Market", "name": "Hollow Market", "shop": "supermarket"}},
         {"displayName": "JANSA ᡶ᠋ᠠᠨᡄᠠ", "id": "jansa-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "JANSA", "name": "JANSA ᡶ᠋ᠠᠨᡄᠠ", "shop": "supermarket"}},
         {"displayName": "Keppò Subemerkàw", "id": "kepposubemerkaw-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Keppò Subemerkàw", "name": "Keppò Subemerkàw", "shop": "supermarket"}},
         {"displayName": "Ordi", "id": "ordi-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Ordi", "name": "Ordi", "shop": "supermarket"}},
         {"displayName": "Reni", "id": "reni-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Reni", "name": "Reni", "shop": "supermarket"}},
         {"displayName": "Retrin", "id": "retrin-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Retrin", "name": "Retrin", "shop": "supermarket"}},
         {"displayName": "Superiór", "id": "superior-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Superiór", "name": "Superiór", "shop": "supermarket"}},
+        {"displayName": "TriKL Market", "id": "trikl-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Triple Company", "name": "TriKL", "opening_hours": "10:00-21:00", "shop": "supermarket"}},
+        {"displayName": "Tutto Bene Market", "id": "tuttobenemarket-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Tutto Bene Market", "name": "Tutto Bene Market", "shop": "supermarket"}},
         {"displayName": "Valuigi", "id": "valuigi-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Valuigi", "name": "Valuigi", "shop": "supermarket"}},
         {"displayName": "Winstons", "id": "winstons-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Winstons", "name": "Winstons", "shop": "supermarket"}},
-        {"displayName": "Yado Supermarket", "id": "yadosupermarket-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Yado's Supermarkets", "name": "Yado Supermarket", "shop": "supermarket"}},
-        {"displayName": "TriKL Market", "id": "trikl-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Triple Company", "name": "TriKL", "shop": "supermarket", "opening_hours": "10:00-21:00"}}
+        {"displayName": "Yado Supermarket", "id": "yadosupermarket-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Yado's Supermarkets", "name": "Yado Supermarket", "shop": "supermarket"}}
       ],
       "templates": []
     },
