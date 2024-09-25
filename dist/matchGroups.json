@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20240825",
-    "generated": "2024-08-25T11:41:59.424Z",
+    "version": "1.0.20240925",
+    "generated": "2024-09-25T11:31:51.443Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/matchGroups.json",
-    "hash": "75f0271903d2ce3867df220085ece61b"
+    "hash": "748bce2ac95dc84e0fa8fb85e515257c"
   },
   "matchGroups": {
     "adult_gaming_centre": [

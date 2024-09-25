@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20240825",
-    "generated": "2024-08-25T11:41:59.470Z",
+    "version": "1.0.20240925",
+    "generated": "2024-09-25T11:31:51.508Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/presets/nsi-id-presets.json",
-    "hash": "f1d2de006fe9ad5dadc3ca3bceac1544"
+    "hash": "fca30e13dd51bfdf9ce414acab551937"
   },
   "presets": {
     "man_made/flagpole/lgbtpride-e5dc93": {

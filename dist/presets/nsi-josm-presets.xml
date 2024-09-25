@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240825">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240925">
   <group name="Name Suggestion Index">
     <group name="brands">
       <group name="amenity">
@@ -8,6 +8,12 @@
             <key key="amenity" value="bank"/>
             <key key="brand" value="Bank of Kofuku"/>
             <key key="name" value="Bank of Kofuku"/>
+          </item>
+          <item name="Charles Cash" type="node,closedway,multipolygon">
+            <key key="amenity" value="bank"/>
+            <key key="brand" value="Charles Cash"/>
+            <key key="name" value="Charles Cash"/>
+            <key key="opening_hours" value="Mo-Sa 10:00-22:00; Su 11:00-15:00"/>
           </item>
           <item name="MollyBank" type="node,closedway,multipolygon">
             <key key="amenity" value="bank"/>
@@ -53,6 +59,14 @@
             <key key="cuisine" value="coffee_shop"/>
             <key key="name" value="Maravillas Coffee"/>
             <key key="opening_hours" value="10:00-15:00;16:00-23:30"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Seven Stars" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="Seven Stars"/>
+            <key key="cuisine" value="coffee_shop"/>
+            <key key="name" value="Seven Stars"/>
+            <key key="opening_hours" value="06:00-20:00"/>
             <key key="takeaway" value="yes"/>
           </item>
           <item name="The Corner Coffee" type="node,closedway,multipolygon">
@@ -135,6 +149,42 @@
             <key key="takeaway" value="yes"/>
           </item>
         </group>
+        <group name="fuel">
+          <item name="Armour" type="node,closedway,multipolygon">
+            <key key="amenity" value="fuel"/>
+            <key key="brand" value="Armour"/>
+            <key key="fuel:diesel" value="yes"/>
+            <key key="fuel:e10" value="yes"/>
+            <key key="fuel:lpg" value="yes"/>
+            <key key="fuel:octane_95" value="yes"/>
+            <key key="fuel:octane_98" value="yes"/>
+            <key key="name" value="Armour"/>
+            <key key="opening_hours" value="24/7"/>
+          </item>
+          <item name="Ocean Fuel" type="node,closedway,multipolygon">
+            <key key="amenity" value="fuel"/>
+            <key key="brand" value="Ocean Fuel"/>
+            <key key="fuel:diesel" value="yes"/>
+            <key key="fuel:e10" value="yes"/>
+            <key key="fuel:lpg" value="yes"/>
+            <key key="fuel:octane_95" value="yes"/>
+            <key key="fuel:octane_98" value="yes"/>
+            <key key="name" value="Ocean Fuel"/>
+            <key key="opening_hours" value="06:00-00:00"/>
+          </item>
+          <item name="Vegetable Gasoline" type="node,closedway,multipolygon">
+            <key key="amenity" value="fuel"/>
+            <key key="brand" value="Vegetable Gasoline"/>
+            <key key="fuel:diesel" value="yes"/>
+            <key key="fuel:e10" value="yes"/>
+            <key key="fuel:lpg" value="yes"/>
+            <key key="fuel:octane_95" value="yes"/>
+            <key key="fuel:octane_98" value="yes"/>
+            <key key="name" value="Vegetable Gasoline"/>
+            <key key="opening_hours" value="24/7"/>
+            <key key="service_times" value="07:00-14:00,16:00-22:00"/>
+          </item>
+        </group>
         <group name="internet_cafe">
           <item name="Drink &amp; Connect" type="node,closedway,multipolygon">
             <key key="amenity" value="internet_cafe"/>
@@ -151,9 +201,15 @@
           </item>
           <item name="MatrixTime" type="node,closedway,multipolygon">
             <key key="amenity" value="internet_cafe"/>
-            <key key="brand" value="MatrixGuys"/>
+            <key key="brand" value="MatrixTime"/>
             <key key="name" value="MatrixTime"/>
             <key key="takeaway" value="no"/>
+          </item>
+          <item name="The GSM Corner" type="node,closedway,multipolygon">
+            <key key="amenity" value="internet_cafe"/>
+            <key key="brand" value="The GSM Corner"/>
+            <key key="name" value="The GSM Corner"/>
+            <key key="takeaway" value="yes"/>
           </item>
         </group>
         <group name="pharmacy">
@@ -476,6 +532,66 @@
             <key key="shop" value="copyshop"/>
           </item>
         </group>
+        <group name="florist">
+          <item name="Flower Power" type="node,closedway,multipolygon">
+            <key key="brand" value="Flower Power"/>
+            <key key="name" value="Flower Power"/>
+            <key key="shop" value="florist"/>
+          </item>
+          <item name="New Roses" type="node,closedway,multipolygon">
+            <key key="brand" value="New Roses"/>
+            <key key="name" value="New Roses"/>
+            <key key="opening_hours" value="09:00-21:00"/>
+            <key key="shop" value="florist"/>
+          </item>
+        </group>
+        <group name="greengrocer">
+          <item name="Green Diet" type="node,closedway,multipolygon">
+            <key key="brand" value="Green Diet"/>
+            <key key="name" value="Green Diet"/>
+            <key key="opening_hours" value="06:00-15:00"/>
+            <key key="shop" value="greengrocer"/>
+          </item>
+          <item name="The Green Shopping" type="node,closedway,multipolygon">
+            <key key="brand" value="The Green Shopping"/>
+            <key key="name" value="The Green Shopping"/>
+            <key key="opening_hours" value="08:00-22:00"/>
+            <key key="shop" value="greengrocer"/>
+          </item>
+        </group>
+        <group name="hairdresser">
+          <item name="Ladreda Barber" type="node,closedway,multipolygon">
+            <key key="brand" value="Ladreda Barber"/>
+            <key key="name" value="Ladreda Barber"/>
+            <key key="opening_hours" value="Mo-Su 07:00-15:00"/>
+            <key key="shop" value="hairdresser"/>
+          </item>
+          <item name="Madrazos's Cut" type="node,closedway,multipolygon">
+            <key key="brand" value="Madrazos's Cut"/>
+            <key key="name" value="Madrazos's Cut"/>
+            <key key="opening_hours" value="Mo-Sa 08:00-21:30"/>
+            <key key="shop" value="hairdresser"/>
+          </item>
+        </group>
+        <group name="interior_decoration">
+          <item name="Busta's Decors" type="node,closedway,multipolygon">
+            <key key="brand" value="Busta's Decors"/>
+            <key key="name" value="Busta's Decors"/>
+            <key key="shop" value="interior_decoration"/>
+          </item>
+          <item name="Home Decor" type="node,closedway,multipolygon">
+            <key key="brand" value="Home Decor"/>
+            <key key="name" value="Home Decor"/>
+            <key key="opening_hours" value="Mo-Fr 10:00-21:00; Sa 11:00-15:00"/>
+            <key key="shop" value="interior_decoration"/>
+          </item>
+          <item name="Minimal Home" type="node,closedway,multipolygon">
+            <key key="brand" value="Minimal Home"/>
+            <key key="name" value="Minimal Home"/>
+            <key key="opening_hours" value="Mo-Su 10:00-22:00"/>
+            <key key="shop" value="interior_decoration"/>
+          </item>
+        </group>
         <group name="laundry">
           <item name="Dry RaBBAu" type="node,closedway,multipolygon">
             <key key="brand" value="Dry RaBBAu"/>
@@ -597,6 +713,20 @@
             <key key="brand" value="Yado's Supermarkets"/>
             <key key="name" value="Yado Supermarket"/>
             <key key="shop" value="supermarket"/>
+          </item>
+        </group>
+        <group name="toys">
+          <item name="Happy Days!" type="node,closedway,multipolygon">
+            <key key="brand" value="Happy Days!"/>
+            <key key="name" value="Happy Days!"/>
+            <key key="opening_hours" value="Mo-Sa 10:00-21:00"/>
+            <key key="shop" value="toys"/>
+          </item>
+          <item name="Toys &amp; U" type="node,closedway,multipolygon">
+            <key key="brand" value="Toys &amp; U"/>
+            <key key="name" value="Toys &amp; U"/>
+            <key key="opening_hours" value="Mo-Fr 10:00-21:00; Sa 11:00-15:00"/>
+            <key key="shop" value="toys"/>
           </item>
         </group>
       </group>
