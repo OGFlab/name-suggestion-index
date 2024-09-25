@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "path": "brands/shop/florist",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Flower Power",
+      "id": "flowerpower-64f976",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Flower Power",
+        "name": "Flower Power",
+        "shop": "florist"
+      }
+    },
+    {
+      "displayName": "New Roses",
+      "id": "newroses-64f976",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "New Roses",
+        "name": "New Roses",
+        "opening_hours": "09:00-21:00",
+        "shop": "florist"
+      }
+    }
+  ]
+}

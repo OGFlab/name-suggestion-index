@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/shop/greengrocer",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Green Diet",
+      "id": "greendiet-99d278",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Green Diet",
+        "name": "Green Diet",
+        "opening_hours": "06:00-15:00",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "displayName": "The Green Shopping",
+      "id": "thegreenshopping-99d278",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Green Shopping",
+        "name": "The Green Shopping",
+        "opening_hours": "08:00-22:00",
+        "shop": "greengrocer"
+      }
+    }
+  ]
+}

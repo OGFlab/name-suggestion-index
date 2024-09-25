@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/shop/hairdresser",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Ladreda Barber",
+      "id": "ladredabarber-ece769",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Ladreda Barber",
+        "name": "Ladreda Barber",
+        "opening_hours": "Mo-Su 07:00-15:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "displayName": "Madrazos's Cut",
+      "id": "madrazosscut-ece769",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Madrazos's Cut",
+        "name": "Madrazos's Cut",
+        "opening_hours": "Mo-Sa 08:00-21:30",
+        "shop": "hairdresser"
+      }
+    }
+  ]
+}

@@ -15,6 +15,17 @@
       }
     },
     {
+      "displayName": "Charles Cash",
+      "id": "charlescash-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Charles Cash",
+        "name": "Charles Cash",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-15:00"
+      }
+    },
+    {
       "displayName": "MollyBank",
       "id": "mollybank-b7a026",
       "locationSet": {"include": ["001"]},

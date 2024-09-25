@@ -1,0 +1,40 @@
+{
+  "properties": {
+    "path": "brands/shop/interior_decoration",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Busta's Decors",
+      "id": "bustasdecors-0f41f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Busta's Decors",
+        "name": "Busta's Decors",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Home Decor",
+      "id": "homedecor-0f41f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Home Decor",
+        "name": "Home Decor",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa 11:00-15:00",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "displayName": "Minimal Home",
+      "id": "minimalhome-0f41f2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Minimal Home",
+        "name": "Minimal Home",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "interior_decoration"
+      }
+    }
+  ]
+}

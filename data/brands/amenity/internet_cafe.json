@@ -33,9 +33,20 @@
       "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "internet_cafe",
-        "brand": "MatrixGuys",
+        "brand": "MatrixTime",
         "name": "MatrixTime",
         "takeaway": "no"
+      }
+    },
+    {
+      "displayName": "The GSM Corner",
+      "id": "thegsmcorner-99542b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "internet_cafe",
+        "brand": "The GSM Corner",
+        "name": "The GSM Corner",
+        "takeaway": "yes"
       }
     }
   ]

@@ -1,0 +1,57 @@
+{
+  "properties": {
+    "path": "brands/amenity/fuel",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Armour",
+      "id": "armour-b3d110",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Armour",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Armour",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "displayName": "Ocean Fuel",
+      "id": "oceanfuel-b3d110",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Ocean Fuel",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Ocean Fuel",
+        "opening_hours": "06:00-00:00"
+      }
+    },
+    {
+      "displayName": "Vegetable Gasoline",
+      "id": "vegetablegasoline-b3d110",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Vegetable Gasoline",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Vegetable Gasoline",
+        "opening_hours": "24/7",
+        "service_times": "07:00-14:00,16:00-22:00"
+      }
+    }
+  ]
+}

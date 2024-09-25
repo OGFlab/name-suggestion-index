@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/shop/toys",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Happy Days!",
+      "id": "happydays-80bf0f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Happy Days!",
+        "name": "Happy Days!",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toys & U",
+      "id": "toysandu-80bf0f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Toys & U",
+        "name": "Toys & U",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa 11:00-15:00",
+        "shop": "toys"
+      }
+    }
+  ]
+}
