@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "path": "brands/shop/bakery",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Dolce Bakes",
+      "id": "dolcebakes-4f9c7f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Dolce Bakes",
+        "name": "Dolce Bakes",
+        "shop": "bakery"
+      }
+    },
+    {
+      "displayName": "Trenial Bakes",
+      "id": "trenialbakes-4f9c7f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Trenial Bakes",
+        "name": "Trenial Bakes",
+        "opening_hours": "06:30-13:00,16:00-19:00",
+        "shop": "bakery"
+      }
+    }
+  ]
+}

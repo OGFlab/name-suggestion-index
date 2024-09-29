@@ -5,6 +5,18 @@
   },
   "items": [
     {
+      "displayName": "Boom Boom Sandwich",
+      "id": "boomboomsandwich-658eea",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Boom Boom Sandwich",
+        "cuisine": "sandwich",
+        "name": "Boom Boom Sandwich",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Crunchy Bite",
       "id": "crunchybite-658eea",
       "locationSet": {"include": ["001"]},
@@ -49,6 +61,18 @@
         "cuisine": "sandwich",
         "name": "Trunk Road",
         "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "World Pasta",
+      "id": "worldpasta-658eea",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "World Pasta",
+        "cuisine": "italian",
+        "name": "World Pasta",
+        "takeaway": "no"
       }
     }
   ]

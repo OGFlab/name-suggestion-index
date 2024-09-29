@@ -17,6 +17,19 @@
       }
     },
     {
+      "displayName": "Feel Good Café",
+      "id": "feelgoodcafe-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Feel Good Café",
+        "cuisine": "coffee_shop",
+        "name": "Feel Good Café",
+        "opening_hours": "07:00-21:30",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Kasanova",
       "id": "kasanova-e1ef51",
       "locationSet": {"include": ["001"]},

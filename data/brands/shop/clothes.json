@@ -1,0 +1,58 @@
+{
+  "properties": {
+    "path": "brands/shop/clothes",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Autummfield",
+      "id": "autummfield-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Autummfield",
+        "name": "Autummfield",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Citiess",
+      "id": "citiess-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Citiess",
+        "name": "Citiess",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Massimo Driver",
+      "id": "massimodriver-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Massimo Driver",
+        "name": "Massimo Driver",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Orange Wear",
+      "id": "orangewear-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Orange Wear",
+        "name": "Orange Wear",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Suit Yourself",
+      "id": "suityourself-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Suit Yourself",
+        "name": "Suit Yourself",
+        "shop": "clothes"
+      }
+    }
+  ]
+}

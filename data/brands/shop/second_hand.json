@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/shop/second_hand",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Another Life",
+      "id": "anotherlife-c55c73",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Another Life",
+        "name": "Another Life",
+        "opening_hours": "10:00-21:00",
+        "shop": "second_hand"
+      }
+    },
+    {
+      "displayName": "New Opportunities",
+      "id": "newopportunities-c55c73",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "New Opportunities",
+        "name": "New Opportunities",
+        "opening_hours": "09:00-21:00",
+        "shop": "second_hand"
+      }
+    }
+  ]
+}

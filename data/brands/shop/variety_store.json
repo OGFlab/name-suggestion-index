@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "path": "brands/shop/variety_store",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Bargain Catcher",
+      "id": "bargaincatcher-70ec82",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Bargain Catcher",
+        "name": "Bargain Catcher",
+        "opening_hours": "09:00-21:00",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Flying Lion",
+      "id": "flyinglion-70ec82",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Flying Lion",
+        "name": "Flying Lion",
+        "shop": "variety_store"
+      }
+    }
+  ]
+}
