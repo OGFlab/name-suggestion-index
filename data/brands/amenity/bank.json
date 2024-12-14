@@ -1,7 +1,7 @@
 {
   "properties": {
     "path": "brands/amenity/bank",
-    "exclude": {"generic": [], "named": []}
+    "exclude": {"generic": ["^华夏银行$"], "named": []}
   },
   "items": [
     {
