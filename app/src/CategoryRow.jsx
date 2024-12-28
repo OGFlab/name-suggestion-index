@@ -212,7 +212,7 @@ relation[${k}=${v}][network:wikidata=${qid}]
 
   function searchOverpassLink(name, overpassQuery) {
     const q = encodeURIComponent(overpassQuery);
-    const href = `https://turbo.ogf.rent-a-planet.com/?Q=${q}&R`;
+    const href = `https://overpass.opengeofiction.net/?Q=${q}&R`;
     const title = `Search Overpass Turbo for ${n}`;
     return (<a target='_blank' href={href} title={title}>Search Overpass Turbo</a>);
   }
