@@ -17,6 +17,19 @@
       }
     },
     {
+      "displayName": "Coffe Lake",
+      "id": "coffelake-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Universe Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Coffe Lake",
+        "opening_hours": "06:00-15:00;17:00-20:00",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Feel Good Café",
       "id": "feelgoodcafe-e1ef51",
       "locationSet": {"include": ["001"]},
@@ -90,19 +103,6 @@
         "cuisine": "coffee_shop",
         "name": "Universe Coffee",
         "opening_hours": "10:00-15:00;16:00-23:30",
-        "takeaway": "yes"
-      }
-    },
-    {
-      "displayName": "Coffe Lake",
-      "id": "cofeelake",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "amenity": "cafe",
-        "brand": "Universe Coffee",
-        "cuisine": "coffee_shop",
-        "name": "Coffe Lake",
-        "opening_hours": "06:00-15:00;17:00-20:00",
         "takeaway": "yes"
       }
     },

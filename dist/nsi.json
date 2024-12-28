@@ -1,13 +1,13 @@
 {
   "_meta": {
-    "version": "1.0.20240929",
-    "generated": "2024-09-29T14:17:54.287Z",
+    "version": "1.0.20241228",
+    "generated": "2024-12-28T17:02:09.448Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "c64883f421a2db3d9f8c0eca18ebe516"
+    "hash": "29c72e1223faeb13dc157174203ee459"
   },
   "nsi": {
     "brands/amenity/bank": {
-      "properties": {"path": "brands/amenity/bank", "exclude": {"generic": [], "named": []}},
+      "properties": {"path": "brands/amenity/bank", "exclude": {"generic": ["^华夏银行$"], "named": []}},
       "items": [
         {"displayName": "Bank of Kofuku", "id": "bankofkofuku-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Bank of Kofuku", "name": "Bank of Kofuku"}},
         {"displayName": "Charles Cash", "id": "charlescash-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Charles Cash", "name": "Charles Cash", "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-15:00"}},
@@ -22,6 +22,7 @@
       "properties": {"path": "brands/amenity/cafe", "exclude": {"generic": [], "named": []}},
       "items": [
         {"displayName": "Chacafé", "id": "chacafe-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Chacafé", "cuisine": "coffee_shop", "name": "Chacafé", "takeaway": "yes"}},
+        {"displayName": "Coffe Lake", "id": "coffelake-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Universe Coffee", "cuisine": "coffee_shop", "name": "Coffe Lake", "opening_hours": "06:00-15:00;17:00-20:00", "takeaway": "yes"}},
         {"displayName": "Feel Good Café", "id": "feelgoodcafe-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Feel Good Café", "cuisine": "coffee_shop", "name": "Feel Good Café", "opening_hours": "07:00-21:30", "takeaway": "yes"}},
         {"displayName": "Kasanova", "id": "kasanova-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Kasanova", "cuisine": "coffee_shop", "name": "Kasanova", "takeaway": "yes"}},
         {"displayName": "Maravillas Coffee", "id": "maravillascoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Maravillas Ltd", "cuisine": "coffee_shop", "name": "Maravillas Coffee", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
@@ -46,8 +47,11 @@
     "brands/amenity/fast_food": {
       "properties": {"path": "brands/amenity/fast_food", "exclude": {"generic": [], "named": []}},
       "items": [
+        {"displayName": "BBJ Burguer", "id": "bbjburguer-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "BBJ Burguer", "cuisine": "burguer", "name": "BBJ Burguer", "takeaway": "no"}},
         {"displayName": "Boom Boom Sandwich", "id": "boomboomsandwich-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Boom Boom Sandwich", "cuisine": "sandwich", "name": "Boom Boom Sandwich", "takeaway": "yes"}},
         {"displayName": "Crunchy Bite", "id": "crunchybite-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Crunchy Bite", "name": "Crunchy Bite", "takeaway": "yes"}},
+        {"displayName": "Five Ladies", "id": "fiveladies-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Five Ladies", "cuisine": "american", "name": "Five Ladies", "takeaway": "yes"}},
+        {"displayName": "Food Problems", "id": "foodproblems-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Food Problems", "cuisine": "italian", "name": "Food Problems", "takeaway": "yes"}},
         {"displayName": "The Alt Sandwich", "id": "thealtsandwich-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "The Alt Sandwich", "cuisine": "sandwich", "name": "The Alt Sandwich", "takeaway": "yes"}},
         {"displayName": "The Delivery Pizza", "id": "thedeliverypizza-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "The Delivery Pizza", "cuisine": "pizza", "name": "The Delivery Pizza", "takeaway": "yes"}},
         {"displayName": "Trunk Road", "id": "trunkroad-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Trunk Road", "cuisine": "sandwich", "name": "Trunk Road", "takeaway": "yes"}},
@@ -59,6 +63,7 @@
       "properties": {"path": "brands/amenity/fuel", "exclude": {"generic": [], "named": []}},
       "items": [
         {"displayName": "Armour", "id": "armour-b3d110", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fuel", "brand": "Armour", "fuel:diesel": "yes", "fuel:e10": "yes", "fuel:lpg": "yes", "fuel:octane_95": "yes", "fuel:octane_98": "yes", "name": "Armour", "opening_hours": "24/7"}},
+        {"displayName": "E5 B7 Mates", "id": "e5b7mates-b3d110", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fuel", "brand": "E5 B7 Mates", "fuel:diesel": "yes", "fuel:e10": "yes", "fuel:lpg": "yes", "fuel:octane_95": "yes", "fuel:octane_98": "yes", "name": "E5 B7 Mates", "opening_hours": "24/7"}},
         {"displayName": "Ocean Fuel", "id": "oceanfuel-b3d110", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fuel", "brand": "Ocean Fuel", "fuel:diesel": "yes", "fuel:e10": "yes", "fuel:lpg": "yes", "fuel:octane_95": "yes", "fuel:octane_98": "yes", "name": "Ocean Fuel", "opening_hours": "06:00-00:00"}},
         {"displayName": "Vegetable Gasoline", "id": "vegetablegasoline-b3d110", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fuel", "brand": "Vegetable Gasoline", "fuel:diesel": "yes", "fuel:e10": "yes", "fuel:lpg": "yes", "fuel:octane_95": "yes", "fuel:octane_98": "yes", "name": "Vegetable Gasoline", "opening_hours": "24/7", "service_times": "07:00-14:00,16:00-22:00"}}
       ],
@@ -74,6 +79,7 @@
       ],
       "templates": []
     },
+    "brands/amenity/parcel_locker": {"properties": {"path": "brands/amenity/parcel_locker", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Crackzon Locker", "id": "crackzonlocker-6a219a", "locationSet": {"include": ["001"]}, "tags": {"amenity": "parcel_locker", "brand": "Crackzon Locker", "name": "Crackzon Locker"}}, {"displayName": "Leave it! RaBBAu", "id": "leaveitrabbau-6a219a", "locationSet": {"include": ["001"]}, "tags": {"amenity": "parcel_locker", "brand": "Leave it! RaBBAu", "name": "Leave it! RaBBAu"}}], "templates": []},
     "brands/amenity/pharmacy": {
       "properties": {"path": "brands/amenity/pharmacy", "exclude": {"generic": [], "named": []}},
       "items": [
@@ -113,6 +119,7 @@
     },
     "brands/leisure/fitness_centre": {"properties": {"path": "brands/leisure/fitness_centre", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "ThickGym", "id": "thickgym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"brand": "ThickGym", "leisure": "fitness_centre", "name": "ThickGym", "opening_hours": "06:00-23:00"}}, {"displayName": "Wellbeing Gym", "id": "wellbeinggym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Wellbeing Gym", "leisure": "fitness_centre", "name": "Wellbeing Gym", "opening_hours": "07:00-00:00"}}], "templates": []},
     "brands/office/insurance": {"properties": {"path": "brands/office/insurance", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "冚家人寿", "id": "b9a9a5-b9b33f", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家人寿", "name": "冚家人寿", "office": "insurance"}}], "templates": []},
+    "brands/shop/bag": {"properties": {"path": "brands/shop/bag", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Carry It Bags", "id": "carryitbags-4123fd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Carry It Bags", "name": "Carry It Bags", "shop": "bag"}}, {"displayName": "Tote Things", "id": "totethings-4123fd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Tote Things", "name": "Tote Things", "shop": "bag"}}], "templates": []},
     "brands/shop/bakery": {"properties": {"path": "brands/shop/bakery", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Dolce Bakes", "id": "dolcebakes-4f9c7f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Dolce Bakes", "name": "Dolce Bakes", "shop": "bakery"}}, {"displayName": "Trenial Bakes", "id": "trenialbakes-4f9c7f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Trenial Bakes", "name": "Trenial Bakes", "opening_hours": "06:30-13:00,16:00-19:00", "shop": "bakery"}}], "templates": []},
     "brands/shop/books": {"properties": {"path": "brands/shop/books", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Outstanding Sheets", "id": "outstandingsheets-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Outstanding Sheets", "name": "Outstanding Sheets", "opening_hours": "07:00-18:00", "shop": "books"}}, {"displayName": "The Book's Home", "id": "thebookshome-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Book's Home", "name": "The Book's Home", "opening_hours": "10:00-21:00", "shop": "books"}}], "templates": []},
     "brands/shop/clothes": {
@@ -157,7 +164,7 @@
       "templates": []
     },
     "brands/shop/department_store": {"properties": {"path": "brands/shop/department_store", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Discovery Department", "id": "discoverydepartment-03e633", "locationSet": {"include": ["001"]}, "tags": {"brand": "Discovery Department", "name": "Discovery Department", "shop": "department_store"}}, {"displayName": "The Italian Cut", "id": "theitaliancut-03e633", "locationSet": {"include": ["001"]}, "tags": {"air_conditioning": "yes", "brand": "The Italian Cut", "internet_access": "wlan", "name": "The Italian Cut", "opening_hours": "Mo-Sa 09:00-22:00; Su 10:00-22:00", "shop": "department_store", "toilets": "yes"}}], "templates": []},
-    "brands/shop/florist": {"properties": {"path": "brands/shop/florist", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Flower Power", "id": "flowerpower-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "Flower Power", "name": "Flower Power", "shop": "florist"}}, {"displayName": "New Roses", "id": "newroses-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "New Roses", "name": "New Roses", "opening_hours": "09:00-21:00", "shop": "florist"}}], "templates": []},
+    "brands/shop/florist": {"properties": {"path": "brands/shop/florist", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Flower Power", "id": "flowerpower-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "Flower Power", "name": "Flower Power", "shop": "florist"}}, {"displayName": "Girasoles Land", "id": "girasolesland-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "Girasoles Land", "name": "Girasoles Land", "opening_hours": "10:00-22:00", "shop": "florist"}}, {"displayName": "New Roses", "id": "newroses-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "New Roses", "name": "New Roses", "opening_hours": "09:00-21:00", "shop": "florist"}}], "templates": []},
     "brands/shop/greengrocer": {"properties": {"path": "brands/shop/greengrocer", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Green Diet", "id": "greendiet-99d278", "locationSet": {"include": ["001"]}, "tags": {"brand": "Green Diet", "name": "Green Diet", "opening_hours": "06:00-15:00", "shop": "greengrocer"}}, {"displayName": "The Green Shopping", "id": "thegreenshopping-99d278", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Green Shopping", "name": "The Green Shopping", "opening_hours": "08:00-22:00", "shop": "greengrocer"}}], "templates": []},
     "brands/shop/hairdresser": {"properties": {"path": "brands/shop/hairdresser", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Ladreda Barber", "id": "ladredabarber-ece769", "locationSet": {"include": ["001"]}, "tags": {"brand": "Ladreda Barber", "name": "Ladreda Barber", "opening_hours": "Mo-Su 07:00-15:00", "shop": "hairdresser"}}, {"displayName": "Madrazos's Cut", "id": "madrazosscut-ece769", "locationSet": {"include": ["001"]}, "tags": {"brand": "Madrazos's Cut", "name": "Madrazos's Cut", "opening_hours": "Mo-Sa 08:00-21:30", "shop": "hairdresser"}}], "templates": []},
     "brands/shop/interior_decoration": {

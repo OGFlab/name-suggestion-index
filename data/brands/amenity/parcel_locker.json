@@ -1,29 +1,28 @@
 {
-    "properties": {
-      "path": "brands/amenity/parcel_locker",
-      "exclude": {"generic": [], "named": []}
-    },
-    "items": [
-      {
-        "displayName": "Leave it! RaBBAu",
-        "id": "leaveitrabbau",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "amenity": "parcel_locker",
-          "brand": "Leave it! RaBBAu",
-          "name": "Leave it! RaBBAu"
-        }
-      },
-      {
-        "displayName": "Crackzon Locker",
-        "id": "crackzonlocker",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "amenity": "parcel_locker",
-          "brand": "Crackzon Locker",
-          "name": "Crackzon Locker"
-        }
+  "properties": {
+    "path": "brands/amenity/parcel_locker",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Crackzon Locker",
+      "id": "crackzonlocker-6a219a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Crackzon Locker",
+        "name": "Crackzon Locker"
       }
-    ]
-  }
-  
+    },
+    {
+      "displayName": "Leave it! RaBBAu",
+      "id": "leaveitrabbau-6a219a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Leave it! RaBBAu",
+        "name": "Leave it! RaBBAu"
+      }
+    }
+  ]
+}

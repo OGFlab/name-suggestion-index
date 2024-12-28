@@ -1,29 +1,28 @@
 {
-    "properties": {
-      "path": "brands/shop/bag",
-      "exclude": {"generic": [], "named": []}
-    },
-    "items": [
-      {
-        "displayName": "Tote Things",
-        "id": "totethings",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "Tote Things",
-          "name": "Tote Things",
-          "shop": "bag"
-        }
-      },
-      {
-        "displayName": "Carry It Bags",
-        "id": "trenialbakes-4f9c7f",
-        "locationSet": {"include": ["001"]},
-        "tags": {
-          "brand": "Carry It Bags",
-          "name": "Carry It Bags",
-          "shop": "bag"
-        }
+  "properties": {
+    "path": "brands/shop/bag",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Carry It Bags",
+      "id": "carryitbags-4123fd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Carry It Bags",
+        "name": "Carry It Bags",
+        "shop": "bag"
       }
-    ]
-  }
-  
+    },
+    {
+      "displayName": "Tote Things",
+      "id": "totethings-4123fd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Tote Things",
+        "name": "Tote Things",
+        "shop": "bag"
+      }
+    }
+  ]
+}

@@ -15,6 +15,17 @@
       }
     },
     {
+      "displayName": "Girasoles Land",
+      "id": "girasolesland-64f976",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Girasoles Land",
+        "name": "Girasoles Land",
+        "opening_hours": "10:00-22:00",
+        "shop": "florist"
+      }
+    },
+    {
       "displayName": "New Roses",
       "id": "newroses-64f976",
       "locationSet": {"include": ["001"]},
@@ -22,17 +33,6 @@
         "brand": "New Roses",
         "name": "New Roses",
         "opening_hours": "09:00-21:00",
-        "shop": "florist"
-      }
-    },
-    {
-      "displayName": "Girasoles Land",
-      "id": "girasolesland",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Girasoles Land",
-        "name": "Girasoles Land",
-        "opening_hours": "10:00-22:00",
         "shop": "florist"
       }
     }

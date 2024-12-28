@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20240929">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20241228">
   <group name="Name Suggestion Index">
     <group name="brands">
       <group name="amenity">
@@ -44,6 +44,14 @@
             <key key="brand" value="Chacafé"/>
             <key key="cuisine" value="coffee_shop"/>
             <key key="name" value="Chacafé"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Coffe Lake" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="Universe Coffee"/>
+            <key key="cuisine" value="coffee_shop"/>
+            <key key="name" value="Coffe Lake"/>
+            <key key="opening_hours" value="06:00-15:00;17:00-20:00"/>
             <key key="takeaway" value="yes"/>
           </item>
           <item name="Feel Good Café" type="node,closedway,multipolygon">
@@ -129,6 +137,13 @@
           </item>
         </group>
         <group name="fast_food">
+          <item name="BBJ Burguer" type="node,closedway,multipolygon">
+            <key key="amenity" value="fast_food"/>
+            <key key="brand" value="BBJ Burguer"/>
+            <key key="cuisine" value="burguer"/>
+            <key key="name" value="BBJ Burguer"/>
+            <key key="takeaway" value="no"/>
+          </item>
           <item name="Boom Boom Sandwich" type="node,closedway,multipolygon">
             <key key="amenity" value="fast_food"/>
             <key key="brand" value="Boom Boom Sandwich"/>
@@ -140,6 +155,20 @@
             <key key="amenity" value="fast_food"/>
             <key key="brand" value="Crunchy Bite"/>
             <key key="name" value="Crunchy Bite"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Five Ladies" type="node,closedway,multipolygon">
+            <key key="amenity" value="fast_food"/>
+            <key key="brand" value="Five Ladies"/>
+            <key key="cuisine" value="american"/>
+            <key key="name" value="Five Ladies"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Food Problems" type="node,closedway,multipolygon">
+            <key key="amenity" value="fast_food"/>
+            <key key="brand" value="Food Problems"/>
+            <key key="cuisine" value="italian"/>
+            <key key="name" value="Food Problems"/>
             <key key="takeaway" value="yes"/>
           </item>
           <item name="The Alt Sandwich" type="node,closedway,multipolygon">
@@ -181,6 +210,17 @@
             <key key="fuel:octane_95" value="yes"/>
             <key key="fuel:octane_98" value="yes"/>
             <key key="name" value="Armour"/>
+            <key key="opening_hours" value="24/7"/>
+          </item>
+          <item name="E5 B7 Mates" type="node,closedway,multipolygon">
+            <key key="amenity" value="fuel"/>
+            <key key="brand" value="E5 B7 Mates"/>
+            <key key="fuel:diesel" value="yes"/>
+            <key key="fuel:e10" value="yes"/>
+            <key key="fuel:lpg" value="yes"/>
+            <key key="fuel:octane_95" value="yes"/>
+            <key key="fuel:octane_98" value="yes"/>
+            <key key="name" value="E5 B7 Mates"/>
             <key key="opening_hours" value="24/7"/>
           </item>
           <item name="Ocean Fuel" type="node,closedway,multipolygon">
@@ -232,6 +272,18 @@
             <key key="brand" value="The GSM Corner"/>
             <key key="name" value="The GSM Corner"/>
             <key key="takeaway" value="yes"/>
+          </item>
+        </group>
+        <group name="parcel_locker">
+          <item name="Crackzon Locker" type="node,closedway,multipolygon">
+            <key key="amenity" value="parcel_locker"/>
+            <key key="brand" value="Crackzon Locker"/>
+            <key key="name" value="Crackzon Locker"/>
+          </item>
+          <item name="Leave it! RaBBAu" type="node,closedway,multipolygon">
+            <key key="amenity" value="parcel_locker"/>
+            <key key="brand" value="Leave it! RaBBAu"/>
+            <key key="name" value="Leave it! RaBBAu"/>
           </item>
         </group>
         <group name="pharmacy">
@@ -434,6 +486,18 @@
         </group>
       </group>
       <group name="shop">
+        <group name="bag">
+          <item name="Carry It Bags" type="node,closedway,multipolygon">
+            <key key="brand" value="Carry It Bags"/>
+            <key key="name" value="Carry It Bags"/>
+            <key key="shop" value="bag"/>
+          </item>
+          <item name="Tote Things" type="node,closedway,multipolygon">
+            <key key="brand" value="Tote Things"/>
+            <key key="name" value="Tote Things"/>
+            <key key="shop" value="bag"/>
+          </item>
+        </group>
         <group name="bakery">
           <item name="Dolce Bakes" type="node,closedway,multipolygon">
             <key key="brand" value="Dolce Bakes"/>
@@ -627,6 +691,12 @@
           <item name="Flower Power" type="node,closedway,multipolygon">
             <key key="brand" value="Flower Power"/>
             <key key="name" value="Flower Power"/>
+            <key key="shop" value="florist"/>
+          </item>
+          <item name="Girasoles Land" type="node,closedway,multipolygon">
+            <key key="brand" value="Girasoles Land"/>
+            <key key="name" value="Girasoles Land"/>
+            <key key="opening_hours" value="10:00-22:00"/>
             <key key="shop" value="florist"/>
           </item>
           <item name="New Roses" type="node,closedway,multipolygon">
