@@ -37,6 +37,22 @@
       }
     },
     {
+      "displayName": "E5 B7 Mates",
+      "id": "efivebseven",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "E5 B7 Mates",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "E5 B7 Mates",
+        "opening_hours": "24/7"
+      }
+    },
+    {
       "displayName": "Vegetable Gasoline",
       "id": "vegetablegasoline-b3d110",
       "locationSet": {"include": ["001"]},

@@ -94,6 +94,19 @@
       }
     },
     {
+      "displayName": "Coffe Lake",
+      "id": "cofeelake",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Universe Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Coffe Lake",
+        "opening_hours": "06:00-15:00;17:00-20:00",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "这↑里↓奶茶",
       "id": "963d94-e1ef51",
       "locationSet": {"include": ["001"]},

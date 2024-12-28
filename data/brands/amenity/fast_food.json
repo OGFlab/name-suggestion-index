@@ -64,6 +64,30 @@
       }
     },
     {
+      "displayName": "Food Problems",
+      "id": "foodproblems",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Food Problems",
+        "cuisine": "italian",
+        "name": "Food Problems",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Five Ladies",
+      "id": "fiveladies",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Five Ladies",
+        "cuisine": "american",
+        "name": "Five Ladies",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "World Pasta",
       "id": "worldpasta-658eea",
       "locationSet": {"include": ["001"]},
@@ -72,6 +96,18 @@
         "brand": "World Pasta",
         "cuisine": "italian",
         "name": "World Pasta",
+        "takeaway": "no"
+      }
+    },
+    {
+      "displayName": "BBJ Burguer",
+      "id": "bbjburguer",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "BBJ Burguer",
+        "cuisine": "burguer",
+        "name": "BBJ Burguer",
         "takeaway": "no"
       }
     }
