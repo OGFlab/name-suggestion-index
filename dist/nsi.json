@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20241228",
-    "generated": "2024-12-28T17:02:09.448Z",
+    "version": "1.0.20250418",
+    "generated": "2025-04-18T10:08:31.720Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "29c72e1223faeb13dc157174203ee459"
+    "hash": "edec68df635eda04122037589f8529fa"
   },
   "nsi": {
     "brands/amenity/bank": {
@@ -15,6 +15,17 @@
         {"displayName": "Quick Cashers", "id": "quickcashers-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Quick Cashers", "name": "Quick Cashers", "opening_hours": "10:00-22:00"}},
         {"displayName": "Sneaky Bank", "id": "sneakybank-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "Sneaky Bank", "name": "Sneaky Bank"}},
         {"displayName": "山河银行", "id": "7c59fb-b7a026", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bank", "brand": "山河银行", "name": "山河银行"}}
+      ],
+      "templates": []
+    },
+    "brands/amenity/bar": {
+      "properties": {"path": "brands/amenity/bar", "exclude": {"generic": [], "named": []}},
+      "items": [
+        {"displayName": "Bar Past Twelve", "id": "barpasttwelve-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Bar Past Twelve", "name": "Bar Past Twelve", "opening_hours": "22:00-04:30"}},
+        {"displayName": "Days are Numbers", "id": "daysarenumbers-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Days are Numbers", "name": "Days are Numbers", "opening_hours": "16:00-01:30"}},
+        {"displayName": "Let's Talk About Me", "id": "letstalkaboutme-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Let's Talk About Me", "name": "Let's Talk About Me"}},
+        {"displayName": "Lonely Nights", "id": "lonelynights-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Lonely Nights", "name": "Lonely Nights", "takeaway": "yes"}},
+        {"displayName": "Vulture Culture Bar", "id": "vultureculturebar-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Vulture Culture Bar", "name": "Vulture Culture Bar"}}
       ],
       "templates": []
     },
@@ -75,6 +86,7 @@
         {"displayName": "Drink & Connect", "id": "drinkandconnect-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "Drink & Connect", "name": "Drink & Connect", "takeaway": "yes"}},
         {"displayName": "LTE & A Coffee", "id": "lteandacoffee-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "LTE & A Coffee", "name": "LTE & A Coffee", "opening_hours": "08:00-22:00", "takeaway": "yes"}},
         {"displayName": "MatrixTime", "id": "matrixtime-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "MatrixTime", "name": "MatrixTime", "takeaway": "no"}},
+        {"displayName": "Name a Topic", "id": "nameatopic-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "Name a Topic", "name": "Name a Topic", "takeaway": "yes"}},
         {"displayName": "The GSM Corner", "id": "thegsmcorner-99542b", "locationSet": {"include": ["001"]}, "tags": {"amenity": "internet_cafe", "brand": "The GSM Corner", "name": "The GSM Corner", "takeaway": "yes"}}
       ],
       "templates": []
@@ -96,6 +108,8 @@
     "brands/amenity/restaurant": {
       "properties": {"path": "brands/amenity/restaurant", "exclude": {"generic": [], "named": []}},
       "items": [
+        {"displayName": "32 Meals", "id": "32meals-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "32 Meals", "name": "32 Meals"}},
+        {"displayName": "American Truths", "id": "americantruths-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "American Truths", "cuisine": "american", "name": "American Truths"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Ang Igado ni Maria", "id": "angigadonimaria-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"alt_name:en": "Maria's Igado", "amenity": "restaurant", "brand": "Ang Igado ni Maria", "cuisine": "filipino", "name": "Ang Igado ni Maria"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Cheat Day Meals", "id": "cheatdaymeals-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Cheat Day Meals", "name": "Cheat Day Meals"}},
         {"displayName": "Chess' Pizza", "id": "chesspizza-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Chess' Pizza", "cuisine": "pizza", "name": "Chess' Pizza"}},
@@ -109,14 +123,18 @@
         {"countryRestrictions": {"allowed": ["*"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Nalani's", "id": "nalanis-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Nalani's", "cuisine": "asian", "name": "Nalani's"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Original Lutang Meals", "id": "originallutangmeals-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Original Lutang Meals", "cuisine": "filipino", "name": "Original Lutang Meals"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "P.C.N. Chicken", "id": "pcnchicken-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "P.C.N. Chicken", "cuisine": "chicken", "name": "P.C.N. Chicken"}},
+        {"displayName": "Pure Meat", "id": "puremeat-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Pure Meat", "name": "Pure Meat"}},
         {"displayName": "Reech Food", "id": "reechfood-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Reech Food", "name": "Reech Food"}},
         {"displayName": "Tonight's The Night", "id": "tonightsthenight-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Tonight's The Night", "name": "Tonight's The Night"}},
+        {"displayName": "Vegan Queen", "id": "veganqueen-2fabb0", "locationSet": {"include": ["001"]}, "tags": {"amenity": "restaurant", "brand": "Vegan Queen", "name": "Vegan Queen", "opening_hours": "Mo-Fr 13:30-23:30"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": []}, "creator": "Lemuria", "displayName": "Your Mom's Igado", "id": "yourmomsigado-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"amenity": "restaurant", "brand": "Your Mom's Igado", "cuisine": "filipino", "name": "Your Mom's Igado"}},
         {"countryRestrictions": {"allowed": ["Huaxia"], "ask": [], "no": []}, "creator": "NM$l", "displayName": "诶！珍地道老铜锅", "id": "ed854c-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Huaxia", "tags": {"amenity": "restaurant", "brand": "诶！珍地道老铜锅", "cuisine": "Chinese", "cuisine_hx": "Huoguo (Shangjing)", "name": "诶！珍地道"}},
         {"countryRestrictions": {"allowed": ["Huaxia"], "ask": [], "no": []}, "creator": "NM$l", "displayName": "陈白麻辣烫", "id": "ac6813-2fabb0", "locationSet": {"include": ["001"]}, "originCountry": "Huaxia", "tags": {"amenity": "restaurant", "brand": "陈白麻辣烫", "cuisine": "Chinese", "cuisine_hx": "Malatang", "name": "陈白麻辣烫"}}
       ],
       "templates": []
     },
+    "brands/amenity/vehicle_inspection": {"properties": {"path": "brands/amenity/vehicle_inspection", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "MOT Cheap Car", "id": "motcheapcar-96b894", "locationSet": {"include": ["001"]}, "tags": {"amenity": "vehicle_inspection", "brand": "MOT Cheap Car", "name": "MOT Cheap Car", "opening_hours": "Mo-Fr 07:00-22:00"}}, {"displayName": "MOT RaBBAu", "id": "motrabbau-96b894", "locationSet": {"include": ["001"]}, "tags": {"amenity": "vehicle_inspection", "brand": "MOT RaBBAu", "name": "MOT RaBBAu", "opening_hours": "Mo-Fr 06:30-20:30"}}], "templates": []},
+    "brands/leisure/amusement_arcade": {"properties": {"path": "brands/leisure/amusement_arcade", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "GO! Arcade", "id": "goarcade-dd2442", "locationSet": {"include": ["001"]}, "tags": {"brand": "GO! Arcade", "leisure": "amusement_arcade", "name": "GO! Arcade", "opening_hours": "Tu-Su 10:00-00:00"}}, {"displayName": "Town Land Arcade", "id": "townlandarcade-dd2442", "locationSet": {"include": ["001"]}, "tags": {"brand": "Town Land Arcade", "leisure": "amusement_arcade", "name": "Town Land Arcade", "opening_hours": "17:00-02:00"}}], "templates": []},
     "brands/leisure/fitness_centre": {"properties": {"path": "brands/leisure/fitness_centre", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "ThickGym", "id": "thickgym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"brand": "ThickGym", "leisure": "fitness_centre", "name": "ThickGym", "opening_hours": "06:00-23:00"}}, {"displayName": "Wellbeing Gym", "id": "wellbeinggym-c8777b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Wellbeing Gym", "leisure": "fitness_centre", "name": "Wellbeing Gym", "opening_hours": "07:00-00:00"}}], "templates": []},
     "brands/office/insurance": {"properties": {"path": "brands/office/insurance", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "冚家人寿", "id": "b9a9a5-b9b33f", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家人寿", "name": "冚家人寿", "office": "insurance"}}], "templates": []},
     "brands/shop/bag": {"properties": {"path": "brands/shop/bag", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Carry It Bags", "id": "carryitbags-4123fd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Carry It Bags", "name": "Carry It Bags", "shop": "bag"}}, {"displayName": "Tote Things", "id": "totethings-4123fd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Tote Things", "name": "Tote Things", "shop": "bag"}}], "templates": []},
@@ -127,6 +145,8 @@
       "items": [
         {"displayName": "Autummfield", "id": "autummfield-3937bd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Autummfield", "name": "Autummfield", "shop": "clothes"}},
         {"displayName": "Citiess", "id": "citiess-3937bd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Citiess", "name": "Citiess", "shop": "clothes"}},
+        {"displayName": "Fashion Next Century", "id": "fashionnextcentury-3937bd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Fashion Next Century", "name": "Fashion Next Century", "shop": "clothes"}},
+        {"displayName": "La Moda PLOA", "id": "lamodaploa-3937bd", "locationSet": {"include": ["001"]}, "tags": {"brand": "La Moda PLOA", "name": "La Moda PLOA", "shop": "clothes"}},
         {"displayName": "Massimo Driver", "id": "massimodriver-3937bd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Massimo Driver", "name": "Massimo Driver", "shop": "clothes"}},
         {"displayName": "Orange Wear", "id": "orangewear-3937bd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Orange Wear", "name": "Orange Wear", "shop": "clothes"}},
         {"displayName": "Suit Yourself", "id": "suityourself-3937bd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Suit Yourself", "name": "Suit Yourself", "shop": "clothes"}}
@@ -164,7 +184,9 @@
       "templates": []
     },
     "brands/shop/department_store": {"properties": {"path": "brands/shop/department_store", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Discovery Department", "id": "discoverydepartment-03e633", "locationSet": {"include": ["001"]}, "tags": {"brand": "Discovery Department", "name": "Discovery Department", "shop": "department_store"}}, {"displayName": "The Italian Cut", "id": "theitaliancut-03e633", "locationSet": {"include": ["001"]}, "tags": {"air_conditioning": "yes", "brand": "The Italian Cut", "internet_access": "wlan", "name": "The Italian Cut", "opening_hours": "Mo-Sa 09:00-22:00; Su 10:00-22:00", "shop": "department_store", "toilets": "yes"}}], "templates": []},
+    "brands/shop/electronics": {"properties": {"path": "brands/shop/electronics", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Modern Tech", "id": "moderntech-9377b7", "locationSet": {"include": ["001"]}, "tags": {"brand": "Modern Tech", "name": "Modern Tech", "opening_hours": "10:00-22:00", "shop": "electronics"}}, {"displayName": "The Telescreen", "id": "thetelescreen-9377b7", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Telescreen", "name": "The Telescreen", "shop": "electronics"}}], "templates": []},
     "brands/shop/florist": {"properties": {"path": "brands/shop/florist", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Flower Power", "id": "flowerpower-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "Flower Power", "name": "Flower Power", "shop": "florist"}}, {"displayName": "Girasoles Land", "id": "girasolesland-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "Girasoles Land", "name": "Girasoles Land", "opening_hours": "10:00-22:00", "shop": "florist"}}, {"displayName": "New Roses", "id": "newroses-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "New Roses", "name": "New Roses", "opening_hours": "09:00-21:00", "shop": "florist"}}], "templates": []},
+    "brands/shop/gift": {"properties": {"path": "brands/shop/gift", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Gifts Lamarc", "id": "giftslamarc-9eb8a6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Gifts Lamarc", "name": "Gifts Lamarc", "opening_hours": "10:00-22:00", "shop": "gift"}}, {"displayName": "The RaBBAu Gifts", "id": "therabbaugifts-9eb8a6", "locationSet": {"include": ["001"]}, "tags": {"brand": "The RaBBAu Gifts", "name": "The RaBBAu Gifts", "shop": "gift"}}], "templates": []},
     "brands/shop/greengrocer": {"properties": {"path": "brands/shop/greengrocer", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Green Diet", "id": "greendiet-99d278", "locationSet": {"include": ["001"]}, "tags": {"brand": "Green Diet", "name": "Green Diet", "opening_hours": "06:00-15:00", "shop": "greengrocer"}}, {"displayName": "The Green Shopping", "id": "thegreenshopping-99d278", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Green Shopping", "name": "The Green Shopping", "opening_hours": "08:00-22:00", "shop": "greengrocer"}}], "templates": []},
     "brands/shop/hairdresser": {"properties": {"path": "brands/shop/hairdresser", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Ladreda Barber", "id": "ladredabarber-ece769", "locationSet": {"include": ["001"]}, "tags": {"brand": "Ladreda Barber", "name": "Ladreda Barber", "opening_hours": "Mo-Su 07:00-15:00", "shop": "hairdresser"}}, {"displayName": "Madrazos's Cut", "id": "madrazosscut-ece769", "locationSet": {"include": ["001"]}, "tags": {"brand": "Madrazos's Cut", "name": "Madrazos's Cut", "opening_hours": "Mo-Sa 08:00-21:30", "shop": "hairdresser"}}], "templates": []},
     "brands/shop/interior_decoration": {
@@ -201,7 +223,11 @@
     },
     "brands/shop/tobacco": {"properties": {"path": "brands/shop/tobacco", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "High Smokers", "id": "highsmokers-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "High Smokers", "name": "High Smokers", "shop": "tobacco"}}, {"displayName": "Redwood Magic", "id": "redwoodmagic-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Redwood Magic", "name": "Redwood Magic", "shop": "tobacco"}}], "templates": []},
     "brands/shop/toys": {"properties": {"path": "brands/shop/toys", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Happy Days!", "id": "happydays-80bf0f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Happy Days!", "name": "Happy Days!", "opening_hours": "Mo-Sa 10:00-21:00", "shop": "toys"}}, {"displayName": "Toys & U", "id": "toysandu-80bf0f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Toys & U", "name": "Toys & U", "opening_hours": "Mo-Fr 10:00-21:00; Sa 11:00-15:00", "shop": "toys"}}], "templates": []},
-    "brands/shop/variety_store": {"properties": {"path": "brands/shop/variety_store", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Bargain Catcher", "id": "bargaincatcher-70ec82", "locationSet": {"include": ["001"]}, "tags": {"brand": "Bargain Catcher", "name": "Bargain Catcher", "opening_hours": "09:00-21:00", "shop": "variety_store"}}, {"displayName": "Flying Lion", "id": "flyinglion-70ec82", "locationSet": {"include": ["001"]}, "tags": {"brand": "Flying Lion", "name": "Flying Lion", "shop": "variety_store"}}], "templates": []},
+    "brands/shop/variety_store": {
+      "properties": {"path": "brands/shop/variety_store", "exclude": {"generic": [], "named": []}},
+      "items": [{"displayName": "800 Useless", "id": "800useless-70ec82", "locationSet": {"include": ["001"]}, "tags": {"brand": "800 Useless", "name": "800 Useless", "shop": "variety_store"}}, {"displayName": "Bargain Catcher", "id": "bargaincatcher-70ec82", "locationSet": {"include": ["001"]}, "tags": {"brand": "Bargain Catcher", "name": "Bargain Catcher", "opening_hours": "09:00-21:00", "shop": "variety_store"}}, {"displayName": "Flying Lion", "id": "flyinglion-70ec82", "locationSet": {"include": ["001"]}, "tags": {"brand": "Flying Lion", "name": "Flying Lion", "shop": "variety_store"}}, {"displayName": "New Cent Ideas", "id": "newcentideas-70ec82", "locationSet": {"include": ["001"]}, "tags": {"brand": "New Cent Ideas", "name": "New Cent Ideas", "shop": "variety_store"}}],
+      "templates": []
+    },
     "brands/tourism/hostel": {"properties": {"path": "brands/tourism/hostel", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Sleep-in-Ø", "id": "sleepino-840e3b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Sleep-in-Ø", "name": "Sleep-in-Ø", "tourism": "hostel"}}], "templates": []},
     "brands/tourism/hotel": {
       "properties": {"path": "brands/tourism/hotel", "exclude": {"generic": [], "named": []}},
