@@ -5,6 +5,27 @@
   },
   "items": [
     {
+      "displayName": "32 Meals",
+      "id": "32meals-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "32 Meals",
+        "name": "32 Meals"
+      }
+    },
+    {
+      "displayName": "American Truths",
+      "id": "americantruths-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "American Truths",
+        "cuisine": "american",
+        "name": "American Truths"
+      }
+    },
+    {
       "countryRestrictions": {
         "allowed": ["Lutang"],
         "ask": [],
@@ -215,6 +236,16 @@
       }
     },
     {
+      "displayName": "Pure Meat",
+      "id": "puremeat-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Pure Meat",
+        "name": "Pure Meat"
+      }
+    },
+    {
       "displayName": "Reech Food",
       "id": "reechfood-2fabb0",
       "locationSet": {"include": ["001"]},
@@ -232,6 +263,17 @@
         "amenity": "restaurant",
         "brand": "Tonight's The Night",
         "name": "Tonight's The Night"
+      }
+    },
+    {
+      "displayName": "Vegan Queen",
+      "id": "veganqueen-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Vegan Queen",
+        "name": "Vegan Queen",
+        "opening_hours": "Mo-Fr 13:30-23:30"
       }
     },
     {

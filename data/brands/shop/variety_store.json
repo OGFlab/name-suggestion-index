@@ -5,6 +5,16 @@
   },
   "items": [
     {
+      "displayName": "800 Useless",
+      "id": "800useless-70ec82",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "800 Useless",
+        "name": "800 Useless",
+        "shop": "variety_store"
+      }
+    },
+    {
       "displayName": "Bargain Catcher",
       "id": "bargaincatcher-70ec82",
       "locationSet": {"include": ["001"]},
@@ -22,6 +32,16 @@
       "tags": {
         "brand": "Flying Lion",
         "name": "Flying Lion",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "New Cent Ideas",
+      "id": "newcentideas-70ec82",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "New Cent Ideas",
+        "name": "New Cent Ideas",
         "shop": "variety_store"
       }
     }

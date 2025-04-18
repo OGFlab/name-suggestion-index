@@ -39,6 +39,17 @@
       }
     },
     {
+      "displayName": "Name a Topic",
+      "id": "nameatopic-99542b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "internet_cafe",
+        "brand": "Name a Topic",
+        "name": "Name a Topic",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "The GSM Corner",
       "id": "thegsmcorner-99542b",
       "locationSet": {"include": ["001"]},

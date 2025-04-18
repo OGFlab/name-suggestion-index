@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/amenity/vehicle_inspection",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "MOT Cheap Car",
+      "id": "motcheapcar-96b894",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "MOT Cheap Car",
+        "name": "MOT Cheap Car",
+        "opening_hours": "Mo-Fr 07:00-22:00"
+      }
+    },
+    {
+      "displayName": "MOT RaBBAu",
+      "id": "motrabbau-96b894",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "vehicle_inspection",
+        "brand": "MOT RaBBAu",
+        "name": "MOT RaBBAu",
+        "opening_hours": "Mo-Fr 06:30-20:30"
+      }
+    }
+  ]
+}

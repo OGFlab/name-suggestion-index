@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "path": "brands/shop/electronics",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Modern Tech",
+      "id": "moderntech-9377b7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Modern Tech",
+        "name": "Modern Tech",
+        "opening_hours": "10:00-22:00",
+        "shop": "electronics"
+      }
+    },
+    {
+      "displayName": "The Telescreen",
+      "id": "thetelescreen-9377b7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Telescreen",
+        "name": "The Telescreen",
+        "shop": "electronics"
+      }
+    }
+  ]
+}

@@ -25,6 +25,26 @@
       }
     },
     {
+      "displayName": "Fashion Next Century",
+      "id": "fashionnextcentury-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Fashion Next Century",
+        "name": "Fashion Next Century",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "La Moda PLOA",
+      "id": "lamodaploa-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "La Moda PLOA",
+        "name": "La Moda PLOA",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Massimo Driver",
       "id": "massimodriver-3937bd",
       "locationSet": {"include": ["001"]},

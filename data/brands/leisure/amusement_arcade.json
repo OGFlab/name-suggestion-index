@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/leisure/amusement_arcade",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "GO! Arcade",
+      "id": "goarcade-dd2442",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "GO! Arcade",
+        "leisure": "amusement_arcade",
+        "name": "GO! Arcade",
+        "opening_hours": "Tu-Su 10:00-00:00"
+      }
+    },
+    {
+      "displayName": "Town Land Arcade",
+      "id": "townlandarcade-dd2442",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Town Land Arcade",
+        "leisure": "amusement_arcade",
+        "name": "Town Land Arcade",
+        "opening_hours": "17:00-02:00"
+      }
+    }
+  ]
+}

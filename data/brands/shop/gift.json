@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "path": "brands/shop/gift",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Gifts Lamarc",
+      "id": "giftslamarc-9eb8a6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Gifts Lamarc",
+        "name": "Gifts Lamarc",
+        "opening_hours": "10:00-22:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "displayName": "The RaBBAu Gifts",
+      "id": "therabbaugifts-9eb8a6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The RaBBAu Gifts",
+        "name": "The RaBBAu Gifts",
+        "shop": "gift"
+      }
+    }
+  ]
+}

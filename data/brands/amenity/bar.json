@@ -1,0 +1,61 @@
+{
+  "properties": {
+    "path": "brands/amenity/bar",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Bar Past Twelve",
+      "id": "barpasttwelve-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Bar Past Twelve",
+        "name": "Bar Past Twelve",
+        "opening_hours": "22:00-04:30"
+      }
+    },
+    {
+      "displayName": "Days are Numbers",
+      "id": "daysarenumbers-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Days are Numbers",
+        "name": "Days are Numbers",
+        "opening_hours": "16:00-01:30"
+      }
+    },
+    {
+      "displayName": "Let's Talk About Me",
+      "id": "letstalkaboutme-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Let's Talk About Me",
+        "name": "Let's Talk About Me"
+      }
+    },
+    {
+      "displayName": "Lonely Nights",
+      "id": "lonelynights-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Lonely Nights",
+        "name": "Lonely Nights",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Vulture Culture Bar",
+      "id": "vultureculturebar-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Vulture Culture Bar",
+        "name": "Vulture Culture Bar"
+      }
+    }
+  ]
+}
