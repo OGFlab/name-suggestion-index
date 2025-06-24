@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "path": "brands/tourism/guest_house",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Degrowth Student Accomodation",
+      "id": "degrowthstudentaccomodation-1dc259",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Degrowth Student Accomodation",
+        "guest_house": "student_accomodation",
+        "name": "Degrowth Student Accomodation",
+        "tourism": "guest_house"
+      }
+    }
+  ]
+}

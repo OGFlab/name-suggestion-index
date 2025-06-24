@@ -1,0 +1,28 @@
+{
+  "properties": {
+    "path": "brands/shop/jewelry",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Basement Jewel",
+      "id": "basementjewel-a038d2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Basement Jewel",
+        "name": "Basement Jewel",
+        "shop": "jewelry"
+      }
+    },
+    {
+      "displayName": "Mi Mitad",
+      "id": "mimitad-a038d2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mi Mitad",
+        "name": "Mi Mitad",
+        "shop": "jewelry"
+      }
+    }
+  ]
+}

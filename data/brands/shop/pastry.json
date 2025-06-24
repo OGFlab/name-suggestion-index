@@ -5,6 +5,17 @@
   },
   "items": [
     {
+      "displayName": "Columbus Pastry",
+      "id": "columbuspastry-4f1341",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Columbus Pastry",
+        "name": "Columbus Pastry",
+        "opening_hours": "06:20-14:00;17:00-20:00",
+        "shop": "pastry"
+      }
+    },
+    {
       "displayName": "Martinho Pastry",
       "id": "martinhopastry-4f1341",
       "locationSet": {"include": ["001"]},

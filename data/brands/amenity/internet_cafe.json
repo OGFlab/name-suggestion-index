@@ -59,6 +59,17 @@
         "name": "The GSM Corner",
         "takeaway": "yes"
       }
+    },
+    {
+      "displayName": "UMTS Decaf",
+      "id": "umtsdecaf-99542b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "internet_cafe",
+        "brand": "UMTS Decaf",
+        "name": "UMTS Decaf",
+        "takeaway": "yes"
+      }
     }
   ]
 }

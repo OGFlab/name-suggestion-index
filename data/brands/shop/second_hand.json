@@ -25,6 +25,17 @@
         "opening_hours": "09:00-21:00",
         "shop": "second_hand"
       }
+    },
+    {
+      "displayName": "Sallipop",
+      "id": "sallipop-c55c73",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sallipop",
+        "name": "Sallipop",
+        "opening_hours": "09:00-21:00",
+        "shop": "second_hand"
+      }
     }
   ]
 }

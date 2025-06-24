@@ -64,6 +64,18 @@
       }
     },
     {
+      "displayName": "Miss Food",
+      "id": "missfood-658eea",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Miss Food",
+        "cuisine": "italian",
+        "name": "Miss Food",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "The Alt Sandwich",
       "id": "thealtsandwich-658eea",
       "locationSet": {"include": ["001"]},

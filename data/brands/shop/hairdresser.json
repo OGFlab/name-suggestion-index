@@ -25,6 +25,17 @@
         "opening_hours": "Mo-Sa 08:00-21:30",
         "shop": "hairdresser"
       }
+    },
+    {
+      "displayName": "Truly Stilish",
+      "id": "trulystilish-ece769",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Truly Stilish",
+        "name": "Truly Stilish",
+        "opening_hours": "Mo-Sa 10:00-20:30",
+        "shop": "hairdresser"
+      }
     }
   ]
 }

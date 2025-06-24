@@ -1,0 +1,41 @@
+{
+  "properties": {
+    "path": "brands/shop/optician",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Glasses FRY",
+      "id": "glassesfry-4fd8bc",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Glasses FRY",
+        "name": "Glasses FRY",
+        "opening_hours": "10:00-22:00",
+        "shop": "optician"
+      }
+    },
+    {
+      "displayName": "New Eyes",
+      "id": "neweyes-4fd8bc",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "New Eyes",
+        "name": "New Eyes",
+        "opening_hours": "10:00-22:00",
+        "shop": "optician"
+      }
+    },
+    {
+      "displayName": "Trik Glasses",
+      "id": "trikglasses-4fd8bc",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Trik Glasses",
+        "name": "Trik Glasses",
+        "opening_hours": "10:00-22:00",
+        "shop": "optician"
+      }
+    }
+  ]
+}

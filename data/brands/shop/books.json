@@ -16,6 +16,17 @@
       }
     },
     {
+      "displayName": "Salvadores Lectores",
+      "id": "salvadoreslectores-ef41f6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Salvadores Lectores",
+        "name": "Salvadores Lectores",
+        "opening_hours": "08:00-20:00",
+        "shop": "books"
+      }
+    },
+    {
       "displayName": "The Book's Home",
       "id": "thebookshome-ef41f6",
       "locationSet": {"include": ["001"]},

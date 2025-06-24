@@ -48,6 +48,28 @@
       }
     },
     {
+      "displayName": "Money's",
+      "id": "moneys-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Money's",
+        "name": "Money's",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Troubadour",
+      "id": "troubadour-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Troubadour",
+        "name": "Troubadour",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Vulture Culture Bar",
       "id": "vultureculturebar-225648",
       "locationSet": {"include": ["001"]},

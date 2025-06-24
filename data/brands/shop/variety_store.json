@@ -36,6 +36,16 @@
       }
     },
     {
+      "displayName": "Money Bargain",
+      "id": "moneybargain-70ec82",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Money Bargain",
+        "name": "Money Bargain",
+        "shop": "variety_store"
+      }
+    },
+    {
       "displayName": "New Cent Ideas",
       "id": "newcentideas-70ec82",
       "locationSet": {"include": ["001"]},

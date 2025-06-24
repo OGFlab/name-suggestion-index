@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "path": "brands/leisure/sauna",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Fomocos Sauna",
+      "id": "fomocossauna-7a820d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Fomocos Sauna",
+        "leisure": "sauna",
+        "name": "Fomocos Sauna",
+        "opening_hours": "Tu-Su 10:00-00:00"
+      }
+    },
+    {
+      "displayName": "Hot Surfaces",
+      "id": "hotsurfaces-7a820d",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hot Surfaces",
+        "leisure": "sauna",
+        "name": "Hot Surfaces",
+        "opening_hours": "10:00-22:00"
+      }
+    }
+  ]
+}

@@ -35,6 +35,16 @@
       }
     },
     {
+      "displayName": "Expert Market",
+      "id": "expertmarket-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Expert Market",
+        "name": "Expert Market",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Forteno",
       "id": "forteno-986a24",
       "locationSet": {"include": ["001"]},

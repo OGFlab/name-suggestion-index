@@ -5,6 +5,17 @@
   },
   "items": [
     {
+      "displayName": "Comer Sano",
+      "id": "comersano-99d278",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Comer Sano",
+        "name": "Comer Sano",
+        "opening_hours": "08:00-22:00",
+        "shop": "greengrocer"
+      }
+    },
+    {
       "displayName": "Green Diet",
       "id": "greendiet-99d278",
       "locationSet": {"include": ["001"]},

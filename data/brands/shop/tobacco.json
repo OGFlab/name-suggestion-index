@@ -15,6 +15,16 @@
       }
     },
     {
+      "displayName": "Max the Lunght",
+      "id": "maxthelunght-5a36f3",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Max the Lunght",
+        "name": "Max the Lunght",
+        "shop": "tobacco"
+      }
+    },
+    {
       "displayName": "Redwood Magic",
       "id": "redwoodmagic-5a36f3",
       "locationSet": {"include": ["001"]},

@@ -5,6 +5,28 @@
   },
   "items": [
     {
+      "displayName": "Heavy Stuff",
+      "id": "heavystuff-c8777b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Heavy Stuff",
+        "leisure": "fitness_centre",
+        "name": "Heavy Stuff",
+        "opening_hours": "06:00-22:00"
+      }
+    },
+    {
+      "displayName": "The Gym Ways",
+      "id": "thegymways-c8777b",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "The Gym Ways",
+        "leisure": "fitness_centre",
+        "name": "The Gym Ways",
+        "opening_hours": "06:00-22:00"
+      }
+    },
+    {
       "displayName": "ThickGym",
       "id": "thickgym-c8777b",
       "locationSet": {"include": ["001"]},
