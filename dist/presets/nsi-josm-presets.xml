@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20250418">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20250624">
   <group name="Name Suggestion Index">
     <group name="brands">
       <group name="amenity">
         <group name="bank">
+          <item name="Bank Glory" type="node,closedway,multipolygon">
+            <key key="amenity" value="bank"/>
+            <key key="brand" value="Bank Glory"/>
+            <key key="name" value="Bank Glory"/>
+          </item>
           <item name="Bank of Kofuku" type="node,closedway,multipolygon">
             <key key="amenity" value="bank"/>
             <key key="brand" value="Bank of Kofuku"/>
@@ -62,6 +67,18 @@
             <key key="name" value="Lonely Nights"/>
             <key key="takeaway" value="yes"/>
           </item>
+          <item name="Money's" type="node,closedway,multipolygon">
+            <key key="amenity" value="bar"/>
+            <key key="brand" value="Money's"/>
+            <key key="name" value="Money's"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Troubadour" type="node,closedway,multipolygon">
+            <key key="amenity" value="bar"/>
+            <key key="brand" value="Troubadour"/>
+            <key key="name" value="Troubadour"/>
+            <key key="takeaway" value="yes"/>
+          </item>
           <item name="Vulture Culture Bar" type="node,closedway,multipolygon">
             <key key="amenity" value="bar"/>
             <key key="brand" value="Vulture Culture Bar"/>
@@ -105,6 +122,14 @@
             <key key="cuisine" value="coffee_shop"/>
             <key key="name" value="Maravillas Coffee"/>
             <key key="opening_hours" value="10:00-15:00;16:00-23:30"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Miss Caffeina" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="Miss Caffeina"/>
+            <key key="cuisine" value="coffee_shop"/>
+            <key key="name" value="Miss Caffeina"/>
+            <key key="opening_hours" value="06:00-15:00;16:00-18:00"/>
             <key key="takeaway" value="yes"/>
           </item>
           <item name="Seven Stars" type="node,closedway,multipolygon">
@@ -199,6 +224,13 @@
             <key key="brand" value="Food Problems"/>
             <key key="cuisine" value="italian"/>
             <key key="name" value="Food Problems"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="Miss Food" type="node,closedway,multipolygon">
+            <key key="amenity" value="fast_food"/>
+            <key key="brand" value="Miss Food"/>
+            <key key="cuisine" value="italian"/>
+            <key key="name" value="Miss Food"/>
             <key key="takeaway" value="yes"/>
           </item>
           <item name="The Alt Sandwich" type="node,closedway,multipolygon">
@@ -309,6 +341,12 @@
             <key key="name" value="The GSM Corner"/>
             <key key="takeaway" value="yes"/>
           </item>
+          <item name="UMTS Decaf" type="node,closedway,multipolygon">
+            <key key="amenity" value="internet_cafe"/>
+            <key key="brand" value="UMTS Decaf"/>
+            <key key="name" value="UMTS Decaf"/>
+            <key key="takeaway" value="yes"/>
+          </item>
         </group>
         <group name="parcel_locker">
           <item name="Crackzon Locker" type="node,closedway,multipolygon">
@@ -350,6 +388,12 @@
             <key key="brand" value="SecondRepublic Pharmacy"/>
             <key key="healthcare" value="pharmacy"/>
             <key key="name" value="SecondRepublic Pharmacy"/>
+          </item>
+          <item name="Sensatez Pills" type="node,closedway,multipolygon">
+            <key key="amenity" value="pharmacy"/>
+            <key key="brand" value="Sensatez Pills"/>
+            <key key="healthcare" value="pharmacy"/>
+            <key key="name" value="Sensatez Pills"/>
           </item>
           <item name="ThirdRepublic Pharmacy" type="node,closedway,multipolygon">
             <key key="amenity" value="pharmacy"/>
@@ -548,6 +592,18 @@
           </item>
         </group>
         <group name="fitness_centre">
+          <item name="Heavy Stuff" type="node,closedway,multipolygon">
+            <key key="brand" value="Heavy Stuff"/>
+            <key key="leisure" value="fitness_centre"/>
+            <key key="name" value="Heavy Stuff"/>
+            <key key="opening_hours" value="06:00-22:00"/>
+          </item>
+          <item name="The Gym Ways" type="node,closedway,multipolygon">
+            <key key="brand" value="The Gym Ways"/>
+            <key key="leisure" value="fitness_centre"/>
+            <key key="name" value="The Gym Ways"/>
+            <key key="opening_hours" value="06:00-22:00"/>
+          </item>
           <item name="ThickGym" type="node,closedway,multipolygon">
             <key key="brand" value="ThickGym"/>
             <key key="leisure" value="fitness_centre"/>
@@ -559,6 +615,20 @@
             <key key="leisure" value="fitness_centre"/>
             <key key="name" value="Wellbeing Gym"/>
             <key key="opening_hours" value="07:00-00:00"/>
+          </item>
+        </group>
+        <group name="sauna">
+          <item name="Fomocos Sauna" type="node,closedway,multipolygon">
+            <key key="brand" value="Fomocos Sauna"/>
+            <key key="leisure" value="sauna"/>
+            <key key="name" value="Fomocos Sauna"/>
+            <key key="opening_hours" value="Tu-Su 10:00-00:00"/>
+          </item>
+          <item name="Hot Surfaces" type="node,closedway,multipolygon">
+            <key key="brand" value="Hot Surfaces"/>
+            <key key="leisure" value="sauna"/>
+            <key key="name" value="Hot Surfaces"/>
+            <key key="opening_hours" value="10:00-22:00"/>
           </item>
         </group>
       </group>
@@ -602,6 +672,12 @@
             <key key="brand" value="Outstanding Sheets"/>
             <key key="name" value="Outstanding Sheets"/>
             <key key="opening_hours" value="07:00-18:00"/>
+            <key key="shop" value="books"/>
+          </item>
+          <item name="Salvadores Lectores" type="node,closedway,multipolygon">
+            <key key="brand" value="Salvadores Lectores"/>
+            <key key="name" value="Salvadores Lectores"/>
+            <key key="opening_hours" value="08:00-20:00"/>
             <key key="shop" value="books"/>
           </item>
           <item name="The Book's Home" type="node,closedway,multipolygon">
@@ -829,6 +905,12 @@
           </item>
         </group>
         <group name="greengrocer">
+          <item name="Comer Sano" type="node,closedway,multipolygon">
+            <key key="brand" value="Comer Sano"/>
+            <key key="name" value="Comer Sano"/>
+            <key key="opening_hours" value="08:00-22:00"/>
+            <key key="shop" value="greengrocer"/>
+          </item>
           <item name="Green Diet" type="node,closedway,multipolygon">
             <key key="brand" value="Green Diet"/>
             <key key="name" value="Green Diet"/>
@@ -855,6 +937,12 @@
             <key key="opening_hours" value="Mo-Sa 08:00-21:30"/>
             <key key="shop" value="hairdresser"/>
           </item>
+          <item name="Truly Stilish" type="node,closedway,multipolygon">
+            <key key="brand" value="Truly Stilish"/>
+            <key key="name" value="Truly Stilish"/>
+            <key key="opening_hours" value="Mo-Sa 10:00-20:30"/>
+            <key key="shop" value="hairdresser"/>
+          </item>
         </group>
         <group name="interior_decoration">
           <item name="Busta's Decors" type="node,closedway,multipolygon">
@@ -875,6 +963,18 @@
             <key key="shop" value="interior_decoration"/>
           </item>
         </group>
+        <group name="jewelry">
+          <item name="Basement Jewel" type="node,closedway,multipolygon">
+            <key key="brand" value="Basement Jewel"/>
+            <key key="name" value="Basement Jewel"/>
+            <key key="shop" value="jewelry"/>
+          </item>
+          <item name="Mi Mitad" type="node,closedway,multipolygon">
+            <key key="brand" value="Mi Mitad"/>
+            <key key="name" value="Mi Mitad"/>
+            <key key="shop" value="jewelry"/>
+          </item>
+        </group>
         <group name="laundry">
           <item name="Dry RaBBAu" type="node,closedway,multipolygon">
             <key key="brand" value="Dry RaBBAu"/>
@@ -887,7 +987,33 @@
             <key key="shop" value="laundry"/>
           </item>
         </group>
+        <group name="optician">
+          <item name="Glasses FRY" type="node,closedway,multipolygon">
+            <key key="brand" value="Glasses FRY"/>
+            <key key="name" value="Glasses FRY"/>
+            <key key="opening_hours" value="10:00-22:00"/>
+            <key key="shop" value="optician"/>
+          </item>
+          <item name="New Eyes" type="node,closedway,multipolygon">
+            <key key="brand" value="New Eyes"/>
+            <key key="name" value="New Eyes"/>
+            <key key="opening_hours" value="10:00-22:00"/>
+            <key key="shop" value="optician"/>
+          </item>
+          <item name="Trik Glasses" type="node,closedway,multipolygon">
+            <key key="brand" value="Trik Glasses"/>
+            <key key="name" value="Trik Glasses"/>
+            <key key="opening_hours" value="10:00-22:00"/>
+            <key key="shop" value="optician"/>
+          </item>
+        </group>
         <group name="pastry">
+          <item name="Columbus Pastry" type="node,closedway,multipolygon">
+            <key key="brand" value="Columbus Pastry"/>
+            <key key="name" value="Columbus Pastry"/>
+            <key key="opening_hours" value="06:20-14:00;17:00-20:00"/>
+            <key key="shop" value="pastry"/>
+          </item>
           <item name="Martinho Pastry" type="node,closedway,multipolygon">
             <key key="brand" value="Martinho Pastry"/>
             <key key="name" value="Martinho Pastry"/>
@@ -918,6 +1044,12 @@
             <key key="opening_hours" value="09:00-21:00"/>
             <key key="shop" value="second_hand"/>
           </item>
+          <item name="Sallipop" type="node,closedway,multipolygon">
+            <key key="brand" value="Sallipop"/>
+            <key key="name" value="Sallipop"/>
+            <key key="opening_hours" value="09:00-21:00"/>
+            <key key="shop" value="second_hand"/>
+          </item>
         </group>
         <group name="supermarket">
           <item name="Constellations Shopping" type="node,closedway,multipolygon">
@@ -933,6 +1065,11 @@
           <item name="Coregro" type="node,closedway,multipolygon">
             <key key="brand" value="Coregro"/>
             <key key="name" value="Coregro"/>
+            <key key="shop" value="supermarket"/>
+          </item>
+          <item name="Expert Market" type="node,closedway,multipolygon">
+            <key key="brand" value="Expert Market"/>
+            <key key="name" value="Expert Market"/>
             <key key="shop" value="supermarket"/>
           </item>
           <item name="Forteno" type="node,closedway,multipolygon">
@@ -1018,6 +1155,11 @@
             <key key="name" value="High Smokers"/>
             <key key="shop" value="tobacco"/>
           </item>
+          <item name="Max the Lunght" type="node,closedway,multipolygon">
+            <key key="brand" value="Max the Lunght"/>
+            <key key="name" value="Max the Lunght"/>
+            <key key="shop" value="tobacco"/>
+          </item>
           <item name="Redwood Magic" type="node,closedway,multipolygon">
             <key key="brand" value="Redwood Magic"/>
             <key key="name" value="Redwood Magic"/>
@@ -1055,6 +1197,11 @@
             <key key="name" value="Flying Lion"/>
             <key key="shop" value="variety_store"/>
           </item>
+          <item name="Money Bargain" type="node,closedway,multipolygon">
+            <key key="brand" value="Money Bargain"/>
+            <key key="name" value="Money Bargain"/>
+            <key key="shop" value="variety_store"/>
+          </item>
           <item name="New Cent Ideas" type="node,closedway,multipolygon">
             <key key="brand" value="New Cent Ideas"/>
             <key key="name" value="New Cent Ideas"/>
@@ -1063,6 +1210,14 @@
         </group>
       </group>
       <group name="tourism">
+        <group name="guest_house">
+          <item name="Degrowth Student Accomodation" type="node,closedway,multipolygon">
+            <key key="brand" value="Degrowth Student Accomodation"/>
+            <key key="guest_house" value="student_accomodation"/>
+            <key key="name" value="Degrowth Student Accomodation"/>
+            <key key="tourism" value="guest_house"/>
+          </item>
+        </group>
         <group name="hostel">
           <item name="Sleep-in-Ø" type="node,closedway,multipolygon">
             <key key="brand" value="Sleep-in-Ø"/>
