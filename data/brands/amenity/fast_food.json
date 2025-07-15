@@ -100,6 +100,18 @@
       }
     },
     {
+      "displayName": "The Italian Force",
+      "id": "theitalianforce-658eea",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "The Italian Force",
+        "cuisine": "italian",
+        "name": "The Italian Force",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Trunk Road",
       "id": "trunkroad-658eea",
       "locationSet": {"include": ["001"]},

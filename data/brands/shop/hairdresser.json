@@ -5,6 +5,17 @@
   },
   "items": [
     {
+      "displayName": "Arbi Barber Shop",
+      "id": "arbibarbershop-ece769",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Arbi Barber Shop",
+        "name": "Arbi Barber Shop",
+        "opening_hours": "Mo-Sa 08:00-21:30",
+        "shop": "hairdresser"
+      }
+    },
+    {
       "displayName": "Ladreda Barber",
       "id": "ladredabarber-ece769",
       "locationSet": {"include": ["001"]},

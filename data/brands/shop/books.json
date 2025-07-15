@@ -5,6 +5,17 @@
   },
   "items": [
     {
+      "displayName": "Moore's Book Home",
+      "id": "mooresbookhome-ef41f6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Moore's Book Home",
+        "name": "Moore's Book Home",
+        "opening_hours": "08:00-20:00",
+        "shop": "books"
+      }
+    },
+    {
       "displayName": "Outstanding Sheets",
       "id": "outstandingsheets-ef41f6",
       "locationSet": {"include": ["001"]},

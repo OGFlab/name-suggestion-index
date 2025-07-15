@@ -16,6 +16,28 @@
       }
     },
     {
+      "displayName": "Committed Bar",
+      "id": "committedbar-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Committed Bar",
+        "name": "Committed Bar",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Daily Bar",
+      "id": "dailybar-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Daily Bar",
+        "name": "Daily Bar",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Days are Numbers",
       "id": "daysarenumbers-225648",
       "locationSet": {"include": ["001"]},
@@ -24,6 +46,17 @@
         "brand": "Days are Numbers",
         "name": "Days are Numbers",
         "opening_hours": "16:00-01:30"
+      }
+    },
+    {
+      "displayName": "Halfway Dream Bar",
+      "id": "halfwaydreambar-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Halfway Dream Bar",
+        "name": "Halfway Dream Bar",
+        "takeaway": "yes"
       }
     },
     {
@@ -55,6 +88,39 @@
         "amenity": "bar",
         "brand": "Money's",
         "name": "Money's",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Subar",
+      "id": "subar-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Subar",
+        "name": "Subar",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "The Edge Place",
+      "id": "theedgeplace-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "The Edge Place",
+        "name": "The Edge Place",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "The Media Bar",
+      "id": "themediabar-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "The Media Bar",
+        "name": "The Media Bar",
         "takeaway": "yes"
       }
     },

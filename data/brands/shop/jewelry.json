@@ -15,6 +15,16 @@
       }
     },
     {
+      "displayName": "Jewel Santos",
+      "id": "jewelsantos-a038d2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Jewel Santos",
+        "name": "Jewel Santos",
+        "shop": "jewelry"
+      }
+    },
+    {
       "displayName": "Mi Mitad",
       "id": "mimitad-a038d2",
       "locationSet": {"include": ["001"]},

@@ -55,6 +55,32 @@
       }
     },
     {
+      "displayName": "Lodilla",
+      "id": "lodilla-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Lodilla",
+        "cuisine": "coffee_shop",
+        "name": "Lodilla",
+        "opening_hours": "06:00-21:30",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Lunatic Café",
+      "id": "lunaticcafe-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Lunatic Café",
+        "cuisine": "coffee_shop",
+        "name": "Lunatic Café",
+        "opening_hours": "06:00-23:00",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Maravillas Coffee",
       "id": "maravillascoffee-e1ef51",
       "locationSet": {"include": ["001"]},
@@ -81,6 +107,19 @@
       }
     },
     {
+      "displayName": "Python Coffee",
+      "id": "pythoncoffee-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Python Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Python Coffee",
+        "opening_hours": "10:00-15:00;16:00-23:30",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Seven Stars",
       "id": "sevenstars-e1ef51",
       "locationSet": {"include": ["001"]},
@@ -90,6 +129,19 @@
         "cuisine": "coffee_shop",
         "name": "Seven Stars",
         "opening_hours": "06:00-20:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Shortbreak",
+      "id": "shortbreak-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Shortbreak",
+        "cuisine": "coffee_shop",
+        "name": "Shortbreak",
+        "opening_hours": "06:00-18:00",
         "takeaway": "yes"
       }
     },
