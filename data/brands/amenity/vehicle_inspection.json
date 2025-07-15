@@ -16,13 +16,13 @@
       }
     },
     {
-      "displayName": "MOT RaBBAu",
+      "displayName": "MOT Rabbau",
       "id": "motrabbau-96b894",
       "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "vehicle_inspection",
-        "brand": "MOT RaBBAu",
-        "name": "MOT RaBBAu",
+        "brand": "MOT Rabbau",
+        "name": "MOT Rabbau",
         "opening_hours": "Mo-Fr 06:30-20:30"
       }
     }
