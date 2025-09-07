@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20250715",
-    "generated": "2025-07-15T21:41:13.878Z",
+    "version": "1.0.20250907",
+    "generated": "2025-09-07T11:25:45.838Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "680ad0953e9826590fc36e81ddd71be0"
+    "hash": "bef4ac6820abf94ac081c3f7b733c04e"
   },
   "nsi": {
     "brands/amenity/bank": {
@@ -23,9 +23,12 @@
       "properties": {"path": "brands/amenity/bar", "exclude": {"generic": [], "named": []}},
       "items": [
         {"displayName": "Bar Past Twelve", "id": "barpasttwelve-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Bar Past Twelve", "name": "Bar Past Twelve", "opening_hours": "22:00-04:30"}},
+        {"displayName": "Ciudades", "id": "ciudades-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Ciudades", "name": "Ciudades"}},
         {"displayName": "Committed Bar", "id": "committedbar-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Committed Bar", "name": "Committed Bar", "takeaway": "yes"}},
         {"displayName": "Daily Bar", "id": "dailybar-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Daily Bar", "name": "Daily Bar", "takeaway": "yes"}},
         {"displayName": "Days are Numbers", "id": "daysarenumbers-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Days are Numbers", "name": "Days are Numbers", "opening_hours": "16:00-01:30"}},
+        {"displayName": "Fight Club", "id": "fightclub-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Fight Club", "name": "Fight Club"}},
+        {"displayName": "FiveSixNine", "id": "fivesixnine-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "FiveSixNine", "name": "FiveSixNine"}},
         {"displayName": "Halfway Dream Bar", "id": "halfwaydreambar-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Halfway Dream Bar", "name": "Halfway Dream Bar", "takeaway": "yes"}},
         {"displayName": "Let's Talk About Me", "id": "letstalkaboutme-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Let's Talk About Me", "name": "Let's Talk About Me"}},
         {"displayName": "Lonely Nights", "id": "lonelynights-225648", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bar", "brand": "Lonely Nights", "name": "Lonely Nights", "takeaway": "yes"}},
@@ -38,9 +41,21 @@
       ],
       "templates": []
     },
+    "brands/amenity/bureau_de_change": {
+      "properties": {"path": "brands/amenity/bureau_de_change", "exclude": {"generic": [], "named": []}},
+      "items": [
+        {"displayName": "Broke Guys", "id": "brokeguys-68a7b7", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bureau_de_change", "brand": "Broke Guys", "name": "Broke Guys", "opening_hours": "10:00-21:00"}},
+        {"displayName": "Confidence Exchange", "id": "confidenceexchange-68a7b7", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bureau_de_change", "brand": "Confidence Exchange", "name": "Confidence Exchange", "opening_hours": "07:00-21:00"}},
+        {"displayName": "Legal Pickpockets", "id": "legalpickpockets-68a7b7", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bureau_de_change", "brand": "Legal Pickpockets", "name": "Legal Pickpockets", "opening_hours": "08:00-20:00"}},
+        {"displayName": "Papis' Money", "id": "papismoneye-68a7b7", "locationSet": {"include": ["001"]}, "tags": {"amenity": "bureau_de_change", "brand": "Papis' Money", "name": "Papis' Moneye", "opening_hours": "08:00-20:00"}}
+      ],
+      "templates": []
+    },
     "brands/amenity/cafe": {
       "properties": {"path": "brands/amenity/cafe", "exclude": {"generic": [], "named": []}},
       "items": [
+        {"displayName": "Bloom Cafe", "id": "bloomcafe-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Bloom Cafe", "cuisine": "coffee_shop", "name": "Bloom Cafe", "takeaway": "no"}},
+        {"displayName": "Café Deco", "id": "cafedeco-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Café Deco", "cuisine": "coffee_shop", "name": "Café Deco", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
         {"displayName": "Chacafé", "id": "chacafe-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Chacafé", "cuisine": "coffee_shop", "name": "Chacafé", "takeaway": "yes"}},
         {"displayName": "Coffe Lake", "id": "coffelake-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Universe Coffee", "cuisine": "coffee_shop", "name": "Coffe Lake", "opening_hours": "06:00-15:00;17:00-20:00", "takeaway": "yes"}},
         {"displayName": "Feel Good Café", "id": "feelgoodcafe-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Feel Good Café", "cuisine": "coffee_shop", "name": "Feel Good Café", "opening_hours": "07:00-21:30", "takeaway": "yes"}},
@@ -54,10 +69,12 @@
         {"displayName": "Shortbreak", "id": "shortbreak-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Shortbreak", "cuisine": "coffee_shop", "name": "Shortbreak", "opening_hours": "06:00-18:00", "takeaway": "yes"}},
         {"displayName": "The Corner Coffee", "id": "thecornercoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "The Corner Coffee", "cuisine": "coffee_shop", "name": "The Corner Coffee", "opening_hours": "06:00-23:00", "takeaway": "yes"}},
         {"displayName": "Universe Coffee", "id": "universecoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Universe Coffee", "cuisine": "coffee_shop", "name": "Universe Coffee", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
+        {"displayName": "Wolves Coffee", "id": "wolvescoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "UWolves Coffee", "cuisine": "coffee_shop", "name": "Wolves Coffee", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
         {"displayName": "这↑里↓奶茶", "id": "963d94-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "这↑里↓奶茶", "cuisine": "bubble_tea", "name": "这↑里↓奶茶", "takeaway": "yes"}}
       ],
       "templates": []
     },
+    "brands/amenity/casino": {"properties": {"path": "brands/amenity/casino", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Crown Casino", "id": "crowncasino-d8b1b6", "locationSet": {"include": ["001"]}, "tags": {"amenity": "casino", "brand": "Crown Casino", "name": "Crown Casino", "opening_hours": "22:00-04:30"}}, {"displayName": "Leia Resorts", "id": "leiaresorts-d8b1b6", "locationSet": {"include": ["001"]}, "tags": {"amenity": "casino", "brand": "Leia Resorts", "name": "Leia Resorts", "takeaway": "yes"}}, {"displayName": "No Cap!", "id": "nocap-d8b1b6", "locationSet": {"include": ["001"]}, "tags": {"amenity": "casino", "brand": "No Cap!", "name": "No Cap!", "takeaway": "yes"}}], "templates": []},
     "brands/amenity/cinema": {
       "properties": {"path": "brands/amenity/cinema", "exclude": {"generic": [], "named": []}},
       "items": [
@@ -66,6 +83,16 @@
         {"displayName": "Helmet Cinemas", "id": "helmetcinemas-f33303", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cinema", "brand": "Helmet Cinemas", "name": "Helmet Cinemas"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "displayName": "MoviePlanet", "id": "movieplanet-f33303", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cinema", "brand": "MoviePlanet", "name": "MoviePlanet"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Screeners", "id": "screeners-f33303", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cinema", "brand": "Screeners", "name": "Screeners"}}
+      ],
+      "templates": []
+    },
+    "brands/amenity/dentist": {
+      "properties": {"path": "brands/amenity/dentist", "exclude": {"generic": [], "named": []}},
+      "items": [
+        {"displayName": "Bye Sweeties", "id": "byesweeties-1194d5", "locationSet": {"include": ["001"]}, "tags": {"amenity": "dentist", "brand": "Bye Sweeties", "healthcare": "dentist", "name": "Bye Sweeties"}},
+        {"displayName": "Dental Rapid", "id": "dentalrapid-1194d5", "locationSet": {"include": ["001"]}, "tags": {"amenity": "dentist", "brand": "Dental Rapid", "healthcare": "dentist", "name": "Dental Rapid"}},
+        {"displayName": "DirtyWorks", "id": "dirtyworks-1194d5", "locationSet": {"include": ["001"]}, "tags": {"amenity": "dentist", "brand": "DirtyWorks", "healthcare": "dentist", "name": "DirtyWorks", "opening_hours": "10:00-18:00"}},
+        {"displayName": "Terminal Ending", "id": "terminalending-1194d5", "locationSet": {"include": ["001"]}, "tags": {"amenity": "dentist", "brand": "Terminal Ending", "healthcare": "dentist", "name": "Terminal Ending", "opening_hours": "10:00-21:00"}}
       ],
       "templates": []
     },
@@ -82,7 +109,8 @@
         {"displayName": "The Delivery Pizza", "id": "thedeliverypizza-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "The Delivery Pizza", "cuisine": "pizza", "name": "The Delivery Pizza", "takeaway": "yes"}},
         {"displayName": "The Italian Force", "id": "theitalianforce-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "The Italian Force", "cuisine": "italian", "name": "The Italian Force", "takeaway": "yes"}},
         {"displayName": "Trunk Road", "id": "trunkroad-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Trunk Road", "cuisine": "sandwich", "name": "Trunk Road", "takeaway": "yes"}},
-        {"displayName": "World Pasta", "id": "worldpasta-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "World Pasta", "cuisine": "italian", "name": "World Pasta", "takeaway": "no"}}
+        {"displayName": "World Pasta", "id": "worldpasta-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "World Pasta", "cuisine": "italian", "name": "World Pasta", "takeaway": "no"}},
+        {"displayName": "Young Hungry", "id": "younghungry-658eea", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fast_food", "brand": "Young Hungry", "cuisine": "american", "name": "Young Hungry", "takeaway": "yes"}}
       ],
       "templates": []
     },
@@ -94,6 +122,11 @@
         {"displayName": "Ocean Fuel", "id": "oceanfuel-b3d110", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fuel", "brand": "Ocean Fuel", "fuel:diesel": "yes", "fuel:e10": "yes", "fuel:lpg": "yes", "fuel:octane_95": "yes", "fuel:octane_98": "yes", "name": "Ocean Fuel", "opening_hours": "06:00-00:00"}},
         {"displayName": "Vegetable Gasoline", "id": "vegetablegasoline-b3d110", "locationSet": {"include": ["001"]}, "tags": {"amenity": "fuel", "brand": "Vegetable Gasoline", "fuel:diesel": "yes", "fuel:e10": "yes", "fuel:lpg": "yes", "fuel:octane_95": "yes", "fuel:octane_98": "yes", "name": "Vegetable Gasoline", "opening_hours": "24/7", "service_times": "07:00-14:00,16:00-22:00"}}
       ],
+      "templates": []
+    },
+    "brands/amenity/ice_cream": {
+      "properties": {"path": "brands/amenity/ice_cream", "exclude": {"generic": [], "named": []}},
+      "items": [{"displayName": "Antojos Ice Cream", "id": "antojosicecream-87d971", "locationSet": {"include": ["001"]}, "tags": {"amenity": "ice_cream", "brand": "Antojos Ice Cream", "name": "Antojos Ice Cream", "takeaway": "yes"}}, {"displayName": "Cold & Tasty", "id": "coldandtasty-87d971", "locationSet": {"include": ["001"]}, "tags": {"amenity": "ice_cream", "brand": "Cold & Tasty", "name": "Cold & Tasty", "opening_hours": "09:00-21:30", "takeaway": "yes"}}, {"displayName": "Iced Paradise", "id": "icedparadise-87d971", "locationSet": {"include": ["001"]}, "tags": {"amenity": "ice_cream", "brand": "Iced Paradise", "name": "Iced Paradise", "opening_hours": "09:00-15:00;17:00-20:00", "takeaway": "yes"}}],
       "templates": []
     },
     "brands/amenity/internet_cafe": {
@@ -112,6 +145,7 @@
     "brands/amenity/pharmacy": {
       "properties": {"path": "brands/amenity/pharmacy", "exclude": {"generic": [], "named": []}},
       "items": [
+        {"displayName": "Labs Pharmacy", "id": "labspharmacy-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "Labs Pharmacy", "healthcare": "pharmacy", "name": "Labs Pharmacy"}},
         {"countryRestrictions": {"no": [], "ask": [], "allowed": ["*"]}, "displayName": "Ōdasamo Takeri 大山清", "id": "odasamotakeri-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "Ōdasamo Takeri", "healthcare": "pharmacy", "name": "Ōdasamo Takeri", "name:en": "Ōdasamo Takeri", "name:izaki": "大山清"}},
         {"displayName": "Pills & Syrups", "id": "pillsandsyrups-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "Pills & Syrups", "healthcare": "pharmacy", "name": "Pills & Syrups", "name:en": "Pills & Syrups"}},
         {"displayName": "Ross Medicines", "id": "rossmedicines-f5140f", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pharmacy", "brand": "Ross Medicines", "healthcare": "pharmacy", "name": "Ross Medicines", "name:en": "Ross Medicines"}},
@@ -122,7 +156,16 @@
       "templates": []
     },
     "brands/amenity/post_office": {"properties": {"path": "brands/amenity/post_office", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "华夏邮政", "id": "33743b-27cb18", "locationSet": {"include": ["001"]}, "tags": {"amenity": "post_office", "brand": "华夏邮政", "name": "华夏邮政", "operator": "华夏共和国邮政部"}}, {"displayName": "速达邮", "id": "40246e-27cb18", "locationSet": {"include": ["001"]}, "tags": {"amenity": "post_office", "brand": "速达邮", "name": "速达邮", "operator": "上京速达邮物流管理有限公司"}}], "templates": []},
-    "brands/amenity/pub": {"properties": {"path": "brands/amenity/pub", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Football & Drinks", "id": "footballanddrinks-296a9c", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pub", "brand": "Football & Drinks", "name": "Football & Drinks", "opening_hours": "Tu-Th 16:00-22:00; Fr-Sa 16:00-02:00; Su 18:00-00:00"}}, {"displayName": "Late Sat Pub", "id": "latesatpub-296a9c", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pub", "brand": "Late Sat Pub", "name": "Late Sat Pub", "opening_hours": "We-Mo 12:00-23:00"}}], "templates": []},
+    "brands/amenity/pub": {
+      "properties": {"path": "brands/amenity/pub", "exclude": {"generic": [], "named": []}},
+      "items": [
+        {"displayName": "Football & Drinks", "id": "footballanddrinks-296a9c", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pub", "brand": "Football & Drinks", "name": "Football & Drinks", "opening_hours": "Tu-Th 16:00-22:00; Fr-Sa 16:00-02:00; Su 18:00-00:00"}},
+        {"displayName": "Late Sat Pub", "id": "latesatpub-296a9c", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pub", "brand": "Late Sat Pub", "name": "Late Sat Pub", "opening_hours": "We-Mo 12:00-23:00"}},
+        {"displayName": "The Queens Arms", "id": "thequeensarms-296a9c", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pub", "brand": "The Queens Arms", "name": "The Queens Arms", "opening_hours": "Tu-Fr 10:00-22:00,Sa-Su 15:00-04:00"}},
+        {"displayName": "Trampoline Pub", "id": "trampolinepub-296a9c", "locationSet": {"include": ["001"]}, "tags": {"amenity": "pub", "brand": "Trampoline Pub", "name": "Trampoline Pub"}}
+      ],
+      "templates": []
+    },
     "brands/amenity/restaurant": {
       "properties": {"path": "brands/amenity/restaurant", "exclude": {"generic": [], "named": []}},
       "items": [
@@ -167,11 +210,26 @@
     "brands/office/insurance": {"properties": {"path": "brands/office/insurance", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "冚家人寿", "id": "b9a9a5-b9b33f", "locationSet": {"include": ["001"]}, "tags": {"brand": "冚家人寿", "name": "冚家人寿", "office": "insurance"}}], "templates": []},
     "brands/shop/bag": {"properties": {"path": "brands/shop/bag", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Carry It Bags", "id": "carryitbags-4123fd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Carry It Bags", "name": "Carry It Bags", "shop": "bag"}}, {"displayName": "Tote Things", "id": "totethings-4123fd", "locationSet": {"include": ["001"]}, "tags": {"brand": "Tote Things", "name": "Tote Things", "shop": "bag"}}], "templates": []},
     "brands/shop/bakery": {"properties": {"path": "brands/shop/bakery", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Dolce Bakes", "id": "dolcebakes-4f9c7f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Dolce Bakes", "name": "Dolce Bakes", "shop": "bakery"}}, {"displayName": "Trenial Bakes", "id": "trenialbakes-4f9c7f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Trenial Bakes", "name": "Trenial Bakes", "opening_hours": "06:30-13:00,16:00-19:00", "shop": "bakery"}}], "templates": []},
+    "brands/shop/beauty": {
+      "properties": {"path": "brands/shop/beauty", "exclude": {"generic": [], "named": []}},
+      "items": [
+        {"displayName": "Get Ready", "id": "getready-0c474f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Get Ready", "name": "Get Ready", "shop": "beauty"}},
+        {"displayName": "Great Lash", "id": "greatlash-0c474f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Great Lash", "name": "Great Lash", "shop": "beauty"}},
+        {"displayName": "Nails for Ya", "id": "nailsforya-0c474f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Nails for Ya", "name": "Nails for Ya", "shop": "beauty"}},
+        {"displayName": "Renga Nails", "id": "renganails-0c474f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Renga Nails", "name": "Renga Nails", "shop": "beauty"}},
+        {"displayName": "Santos Brows", "id": "santosbrows-0c474f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Santos Brows", "name": "Santos Brows", "shop": "beauty"}},
+        {"displayName": "Waxing Lorsa", "id": "waxinglorsa-0c474f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Waxing Lorsa", "name": "Waxing Lorsa", "shop": "beauty"}},
+        {"displayName": "Weekend Salons", "id": "weekendsalons-0c474f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Weekend Salons", "name": "Weekend Salons", "shop": "beauty"}}
+      ],
+      "templates": []
+    },
     "brands/shop/books": {
       "properties": {"path": "brands/shop/books", "exclude": {"generic": [], "named": []}},
       "items": [
+        {"displayName": "High Booksellers", "id": "highbooksellers-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "High Booksellers", "name": "High Booksellers", "opening_hours": "10:00-21:00", "shop": "books"}},
         {"displayName": "Moore's Book Home", "id": "mooresbookhome-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Moore's Book Home", "name": "Moore's Book Home", "opening_hours": "08:00-20:00", "shop": "books"}},
         {"displayName": "Outstanding Sheets", "id": "outstandingsheets-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Outstanding Sheets", "name": "Outstanding Sheets", "opening_hours": "07:00-18:00", "shop": "books"}},
+        {"displayName": "Paper Maxi", "id": "papermaxi-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Paper Maxi", "name": "Paper Maxi", "opening_hours": "09:00-20:00", "shop": "books"}},
         {"displayName": "Salvadores Lectores", "id": "salvadoreslectores-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Salvadores Lectores", "name": "Salvadores Lectores", "opening_hours": "08:00-20:00", "shop": "books"}},
         {"displayName": "The Book's Home", "id": "thebookshome-ef41f6", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Book's Home", "name": "The Book's Home", "opening_hours": "10:00-21:00", "shop": "books"}}
       ],
@@ -208,6 +266,7 @@
         {"displayName": "Mineral Drinks", "id": "mineraldrinks-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Mineral Drinks", "name": "Mineral Drinks", "shop": "convenience"}},
         {"displayName": "Minimarket", "id": "minimarket-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Minimarket", "name": "Minimarket", "shop": "convenience"}},
         {"displayName": "PickIt!", "id": "pickit-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "PickIt!", "name": "PickIt!", "shop": "convenience"}},
+        {"displayName": "René Quick Shop", "id": "renequickshop-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "René Quick Shop", "name": "René Quick Shop", "shop": "convenience"}},
         {"displayName": "Saturno", "id": "saturno-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Saturno", "name": "Saturno", "shop": "convenience"}},
         {"displayName": "Six Twelve", "id": "sixtwelve-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "Six Twelve", "name": "Six Twelve", "shop": "convenience"}},
         {"displayName": "WicMart", "id": "wicmart-4d6b4b", "locationSet": {"include": ["001"]}, "tags": {"brand": "WicMart", "name": "WicMart", "shop": "convenience"}},
@@ -220,10 +279,14 @@
       "items": [{"displayName": "Central Copy", "id": "centralcopy-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "Central Copy", "name": "Central Copy", "shop": "copyshop"}}, {"displayName": "CopyTime", "id": "copytime-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "CopyTime", "name": "CopyTime", "shop": "copyshop"}}, {"displayName": "Ctrl + V", "id": "ctrlv-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "Ctrl + V", "name": "Ctrl + V", "shop": "copyshop"}}, {"displayName": "Dot Print", "id": "dotprint-f71638", "locationSet": {"include": ["001"]}, "tags": {"brand": "Dot Print", "name": "Dot Print", "shop": "copyshop"}}],
       "templates": []
     },
-    "brands/shop/department_store": {"properties": {"path": "brands/shop/department_store", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Discovery Department", "id": "discoverydepartment-03e633", "locationSet": {"include": ["001"]}, "tags": {"brand": "Discovery Department", "name": "Discovery Department", "shop": "department_store"}}, {"displayName": "The Italian Cut", "id": "theitaliancut-03e633", "locationSet": {"include": ["001"]}, "tags": {"air_conditioning": "yes", "brand": "The Italian Cut", "internet_access": "wlan", "name": "The Italian Cut", "opening_hours": "Mo-Sa 09:00-22:00; Su 10:00-22:00", "shop": "department_store", "toilets": "yes"}}], "templates": []},
+    "brands/shop/department_store": {
+      "properties": {"path": "brands/shop/department_store", "exclude": {"generic": [], "named": []}},
+      "items": [{"displayName": "Discovery Department", "id": "discoverydepartment-03e633", "locationSet": {"include": ["001"]}, "tags": {"brand": "Discovery Department", "name": "Discovery Department", "shop": "department_store"}}, {"displayName": "Midnight Store", "id": "midnightstore-03e633", "locationSet": {"include": ["001"]}, "tags": {"brand": "Midnight Store", "name": "Midnight Store", "shop": "department_store"}}, {"displayName": "The Italian Cut", "id": "theitaliancut-03e633", "locationSet": {"include": ["001"]}, "tags": {"air_conditioning": "yes", "brand": "The Italian Cut", "internet_access": "wlan", "name": "The Italian Cut", "opening_hours": "Mo-Sa 09:00-22:00; Su 10:00-22:00", "shop": "department_store", "toilets": "yes"}}],
+      "templates": []
+    },
     "brands/shop/electronics": {"properties": {"path": "brands/shop/electronics", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Modern Tech", "id": "moderntech-9377b7", "locationSet": {"include": ["001"]}, "tags": {"brand": "Modern Tech", "name": "Modern Tech", "opening_hours": "10:00-22:00", "shop": "electronics"}}, {"displayName": "The Telescreen", "id": "thetelescreen-9377b7", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Telescreen", "name": "The Telescreen", "shop": "electronics"}}], "templates": []},
     "brands/shop/florist": {"properties": {"path": "brands/shop/florist", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Flower Power", "id": "flowerpower-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "Flower Power", "name": "Flower Power", "shop": "florist"}}, {"displayName": "Girasoles Land", "id": "girasolesland-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "Girasoles Land", "name": "Girasoles Land", "opening_hours": "10:00-22:00", "shop": "florist"}}, {"displayName": "New Roses", "id": "newroses-64f976", "locationSet": {"include": ["001"]}, "tags": {"brand": "New Roses", "name": "New Roses", "opening_hours": "09:00-21:00", "shop": "florist"}}], "templates": []},
-    "brands/shop/gift": {"properties": {"path": "brands/shop/gift", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Gifts Lamarc", "id": "giftslamarc-9eb8a6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Gifts Lamarc", "name": "Gifts Lamarc", "opening_hours": "10:00-22:00", "shop": "gift"}}, {"displayName": "The Rabbau Gifts", "id": "therabbaugifts-9eb8a6", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Rabbau Gifts", "name": "The Rabbau Gifts", "shop": "gift"}}], "templates": []},
+    "brands/shop/gift": {"properties": {"path": "brands/shop/gift", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Gifts Lamarc", "id": "giftslamarc-9eb8a6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Gifts Lamarc", "name": "Gifts Lamarc", "opening_hours": "10:00-22:00", "shop": "gift"}}, {"displayName": "Midnight Gifts", "id": "midnightgifts-9eb8a6", "locationSet": {"include": ["001"]}, "tags": {"brand": "Midnight Gifts", "name": "Midnight Gifts", "shop": "gift"}}, {"displayName": "The Rabbau Gifts", "id": "therabbaugifts-9eb8a6", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Rabbau Gifts", "name": "The Rabbau Gifts", "shop": "gift"}}], "templates": []},
     "brands/shop/greengrocer": {"properties": {"path": "brands/shop/greengrocer", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Comer Sano", "id": "comersano-99d278", "locationSet": {"include": ["001"]}, "tags": {"brand": "Comer Sano", "name": "Comer Sano", "opening_hours": "08:00-22:00", "shop": "greengrocer"}}, {"displayName": "Green Diet", "id": "greendiet-99d278", "locationSet": {"include": ["001"]}, "tags": {"brand": "Green Diet", "name": "Green Diet", "opening_hours": "06:00-15:00", "shop": "greengrocer"}}, {"displayName": "The Green Shopping", "id": "thegreenshopping-99d278", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Green Shopping", "name": "The Green Shopping", "opening_hours": "08:00-22:00", "shop": "greengrocer"}}], "templates": []},
     "brands/shop/hairdresser": {
       "properties": {"path": "brands/shop/hairdresser", "exclude": {"generic": [], "named": []}},
@@ -242,6 +305,7 @@
     },
     "brands/shop/jewelry": {"properties": {"path": "brands/shop/jewelry", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Basement Jewel", "id": "basementjewel-a038d2", "locationSet": {"include": ["001"]}, "tags": {"brand": "Basement Jewel", "name": "Basement Jewel", "shop": "jewelry"}}, {"displayName": "Jewel Santos", "id": "jewelsantos-a038d2", "locationSet": {"include": ["001"]}, "tags": {"brand": "Jewel Santos", "name": "Jewel Santos", "shop": "jewelry"}}, {"displayName": "Mi Mitad", "id": "mimitad-a038d2", "locationSet": {"include": ["001"]}, "tags": {"brand": "Mi Mitad", "name": "Mi Mitad", "shop": "jewelry"}}], "templates": []},
     "brands/shop/laundry": {"properties": {"path": "brands/shop/laundry", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Dry Rabbau", "id": "dryrabbau-ca17f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Dry Rabbau", "name": "Dry Rabbau", "shop": "laundry"}}, {"displayName": "Laundry Express", "id": "laundryexpress-ca17f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Laundry Express", "name": "Laundry Express", "shop": "laundry"}}], "templates": []},
+    "brands/shop/music": {"properties": {"path": "brands/shop/music", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Flipside Audio", "id": "flipsideaudio-e843fe", "locationSet": {"include": ["001"]}, "tags": {"brand": "Flipside Audio", "name": "Flipside Audio", "shop": "music"}}, {"displayName": "Platinum Discs", "id": "platinumdiscs-e843fe", "locationSet": {"include": ["001"]}, "tags": {"brand": "Platinum Discs", "name": "Platinum Discs", "shop": "music"}}, {"displayName": "Real Life Music", "id": "reallifemusic-e843fe", "locationSet": {"include": ["001"]}, "tags": {"brand": "Real Life Music", "name": "Real Life Music", "shop": "music"}}], "templates": []},
     "brands/shop/optician": {"properties": {"path": "brands/shop/optician", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Glasses FRY", "id": "glassesfry-4fd8bc", "locationSet": {"include": ["001"]}, "tags": {"brand": "Glasses FRY", "name": "Glasses FRY", "opening_hours": "10:00-22:00", "shop": "optician"}}, {"displayName": "New Eyes", "id": "neweyes-4fd8bc", "locationSet": {"include": ["001"]}, "tags": {"brand": "New Eyes", "name": "New Eyes", "opening_hours": "10:00-22:00", "shop": "optician"}}, {"displayName": "Trik Glasses", "id": "trikglasses-4fd8bc", "locationSet": {"include": ["001"]}, "tags": {"brand": "Trik Glasses", "name": "Trik Glasses", "opening_hours": "10:00-22:00", "shop": "optician"}}], "templates": []},
     "brands/shop/pastry": {
       "properties": {"path": "brands/shop/pastry", "exclude": {"generic": [], "named": []}},
@@ -264,6 +328,7 @@
         {"displayName": "Forteno", "id": "forteno-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Forteno", "name": "Forteno", "shop": "supermarket"}},
         {"displayName": "Gigante", "id": "gigante-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Gigante", "name": "Gigante", "shop": "supermarket"}},
         {"displayName": "Hiper Madrazo", "id": "hipermadrazo-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Hiper Madrazo", "name": "Hiper Madrazo", "shop": "supermarket"}},
+        {"displayName": "Hipertor", "id": "hipertor-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Hipertor", "name": "Hipertor", "shop": "supermarket"}},
         {"displayName": "Hollow Market", "id": "hollowmarket-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Hollow Market", "name": "Hollow Market", "shop": "supermarket"}},
         {"displayName": "JANSA ᡶ᠋ᠠᠨᡄᠠ", "id": "jansa-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "JANSA", "name": "JANSA ᡶ᠋ᠠᠨᡄᠠ", "shop": "supermarket"}},
         {"displayName": "Keppò Subemerkàw", "id": "kepposubemerkaw-986a24", "locationSet": {"include": ["001"]}, "tags": {"brand": "Keppò Subemerkàw", "name": "Keppò Subemerkàw", "shop": "supermarket"}},
@@ -279,7 +344,11 @@
       ],
       "templates": []
     },
-    "brands/shop/tobacco": {"properties": {"path": "brands/shop/tobacco", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "High Smokers", "id": "highsmokers-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "High Smokers", "name": "High Smokers", "shop": "tobacco"}}, {"displayName": "Max the Lunght", "id": "maxthelunght-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Max the Lunght", "name": "Max the Lunght", "shop": "tobacco"}}, {"displayName": "Redwood Magic", "id": "redwoodmagic-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Redwood Magic", "name": "Redwood Magic", "shop": "tobacco"}}], "templates": []},
+    "brands/shop/tobacco": {
+      "properties": {"path": "brands/shop/tobacco", "exclude": {"generic": [], "named": []}},
+      "items": [{"displayName": "High Smokers", "id": "highsmokers-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "High Smokers", "name": "High Smokers", "shop": "tobacco"}}, {"displayName": "Malas Lenguas", "id": "malaslenguas-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Malas Lenguas", "name": "Malas Lenguas", "shop": "tobacco"}}, {"displayName": "Max the Lunght", "id": "maxthelunght-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Max the Lunght", "name": "Max the Lunght", "shop": "tobacco"}}, {"displayName": "Redwood Magic", "id": "redwoodmagic-5a36f3", "locationSet": {"include": ["001"]}, "tags": {"brand": "Redwood Magic", "name": "Redwood Magic", "shop": "tobacco"}}],
+      "templates": []
+    },
     "brands/shop/toys": {"properties": {"path": "brands/shop/toys", "exclude": {"generic": [], "named": []}}, "items": [{"displayName": "Happy Days!", "id": "happydays-80bf0f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Happy Days!", "name": "Happy Days!", "opening_hours": "Mo-Sa 10:00-21:00", "shop": "toys"}}, {"displayName": "Toys & U", "id": "toysandu-80bf0f", "locationSet": {"include": ["001"]}, "tags": {"brand": "Toys & U", "name": "Toys & U", "opening_hours": "Mo-Fr 10:00-21:00; Sa 11:00-15:00", "shop": "toys"}}], "templates": []},
     "brands/shop/variety_store": {
       "properties": {"path": "brands/shop/variety_store", "exclude": {"generic": [], "named": []}},
@@ -308,9 +377,11 @@
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Leyton Hotel", "id": "leytonhotel-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Leyton Hotel", "name": "Leyton Hotel", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "creator": "Lemuria", "displayName": "Madaling Araw Hotel", "id": "madalingarawhotel-779ccb", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"brand": "Madaling Araw Hotel", "name": "Madaling Araw Hotel", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "Meridian Suites", "id": "meridiansuites-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Meridian Suites", "name": "Meridian Suites", "tourism": "hotel"}},
+        {"displayName": "Midgnight Dreams", "id": "midgnightdreams-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Midgnight Dreams", "name": "Midgnight Dreams", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["Lutang"], "ask": [], "no": ["*"]}, "creator": "Lemuria", "displayName": "Pangtulog", "id": "pangtulog-779ccb", "locationSet": {"include": ["001"]}, "originCountry": "Lutang", "tags": {"brand": "Pangtulog", "name": "Pangtulog", "tourism": "hotel"}},
         {"displayName": "Seleste Hotels", "id": "selestehotels-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Seleste Hotels and Resorts", "name": "Seleste Hotels", "tourism": "hotel"}},
         {"displayName": "Sleep'Inn", "id": "sleepinn-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Sleep'Inn", "name": "Sleep'Inn", "tourism": "hotel"}},
+        {"displayName": "Sleeping Well Hotel", "id": "sleepingwellhotel-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "Sleeping Well Hotel", "name": "Sleeping Well Hotel", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "The Atrium", "id": "theatrium-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Atrium", "name": "The Atrium", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "The Bassett", "id": "thebassett-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Bassett", "name": "The Bassett", "tourism": "hotel"}},
         {"countryRestrictions": {"allowed": ["FSA"], "ask": [], "no": ["*"]}, "displayName": "The Wilberding", "id": "thewilberding-779ccb", "locationSet": {"include": ["001"]}, "tags": {"brand": "The Wilberding", "name": "The Wilberding", "tourism": "hotel"}},
