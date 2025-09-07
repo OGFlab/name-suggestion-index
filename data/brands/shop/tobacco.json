@@ -15,6 +15,16 @@
       }
     },
     {
+      "displayName": "Malas Lenguas",
+      "id": "malaslenguas-5a36f3",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Malas Lenguas",
+        "name": "Malas Lenguas",
+        "shop": "tobacco"
+      }
+    },
+    {
       "displayName": "Max the Lunght",
       "id": "maxthelunght-5a36f3",
       "locationSet": {"include": ["001"]},

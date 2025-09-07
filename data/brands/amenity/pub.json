@@ -25,6 +25,27 @@
         "name": "Late Sat Pub",
         "opening_hours": "We-Mo 12:00-23:00"
       }
+    },
+    {
+      "displayName": "The Queens Arms",
+      "id": "thequeensarms-296a9c",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pub",
+        "brand": "The Queens Arms",
+        "name": "The Queens Arms",
+        "opening_hours": "Tu-Fr 10:00-22:00,Sa-Su 15:00-04:00"
+      }
+    },
+    {
+      "displayName": "Trampoline Pub",
+      "id": "trampolinepub-296a9c",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pub",
+        "brand": "Trampoline Pub",
+        "name": "Trampoline Pub"
+      }
     }
   ]
 }

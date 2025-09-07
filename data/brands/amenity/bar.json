@@ -16,6 +16,16 @@
       }
     },
     {
+      "displayName": "Ciudades",
+      "id": "ciudades-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Ciudades",
+        "name": "Ciudades"
+      }
+    },
+    {
       "displayName": "Committed Bar",
       "id": "committedbar-225648",
       "locationSet": {"include": ["001"]},
@@ -46,6 +56,26 @@
         "brand": "Days are Numbers",
         "name": "Days are Numbers",
         "opening_hours": "16:00-01:30"
+      }
+    },
+    {
+      "displayName": "Fight Club",
+      "id": "fightclub-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "Fight Club",
+        "name": "Fight Club"
+      }
+    },
+    {
+      "displayName": "FiveSixNine",
+      "id": "fivesixnine-225648",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bar",
+        "brand": "FiveSixNine",
+        "name": "FiveSixNine"
       }
     },
     {

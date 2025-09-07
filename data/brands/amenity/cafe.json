@@ -5,6 +5,31 @@
   },
   "items": [
     {
+      "displayName": "Bloom Cafe",
+      "id": "bloomcafe-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Bloom Cafe",
+        "cuisine": "coffee_shop",
+        "name": "Bloom Cafe",
+        "takeaway": "no"
+      }
+    },
+    {
+      "displayName": "Café Deco",
+      "id": "cafedeco-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Café Deco",
+        "cuisine": "coffee_shop",
+        "name": "Café Deco",
+        "opening_hours": "10:00-15:00;16:00-23:30",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Chacafé",
       "id": "chacafe-e1ef51",
       "locationSet": {"include": ["001"]},
@@ -167,6 +192,19 @@
         "brand": "Universe Coffee",
         "cuisine": "coffee_shop",
         "name": "Universe Coffee",
+        "opening_hours": "10:00-15:00;16:00-23:30",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Wolves Coffee",
+      "id": "wolvescoffee-e1ef51",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "UWolves Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Wolves Coffee",
         "opening_hours": "10:00-15:00;16:00-23:30",
         "takeaway": "yes"
       }

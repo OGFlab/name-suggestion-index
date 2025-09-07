@@ -1,0 +1,78 @@
+{
+  "properties": {
+    "path": "brands/shop/beauty",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Get Ready",
+      "id": "getready-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Get Ready",
+        "name": "Get Ready",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Great Lash",
+      "id": "greatlash-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Great Lash",
+        "name": "Great Lash",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Nails for Ya",
+      "id": "nailsforya-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Nails for Ya",
+        "name": "Nails for Ya",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Renga Nails",
+      "id": "renganails-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Renga Nails",
+        "name": "Renga Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Santos Brows",
+      "id": "santosbrows-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Santos Brows",
+        "name": "Santos Brows",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Waxing Lorsa",
+      "id": "waxinglorsa-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Waxing Lorsa",
+        "name": "Waxing Lorsa",
+        "shop": "beauty"
+      }
+    },
+    {
+      "displayName": "Weekend Salons",
+      "id": "weekendsalons-0c474f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Weekend Salons",
+        "name": "Weekend Salons",
+        "shop": "beauty"
+      }
+    }
+  ]
+}

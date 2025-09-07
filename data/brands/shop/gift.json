@@ -16,6 +16,16 @@
       }
     },
     {
+      "displayName": "Midnight Gifts",
+      "id": "midnightgifts-9eb8a6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Midnight Gifts",
+        "name": "Midnight Gifts",
+        "shop": "gift"
+      }
+    },
+    {
       "displayName": "The Rabbau Gifts",
       "id": "therabbaugifts-9eb8a6",
       "locationSet": {"include": ["001"]},

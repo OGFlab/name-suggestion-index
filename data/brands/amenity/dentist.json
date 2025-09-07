@@ -1,0 +1,54 @@
+{
+  "properties": {
+    "path": "brands/amenity/dentist",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Bye Sweeties",
+      "id": "byesweeties-1194d5",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Bye Sweeties",
+        "healthcare": "dentist",
+        "name": "Bye Sweeties"
+      }
+    },
+    {
+      "displayName": "Dental Rapid",
+      "id": "dentalrapid-1194d5",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Dental Rapid",
+        "healthcare": "dentist",
+        "name": "Dental Rapid"
+      }
+    },
+    {
+      "displayName": "DirtyWorks",
+      "id": "dirtyworks-1194d5",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "dentist",
+        "brand": "DirtyWorks",
+        "healthcare": "dentist",
+        "name": "DirtyWorks",
+        "opening_hours": "10:00-18:00"
+      }
+    },
+    {
+      "displayName": "Terminal Ending",
+      "id": "terminalending-1194d5",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "dentist",
+        "brand": "Terminal Ending",
+        "healthcare": "dentist",
+        "name": "Terminal Ending",
+        "opening_hours": "10:00-21:00"
+      }
+    }
+  ]
+}

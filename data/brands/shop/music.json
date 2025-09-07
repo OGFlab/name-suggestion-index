@@ -1,0 +1,38 @@
+{
+  "properties": {
+    "path": "brands/shop/music",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Flipside Audio",
+      "id": "flipsideaudio-e843fe",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Flipside Audio",
+        "name": "Flipside Audio",
+        "shop": "music"
+      }
+    },
+    {
+      "displayName": "Platinum Discs",
+      "id": "platinumdiscs-e843fe",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Platinum Discs",
+        "name": "Platinum Discs",
+        "shop": "music"
+      }
+    },
+    {
+      "displayName": "Real Life Music",
+      "id": "reallifemusic-e843fe",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Real Life Music",
+        "name": "Real Life Music",
+        "shop": "music"
+      }
+    }
+  ]
+}

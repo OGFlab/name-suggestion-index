@@ -1,0 +1,43 @@
+{
+  "properties": {
+    "path": "brands/amenity/ice_cream",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Antojos Ice Cream",
+      "id": "antojosicecream-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Antojos Ice Cream",
+        "name": "Antojos Ice Cream",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Cold & Tasty",
+      "id": "coldandtasty-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Cold & Tasty",
+        "name": "Cold & Tasty",
+        "opening_hours": "09:00-21:30",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Iced Paradise",
+      "id": "icedparadise-87d971",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Iced Paradise",
+        "name": "Iced Paradise",
+        "opening_hours": "09:00-15:00;17:00-20:00",
+        "takeaway": "yes"
+      }
+    }
+  ]
+}

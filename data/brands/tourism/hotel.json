@@ -161,6 +161,16 @@
       }
     },
     {
+      "displayName": "Midgnight Dreams",
+      "id": "midgnightdreams-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Midgnight Dreams",
+        "name": "Midgnight Dreams",
+        "tourism": "hotel"
+      }
+    },
+    {
       "countryRestrictions": {
         "allowed": ["Lutang"],
         "ask": [],
@@ -194,6 +204,16 @@
       "tags": {
         "brand": "Sleep'Inn",
         "name": "Sleep'Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Sleeping Well Hotel",
+      "id": "sleepingwellhotel-779ccb",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Sleeping Well Hotel",
+        "name": "Sleeping Well Hotel",
         "tourism": "hotel"
       }
     },

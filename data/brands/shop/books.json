@@ -5,6 +5,17 @@
   },
   "items": [
     {
+      "displayName": "High Booksellers",
+      "id": "highbooksellers-ef41f6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "High Booksellers",
+        "name": "High Booksellers",
+        "opening_hours": "10:00-21:00",
+        "shop": "books"
+      }
+    },
+    {
       "displayName": "Moore's Book Home",
       "id": "mooresbookhome-ef41f6",
       "locationSet": {"include": ["001"]},
@@ -23,6 +34,17 @@
         "brand": "Outstanding Sheets",
         "name": "Outstanding Sheets",
         "opening_hours": "07:00-18:00",
+        "shop": "books"
+      }
+    },
+    {
+      "displayName": "Paper Maxi",
+      "id": "papermaxi-ef41f6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Paper Maxi",
+        "name": "Paper Maxi",
+        "opening_hours": "09:00-20:00",
         "shop": "books"
       }
     },

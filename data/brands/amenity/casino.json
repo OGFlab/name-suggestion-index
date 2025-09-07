@@ -1,0 +1,41 @@
+{
+  "properties": {
+    "path": "brands/amenity/casino",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Crown Casino",
+      "id": "crowncasino-d8b1b6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "casino",
+        "brand": "Crown Casino",
+        "name": "Crown Casino",
+        "opening_hours": "22:00-04:30"
+      }
+    },
+    {
+      "displayName": "Leia Resorts",
+      "id": "leiaresorts-d8b1b6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "casino",
+        "brand": "Leia Resorts",
+        "name": "Leia Resorts",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "No Cap!",
+      "id": "nocap-d8b1b6",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "casino",
+        "brand": "No Cap!",
+        "name": "No Cap!",
+        "takeaway": "yes"
+      }
+    }
+  ]
+}

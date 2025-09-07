@@ -15,6 +15,16 @@
       }
     },
     {
+      "displayName": "Midnight Store",
+      "id": "midnightstore-03e633",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Midnight Store",
+        "name": "Midnight Store",
+        "shop": "department_store"
+      }
+    },
+    {
       "displayName": "The Italian Cut",
       "id": "theitaliancut-03e633",
       "locationSet": {"include": ["001"]},

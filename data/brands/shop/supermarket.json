@@ -75,6 +75,16 @@
       }
     },
     {
+      "displayName": "Hipertor",
+      "id": "hipertor-986a24",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Hipertor",
+        "name": "Hipertor",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Hollow Market",
       "id": "hollowmarket-986a24",
       "locationSet": {"include": ["001"]},

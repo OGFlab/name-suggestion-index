@@ -1,0 +1,52 @@
+{
+  "properties": {
+    "path": "brands/amenity/bureau_de_change",
+    "exclude": {"generic": [], "named": []}
+  },
+  "items": [
+    {
+      "displayName": "Broke Guys",
+      "id": "brokeguys-68a7b7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Broke Guys",
+        "name": "Broke Guys",
+        "opening_hours": "10:00-21:00"
+      }
+    },
+    {
+      "displayName": "Confidence Exchange",
+      "id": "confidenceexchange-68a7b7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Confidence Exchange",
+        "name": "Confidence Exchange",
+        "opening_hours": "07:00-21:00"
+      }
+    },
+    {
+      "displayName": "Legal Pickpockets",
+      "id": "legalpickpockets-68a7b7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Legal Pickpockets",
+        "name": "Legal Pickpockets",
+        "opening_hours": "08:00-20:00"
+      }
+    },
+    {
+      "displayName": "Papis' Money",
+      "id": "papismoneye-68a7b7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bureau_de_change",
+        "brand": "Papis' Money",
+        "name": "Papis' Moneye",
+        "opening_hours": "08:00-20:00"
+      }
+    }
+  ]
+}

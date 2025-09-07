@@ -134,6 +134,18 @@
         "name": "World Pasta",
         "takeaway": "no"
       }
+    },
+    {
+      "displayName": "Young Hungry",
+      "id": "younghungry-658eea",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Young Hungry",
+        "cuisine": "american",
+        "name": "Young Hungry",
+        "takeaway": "yes"
+      }
     }
   ]
 }

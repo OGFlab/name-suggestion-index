@@ -5,6 +5,17 @@
   },
   "items": [
     {
+      "displayName": "Labs Pharmacy",
+      "id": "labspharmacy-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Labs Pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Labs Pharmacy"
+      }
+    },
+    {
       "countryRestrictions": {
         "no": [],
         "ask": [],
