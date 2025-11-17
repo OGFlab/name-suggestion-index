@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20250907",
-    "generated": "2025-09-07T11:25:45.804Z",
+    "version": "1.0.20251117",
+    "generated": "2025-11-17T04:18:19.266Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/wikidata.json",
-    "hash": "0f8d8b35a30bcbedaf1cea062a3396d1"
+    "hash": "1e02ea1d0de94ea0ddfe6029a0dd3d31"
   },
   "wikidata": {
     "Q51401": {

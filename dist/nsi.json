@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "1.0.20250907",
-    "generated": "2025-09-07T11:25:45.838Z",
+    "version": "1.0.20251117",
+    "generated": "2025-11-17T04:18:19.304Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/nsi.json",
-    "hash": "bef4ac6820abf94ac081c3f7b733c04e"
+    "hash": "a74072a07025f870f4f8038a63943bd4"
   },
   "nsi": {
     "brands/amenity/bank": {
@@ -70,6 +70,7 @@
         {"displayName": "The Corner Coffee", "id": "thecornercoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "The Corner Coffee", "cuisine": "coffee_shop", "name": "The Corner Coffee", "opening_hours": "06:00-23:00", "takeaway": "yes"}},
         {"displayName": "Universe Coffee", "id": "universecoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "Universe Coffee", "cuisine": "coffee_shop", "name": "Universe Coffee", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
         {"displayName": "Wolves Coffee", "id": "wolvescoffee-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "UWolves Coffee", "cuisine": "coffee_shop", "name": "Wolves Coffee", "opening_hours": "10:00-15:00;16:00-23:30", "takeaway": "yes"}},
+        {"displayName": "哈基米南北绿豆浆", "id": "ce5bf7-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "哈基米南北绿豆浆", "cuisine": "bubble_tea", "name": "哈基米南北绿豆浆", "takeaway": "yes"}},
         {"displayName": "这↑里↓奶茶", "id": "963d94-e1ef51", "locationSet": {"include": ["001"]}, "tags": {"amenity": "cafe", "brand": "这↑里↓奶茶", "cuisine": "bubble_tea", "name": "这↑里↓奶茶", "takeaway": "yes"}}
       ],
       "templates": []

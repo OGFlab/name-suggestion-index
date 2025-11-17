@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20250907">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Name Suggestion Index" shortdescription="Name Suggestion Index" description="Canonical common brand names for OpenGeofiction" link="https://github.com/[object Object]" version="1.0.20251117">
   <group name="Name Suggestion Index">
     <group name="brands">
       <group name="amenity">
@@ -286,6 +286,13 @@
             <key key="cuisine" value="coffee_shop"/>
             <key key="name" value="Wolves Coffee"/>
             <key key="opening_hours" value="10:00-15:00;16:00-23:30"/>
+            <key key="takeaway" value="yes"/>
+          </item>
+          <item name="哈基米南北绿豆浆" type="node,closedway,multipolygon">
+            <key key="amenity" value="cafe"/>
+            <key key="brand" value="哈基米南北绿豆浆"/>
+            <key key="cuisine" value="bubble_tea"/>
+            <key key="name" value="哈基米南北绿豆浆"/>
             <key key="takeaway" value="yes"/>
           </item>
           <item name="这↑里↓奶茶" type="node,closedway,multipolygon">
